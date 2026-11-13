@@ -1,0 +1,579 @@
+{
+  "batch": "b08",
+  "persons": [
+    {
+      "id": "nebukadnezar", "name": "Nebukadnezar", "altNames": ["Nebukadrezar", "Nebukadnezar II."], "sex": "m", "tags": ["herrscher"],
+      "role": "König von Babylon", "eras": ["exil", "geteilt"], "dates": [{ "label": "Regierung", "value": "624–582 v. u. Z. (43 Jahre)" }], "year": -624,
+      "nameMeaning": "„O Nebo, schütze den Erbsohn!“ (akkadisch)",
+      "summary": "Nebukadnezar II., Sohn Nabupolassars, herrschte 43 Jahre über das Neubabylonische Reich. Schon als Kronprinz besiegte er 625 v. u. Z. die Ägypter bei Karkemisch. Jehova gebrauchte ihn, um das Gericht an Juda zu vollstrecken: 607 v. u. Z. zerstörte er Jerusalem und den Tempel. Daniel deutete ihm Träume über künftige Weltreiche, und während seiner Regierung durchlebte er „sieben Zeiten“, in denen er wie ein Tier lebte.",
+      "facts": [
+        { "text": "Er siegte 625 v. u. Z. bei Karkemisch über Ägypten.", "ref": "Jeremia 46:2" },
+        { "text": "617 v. u. Z. führte er Jojachin und viele Judäer nach Babylon.", "ref": "2. Könige 24:10-16" },
+        { "text": "607 v. u. Z. zerstörte er Jerusalem.", "ref": "2. Könige 25:8-10" },
+        { "text": "Er träumte von einem riesigen Standbild.", "ref": "Daniel 2:31-45" },
+        { "text": "Sieben Zeiten lang aß er Pflanzen wie ein Stier.", "ref": "Daniel 4:31-33" }
+      ],
+      "lesson": "",
+      "family": { "father": "Nabupolassar", "mother": "", "spouses": [], "children": ["Ewil-Merodach"], "siblings": [] },
+      "related": ["daniel", "zedekia", "jojachin"],
+      "events": ["wegfuehrung-jojachins", "zerstoerung-jerusalems-607", "daniel-in-babylon", "traum-vom-standbild", "feuerofen", "nebukadnezars-wahnsinn"], "books": [],
+      "refs": ["2. Könige 24:1-16", "Daniel 2:1-49", "Daniel 4:1-37"],
+      "sources": [{ "title": "Nebukadnezar – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003200" }]
+    },
+    {
+      "id": "daniel", "name": "Daniel", "altNames": ["Beltschazzar"], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet in Babylon", "eras": ["exil"], "dates": [{ "label": "Zeit", "value": "617 nach Babylon gebracht; bis mindestens 536 v. u. Z. tätig" }], "year": -620,
+      "nameMeaning": "„Mein Richter ist Gott“",
+      "summary": "Daniel, ein bedeutender Prophet aus dem Stamm Juda, wurde 617 v. u. Z. als junger Mann nach Babylon gebracht und erhielt den Namen Beltschazzar. Er weigerte sich, sich mit den Speisen des Königs zu verunreinigen, und Jehova gab ihm Einsicht in Visionen und Träume. Er blieb bis zum Fall Babylons am Hof, diente danach unter den Persern und wurde aus der Löwengrube gerettet. Er schrieb das gleichnamige Bibelbuch.",
+      "facts": [
+        { "text": "Er bat darum, nur Gemüse und Wasser zu bekommen.", "ref": "Daniel 1:8-16" },
+        { "text": "Er war zehnmal besser als alle Weisen Babylons.", "ref": "Daniel 1:20" },
+        { "text": "Er deutete Nebukadnezars Traum vom Standbild.", "ref": "Daniel 2:24-45" },
+        { "text": "Er deutete die Schrift an der Wand.", "ref": "Daniel 5:25-28" },
+        { "text": "Jehovas Engel rettete ihn aus der Löwengrube.", "ref": "Daniel 6:22" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["hananja", "mischael", "asarja", "nebukadnezar", "belsazar", "darius-der-meder", "cyrus"],
+      "events": ["daniel-in-babylon", "traum-vom-standbild", "fall-babylons", "loewengrube"], "books": ["Daniel"],
+      "refs": ["Daniel 1:1-21", "Daniel 6:1-28", "Daniel 9:1-27"],
+      "sources": [{ "title": "Daniel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001117" }]
+    },
+    {
+      "id": "hananja", "name": "Hananja", "altNames": ["Schadrach"], "sex": "m", "tags": [],
+      "role": "Gefährte Daniels (Schadrach)", "eras": ["exil"], "dates": [{ "label": "Zeit", "value": "617 v. u. Z. nach Babylon gebracht" }], "year": -619,
+      "nameMeaning": "„Jehova hat Gunst erwiesen“",
+      "summary": "Hananja war einer der drei jüdischen Gefährten Daniels, die 617 v. u. Z. nach Babylon gebracht wurden; dort erhielt er den Namen Schadrach. Mit Mischael und Asarja weigerte er sich, vor Nebukadnezars goldenem Standbild niederzufallen, und wurde in den Feuerofen geworfen – doch Gott rettete sie.",
+      "facts": [
+        { "text": "Er erhielt den babylonischen Namen Schadrach.", "ref": "Daniel 1:6, 7" },
+        { "text": "Er wurde zum Verwalter in Babylon befördert.", "ref": "Daniel 2:49" },
+        { "text": "Er betete das goldene Bild nicht an.", "ref": "Daniel 3:16-18" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["daniel", "mischael", "asarja"], "events": ["daniel-in-babylon", "feuerofen"], "books": [],
+      "refs": ["Daniel 1:6-20", "Daniel 3:12-30"],
+      "sources": [
+        { "title": "Hananja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001853" },
+        { "title": "Schadrach – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003927" }
+      ]
+    },
+    {
+      "id": "mischael", "name": "Mischael", "altNames": ["Meschach"], "sex": "m", "tags": [],
+      "role": "Gefährte Daniels (Meschach)", "eras": ["exil"], "dates": [{ "label": "Zeit", "value": "617 v. u. Z. nach Babylon gebracht" }], "year": -619,
+      "nameMeaning": "„Wer ist wie Gott?“ (vielleicht)",
+      "summary": "Mischael war einer der drei judäischen Gefährten Daniels; der oberste Hofbeamte Babylons gab ihm den Namen Meschach. Zusammen mit Hananja und Asarja hielt er an der reinen Anbetung fest und überlebte den Feuerofen.",
+      "facts": [
+        { "text": "Er erhielt den Namen Meschach.", "ref": "Daniel 1:6, 7" },
+        { "text": "Er bat mit Daniel Gott um Offenbarung des Traums.", "ref": "Daniel 2:17, 18" },
+        { "text": "Er wurde mit seinen Gefährten aus dem Feuerofen gerettet.", "ref": "Daniel 3:26, 27" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["daniel", "hananja", "asarja"], "events": ["daniel-in-babylon", "feuerofen"], "books": [],
+      "refs": ["Daniel 1:6-20", "Daniel 3:12-30"],
+      "sources": [
+        { "title": "Mischael – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003078" },
+        { "title": "Meschach – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003007" }
+      ]
+    },
+    {
+      "id": "asarja", "name": "Asarja", "altNames": ["Abednego"], "sex": "m", "tags": [],
+      "role": "Gefährte Daniels (Abednego)", "eras": ["exil"], "dates": [{ "label": "Zeit", "value": "617 v. u. Z. nach Babylon gebracht" }], "year": -619,
+      "nameMeaning": "„Geholfen hat Jehova“",
+      "summary": "Asarja war einer der hebräischen jungen Männer, die 617 v. u. Z. gefangen genommen wurden. Sein Name wurde in Abednego geändert, was wahrscheinlich „Diener des Nebo“ bedeutet. Nach einer dreijährigen Ausbildung war er mit seinen Gefährten den Weisen Babylons weit überlegen. Die schwerste Prüfung seiner Loyalität bestand er im übermäßig geheizten Feuerofen.",
+      "facts": [
+        { "text": "Sein Name wurde auf Abednego abgeändert.", "ref": "Daniel 1:7" },
+        { "text": "Er erhielt das Amt eines Verwalters.", "ref": "Daniel 2:49" },
+        { "text": "Er wurde in den Feuerofen geworfen und gerettet.", "ref": "Daniel 3:19-27" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["daniel", "hananja", "mischael"], "events": ["daniel-in-babylon", "feuerofen"], "books": [],
+      "refs": ["Daniel 1:6-20", "Daniel 3:12-30"],
+      "sources": [{ "title": "Asarja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000486" }]
+    },
+    {
+      "id": "hesekiel", "name": "Hesekiel", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet unter den Weggeführten", "eras": ["exil"], "dates": [{ "label": "Wirken", "value": "ab 613 v. u. Z." }], "year": -613, "nameMeaning": "„Gott stärkt“",
+      "summary": "Hesekiel, der Sohn des Priesters Busi, wurde 617 v. u. Z. mit König Jojachin nach Babylon weggeführt. Im fünften Jahr dieses Exils (613 v. u. Z.), offenbar mit 30 Jahren, erhielt er am Strom Kebar seine erste Vision. Er prophezeite unter den Juden in Babylonien, zur gleichen Zeit, als Jeremia in Jerusalem und Daniel am Hof wirkten. Er schrieb das gleichnamige Bibelbuch.",
+      "facts": [
+        { "text": "Er stammte aus einer Priesterfamilie.", "ref": "Hesekiel 1:3" },
+        { "text": "Er sah eine Vision von Jehovas himmlischem Wagen.", "ref": "Hesekiel 1:4-28" },
+        { "text": "Jehova machte ihn zum Wächter für das Haus Israel.", "ref": "Hesekiel 3:17" },
+        { "text": "Er sah eine Vision von einem künftigen Tempel.", "ref": "Hesekiel 40:1-4" }
+      ],
+      "lesson": "",
+      "family": { "father": "Busi", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jeremia", "daniel", "jojachin"], "events": ["hesekiel-wird-prophet", "wegfuehrung-jojachins"], "books": ["Hesekiel"],
+      "refs": ["Hesekiel 1:1-3", "Hesekiel 3:16-21", "Hesekiel 37:1-14"],
+      "sources": [{ "title": "Hesekiel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001469" }]
+    },
+    {
+      "id": "belsazar", "name": "Belsazar", "altNames": [], "sex": "m", "tags": ["herrscher"],
+      "role": "Mitregent in Babylon", "eras": ["exil"], "dates": [{ "label": "Gestorben", "value": "539 v. u. Z." }], "year": -545,
+      "nameMeaning": "„Schütze sein Leben“ (akkadisch)",
+      "summary": "Belsazar, der erstgeborene Sohn Nabonids, war in den letzten Jahren des Babylonischen Reiches Mitregent und wird in der Bibel „König von Babylon“ genannt. Archäologische Funde haben das bestätigt. In der Nacht des Falls Babylons 539 v. u. Z. hielt er ein großes Fest und trank aus den Gefäßen des Tempels Jehovas; noch in derselben Nacht wurde er getötet.",
+      "facts": [
+        { "text": "Er veranstaltete ein Festmahl für 1000 seiner Großen.", "ref": "Daniel 5:1" },
+        { "text": "Er ließ aus den Gefäßen des Tempels trinken.", "ref": "Daniel 5:2-4" },
+        { "text": "Eine Hand schrieb an die Wand.", "ref": "Daniel 5:5" },
+        { "text": "In derselben Nacht wurde er getötet.", "ref": "Daniel 5:30" }
+      ],
+      "lesson": "",
+      "family": { "father": "Nabonid", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["daniel"], "events": ["fall-babylons"], "books": [],
+      "refs": ["Daniel 5:1-31"],
+      "sources": [{ "title": "Belsazar – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000628" }]
+    },
+    {
+      "id": "darius-der-meder", "name": "Darius der Meder", "altNames": ["Darius"], "sex": "m", "tags": ["herrscher"],
+      "role": "König der Chaldäer nach dem Fall Babylons", "eras": ["exil"], "dates": [{ "label": "Zeit", "value": "ab 539 v. u. Z." }], "year": -539, "nameMeaning": "",
+      "summary": "Darius der Meder wurde nach der Eroberung Babylons durch das Heer des Persers Cyrus König der Chaldäer – damals etwa 62 Jahre alt. Er ordnete die Verwaltung mit 120 Satrapen und drei hohen Beamten, zu denen auch Daniel gehörte. Neider brachten ihn dazu, ein Gesetz zu erlassen, durch das Daniel in die Löwengrube kam; nach Daniels Rettung ließ er die Verschwörer bestrafen.",
+      "facts": [
+        { "text": "Er empfing das Königreich mit etwa 62 Jahren.", "ref": "Daniel 5:31" },
+        { "text": "Er setzte 120 Satrapen und drei hohe Beamte ein.", "ref": "Daniel 6:1, 2" },
+        { "text": "Er hoffte, dass Daniels Gott ihn retten würde.", "ref": "Daniel 6:16" },
+        { "text": "Er gebot Ehrfurcht vor dem Gott Daniels.", "ref": "Daniel 6:26" }
+      ],
+      "lesson": "",
+      "family": { "father": "Ahasverus", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["daniel", "cyrus"], "events": ["loewengrube"], "books": [],
+      "refs": ["Daniel 5:31", "Daniel 6:1-28", "Daniel 9:1"],
+      "sources": [{ "title": "Darius – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001124" }]
+    },
+    {
+      "id": "cyrus", "name": "Cyrus", "altNames": ["Kyros", "Cyrus der Große"], "sex": "m", "tags": ["herrscher"],
+      "role": "König von Persien, Eroberer Babylons", "eras": ["exil", "rueckkehr"], "dates": [{ "label": "Zeit", "value": "eroberte Babylon 539 v. u. Z." }], "year": -539, "nameMeaning": "",
+      "summary": "Cyrus der Große begründete das Persische Reich und eroberte 539 v. u. Z. Babylon. Jesaja hatte ihn rund 200 Jahre vorher mit Namen als den angekündigt, der Jerusalem wieder aufbauen lassen würde. In seinem ersten Jahr erließ er die Verordnung, die den Juden die Rückkehr und den Wiederaufbau des Tempels erlaubte.",
+      "facts": [
+        { "text": "Jesaja nannte ihn mit Namen.", "ref": "Jesaja 44:28" },
+        { "text": "Er zog am 3. Marchäschwan 539 v. u. Z. in Babylon ein.", "ref": "" },
+        { "text": "Er gestattete den Juden die Rückkehr und den Tempelbau.", "ref": "Esra 1:1-4" },
+        { "text": "Er gab die Tempelgeräte zurück.", "ref": "Esra 1:7, 8" }
+      ],
+      "lesson": "",
+      "family": { "father": "Kambyses", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["daniel", "darius-der-meder", "serubbabel"], "events": ["fall-babylons", "erlass-des-cyrus"], "books": [],
+      "refs": ["Jesaja 44:28–45:3", "Esra 1:1-11", "2. Chronika 36:22, 23"],
+      "sources": [{ "title": "Cyrus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001102" }]
+    },
+    {
+      "id": "serubbabel", "name": "Serubbabel", "altNames": ["Scheschbazzar"], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Statthalter nach dem Exil", "eras": ["rueckkehr"], "dates": [{ "label": "Zeit", "value": "Rückkehr 537 v. u. Z." }], "year": -537,
+      "nameMeaning": "„Same (Nachkomme) von Babel“ (akkadisch)",
+      "summary": "Serubbabel, ein Nachkomme König Davids und Vorfahr Jesu, führte 537 v. u. Z. den jüdischen Überrest aus Babylon zurück und wurde der erste Statthalter. Mit dem Hohen Priester Jeschua begann er 536 v. u. Z. den Bau des Tempels. Als der Bau ins Stocken geriet, ermutigten ihn Haggai und Sacharja, und 515 v. u. Z. wurde der Tempel vollendet.",
+      "facts": [
+        { "text": "Er führte die erste Gruppe aus dem Exil zurück.", "ref": "Esra 2:1, 2" },
+        { "text": "Mit Jeschua legte er das Fundament des Tempels.", "ref": "Esra 3:8-10" },
+        { "text": "Haggai und Sacharja ermutigten ihn.", "ref": "Haggai 2:4" },
+        { "text": "Er steht im Geschlechtsregister Jesu.", "ref": "Matthäus 1:12, 13" }
+      ],
+      "lesson": "",
+      "family": { "father": "Schealtiel", "mother": "", "spouses": [], "children": ["Meschullam", "Hananja", "Schelomith"], "siblings": [] },
+      "related": ["jeschua", "haggai", "sacharja"], "events": ["rueckkehr-nach-jerusalem", "tempelfundament", "tempel-vollendet"], "books": [],
+      "refs": ["Esra 2:1, 2", "Esra 3:8-13", "Haggai 2:20-23", "Sacharja 4:6-10"],
+      "sources": [{ "title": "Serubbabel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004716" }]
+    },
+    {
+      "id": "jeschua", "name": "Jeschua", "altNames": ["Josua"], "sex": "m", "tags": ["priester"],
+      "role": "Hoher Priester nach dem Exil", "eras": ["rueckkehr"], "dates": [{ "label": "Zeit", "value": "Rückkehr 537 v. u. Z." }], "year": -537,
+      "nameMeaning": "Kurzform von Josua: „Jehova ist Rettung“ (vielleicht)",
+      "summary": "Jeschua, in den Büchern Haggai und Sacharja Josua genannt, war der Sohn Jozadaks und ein Nachkomme Eleasars. Sein Vater war von Nebukadnezar nach Babylon weggeführt worden. 537 v. u. Z. kehrte Jeschua mit Serubbabel zurück und diente als Hoher Priester für den wiederhergestellten Überrest. So bewahrte Jehova die Linie der Hohen Priester.",
+      "facts": [
+        { "text": "Er kehrte mit Serubbabel zurück.", "ref": "Esra 2:2" },
+        { "text": "Er baute mit anderen den Altar wieder auf.", "ref": "Esra 3:2" },
+        { "text": "In einer Vision Sacharjas wurde er von Satan angeklagt.", "ref": "Sacharja 3:1-5" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jozadak", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["serubbabel", "sacharja", "haggai"], "events": ["rueckkehr-nach-jerusalem", "tempelfundament", "tempel-vollendet"], "books": [],
+      "refs": ["Esra 3:2, 8", "Haggai 1:1, 12", "Sacharja 3:1-10"],
+      "sources": [{ "title": "Jeschua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002446" }]
+    },
+    {
+      "id": "haggai", "name": "Haggai", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet nach dem Exil", "eras": ["rueckkehr"], "dates": [{ "label": "Wirken", "value": "520 v. u. Z." }], "year": -520, "nameMeaning": "„(An einem) Fest (geboren)“",
+      "summary": "Haggai war ein hebräischer Prophet, der während der Statthalterschaft Serubbabels in Juda wirkte. Im zweiten Jahr des Perserkönigs Darius Hystaspis (520 v. u. Z.) übermittelte er innerhalb von etwa vier Monaten vier Botschaften Jehovas, die das Volk anspornten, den liegengebliebenen Tempelbau wieder aufzunehmen. Er schrieb das gleichnamige Bibelbuch.",
+      "facts": [
+        { "text": "Er tadelte das Volk, weil es in getäfelten Häusern wohnte, während der Tempel verwüstet lag.", "ref": "Haggai 1:3, 4" },
+        { "text": "Er sagte: „Achtet auf eure Wege.“", "ref": "Haggai 1:5-7" },
+        { "text": "Jehova kündigte an, alle Nationen zu erschüttern.", "ref": "Haggai 2:6, 7" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["sacharja", "serubbabel", "jeschua"], "events": ["tempel-vollendet"], "books": ["Haggai"],
+      "refs": ["Haggai 1:1-15", "Haggai 2:1-9", "Esra 5:1, 2"],
+      "sources": [{ "title": "Haggai – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001812" }]
+    },
+    {
+      "id": "sacharja", "name": "Sacharja", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet nach dem Exil", "eras": ["rueckkehr"], "dates": [{ "label": "Wirken", "value": "ab 520 v. u. Z." }], "year": -520, "nameMeaning": "„Erinnert hat sich Jehova“",
+      "summary": "Sacharja, der Sohn Berechjas und Enkel Iddos, wurde wahrscheinlich in Babylon geboren. Nur 17 Jahre nach der Rückkehr aus dem Exil begann er als noch junger Mann zu prophezeien. Zusammen mit Haggai ermutigte er Serubbabel, den Hohen Priester Jeschua und das Volk, den Tempel fertigzubauen. Sein Buch enthält zahlreiche Visionen und Prophezeiungen über den Messias.",
+      "facts": [
+        { "text": "Er nennt sich „Sohn Berechjas, des Sohnes Iddos“.", "ref": "Sacharja 1:1" },
+        { "text": "Er wird als „junger Mann“ bezeichnet.", "ref": "Sacharja 2:4" },
+        { "text": "„Nicht durch eine Streitmacht … sondern durch meinen Geist.“", "ref": "Sacharja 4:6" },
+        { "text": "Er sagte voraus, dass der König auf einem Esel kommen würde.", "ref": "Sacharja 9:9" }
+      ],
+      "lesson": "",
+      "family": { "father": "Berechja", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["haggai", "serubbabel", "jeschua"], "events": ["tempel-vollendet"], "books": ["Sacharja"],
+      "refs": ["Sacharja 1:1", "Sacharja 4:6-10", "Sacharja 9:9", "Esra 6:14"],
+      "sources": [{ "title": "Sacharja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004681" }]
+    },
+    {
+      "id": "esra", "name": "Esra", "altNames": [], "sex": "m", "tags": ["priester", "schreiber"],
+      "role": "Priester und kundiger Abschreiber", "eras": ["rueckkehr"], "dates": [{ "label": "Zeit", "value": "kam 468 v. u. Z. nach Jerusalem" }], "year": -468, "nameMeaning": "„Hilfe“",
+      "summary": "Esra war ein aaronitischer Priester, ein Gelehrter, kundiger Abschreiber und Lehrer des Gesetzes. Er hatte „sein Herz bereitgemacht, das Gesetz Jehovas zu befragen und danach zu tun und zu lehren“. 468 v. u. Z. führte er mit Erlaubnis des Artaxerxes eine Gruppe nach Jerusalem. Er schrieb das gleichnamige Buch und sehr wahrscheinlich auch die beiden Bücher Chronika.",
+      "facts": [
+        { "text": "Er stammte von Eleasar und Pinehas ab.", "ref": "Esra 7:1-5" },
+        { "text": "Er hatte sein Herz bereitgemacht, das Gesetz zu lehren.", "ref": "Esra 7:10" },
+        { "text": "Er verzichtete auf eine Eskorte und vertraute auf Jehova.", "ref": "Esra 8:21-23" },
+        { "text": "Er las dem Volk aus dem Gesetz vor.", "ref": "Nehemia 8:1-8" }
+      ],
+      "lesson": "",
+      "family": { "father": "Seraja", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["artaxerxes", "nehemia"], "events": ["esra-kommt-nach-jerusalem"], "books": ["Esra", "1. Chronika", "2. Chronika"],
+      "refs": ["Esra 7:1-28", "Esra 8:21-32", "Nehemia 8:1-12"],
+      "sources": [{ "title": "Esra – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001475" }]
+    },
+    {
+      "id": "nehemia", "name": "Nehemia", "altNames": [], "sex": "m", "tags": ["schreiber"],
+      "role": "Statthalter, Wiedererbauer der Mauer", "eras": ["rueckkehr"], "dates": [{ "label": "Zeit", "value": "455 v. u. Z. nach Jerusalem; nach 443 v. u. Z. erneut" }], "year": -455,
+      "nameMeaning": "„Jah tröstet“",
+      "summary": "Nehemia, der Sohn Hachaljas, war Mundschenk des Perserkönigs Artaxerxes. Als er hörte, dass die Mauer Jerusalems noch immer niedergerissen war, weinte, fastete und betete er. Im 20. Jahr des Artaxerxes (455 v. u. Z.) erhielt er die Erlaubnis, die Stadt wieder aufzubauen. Trotz Widerstand wurde die Mauer in nur 52 Tagen vollendet. Er diente als Statthalter und schrieb das gleichnamige Bibelbuch.",
+      "facts": [
+        { "text": "Er betete, bevor er dem König antwortete.", "ref": "Nehemia 2:4, 5" },
+        { "text": "Die Mauer wurde in 52 Tagen fertig.", "ref": "Nehemia 6:15" },
+        { "text": "Er verzichtete auf das Brot des Statthalters.", "ref": "Nehemia 5:14-18" },
+        { "text": "Nach dem 32. Jahr des Artaxerxes kam er zurück und schaffte Missstände ab.", "ref": "Nehemia 13:6-31" }
+      ],
+      "lesson": "",
+      "family": { "father": "Hachalja", "mother": "", "spouses": [], "children": [], "siblings": ["Hanani"] },
+      "related": ["artaxerxes", "esra"], "events": ["nehemia-baut-die-mauer", "abschluss-hebraeische-schriften"], "books": ["Nehemia"],
+      "refs": ["Nehemia 1:1-11", "Nehemia 2:1-20", "Nehemia 6:15, 16"],
+      "sources": [{ "title": "Nehemia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003212" }]
+    },
+    {
+      "id": "esther", "name": "Esther", "altNames": ["Hadassa"], "sex": "f", "tags": [],
+      "role": "Königin von Persien", "eras": ["rueckkehr"], "dates": [{ "label": "Zeit", "value": "5. Jahrhundert v. u. Z., unter Ahasverus (Xerxes I.)" }], "year": -489,
+      "nameMeaning": "Hadassa: „Myrte“",
+      "summary": "Esther, mit hebräischem Namen Hadassa, war ein jüdisches Waisenmädchen aus dem Stamm Benjamin, das von seinem Cousin Mordechai aufgezogen wurde. Im 7. Jahr des Perserkönigs Ahasverus wurde sie Königin anstelle Waschtis. Als Haman die Ausrottung aller Juden plante, setzte sie ihr Leben aufs Spiel, ging ungerufen zum König und deckte den Plan auf. So rettete sie ihr Volk.",
+      "facts": [
+        { "text": "Mordechai nahm sie als Tochter an.", "ref": "Esther 2:7" },
+        { "text": "Sie wurde im 7. Jahr des Ahasverus Königin.", "ref": "Esther 2:16, 17" },
+        { "text": "„Wenn ich umkommen muss, so komme ich um.“", "ref": "Esther 4:16" },
+        { "text": "Sie deckte Hamans Plan vor dem König auf.", "ref": "Esther 7:3-6" }
+      ],
+      "lesson": "",
+      "family": { "father": "Abihajil", "mother": "", "spouses": ["ahasverus"], "children": [], "siblings": [] },
+      "related": ["mordechai", "haman"], "events": ["esther-wird-koenigin", "esther-rettet-ihr-volk"], "books": [],
+      "refs": ["Esther 2:5-18", "Esther 4:13-17", "Esther 7:1-10"],
+      "sources": [
+        { "title": "Esther – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001430" },
+        { "title": "Ahasverus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000142" }
+      ]
+    },
+    {
+      "id": "mordechai", "name": "Mordechai", "altNames": [], "sex": "m", "tags": ["schreiber"],
+      "role": "Cousin Esthers, später Erster Minister", "eras": ["rueckkehr"], "dates": [{ "label": "Zeit", "value": "Anfang des 5. Jahrhunderts v. u. Z." }], "year": -495, "nameMeaning": "",
+      "summary": "Mordechai, ein Benjaminiter, war Esthers älterer Cousin und Vormund und diente im Palast von Susa. Er deckte eine Verschwörung gegen den König auf und weigerte sich, sich vor Haman niederzubeugen. Als Haman die Juden ausrotten wollte, bewegte er Esther, beim König einzuschreiten. Danach wurde er Erster Minister. Vieles deutet darauf hin, dass er das Buch Esther schrieb.",
+      "facts": [
+        { "text": "Er zog Esther auf.", "ref": "Esther 2:7" },
+        { "text": "Er deckte eine Verschwörung gegen den König auf.", "ref": "Esther 2:21-23" },
+        { "text": "Er beugte sich nicht vor Haman nieder.", "ref": "Esther 3:2" },
+        { "text": "„Wer weiß, ob du nicht für eine Zeit wie diese Königin geworden bist?“", "ref": "Esther 4:14" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jair", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["esther", "haman", "ahasverus"], "events": ["esther-wird-koenigin", "esther-rettet-ihr-volk"], "books": ["Esther"],
+      "refs": ["Esther 2:5-7", "Esther 4:12-14", "Esther 10:3"],
+      "sources": [{ "title": "Mordechai – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003111" }]
+    },
+    {
+      "id": "haman", "name": "Haman", "altNames": [], "sex": "m", "tags": ["herrscher"],
+      "role": "Erster Minister, Feind der Juden", "eras": ["rueckkehr"], "dates": [], "year": -484, "nameMeaning": "",
+      "summary": "Haman, der Sohn Hammedathas, der Agagiter – möglicherweise ein Amalekiter königlicher Abstammung –, war der erste Minister des Perserkönigs Ahasverus. Weil Mordechai sich nicht vor ihm niederbeugte, plante er, alle Juden im Reich auszurotten, und erwirkte dafür einen Erlass. Doch Esther deckte seinen Plan auf, und Haman wurde an dem Pfahl gehängt, den er für Mordechai errichtet hatte.",
+      "facts": [
+        { "text": "Der König erhob ihn über alle Fürsten.", "ref": "Esther 3:1" },
+        { "text": "Er warf das Los (Pur), um einen Tag für die Vernichtung festzulegen.", "ref": "Esther 3:7" },
+        { "text": "Er ließ einen Pfahl für Mordechai errichten.", "ref": "Esther 5:14" },
+        { "text": "Er wurde selbst daran gehängt.", "ref": "Esther 7:10" }
+      ],
+      "lesson": "",
+      "family": { "father": "Hammedatha", "mother": "", "spouses": ["Seresch"], "children": [], "siblings": [] },
+      "related": ["esther", "mordechai", "ahasverus"], "events": ["esther-rettet-ihr-volk"], "books": [],
+      "refs": ["Esther 3:1-15", "Esther 7:1-10"],
+      "sources": [{ "title": "Haman – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001833" }]
+    },
+    {
+      "id": "ahasverus", "name": "Ahasverus", "altNames": ["Xerxes I."], "sex": "m", "tags": ["herrscher"],
+      "role": "König von Persien (Buch Esther)", "eras": ["rueckkehr"], "dates": [{ "label": "Regierung", "value": "Thronbesteigung 496 v. u. Z.; 1. Regierungsjahr 495" }], "year": -496, "nameMeaning": "",
+      "summary": "Der Ahasverus des Buches Esther wird mit Xerxes I. gleichgesetzt, dem Sohn Darius’ des Großen. Er herrschte von Indien bis Äthiopien über 127 Gerichtsbezirke und residierte in Susa. In seinem 3. Jahr verstieß er Königin Waschti, im 7. Jahr machte er Esther zur Königin, und im 12. Jahr erlaubte er Haman, die Ausrottung der Juden zu befehlen – ein Plan, den Esther und Mordechai vereitelten.",
+      "facts": [
+        { "text": "Er regierte über 127 Gerichtsbezirke.", "ref": "Esther 1:1" },
+        { "text": "Er verstieß Waschti, weil sie nicht erschien.", "ref": "Esther 1:10-19" },
+        { "text": "Er erwählte Esther zur Königin.", "ref": "Esther 2:17" },
+        { "text": "Er ließ die Juden sich verteidigen.", "ref": "Esther 8:11" }
+      ],
+      "lesson": "",
+      "family": { "father": "Darius der Große", "mother": "", "spouses": ["esther", "Waschti"], "children": ["artaxerxes"], "siblings": [] },
+      "related": ["haman", "mordechai"], "events": ["esther-wird-koenigin", "esther-rettet-ihr-volk"], "books": [],
+      "refs": ["Esther 1:1-22", "Esther 2:16-18", "Esther 8:1-17"],
+      "sources": [{ "title": "Ahasverus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000142" }]
+    },
+    {
+      "id": "artaxerxes", "name": "Artaxerxes", "altNames": ["Artaxerxes Longimanus"], "sex": "m", "tags": ["herrscher"],
+      "role": "König von Persien (Esra, Nehemia)", "eras": ["rueckkehr"], "dates": [{ "label": "Regierung", "value": "Thronbesteigung 475 v. u. Z." }], "year": -475, "nameMeaning": "",
+      "summary": "Artaxerxes Longimanus, der Sohn Xerxes’ I., bestieg nach jw.org 475 v. u. Z. den Thron (nicht 465, wie viele Nachschlagewerke angeben). In seinem 7. Jahr erlaubte er dem Priester Esra, nach Jerusalem zu ziehen, und in seinem 20. Jahr (455 v. u. Z.) gab er Nehemia die Erlaubnis, Jerusalem wieder aufzubauen. Mit diesem Wort begannen die in Daniel 9 vorhergesagten 69 Jahrwochen bis zum Messias.",
+      "facts": [
+        { "text": "Er gab Esra einen Brief mit weitreichenden Vollmachten.", "ref": "Esra 7:11-26" },
+        { "text": "Er erlaubte Nehemia, Jerusalem wieder aufzubauen.", "ref": "Nehemia 2:1-8" },
+        { "text": "Das 20. Jahr des Artaxerxes war 455 v. u. Z.", "ref": "Daniel 9:25" }
+      ],
+      "lesson": "",
+      "family": { "father": "ahasverus", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["esra", "nehemia"], "events": ["esra-kommt-nach-jerusalem", "nehemia-baut-die-mauer"], "books": [],
+      "refs": ["Esra 7:1-28", "Nehemia 2:1-8"],
+      "sources": [
+        { "title": "Artaxerxes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000389" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "maleachi", "name": "Maleachi", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet, letzter Schreiber der Hebräischen Schriften", "eras": ["rueckkehr"], "dates": [{ "label": "Zeit", "value": "Buch nach 443 v. u. Z." }], "year": -443, "nameMeaning": "",
+      "summary": "Maleachi war ein hebräischer Prophet und Bibelschreiber. Über seine Vorfahren und sein Leben berichtet die Bibel nichts; sein Buch zeigt, dass er für den Namen und die Anbetung Jehovas eiferte. Er tadelte Priester und Volk, die Jehova minderwertige Opfer brachten und ihre Frauen treulos behandelten. Sein Buch entstand nach 443 v. u. Z.",
+      "facts": [
+        { "text": "Er tadelte die Priester für fehlerhafte Opfer.", "ref": "Maleachi 1:6-8" },
+        { "text": "Er verurteilte Treulosigkeit gegenüber der Ehefrau.", "ref": "Maleachi 2:14-16" },
+        { "text": "„Bringt den ganzen Zehnten in das Vorratshaus.“", "ref": "Maleachi 3:10" },
+        { "text": "Er kündigte die Sendung „Elias, des Propheten“, an.", "ref": "Maleachi 4:5, 6" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["nehemia"], "events": ["abschluss-hebraeische-schriften"], "books": ["Maleachi"],
+      "refs": ["Maleachi 1:1", "Maleachi 3:1, 10", "Maleachi 4:5, 6"],
+      "sources": [
+        { "title": "Maleachi – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002860" },
+        { "title": "Maleachi (Buch) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002861" }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "daniel-in-babylon", "title": "Daniel und seine Freunde in Babylon", "era": "exil", "year": -617, "dateLabel": "617 v. u. Z.", "place": "Babylon",
+      "summary": "Anfang 617 v. u. Z. führte Nebukadnezar König Jojachin und die Vornehmsten Judas nach Babylon – unter ihnen den jungen Daniel und seine Gefährten Hananja, Mischael und Asarja. Sie sollten für den Staatsdienst ausgebildet werden und erhielten babylonische Namen. Weil sie sich nicht mit den Speisen des Königs verunreinigen wollten, baten sie um Gemüse und Wasser. Nach drei Jahren waren sie zehnmal besser als alle Weisen des Reiches.",
+      "facts": [
+        { "text": "Sie erhielten babylonische Namen.", "ref": "Daniel 1:6, 7" },
+        { "text": "Daniel beschloss, sich nicht zu verunreinigen.", "ref": "Daniel 1:8" },
+        { "text": "Nach zehn Tagen sahen sie besser aus als die anderen.", "ref": "Daniel 1:15" },
+        { "text": "Jehova gab ihnen Erkenntnis und Einsicht.", "ref": "Daniel 1:17" }
+      ],
+      "significance": "", "persons": ["daniel", "hananja", "mischael", "asarja", "nebukadnezar"], "refs": ["Daniel 1:1-21", "2. Könige 24:15"],
+      "sources": [{ "title": "Daniel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001117" }]
+    },
+    {
+      "id": "hesekiel-wird-prophet", "title": "Hesekiel wird Prophet", "era": "exil", "year": -613, "dateLabel": "613 v. u. Z.", "place": "Am Strom Kebar (Babylonien)",
+      "summary": "Im fünften Jahr des Exils König Jojachins sah Hesekiel am Strom Kebar eine überwältigende Vision von Jehovas Herrlichkeit und seinem himmlischen Wagen. Er war damals offenbar 30 Jahre alt. Jehova machte ihn zum Wächter für das Haus Israel und sandte ihn zu den Weggeführten – zur selben Zeit, als Jeremia in Jerusalem prophezeite.",
+      "facts": [
+        { "text": "Die Vision kam im 30. Jahr, im 4. Monat.", "ref": "Hesekiel 1:1-3" },
+        { "text": "Er sah lebende Geschöpfe und Räder.", "ref": "Hesekiel 1:4-21" },
+        { "text": "Er sollte ein Wächter sein.", "ref": "Hesekiel 3:17-21" }
+      ],
+      "significance": "", "persons": ["hesekiel", "jojachin"], "refs": ["Hesekiel 1:1–3:27"],
+      "sources": [{ "title": "Hesekiel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001469" }]
+    },
+    {
+      "id": "traum-vom-standbild", "title": "Nebukadnezars Traum vom Standbild", "era": "exil", "year": -605, "dateLabel": "Im „2. Jahr“ Nebukadnezars (wahrscheinlich ab 607 v. u. Z. gerechnet)", "place": "Babylon",
+      "summary": "Nebukadnezar hatte einen beunruhigenden Traum, den keiner seiner Weisen nennen oder deuten konnte. Gott offenbarte Daniel den Traum: ein riesiges Standbild aus Gold, Silber, Kupfer, Eisen und Ton, das von einem Stein zermalmt wird. Daniel erklärte, dass die Metalle aufeinanderfolgende Weltmächte darstellen und der Stein Gottes Königreich ist, das alle diese Reiche beenden und für immer bestehen wird.",
+      "facts": [
+        { "text": "Keiner der Weisen konnte den Traum kundtun.", "ref": "Daniel 2:10, 11" },
+        { "text": "Daniel bat seine Gefährten um Gebet.", "ref": "Daniel 2:17, 18" },
+        { "text": "Das goldene Haupt stellte Nebukadnezar dar.", "ref": "Daniel 2:37, 38" },
+        { "text": "Gottes Königreich wird für immer bestehen.", "ref": "Daniel 2:44" }
+      ],
+      "significance": "Die Prophezeiung zeigt die Abfolge der Weltmächte bis zu Gottes Königreich.", "persons": ["nebukadnezar", "daniel"], "refs": ["Daniel 2:1-49"],
+      "sources": [
+        { "title": "Daniel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001117" },
+        { "title": "B9 Weltmächte der Prophezeiung Daniels – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070229" }
+      ]
+    },
+    {
+      "id": "feuerofen", "title": "Die drei Hebräer im Feuerofen", "era": "exil", "year": -600, "dateLabel": "Zeitpunkt unbekannt", "place": "Ebene Dura (Babylon)",
+      "summary": "Nebukadnezar ließ in der Ebene Dura ein riesiges goldenes Standbild aufstellen und befahl allen, sich davor niederzuwerfen. Hananja, Mischael und Asarja (Schadrach, Meschach und Abednego) weigerten sich. Der König ließ sie in den übermäßig geheizten Feuerofen werfen – doch er sah vier Männer frei im Feuer umhergehen. Die drei kamen unversehrt heraus; nicht einmal ihr Haar war versengt.",
+      "facts": [
+        { "text": "Sie sagten, sie würden dem Bild nicht dienen.", "ref": "Daniel 3:16-18" },
+        { "text": "Der Ofen wurde siebenmal stärker geheizt.", "ref": "Daniel 3:19" },
+        { "text": "Der König sah vier Männer im Feuer.", "ref": "Daniel 3:24, 25" },
+        { "text": "Das Feuer hatte keine Macht über sie.", "ref": "Daniel 3:27" }
+      ],
+      "significance": "", "persons": ["hananja", "mischael", "asarja", "nebukadnezar"], "refs": ["Daniel 3:1-30"],
+      "sources": [{ "title": "Asarja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000486" }]
+    },
+    {
+      "id": "nebukadnezars-wahnsinn", "title": "Nebukadnezars Wahnsinn", "era": "exil", "year": -590, "dateLabel": "Während seiner Regierung (624–582 v. u. Z.)", "place": "Babylon",
+      "summary": "Nebukadnezar träumte von einem gewaltigen Baum, der gefällt wurde. Daniel deutete den Traum: Der König sollte „sieben Zeiten“ lang wie ein Tier leben, bis er erkenne, dass der Höchste über das Königreich der Menschen herrscht. Als Nebukadnezar sich seiner Größe rühmte, erfüllte sich das; er aß Pflanzen wie ein Stier. Danach erhielt er seinen Verstand zurück und pries den König der Himmel.",
+      "facts": [
+        { "text": "Der Baum sollte gefällt werden, der Wurzelstock aber bleiben.", "ref": "Daniel 4:14, 15" },
+        { "text": "„Sieben Zeiten“ sollten über ihm vergehen.", "ref": "Daniel 4:16" },
+        { "text": "Er aß Pflanzen wie Stiere.", "ref": "Daniel 4:33" },
+        { "text": "Danach pries er den König der Himmel.", "ref": "Daniel 4:34-37" }
+      ],
+      "significance": "", "persons": ["nebukadnezar", "daniel"], "refs": ["Daniel 4:1-37"],
+      "sources": [{ "title": "Nebukadnezar – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003200" }]
+    },
+    {
+      "id": "fall-babylons", "title": "Die Schrift an der Wand – Babylon fällt", "era": "exil", "year": -539, "dateLabel": "Oktober 539 v. u. Z.", "place": "Babylon",
+      "summary": "Während Belsazar mit 1000 Großen feierte und aus den Gefäßen des Tempels Jehovas trank, schrieb eine Hand an die Wand. Daniel deutete die Worte: Gott hatte die Tage des Königreichs gezählt und es den Medern und Persern gegeben. In derselben Nacht eroberten die Truppen des Cyrus Babylon, und Belsazar wurde getötet. Darius der Meder empfing das Königreich.",
+      "facts": [
+        { "text": "Belsazar ließ aus den Tempelgefäßen trinken.", "ref": "Daniel 5:2-4" },
+        { "text": "„MENE, MENE, TEKEL und PARSIN.“", "ref": "Daniel 5:25-28" },
+        { "text": "Belsazar wurde in derselben Nacht getötet.", "ref": "Daniel 5:30" },
+        { "text": "Jesaja hatte Cyrus als Eroberer angekündigt.", "ref": "Jesaja 45:1" }
+      ],
+      "significance": "539 v. u. Z. ist ein Schlüsseldatum der biblischen Zeitrechnung.", "persons": ["belsazar", "daniel", "cyrus", "darius-der-meder"], "refs": ["Daniel 5:1-31", "Jesaja 45:1-3"],
+      "sources": [
+        { "title": "Belsazar – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000628" },
+        { "title": "Cyrus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001102" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "loewengrube", "title": "Daniel in der Löwengrube", "era": "exil", "year": -538, "dateLabel": "Unter Darius dem Meder (nach 539 v. u. Z.)", "place": "Babylon",
+      "summary": "Darius setzte Daniel als einen von drei hohen Beamten ein. Neidische Würdenträger brachten den König dazu, ein unabänderliches Gesetz zu erlassen: 30 Tage lang durfte man nur den König bitten. Daniel betete weiterhin dreimal täglich zu Jehova und wurde in die Löwengrube geworfen. Jehovas Engel verschloss den Löwen das Maul; Darius ließ Daniel herausholen und die Verschwörer bestrafen.",
+      "facts": [
+        { "text": "Daniel betete wie gewohnt dreimal am Tag.", "ref": "Daniel 6:10" },
+        { "text": "Der König konnte das Gesetz nicht ändern.", "ref": "Daniel 6:15" },
+        { "text": "Gott sandte seinen Engel.", "ref": "Daniel 6:22" },
+        { "text": "Darius befahl, den Gott Daniels zu fürchten.", "ref": "Daniel 6:26" }
+      ],
+      "significance": "", "persons": ["daniel", "darius-der-meder"], "refs": ["Daniel 6:1-28"],
+      "sources": [{ "title": "Daniel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001117" }]
+    },
+    {
+      "id": "erlass-des-cyrus", "title": "Der Erlass des Cyrus", "era": "exil", "year": -538, "dateLabel": "538/537 v. u. Z. (1. Jahr des Cyrus)", "place": "Babylon",
+      "summary": "In seinem ersten Jahr, vor dem Frühjahr 537 v. u. Z., erließ Cyrus eine Verordnung: Die Juden durften nach Jerusalem zurückkehren und das Haus Jehovas wieder aufbauen. Er gab ihnen die Gefäße des Tempels zurück, die Nebukadnezar mitgenommen hatte. So erfüllte sich Jeremias Prophezeiung über 70 Jahre.",
+      "facts": [
+        { "text": "Cyrus sagte, Jehova habe ihm aufgetragen, ihm ein Haus zu bauen.", "ref": "Esra 1:2" },
+        { "text": "Jeder Jude durfte hinaufziehen.", "ref": "Esra 1:3" },
+        { "text": "Die Tempelgeräte wurden zurückgegeben.", "ref": "Esra 1:7-11" },
+        { "text": "Jeremia hatte 70 Jahre angekündigt.", "ref": "Jeremia 29:10" }
+      ],
+      "significance": "", "persons": ["cyrus", "daniel"], "refs": ["Esra 1:1-11", "2. Chronika 36:22, 23"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Cyrus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001102" }
+      ]
+    },
+    {
+      "id": "rueckkehr-nach-jerusalem", "title": "Die Juden kehren nach Jerusalem zurück", "era": "rueckkehr", "year": -537, "dateLabel": "Herbst 537 v. u. Z.", "place": "Jerusalem",
+      "summary": "Unter Serubbabel und dem Hohen Priester Jeschua kehrte ein Überrest aus Babylon zurück. Bis zum siebten Monat (Tischri) waren die Israeliten wieder in ihren Städten; sie bauten den Altar wieder auf und brachten Opfer dar. Im Herbst 537 v. u. Z. war damit die Anbetung Jehovas in Jerusalem wiederhergestellt – genau 70 Jahre nach der Verwüstung des Landes.",
+      "facts": [
+        { "text": "Serubbabel und Jeschua führten die Gruppe an.", "ref": "Esra 2:1, 2" },
+        { "text": "Im siebten Monat versammelte sich das Volk in Jerusalem.", "ref": "Esra 3:1" },
+        { "text": "Sie bauten den Altar und opferten.", "ref": "Esra 3:2-6" }
+      ],
+      "significance": "Mit dem Herbst 537 v. u. Z. endeten die 70 Jahre der Verwüstung.", "persons": ["serubbabel", "jeschua"], "refs": ["Esra 2:1–3:7"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Serubbabel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004716" }
+      ]
+    },
+    {
+      "id": "tempelfundament", "title": "Das Fundament des Tempels wird gelegt", "era": "rueckkehr", "year": -536, "dateLabel": "536 v. u. Z.", "place": "Jerusalem",
+      "summary": "Im zweiten Monat des zweiten Jahres nach der Rückkehr (536 v. u. Z.) begannen Serubbabel, Jeschua und die Leviten mit dem eigentlichen Bau des Tempels. Als das Fundament gelegt war, jubelten viele, während ältere Männer, die den früheren Tempel gekannt hatten, laut weinten. Bald darauf behinderten Gegner das Werk, und der Bau kam zum Stillstand.",
+      "facts": [
+        { "text": "Der Bau begann im zweiten Monat des zweiten Jahres.", "ref": "Esra 3:8" },
+        { "text": "Freudengeschrei und Weinen waren zu hören.", "ref": "Esra 3:11-13" },
+        { "text": "Gegner entmutigten das Volk.", "ref": "Esra 4:4, 5" }
+      ],
+      "significance": "", "persons": ["serubbabel", "jeschua"], "refs": ["Esra 3:8-13", "Esra 4:1-24"],
+      "sources": [{ "title": "Serubbabel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004716" }]
+    },
+    {
+      "id": "tempel-vollendet", "title": "Der Tempel wird vollendet", "era": "rueckkehr", "year": -515, "dateLabel": "515 v. u. Z.", "place": "Jerusalem",
+      "summary": "Im zweiten Jahr des Perserkönigs Darius Hystaspis (520 v. u. Z.) spornten die Propheten Haggai und Sacharja Serubbabel, Jeschua und das Volk an, den liegengebliebenen Tempelbau wieder aufzunehmen. Darius bestätigte den früheren Erlass des Cyrus. 515 v. u. Z. wurde der Tempel vollendet und mit großer Freude eingeweiht.",
+      "facts": [
+        { "text": "Haggai sprach seine Botschaften 520 v. u. Z.", "ref": "Haggai 1:1" },
+        { "text": "Die Propheten unterstützten die Bauleute.", "ref": "Esra 5:1, 2" },
+        { "text": "Der Tempel wurde im 6. Jahr des Darius vollendet.", "ref": "Esra 6:15" },
+        { "text": "Das Volk feierte die Einweihung mit Freuden.", "ref": "Esra 6:16" }
+      ],
+      "significance": "", "persons": ["serubbabel", "jeschua", "haggai", "sacharja"], "refs": ["Esra 5:1–6:22", "Haggai 1:1-15"],
+      "sources": [
+        { "title": "Serubbabel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004716" },
+        { "title": "Haggai – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001812" }
+      ]
+    },
+    {
+      "id": "esther-wird-koenigin", "title": "Esther wird Königin", "era": "rueckkehr", "year": -489, "dateLabel": "Im 7. Regierungsjahr des Ahasverus (5. Jh. v. u. Z.)", "place": "Susa (Persien)",
+      "summary": "Nachdem König Ahasverus Königin Waschti wegen ihres Ungehorsams verstoßen hatte, ließ er im ganzen Reich schöne junge Frauen zusammenbringen. Auch die Jüdin Esther wurde in den Palast gebracht; auf Mordechais Rat verschwieg sie ihre Herkunft. Im 7. Jahr seiner Regierung wählte der König sie zur Königin.",
+      "facts": [
+        { "text": "Waschti weigerte sich, vor dem König zu erscheinen.", "ref": "Esther 1:10-12" },
+        { "text": "Esther verschwieg, dass sie Jüdin war.", "ref": "Esther 2:10" },
+        { "text": "Der König liebte Esther mehr als alle anderen.", "ref": "Esther 2:17" }
+      ],
+      "significance": "", "persons": ["esther", "mordechai", "ahasverus"], "refs": ["Esther 1:1–2:23"],
+      "sources": [
+        { "title": "Ahasverus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000142" },
+        { "title": "Esther – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001430" }
+      ]
+    },
+    {
+      "id": "esther-rettet-ihr-volk", "title": "Esther rettet ihr Volk", "era": "rueckkehr", "year": -484, "dateLabel": "Im 12. Regierungsjahr des Ahasverus", "place": "Susa (Persien)",
+      "summary": "Im 12. Jahr des Ahasverus erwirkte der erste Minister Haman einen Erlass zur Ausrottung aller Juden in den 127 Gerichtsbezirken. Mordechai bat Esther einzuschreiten. Unter Lebensgefahr ging sie ungerufen zum König, lud ihn und Haman zu Festmählern ein und deckte dort Hamans Plan auf. Haman wurde gehängt, und die Juden durften sich verteidigen. Zur Erinnerung wird das Purimfest gefeiert.",
+      "facts": [
+        { "text": "Haman warf das Los (Pur) für den Tag der Vernichtung.", "ref": "Esther 3:7" },
+        { "text": "Esther ging ungerufen zum König.", "ref": "Esther 5:1, 2" },
+        { "text": "Haman wurde an seinem eigenen Pfahl gehängt.", "ref": "Esther 7:9, 10" },
+        { "text": "Das Purimfest wurde eingeführt.", "ref": "Esther 9:20-28" }
+      ],
+      "significance": "", "persons": ["esther", "mordechai", "haman", "ahasverus"], "refs": ["Esther 3:1–9:32"],
+      "sources": [
+        { "title": "Esther – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001430" },
+        { "title": "Purim – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003588" }
+      ]
+    },
+    {
+      "id": "esra-kommt-nach-jerusalem", "title": "Esra kommt nach Jerusalem", "era": "rueckkehr", "year": -468, "dateLabel": "468 v. u. Z.", "place": "Babylon; Jerusalem",
+      "summary": "Im 7. Jahr des Artaxerxes erhielt der Priester und Abschreiber Esra die Erlaubnis, mit einer Gruppe von Juden nach Jerusalem zu ziehen, und reiche Gaben für den Tempel. Weil er dem König gesagt hatte, dass Gott seine Diener beschützt, verzichtete er auf eine militärische Eskorte und bat stattdessen fastend um Jehovas Schutz. In Jerusalem lehrte er das Gesetz und ging gegen Ehen mit Frauen aus den Nationen vor.",
+      "facts": [
+        { "text": "Esra war ein kundiger Abschreiber des Gesetzes.", "ref": "Esra 7:6" },
+        { "text": "Er fastete und betete um eine sichere Reise.", "ref": "Esra 8:21-23" },
+        { "text": "Die Reise dauerte rund vier Monate.", "ref": "Esra 7:8, 9" }
+      ],
+      "significance": "", "persons": ["esra", "artaxerxes"], "refs": ["Esra 7:1–10:44"],
+      "sources": [{ "title": "Esra – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001475" }]
+    },
+    {
+      "id": "nehemia-baut-die-mauer", "title": "Nehemia baut die Mauer Jerusalems", "era": "rueckkehr", "year": -455, "dateLabel": "455 v. u. Z.", "place": "Jerusalem",
+      "summary": "Im 20. Jahr des Artaxerxes erhielt Nehemia die Erlaubnis, die Mauer Jerusalems wieder aufzubauen. Trotz Spott, Drohungen und Intrigen von Sanballat, Tobija und anderen arbeiteten die Juden – mit Waffen griffbereit – und vollendeten die Mauer in nur 52 Tagen. Mit diesem „Wort, Jerusalem wiederherzustellen“, begannen die 69 Jahrwochen, die zum Messias führten.",
+      "facts": [
+        { "text": "Nehemia inspizierte nachts die Mauer.", "ref": "Nehemia 2:11-16" },
+        { "text": "Die Bauleute arbeiteten mit einer Hand und hielten mit der anderen eine Waffe.", "ref": "Nehemia 4:17" },
+        { "text": "Die Mauer wurde am 25. Elul vollendet – nach 52 Tagen.", "ref": "Nehemia 6:15" },
+        { "text": "Daniel hatte das „Ausgehen des Wortes“ vorhergesagt.", "ref": "Daniel 9:25" }
+      ],
+      "significance": "Ab 455 v. u. Z. zählten die 69 Jahrwochen (483 Jahre) bis zum Auftreten des Messias im Jahr 29 u. Z.", "persons": ["nehemia", "artaxerxes"],
+      "refs": ["Nehemia 2:1–6:16", "Daniel 9:24-27"],
+      "sources": [
+        { "title": "Nehemia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003212" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "abschluss-hebraeische-schriften", "title": "Maleachi – Abschluss der Hebräischen Schriften", "era": "rueckkehr", "year": -443, "dateLabel": "nach 443 v. u. Z.", "place": "Juda",
+      "summary": "Nachdem Nehemia einige Zeit nach dem 32. Jahr des Artaxerxes (um 443 v. u. Z.) zurückgekehrt war, fand er schlimme Zustände vor: Vernachlässigung des Tempels, Missachtung des Gesetzes und Ehen mit Ausländerinnen. Genau diese Zustände prangert das Buch Maleachi an. Es wurde wie das Buch Nehemia nach 443 v. u. Z. geschrieben und schließt die Hebräischen Schriften ab.",
+      "facts": [
+        { "text": "Nehemia kam nach dem 32. Jahr des Artaxerxes zurück.", "ref": "Nehemia 13:6, 7" },
+        { "text": "Maleachi tadelte die Priester.", "ref": "Maleachi 1:6-8" },
+        { "text": "Jehova verhieß Segen für Treue.", "ref": "Maleachi 3:10" },
+        { "text": "Ein Gedenkbuch wird für die geschrieben, die Jehova fürchten.", "ref": "Maleachi 3:16" }
+      ],
+      "significance": "Mit dem Buch Maleachi enden die Hebräischen Schriften.", "persons": ["maleachi", "nehemia"], "refs": ["Maleachi 1:1–4:6", "Nehemia 13:6-31"],
+      "sources": [{ "title": "Maleachi (Buch) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002861" }]
+    }
+  ]
+}

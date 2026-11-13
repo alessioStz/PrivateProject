@@ -1,0 +1,726 @@
+{
+  "batch": "b01",
+  "persons": [
+    {
+      "id": "jehova", "name": "Jehova", "altNames": ["JHWH", "Gott, der Allmächtige"], "sex": "", "tags": ["gott"],
+      "role": "Gott, der Schöpfer", "eras": [], "dates": [], "year": null, "nameMeaning": "„Er lässt werden“",
+      "summary": "Jehova ist der Eigenname Gottes. Titel wie „Gott“, „Schöpfer“, „Vater“ oder „der Allmächtige“ beschreiben ihn – doch erst sein Name bringt zum Ausdruck, wer und was er ist. In den Hebräischen Schriften der Neuen-Welt-Übersetzung steht der Name 6979-mal, denn Jehova wollte, dass sein Name auf der ganzen Erde bekannt wird.",
+      "facts": [
+        { "text": "Nur sein Eigenname drückt seine Persönlichkeit mit all seinen Eigenschaften voll aus.", "ref": "Psalm 83:18" },
+        { "text": "In den ältesten hebräischen Handschriften steht der Name als vier Konsonanten (JHWH), das sogenannte Tetragrammaton.", "ref": "" },
+        { "text": "„Jehova“ ist im deutschen Sprachraum die überlieferte Aussprache des Gottesnamens.", "ref": "" },
+        { "text": "Jehova kündigte an, seinen Namen auf der ganzen Erde verkünden zu lassen.", "ref": "2. Mose 9:16" },
+        { "text": "Er ist der Schöpfer der Himmel und der Erde.", "ref": "1. Mose 1:1" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["schoepfung", "erschaffung-des-menschen"], "books": [],
+      "refs": ["Psalm 83:18", "Jesaja 42:8", "2. Mose 9:16"],
+      "sources": [{ "title": "Jehova – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002391" }]
+    },
+    {
+      "id": "satan", "name": "Satan", "altNames": ["Teufel", "Schlange"], "sex": "", "tags": ["engel"],
+      "role": "Widersacher Gottes, der Teufel", "eras": ["anfaenge", "aegypten", "jesus"], "dates": [], "year": null,
+      "nameMeaning": "„Widerstandleistender“",
+      "summary": "Satan wurde von Gott als vollkommenes, gerechtes Geistgeschöpf erschaffen. Er verließ jedoch die Wahrheit, lehnte sich gegen Gott auf und wurde zu dessen Hauptwidersacher – daher der Name Satan. Durch eine Schlange verleitete er Eva zum Ungehorsam und brachte so Sünde und Tod über die Menschen.",
+      "facts": [
+        { "text": "Seinen früheren Namen nennt die Bibel nicht; „Satan“ heißt er wegen seiner Auflehnung gegen Gott.", "ref": "" },
+        { "text": "Jesus nannte ihn einen Totschläger, der in der Wahrheit nicht feststand.", "ref": "Johannes 8:44" },
+        { "text": "Er sprach durch eine Schlange zu Eva und verleitete sie, Gottes Gebot zu übertreten.", "ref": "1. Mose 3:1-6" },
+        { "text": "Er stellte Hiobs Treue infrage und brachte schweres Unglück über ihn.", "ref": "Hiob 1:6-12" },
+        { "text": "Nach Jesu Taufe versuchte er ihn in der Wildnis mit drei großen Versuchungen.", "ref": "Matthäus 4:1-11" },
+        { "text": "Er wird für 1000 Jahre gefangen gesetzt und schließlich vernichtet.", "ref": "Offenbarung 20:1-3" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["suendenfall", "hiobs-pruefung", "versuchung"], "books": [],
+      "refs": ["1. Mose 3:1-15", "Hiob 1:6-12", "Johannes 8:44", "Offenbarung 12:9"],
+      "sources": [
+        { "title": "Satan – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003845" },
+        { "title": "B1 Das Hauptthema der Bibel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070221" }
+      ]
+    },
+    {
+      "id": "adam", "name": "Adam", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Der erste Mensch", "eras": ["anfaenge"],
+      "dates": [{ "label": "Lebenszeit", "value": "4026–3096 v. u. Z." }, { "label": "Alter", "value": "930 Jahre" }],
+      "year": -4026, "nameMeaning": "„Erdenmensch“, „Menschheit“",
+      "summary": "Adam war der erste Mensch. Jehova bildete ihn 4026 v. u. Z. aus dem Staub des Erdbodens und erschuf ihn „im Bilde Gottes“ – mit Eigenschaften wie Liebe, Weisheit, Gerechtigkeit und Macht. Er lebte mit Eva im Paradies Eden, schloss sich aber ihrem Ungehorsam gegenüber Gott an und brachte dadurch Sünde und Tod über alle seine Nachkommen.",
+      "facts": [
+        { "text": "Wurde als vollkommener Mensch erschaffen und wurde „eine lebende Seele“.", "ref": "1. Mose 2:7" },
+        { "text": "Sollte die Erde verwalten und sich die Tiere untertan halten.", "ref": "1. Mose 1:26-28" },
+        { "text": "Jehova bildete aus einer seiner Rippen Eva, seine Frau.", "ref": "1. Mose 2:21-23" },
+        { "text": "Hörte auf seine Frau und aß von dem verbotenen Baum.", "ref": "1. Mose 3:6" },
+        { "text": "Starb 3096 v. u. Z. mit 930 Jahren.", "ref": "1. Mose 5:5" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["eva"], "children": ["kain", "abel", "seth"], "siblings": [] },
+      "related": [], "events": ["erschaffung-des-menschen", "suendenfall", "tod-adams"], "books": [],
+      "refs": ["1. Mose 1:26-28", "1. Mose 2:7", "1. Mose 3:17-19", "Römer 5:12"],
+      "sources": [{ "title": "Adam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000089" }]
+    },
+    {
+      "id": "eva", "name": "Eva", "altNames": [], "sex": "f", "tags": [],
+      "role": "Die erste Frau", "eras": ["anfaenge"], "dates": [], "year": -4026, "nameMeaning": "„Lebendige“, „Lebende“",
+      "summary": "Eva war die erste Frau und die letzte irdische Schöpfung, von der die Bibel berichtet. Jehova bildete sie aus einer Rippe Adams als dessen Gegenstück. Von einer Schlange getäuscht, aß sie von dem Baum der Erkenntnis von Gut und Böse und veranlasste auch Adam, Gott ungehorsam zu sein.",
+      "facts": [
+        { "text": "Jehova bildete sie aus einer Rippe Adams; Adam nahm sie freudig zur Frau.", "ref": "1. Mose 2:21-23" },
+        { "text": "Gott segnete das Paar und gab ihm den Auftrag, die Erde zu füllen.", "ref": "1. Mose 1:28" },
+        { "text": "Eine Schlange – Sprachrohr eines unsichtbaren Geistgeschöpfes – betrog sie.", "ref": "1. Mose 3:1-6" },
+        { "text": "Paulus schreibt, dass Eva gründlich getäuscht wurde.", "ref": "1. Timotheus 2:14" },
+        { "text": "Sie wurde die Mutter von Kain, Abel und Seth.", "ref": "1. Mose 4:1, 2" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["adam"], "children": ["kain", "abel", "seth"], "siblings": [] },
+      "related": [], "events": ["erschaffung-des-menschen", "suendenfall"], "books": [],
+      "refs": ["1. Mose 2:18-23", "1. Mose 3:1-6", "1. Timotheus 2:14"],
+      "sources": [{ "title": "Eva – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001450" }]
+    },
+    {
+      "id": "kain", "name": "Kain", "altNames": [], "sex": "m", "tags": [],
+      "role": "Erster Sohn Adams und Evas", "eras": ["anfaenge"], "dates": [], "year": -4020, "nameMeaning": "„Hervorgebrachtes“",
+      "summary": "Kain war der Erstgeborene Adams und Evas und das erste Kind, das auf der Erde geboren wurde. Er wurde Ackerbauer. Als Gott sein Opfer nicht wohlwollend ansah, wohl aber das seines Bruders Abel, erschlug Kain seinen Bruder. Zur Strafe wurde er vom Erdboden verbannt.",
+      "facts": [
+        { "text": "Eva sagte bei seiner Geburt, sie habe „mit der Hilfe Jehovas“ einen Mann hervorgebracht.", "ref": "1. Mose 4:1" },
+        { "text": "Er opferte von seinem Ernteertrag; Gott blickte nicht wohlwollend auf sein Opfer.", "ref": "1. Mose 4:3-5" },
+        { "text": "Er ermordete seinen Bruder Abel.", "ref": "1. Mose 4:8" },
+        { "text": "Er wurde vom Erdboden verbannt; der Boden sollte ihm kaum noch Ertrag bringen.", "ref": "1. Mose 4:11, 12" },
+        { "text": "Der Apostel Johannes nennt ihn als warnendes Beispiel.", "ref": "1. Johannes 3:12" }
+      ],
+      "lesson": "",
+      "family": { "father": "adam", "mother": "eva", "spouses": [], "children": ["Henoch"], "siblings": ["abel", "seth"] },
+      "related": [], "events": ["kain-und-abel"], "books": [],
+      "refs": ["1. Mose 4:1-16", "1. Johannes 3:11, 12"],
+      "sources": [{ "title": "Kain – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000857" }]
+    },
+    {
+      "id": "abel", "name": "Abel", "altNames": [], "sex": "m", "tags": [],
+      "role": "Sohn Adams, erster Glaubenszeuge", "eras": ["anfaenge"], "dates": [], "year": -4018,
+      "nameMeaning": "„Hauch“, „Nichtigkeit“ (vielleicht)",
+      "summary": "Abel war der zweite Sohn Adams und Evas. Als Schafhirt brachte er Jehova von den Erstlingen seiner Herde ein Opfer dar, das Gott annahm. Aus Eifersucht erschlug ihn sein Bruder Kain. Der Apostel Paulus nennt Abel als ersten Glaubenszeugen.",
+      "facts": [
+        { "text": "Er wurde Schafhirt, sein Bruder Kain Ackerbauer.", "ref": "1. Mose 4:2" },
+        { "text": "Er opferte von den Erstlingen seiner Herde; Gott sah wohlwollend auf sein Opfer.", "ref": "1. Mose 4:4" },
+        { "text": "Sein Opfer war wegen seines Glaubens „wertvoller“ als das Kains.", "ref": "Hebräer 11:4" },
+        { "text": "Er wurde von seinem Bruder Kain getötet.", "ref": "1. Mose 4:8" }
+      ],
+      "lesson": "",
+      "family": { "father": "adam", "mother": "eva", "spouses": [], "children": [], "siblings": ["kain", "seth"] },
+      "related": [], "events": ["kain-und-abel"], "books": [],
+      "refs": ["1. Mose 4:2-8", "Hebräer 11:4"],
+      "sources": [{ "title": "Abel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000018" }]
+    },
+    {
+      "id": "seth", "name": "Seth", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Sohn Adams, Vorfahr Noahs", "eras": ["anfaenge"],
+      "dates": [{ "label": "Lebenszeit", "value": "3896–2984 v. u. Z." }, { "label": "Alter", "value": "912 Jahre" }],
+      "year": -3896, "nameMeaning": "„Gesetzt“, „Bestimmt“",
+      "summary": "Seth wurde Adam und Eva geboren, als Adam 130 Jahre alt war. Eva nannte ihn so, weil Gott ihr anstelle des getöteten Abel einen anderen Nachkommen „gesetzt“ hatte. Bedeutsam ist er, weil Noah – und damit die heutige Menschheit – von Seth abstammt, nicht von Kain.",
+      "facts": [
+        { "text": "Wurde geboren, als Adam 130 Jahre alt war.", "ref": "1. Mose 5:3" },
+        { "text": "Mit 105 Jahren wurde er Vater von Enosch.", "ref": "1. Mose 5:6" },
+        { "text": "Starb mit 912 Jahren.", "ref": "1. Mose 5:8" },
+        { "text": "Er steht im Geschlechtsregister Jesu.", "ref": "Lukas 3:38" }
+      ],
+      "lesson": "",
+      "family": { "father": "adam", "mother": "eva", "spouses": [], "children": ["Enosch"], "siblings": ["kain", "abel"] },
+      "related": [], "events": [], "books": [],
+      "refs": ["1. Mose 4:25, 26", "1. Mose 5:3-8", "Lukas 3:38"],
+      "sources": [{ "title": "Seth – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003911" }]
+    },
+    {
+      "id": "henoch", "name": "Henoch", "altNames": [], "sex": "m", "tags": ["prophet", "vorfahr-jesu"],
+      "role": "Prophet vor der Sintflut", "eras": ["anfaenge"], "dates": [{ "label": "Alter", "value": "365 Jahre" }],
+      "year": -3404, "nameMeaning": "„Erzogener“, „Eingeweihter“",
+      "summary": "Henoch, der Sohn Jereds, war der Siebte in der Linie von Adam her. Er „wandelte beständig mit dem wahren Gott“ und kündigte als Prophet Jehovas das Gericht über die Gottlosen an. Gott ließ nicht zu, dass seine Feinde ihn umbrachten, sondern „nahm ihn hinweg“ – Henoch wurde nur 365 Jahre alt.",
+      "facts": [
+        { "text": "Sohn Jereds; mit 65 Jahren wurde er Vater Methusalahs.", "ref": "1. Mose 5:18, 21" },
+        { "text": "Er wandelte beständig mit dem wahren Gott.", "ref": "1. Mose 5:22-24" },
+        { "text": "Er sagte voraus, dass Gott mit seinen heiligen Myriaden Gericht halten werde.", "ref": "Judas 14-15" },
+        { "text": "Paulus zählt ihn zu der „großen Wolke von Zeugen“.", "ref": "Hebräer 11:5" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jered", "mother": "", "spouses": [], "children": ["methusalah"], "siblings": [] },
+      "related": [], "events": ["henoch-wandelt-mit-gott"], "books": [],
+      "refs": ["1. Mose 5:21-24", "Hebräer 11:5", "Judas 14-15"],
+      "sources": [{ "title": "Henoch – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001371" }]
+    },
+    {
+      "id": "methusalah", "name": "Methusalah", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Großvater Noahs, ältester Mensch der Bibel", "eras": ["anfaenge"],
+      "dates": [{ "label": "Gestorben", "value": "2370 v. u. Z." }, { "label": "Alter", "value": "969 Jahre" }],
+      "year": -3339, "nameMeaning": "„Mann des Wurfgeschosses“ (vielleicht)",
+      "summary": "Methusalah war der Sohn des Propheten Henoch, der Vater Lamechs und der Großvater Noahs. Mit 969 Jahren erreichte er das höchste Alter, das die Bibel nennt. Er starb 2370 v. u. Z., im Jahr der Sintflut – die Bibel sagt aber nur, dass er „starb“, nicht dass er in der Flut umkam.",
+      "facts": [
+        { "text": "Sohn Henochs, Vater Lamechs, Großvater Noahs.", "ref": "1. Mose 5:21-29" },
+        { "text": "Gehörte zur achten Generation der Menschheit.", "ref": "Lukas 3:37" },
+        { "text": "Wurde 969 Jahre alt.", "ref": "1. Mose 5:27" }
+      ],
+      "lesson": "",
+      "family": { "father": "henoch", "mother": "", "spouses": [], "children": ["lamech"], "siblings": [] },
+      "related": ["noah"], "events": [], "books": [],
+      "refs": ["1. Mose 5:21-27", "Lukas 3:37"],
+      "sources": [{ "title": "Methusalah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003022" }]
+    },
+    {
+      "id": "lamech", "name": "Lamech", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Vater Noahs", "eras": ["anfaenge"], "dates": [{ "label": "Alter", "value": "777 Jahre" }],
+      "year": -3152, "nameMeaning": "",
+      "summary": "Lamech, ein Nachkomme Seths und Sohn Methusalahs, war der Vater Noahs. Er glaubte an Gott und sagte bei der Geburt seines Sohnes, dieser werde Trost von der mühevollen Arbeit auf dem verfluchten Erdboden bringen. Er lebte 777 Jahre und starb etwa fünf Jahre vor der Sintflut.",
+      "facts": [
+        { "text": "Gab seinem Sohn den Namen Noah und sprach von dem Trost, den er bringen werde.", "ref": "1. Mose 5:29" },
+        { "text": "Die Worte erfüllten sich, als zu Noahs Lebzeiten der Fluch auf dem Erdboden aufgehoben wurde.", "ref": "1. Mose 8:21" },
+        { "text": "Er war noch ein Zeitgenosse Adams.", "ref": "" },
+        { "text": "Er steht im Geschlechtsregister Jesu.", "ref": "Lukas 3:36" }
+      ],
+      "lesson": "",
+      "family": { "father": "methusalah", "mother": "", "spouses": [], "children": ["noah"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["1. Mose 5:25-31", "Lukas 3:36"],
+      "sources": [{ "title": "Lamech – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002673" }]
+    },
+    {
+      "id": "noah", "name": "Noah", "altNames": [], "sex": "m", "tags": ["patriarch", "prophet", "vorfahr-jesu"],
+      "role": "Erbauer der Arche", "eras": ["anfaenge", "patriarchen"],
+      "dates": [{ "label": "Geboren", "value": "2970 v. u. Z." }, { "label": "Alter", "value": "950 Jahre" }],
+      "year": -2970, "nameMeaning": "„Ruhe“, „Trost“ (wahrscheinlich)",
+      "summary": "Noah war der Zehnte in der Linie von Adam über Seth. In einer völlig verdorbenen Welt war er gerecht und „wandelte mit dem wahren Gott“. Auf Gottes Anweisung baute er mit seiner Familie die Arche und warnte als „Prediger der Gerechtigkeit“ vor der kommenden Vernichtung. In der Sintflut 2370 v. u. Z. überlebten nur er und seine Familie – acht Menschen.",
+      "facts": [
+        { "text": "Geboren 2970 v. u. Z., 126 Jahre nach Adams Tod.", "ref": "1. Mose 5:28, 29" },
+        { "text": "Er war gerecht und untadelig unter seinen Zeitgenossen.", "ref": "1. Mose 6:9" },
+        { "text": "Er tat genau das, was Gott ihm geboten hatte.", "ref": "1. Mose 6:22" },
+        { "text": "Als „Prediger der Gerechtigkeit“ warnte er seine Generation.", "ref": "2. Petrus 2:5" },
+        { "text": "Er starb etwa zwei Jahre vor der Geburt Abrahams.", "ref": "1. Mose 9:29" }
+      ],
+      "lesson": "",
+      "family": { "father": "lamech", "mother": "", "spouses": [], "children": ["sem", "ham", "japhet"], "siblings": [] },
+      "related": ["methusalah"], "events": ["bau-der-arche", "sintflut", "regenbogenbund"], "books": [],
+      "refs": ["1. Mose 6:9-22", "Hebräer 11:7", "2. Petrus 2:5"],
+      "sources": [{ "title": "Noah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003266" }]
+    },
+    {
+      "id": "sem", "name": "Sem", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Sohn Noahs", "eras": ["anfaenge", "patriarchen"], "dates": [{ "label": "Alter", "value": "600 Jahre" }],
+      "year": -2468, "nameMeaning": "„Name“, „Ruhm“",
+      "summary": "Sem war einer der drei Söhne Noahs und überlebte mit seiner Frau die Sintflut. Von Noahs Söhnen aus breitete sich nach der Flut die ganze Erdbevölkerung aus. Sem starb mit 600 Jahren, einige Jahre nach Saras Tod; Abraham und Sem lebten etwa 150 Jahre gleichzeitig.",
+      "facts": [
+        { "text": "Einer der acht Menschen, die die Sintflut in der Arche überlebten.", "ref": "1. Mose 7:13" },
+        { "text": "Bedeckte mit Japhet respektvoll die Blöße seines Vaters und wurde gesegnet.", "ref": "1. Mose 9:23, 26" },
+        { "text": "Wurde 600 Jahre alt.", "ref": "1. Mose 11:10, 11" },
+        { "text": "Er steht im Geschlechtsregister Jesu.", "ref": "Lukas 3:36" }
+      ],
+      "lesson": "",
+      "family": { "father": "noah", "mother": "", "spouses": [], "children": ["Arpachschad"], "siblings": ["ham", "japhet"] },
+      "related": ["abraham"], "events": ["sintflut"], "books": [],
+      "refs": ["1. Mose 9:18-27", "1. Mose 11:10, 11"],
+      "sources": [
+        { "title": "Sem – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003997" },
+        { "title": "Abraham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000060" }
+      ]
+    },
+    {
+      "id": "ham", "name": "Ham", "altNames": [], "sex": "m", "tags": [],
+      "role": "Sohn Noahs", "eras": ["anfaenge", "patriarchen"], "dates": [], "year": -2466, "nameMeaning": "",
+      "summary": "Ham war einer der drei Söhne Noahs und überlebte mit seiner Frau die Sintflut. Er wurde der Vater von Kusch, Mizrajim, Put und Kanaan; von ihnen stammen unter anderem die Äthiopier, die Ägypter und die Kanaaniter ab. Weil Ham seinem Vater nicht den gebührenden Respekt erwies, sprach Noah einen Fluch aus – allerdings über Hams Sohn Kanaan.",
+      "facts": [
+        { "text": "Überlebte die Flut mit seiner Frau, seinen Eltern und seinen Brüdern.", "ref": "1. Mose 7:13" },
+        { "text": "Vater von Kusch, Mizrajim, Put und Kanaan.", "ref": "1. Mose 10:6" },
+        { "text": "Erzählte seinen Brüdern respektlos von der Blöße seines Vaters.", "ref": "1. Mose 9:20-22" },
+        { "text": "Noah verfluchte nicht Ham, sondern dessen Sohn Kanaan.", "ref": "1. Mose 9:24, 25" }
+      ],
+      "lesson": "",
+      "family": { "father": "noah", "mother": "", "spouses": [], "children": ["Kusch", "Mizrajim", "Put", "Kanaan"], "siblings": ["sem", "japhet"] },
+      "related": [], "events": ["sintflut"], "books": [],
+      "refs": ["1. Mose 9:18-27", "1. Mose 10:6-20"],
+      "sources": [{ "title": "Ham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001832" }]
+    },
+    {
+      "id": "japhet", "name": "Japhet", "altNames": [], "sex": "m", "tags": [],
+      "role": "Sohn Noahs", "eras": ["anfaenge", "patriarchen"],
+      "dates": [{ "label": "Geboren", "value": "2470 v. u. Z. (wahrscheinlich)" }],
+      "year": -2470, "nameMeaning": "„Möge er weiten Raum gewähren“",
+      "summary": "Japhet war ein Sohn Noahs und anscheinend der älteste der drei Brüder. Er und seine Frau gehörten zu den acht Menschen, die in der Arche die Sintflut überlebten. Nach der Flut bekamen sie sieben Söhne, von denen aus sich die Bewohner der Inseln und Küstenländer ausbreiteten.",
+      "facts": [
+        { "text": "Überlebte die Sintflut mit seiner Frau in der Arche.", "ref": "1. Petrus 3:20" },
+        { "text": "Bedeckte mit Sem respektvoll die Blöße seines Vaters.", "ref": "1. Mose 9:23" },
+        { "text": "Seine Söhne: Gomer, Magog, Madai, Jawan, Tubal, Meschech und Tiras.", "ref": "1. Mose 10:2" }
+      ],
+      "lesson": "",
+      "family": { "father": "noah", "mother": "", "spouses": [], "children": ["Gomer", "Magog", "Madai", "Jawan", "Tubal", "Meschech", "Tiras"], "siblings": ["sem", "ham"] },
+      "related": [], "events": ["sintflut"], "books": [],
+      "refs": ["1. Mose 9:18-27", "1. Mose 10:1-5"],
+      "sources": [{ "title": "Japhet – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002323" }]
+    },
+    {
+      "id": "nimrod", "name": "Nimrod", "altNames": [], "sex": "m", "tags": ["herrscher"],
+      "role": "Gründer des ersten Großreichs", "eras": ["patriarchen"], "dates": [], "year": -2300, "nameMeaning": "",
+      "summary": "Nimrod, ein Sohn Kuschs, gründete nach der Sintflut das erste Großreich und war dessen König. Er war als „gewaltiger Jäger“ bekannt – laut jw.org im Widerstand gegen Jehova. Der Anfang seines Königreichs war Babel im Land Schinar.",
+      "facts": [
+        { "text": "Sohn Kuschs und somit ein Enkel Hams.", "ref": "1. Mose 10:8" },
+        { "text": "Ein „gewaltiger Jäger“ – im Widerstand gegen Jehova.", "ref": "1. Mose 10:9" },
+        { "text": "Der Anfang seines Königreichs war Babel.", "ref": "1. Mose 10:10" }
+      ],
+      "lesson": "",
+      "family": { "father": "Kusch", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["1. Mose 10:8-12", "1. Chronika 1:10"],
+      "sources": [{ "title": "Nimrod – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003259" }]
+    },
+    {
+      "id": "terach", "name": "Terach", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Vater Abrahams", "eras": ["patriarchen"], "dates": [{ "label": "Alter", "value": "205 Jahre" }],
+      "year": -2148, "nameMeaning": "„Steinbock“ (vielleicht)",
+      "summary": "Terach, der Vater Abrahams, Nahors und Harans, lebte in Ur der Chaldäer. Mit etwa 200 Jahren brach er mit Abraham, Sara und seinem Enkel Lot in Richtung Kanaan auf, starb aber in Haran im Alter von 205 Jahren. Als Abraham geboren wurde, war Terach 130 Jahre alt.",
+      "facts": [
+        { "text": "Wohnte mit seiner Familie in Ur der Chaldäer.", "ref": "1. Mose 11:28" },
+        { "text": "Er hatte früher anderen Göttern gedient.", "ref": "Josua 24:2" },
+        { "text": "Zog mit Abraham, Sara und Lot nach Haran.", "ref": "1. Mose 11:31" },
+        { "text": "Starb mit 205 Jahren in Haran.", "ref": "1. Mose 11:32" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": ["abraham", "Nahor", "Haran"], "siblings": [] },
+      "related": ["lot"], "events": ["geburt-abrams"], "books": [],
+      "refs": ["1. Mose 11:26-32", "Josua 24:2", "Lukas 3:34"],
+      "sources": [{ "title": "Terach – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004368" }]
+    },
+    {
+      "id": "abraham", "name": "Abraham", "altNames": ["Abram"], "sex": "m", "tags": ["patriarch", "vorfahr-jesu"],
+      "role": "Patriarch, „Freund Jehovas“", "eras": ["patriarchen"],
+      "dates": [{ "label": "Lebenszeit", "value": "2018–1843 v. u. Z." }, { "label": "Alter", "value": "175 Jahre" }],
+      "year": -2018, "nameMeaning": "„Vater einer Menge“ (Abram: „Vater ist hoch“)",
+      "summary": "Abraham, ursprünglich Abram, stammte aus Ur in Chaldäa und glaubte wie Sem und Noah an Jehova. Auf Gottes Gebot verließ er seine Heimat und lebte als Fremdling in Zelten im Land Kanaan. Jehova schloss mit ihm einen Bund und kündigte an, dass der verheißene „Nachkomme“ von ihm abstammen werde. Wegen seines Glaubens und Gehorsams wurde er „Freund Jehovas“ genannt.",
+      "facts": [
+        { "text": "Geboren 2018 v. u. Z., 352 Jahre nach der Sintflut.", "ref": "1. Mose 11:26" },
+        { "text": "Verließ auf Gottes Gebot Ur und zog über Haran nach Kanaan.", "ref": "Apostelgeschichte 7:2-4" },
+        { "text": "Überquerte 1943 v. u. Z. mit 75 Jahren den Euphrat.", "ref": "1. Mose 12:4" },
+        { "text": "Mit 99 Jahren erhielt er den Namen Abraham.", "ref": "1. Mose 17:5" },
+        { "text": "War bereit, seinen Sohn Isaak zu opfern; Gott sorgte für einen Widder.", "ref": "1. Mose 22:1-18" },
+        { "text": "Starb 1843 v. u. Z. mit 175 Jahren; begraben in der Höhle von Machpela.", "ref": "1. Mose 25:7-10" }
+      ],
+      "lesson": "Abraham bewies seinen Glauben durch Taten – deshalb wurde er „Freund Jehovas“ genannt.",
+      "family": { "father": "terach", "mother": "", "spouses": ["sara", "hagar", "Ketura"], "children": ["isaak", "ismael"], "siblings": ["Nahor", "Haran"] },
+      "related": ["lot", "melchisedek", "sem"],
+      "events": ["geburt-abrams", "abrahamischer-bund", "melchisedek-segnet-abram", "hagar-und-ismael", "sodom-und-gomorra", "geburt-isaaks", "opferung-isaaks", "isaak-heiratet-rebekka", "tod-abrahams"],
+      "books": [],
+      "refs": ["1. Mose 12:1-3", "1. Mose 22:1-18", "Römer 4:11", "Jakobus 2:21-23"],
+      "sources": [{ "title": "Abraham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000060" }]
+    },
+    {
+      "id": "sara", "name": "Sara", "altNames": ["Sarai"], "sex": "f", "tags": ["vorfahr-jesu"],
+      "role": "Frau Abrahams, Mutter Isaaks", "eras": ["patriarchen"],
+      "dates": [{ "label": "Gestorben", "value": "1881 v. u. Z." }, { "label": "Alter", "value": "127 Jahre" }],
+      "year": -2008, "nameMeaning": "„Fürstin“",
+      "summary": "Sara, ursprünglich Sarai, war die Halbschwester und Frau Abrahams. Sie begleitete ihn von Ur über Haran nach Kanaan und blieb lange unfruchtbar. Durch ein Wunder bekam sie mit 90 Jahren ihren Sohn Isaak. Sie starb 1881 v. u. Z. mit 127 Jahren und wurde in der Höhle von Machpela begraben.",
+      "facts": [
+        { "text": "Sie war zehn Jahre jünger als Abraham und heiratete ihn in Ur.", "ref": "1. Mose 17:17" },
+        { "text": "Mit 65 Jahren zog sie mit Abraham von Haran nach Kanaan.", "ref": "1. Mose 12:4, 5" },
+        { "text": "Sie gab Abraham ihre Magd Hagar, um durch sie Kinder zu bekommen.", "ref": "1. Mose 16:1-3" },
+        { "text": "Sie lachte über die Ankündigung eines Sohnes – im Jahr darauf wurde Isaak geboren.", "ref": "1. Mose 18:9-15" },
+        { "text": "Sie starb mit 127 Jahren.", "ref": "1. Mose 23:1, 2" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["abraham"], "children": ["isaak"], "siblings": [] },
+      "related": ["hagar"], "events": ["geburt-isaaks", "hagar-und-ismael"], "books": [],
+      "refs": ["1. Mose 17:15-19", "1. Mose 21:1-7", "Hebräer 11:11"],
+      "sources": [{ "title": "Sara – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003837" }]
+    },
+    {
+      "id": "lot", "name": "Lot", "altNames": [], "sex": "m", "tags": [],
+      "role": "Neffe Abrahams", "eras": ["patriarchen"], "dates": [], "year": -1990, "nameMeaning": "",
+      "summary": "Lot war der Sohn Harans und damit Abrahams Neffe. Er zog mit Abraham nach Kanaan, trennte sich später von ihm und ließ sich in der Nähe von Sodom nieder. Obwohl er unter den Sodomitern wohnte, blieb er ein gerechter Mann; Engel retteten ihn und seine Töchter, bevor Jehova Sodom und Gomorra vernichtete.",
+      "facts": [
+        { "text": "Nach dem Tod seines Vaters zog er mit Terach und Abram nach Haran.", "ref": "1. Mose 11:27-31" },
+        { "text": "Wegen Streit zwischen den Hirten trennte er sich von Abram und wählte die Jordangegend.", "ref": "1. Mose 13:5-12" },
+        { "text": "Petrus nennt ihn einen gerechten Mann, der unter dem Treiben in Sodom litt.", "ref": "2. Petrus 2:7, 8" },
+        { "text": "Wurde vor der Vernichtung gerettet und floh nach Zoar.", "ref": "1. Mose 19:15-23" }
+      ],
+      "lesson": "",
+      "family": { "father": "Haran", "mother": "", "spouses": ["lots-frau"], "children": [], "siblings": [] },
+      "related": ["abraham"], "events": ["melchisedek-segnet-abram", "sodom-und-gomorra"], "books": [],
+      "refs": ["1. Mose 13:5-12", "1. Mose 19:15-26", "2. Petrus 2:6-8"],
+      "sources": [{ "title": "Lot – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002776" }]
+    },
+    {
+      "id": "lots-frau", "name": "Lots Frau", "altNames": [], "sex": "f", "tags": [],
+      "role": "Wurde zur Salzsäule", "eras": ["patriarchen"], "dates": [], "year": -1980, "nameMeaning": "",
+      "summary": "Ihren Namen nennt die Bibel nicht. Als Engel Lot und seine Familie aus Sodom führten, war sie ungehorsam und schaute sich nach der Stadt um – wahrscheinlich, weil sie an dem hing, was sie zurücklassen musste. Dabei wurde sie zu einer Salzsäule. Jesus erinnerte später an sie als warnendes Beispiel.",
+      "facts": [
+        { "text": "Wurde mit Lot und ihren Töchtern aus Sodom hinausgeführt.", "ref": "1. Mose 19:15, 16" },
+        { "text": "Schaute sich entgegen der Anweisung um und wurde zu einer Salzsäule.", "ref": "1. Mose 19:26" },
+        { "text": "Jesus sagte: „Denkt an Lots Frau.“", "ref": "Lukas 17:32" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["lot"], "children": [], "siblings": [] },
+      "related": [], "events": ["sodom-und-gomorra"], "books": [],
+      "refs": ["1. Mose 19:15-26", "Lukas 17:32"],
+      "sources": [{ "title": "Lot – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002776" }]
+    },
+    {
+      "id": "hagar", "name": "Hagar", "altNames": [], "sex": "f", "tags": [],
+      "role": "Magd Saras, Mutter Ismaels", "eras": ["patriarchen"], "dates": [], "year": -1950, "nameMeaning": "",
+      "summary": "Hagar war die ägyptische Magd Saras. Weil Sara unfruchtbar blieb, gab sie Hagar Abraham zur Frau, und Hagar gebar ihm Ismael. Als sie schwanger war, verachtete sie ihre Herrin und lief weg, kehrte aber auf Anweisung eines Engels zurück. Später wurden sie und Ismael weggeschickt.",
+      "facts": [
+        { "text": "Wurde wahrscheinlich in Ägypten Saras Magd.", "ref": "1. Mose 12:16" },
+        { "text": "Sara gab sie Abraham, um durch sie Kinder zu bekommen.", "ref": "1. Mose 16:1-3" },
+        { "text": "Der Engel Jehovas fand sie an einer Quelle und schickte sie zurück.", "ref": "1. Mose 16:7-9" },
+        { "text": "Mit Ismael weggeschickt, erfuhr sie in der Wildnis Gottes Hilfe.", "ref": "1. Mose 21:14-19" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["abraham"], "children": ["ismael"], "siblings": [] },
+      "related": ["sara"], "events": ["hagar-und-ismael"], "books": [],
+      "refs": ["1. Mose 16:1-16", "1. Mose 21:9-21"],
+      "sources": [{ "title": "Hagar – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001811" }]
+    },
+    {
+      "id": "ismael", "name": "Ismael", "altNames": [], "sex": "m", "tags": [],
+      "role": "Erster Sohn Abrahams", "eras": ["patriarchen"], "dates": [{ "label": "Geboren", "value": "1932 v. u. Z." }],
+      "year": -1932, "nameMeaning": "„Gott hört (erhört)“",
+      "summary": "Ismael war der Sohn Abrahams und der ägyptischen Magd Hagar, geboren 1932 v. u. Z., als Abraham 86 Jahre alt war. Gott versprach, ihn zu segnen und zu einer großen Nation zu machen; Erbe des Bundes sollte aber Isaak sein. Weil Ismael den jüngeren Isaak verspottete, wurden er und seine Mutter 1913 v. u. Z. weggeschickt.",
+      "facts": [
+        { "text": "Geboren, als Abraham 86 Jahre alt war.", "ref": "1. Mose 16:15, 16" },
+        { "text": "Gott verhieß, dass er zwölf Vorsteher hervorbringen und eine große Nation werden würde.", "ref": "1. Mose 17:20" },
+        { "text": "Wurde mit 13 Jahren zusammen mit Abraham beschnitten.", "ref": "1. Mose 17:25" },
+        { "text": "Verspottete Isaak an dem Tag, als dieser entwöhnt wurde.", "ref": "1. Mose 21:8, 9" },
+        { "text": "Begrub zusammen mit Isaak seinen Vater.", "ref": "1. Mose 25:9" }
+      ],
+      "lesson": "",
+      "family": { "father": "abraham", "mother": "hagar", "spouses": [], "children": [], "siblings": ["isaak"] },
+      "related": [], "events": ["hagar-und-ismael", "tod-abrahams"], "books": [],
+      "refs": ["1. Mose 16:11-16", "1. Mose 17:18-20", "1. Mose 21:8-21", "Galater 4:29"],
+      "sources": [{ "title": "Ismael – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002215" }]
+    },
+    {
+      "id": "melchisedek", "name": "Melchisedek", "altNames": [], "sex": "m", "tags": ["priester", "herrscher"],
+      "role": "König von Salem und Priester Gottes", "eras": ["patriarchen"],
+      "dates": [{ "label": "Zeit", "value": "vor 1933 v. u. Z." }], "year": -1934, "nameMeaning": "„König der Gerechtigkeit“",
+      "summary": "Melchisedek war König von Salem und „Priester Gottes, des Höchsten“ – der erste Priester, den die Bibel erwähnt. Als Abram von seinem Sieg über Kedorlaomer zurückkam, brachte Melchisedek Brot und Wein und segnete ihn. Weil die Bibel weder seine Abstammung noch weitere Angaben über ihn nennt, war er ein passendes Vorbild für Jesus Christus, der für immer König und Priester ist.",
+      "facts": [
+        { "text": "Salem bildete vermutlich den Kern des späteren Jerusalem.", "ref": "Psalm 76:2" },
+        { "text": "Segnete Abram nach dessen Sieg über Kedorlaomer.", "ref": "1. Mose 14:18-20" },
+        { "text": "Paulus nennt ihn „König der Gerechtigkeit“ und „König des Friedens“.", "ref": "Hebräer 7:1, 2" },
+        { "text": "Ohne bekanntes Geschlechtsregister – ein Vorbild für Christus.", "ref": "Hebräer 7:3" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["abraham"], "events": ["melchisedek-segnet-abram"], "books": [],
+      "refs": ["1. Mose 14:18-20", "Hebräer 7:1-3"],
+      "sources": [
+        { "title": "Melchisedek – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002970" },
+        { "title": "Sem – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003997" }
+      ]
+    },
+    {
+      "id": "isaak", "name": "Isaak", "altNames": [], "sex": "m", "tags": ["patriarch", "vorfahr-jesu"],
+      "role": "Patriarch, Sohn Abrahams", "eras": ["patriarchen"],
+      "dates": [{ "label": "Lebenszeit", "value": "1918–1738 v. u. Z." }, { "label": "Alter", "value": "180 Jahre" }],
+      "year": -1918, "nameMeaning": "„Lachen“, „Gelächter“",
+      "summary": "Isaak war der einzige Sohn Abrahams und Saras und ein wichtiges Glied in der zu Christus führenden Abstammungslinie. Er wurde geboren, als seine Eltern schon sehr alt waren – ein Beweis, dass für Jehova nichts zu außergewöhnlich ist. Mit etwa 25 Jahren wurde er „so gut wie geopfert“, mit 40 heiratete er Rebekka, mit 60 wurde er Vater der Zwillinge Esau und Jakob.",
+      "facts": [
+        { "text": "Wurde am 8. Tag beschnitten und mit etwa 5 Jahren entwöhnt.", "ref": "1. Mose 21:4-8" },
+        { "text": "Abraham war bereit, ihn auf einem Berg im Land Moria zu opfern.", "ref": "1. Mose 22:1-14" },
+        { "text": "Heiratete mit 40 Jahren Rebekka.", "ref": "1. Mose 25:20" },
+        { "text": "Wurde mit 60 Jahren Vater von Esau und Jakob.", "ref": "1. Mose 25:26" },
+        { "text": "Starb 1738 v. u. Z. in Hebron mit 180 Jahren.", "ref": "1. Mose 35:28, 29" }
+      ],
+      "lesson": "",
+      "family": { "father": "abraham", "mother": "sara", "spouses": ["rebekka"], "children": ["esau", "jakob"], "siblings": ["ismael"] },
+      "related": [], "events": ["geburt-isaaks", "hagar-und-ismael", "opferung-isaaks", "isaak-heiratet-rebekka", "esau-verkauft-erstgeburtsrecht", "jakob-erhaelt-den-segen"], "books": [],
+      "refs": ["1. Mose 21:1-7", "1. Mose 22:1-18", "1. Mose 25:19-26", "Galater 4:28"],
+      "sources": [{ "title": "Isaak – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002203" }]
+    },
+    {
+      "id": "rebekka", "name": "Rebekka", "altNames": [], "sex": "f", "tags": ["vorfahr-jesu"],
+      "role": "Frau Isaaks, Mutter von Esau und Jakob", "eras": ["patriarchen"], "dates": [], "year": -1900,
+      "nameMeaning": "„Kuh“ (vielleicht)",
+      "summary": "Rebekka war die Tochter Bethuels, eine Großnichte Abrahams; ihr Bruder war Laban. Als Abrahams Diener 1878 v. u. Z. eine Frau für Isaak suchte, erwies sie sich am Brunnen als gütig, gastfreundlich und fleißig – sie tränkte sogar seine zehn Kamele. Sie willigte ein, mitzugehen, und wurde Isaaks Frau und Mutter der Zwillinge Esau und Jakob.",
+      "facts": [
+        { "text": "Tränkte die Kamele von Abrahams Diener – die Antwort auf dessen Gebet.", "ref": "1. Mose 24:14-21" },
+        { "text": "Sie willigte selbst ein, mit dem Diener zu gehen.", "ref": "1. Mose 24:57, 58" },
+        { "text": "Isaak liebte sie und fand nach dem Tod seiner Mutter Trost.", "ref": "1. Mose 24:67" },
+        { "text": "Sie gebar die Zwillinge Esau und Jakob.", "ref": "1. Mose 25:24-26" }
+      ],
+      "lesson": "",
+      "family": { "father": "Bethuel", "mother": "", "spouses": ["isaak"], "children": ["esau", "jakob"], "siblings": ["laban"] },
+      "related": [], "events": ["isaak-heiratet-rebekka", "jakob-erhaelt-den-segen"], "books": [],
+      "refs": ["1. Mose 24:15-67", "1. Mose 25:20-26", "1. Mose 27:5-17"],
+      "sources": [{ "title": "Rebekka – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003658" }]
+    }
+  ],
+  "events": [
+    {
+      "id": "schoepfung", "title": "Die Schöpfung", "era": "anfaenge", "year": -4100, "dateLabel": "„Im Anfang“ – Zeitpunkt unbekannt", "place": "",
+      "summary": "„Im Anfang erschuf Gott die Himmel und die Erde.“ Danach bereitete Jehova die Erde in sechs Schöpfungstagen für das Leben vor. Diese „Tage“ waren keine 24-Stunden-Tage, sondern längere Zeitabschnitte; wie lang sie jeweils waren, sagt die Bibel nicht. Am sechsten Tag erschuf Gott den Menschen.",
+      "facts": [
+        { "text": "Jehova ist der Schöpfer der Himmel und der Erde.", "ref": "1. Mose 1:1" },
+        { "text": "Jeder Schöpfungstag endete mit den Worten „Und es wurde Abend, und es wurde Morgen“.", "ref": "1. Mose 1:5" },
+        { "text": "Jeder Schöpfungstag dauerte länger als 24 Stunden.", "ref": "" },
+        { "text": "Am siebten Tag ruhte Gott von seinem Werk.", "ref": "1. Mose 2:1-3" }
+      ],
+      "significance": "", "persons": ["jehova"], "refs": ["1. Mose 1:1–2:3"],
+      "sources": [{ "title": "Schöpfung – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001061" }]
+    },
+    {
+      "id": "erschaffung-des-menschen", "title": "Jehova erschafft Adam und Eva", "era": "anfaenge", "year": -4026, "dateLabel": "4026 v. u. Z.", "place": "Eden",
+      "summary": "Als Krönung seiner irdischen Schöpfung bildete Jehova den ersten Menschen, Adam, aus dem Staub des Erdbodens und machte ihn zu einer lebenden Seele – wahrscheinlich im Herbst 4026 v. u. Z. Weil es nicht gut war, dass der Mensch allein blieb, bildete Gott aus einer Rippe Adams die Frau, Eva. Beide lebten im Garten Eden, einem Paradies.",
+      "facts": [
+        { "text": "Der Mensch wurde „im Bilde Gottes“ erschaffen.", "ref": "1. Mose 1:27" },
+        { "text": "Jehova bildete Adam aus Staub; so wurde er eine lebende Seele.", "ref": "1. Mose 2:7" },
+        { "text": "Gott gab dem Paar den Auftrag, die Erde zu füllen.", "ref": "1. Mose 1:28" },
+        { "text": "Im Garten Eden wuchsen Bäume, die gut zur Speise waren.", "ref": "1. Mose 2:9" }
+      ],
+      "significance": "Die Bäume in Eden hätten Adam für immer am Leben erhalten können.", "persons": ["jehova", "adam", "eva"],
+      "refs": ["1. Mose 1:26-28", "1. Mose 2:7-25"],
+      "sources": [
+        { "title": "Adam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000089" },
+        { "title": "Eva – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001450" }
+      ]
+    },
+    {
+      "id": "suendenfall", "title": "Rebellion in Eden", "era": "anfaenge", "year": -4025, "dateLabel": "Kurz nach der Erschaffung des Menschen", "place": "Eden",
+      "summary": "Satan sprach durch eine Schlange zu Eva und stellte Gottes Gebot infrage. Eva ließ sich täuschen, aß von dem Baum der Erkenntnis von Gut und Böse und veranlasste Adam, ebenfalls davon zu essen. Dadurch kamen Sünde und Tod über alle Menschen. Zugleich sagte Jehova einen „Nachkommen“ voraus, der die Schlange schließlich zermalmen würde.",
+      "facts": [
+        { "text": "Die Schlange war das Sprachrohr eines unsichtbaren Geistgeschöpfes.", "ref": "1. Mose 3:1-5" },
+        { "text": "Eva wurde getäuscht; Adam hörte auf die Stimme seiner Frau.", "ref": "1. Timotheus 2:14" },
+        { "text": "Gott verkündete das Urteil: Mühsal, Schmerzen und die Rückkehr zum Staub.", "ref": "1. Mose 3:16-19" },
+        { "text": "Erste Prophezeiung: Der „Nachkomme“ der Frau würde der Schlange den Kopf zermalmen.", "ref": "1. Mose 3:15" },
+        { "text": "Durch einen Menschen kam die Sünde in die Welt und durch die Sünde der Tod.", "ref": "Römer 5:12" }
+      ],
+      "significance": "Mit der Ankündigung des „Nachkommen“ beginnt das Hauptthema der Bibel.", "persons": ["adam", "eva", "satan", "jehova"],
+      "refs": ["1. Mose 3:1-24"],
+      "sources": [
+        { "title": "Eva – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001450" },
+        { "title": "B1 Das Hauptthema der Bibel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070221" }
+      ]
+    },
+    {
+      "id": "kain-und-abel", "title": "Kain tötet Abel", "era": "anfaenge", "year": -4000, "dateLabel": "Zeitpunkt unbekannt", "place": "",
+      "summary": "Kain und Abel, die Söhne Adams und Evas, brachten Jehova Opfer dar – Kain von seinem Ernteertrag, Abel von den Erstlingen seiner Herde. Gott nahm Abels Opfer wohlwollend an, das Kains jedoch nicht. Statt sich zu ändern, erschlug Kain seinen Bruder. Daraufhin wurde er vom Erdboden verbannt.",
+      "facts": [
+        { "text": "Abels Opfer war wegen seines Glaubens „wertvoller“.", "ref": "Hebräer 11:4" },
+        { "text": "Gott warnte Kain vor der Sünde, die auf ihn lauerte.", "ref": "1. Mose 4:6, 7" },
+        { "text": "Kain erschlug Abel auf dem Feld.", "ref": "1. Mose 4:8" },
+        { "text": "Kain wurde verbannt; der Boden sollte ihm kaum noch Ertrag bringen.", "ref": "1. Mose 4:11, 12" }
+      ],
+      "significance": "", "persons": ["kain", "abel", "jehova"], "refs": ["1. Mose 4:1-16", "1. Johannes 3:11, 12"],
+      "sources": [
+        { "title": "Kain – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000857" },
+        { "title": "Abel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000018" }
+      ]
+    },
+    {
+      "id": "henoch-wandelt-mit-gott", "title": "Henoch wandelt mit Gott", "era": "anfaenge", "year": -3100, "dateLabel": "Vor der Sintflut", "place": "",
+      "summary": "Henoch, der Siebte in der Linie von Adam her, wandelte beständig mit dem wahren Gott, während die meisten Menschen gottlos lebten. Als Prophet kündigte er Gottes Gericht über die Gottlosen an und wurde deshalb wahrscheinlich verfolgt. Gott ließ nicht zu, dass ihn seine Feinde töteten, sondern „nahm ihn hinweg“.",
+      "facts": [
+        { "text": "Er prophezeite, dass Gott mit seinen heiligen Myriaden Gericht halten werde.", "ref": "Judas 14-15" },
+        { "text": "Gott verkürzte sein Leben auf 365 Jahre.", "ref": "1. Mose 5:23, 24" },
+        { "text": "Er gehört zu den Vorbildern des Glaubens.", "ref": "Hebräer 11:5" }
+      ],
+      "significance": "", "persons": ["henoch"], "refs": ["1. Mose 5:21-24", "Hebräer 11:5", "Judas 14-15"],
+      "sources": [{ "title": "Henoch – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001371" }]
+    },
+    {
+      "id": "tod-adams", "title": "Adam stirbt", "era": "anfaenge", "year": -3096, "dateLabel": "3096 v. u. Z.", "place": "",
+      "summary": "Adam starb im Alter von 930 Jahren. Wie Gott angekündigt hatte, kehrte er zum Staub zurück, aus dem er genommen war. Er erlebte noch Lamech, den Vater Noahs, als Zeitgenossen. Durch seinen Ungehorsam hatte er Sünde und Tod an alle seine Nachkommen weitergegeben.",
+      "facts": [
+        { "text": "Adam wurde 930 Jahre alt.", "ref": "1. Mose 5:5" },
+        { "text": "Gottes Urteil lautete: Zum Staub wirst du zurückkehren.", "ref": "1. Mose 3:19" },
+        { "text": "Durch ihn kam der Tod auf alle Menschen.", "ref": "Römer 5:12" }
+      ],
+      "significance": "", "persons": ["adam"], "refs": ["1. Mose 5:3-5"],
+      "sources": [{ "title": "Adam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000089" }]
+    },
+    {
+      "id": "nephilim", "title": "Ungehorsame Engel und die Nephilim", "era": "anfaenge", "year": -2500, "dateLabel": "Vor der Sintflut", "place": "",
+      "summary": "In den Tagen Noahs verließen Engel ihre ursprüngliche Stellung und ihre rechte Wohnstätte, heirateten Frauen und zeugten Nachkommen, die Nephilim. Diese „Männer von Ruhm“ schürten die Gewalttat auf der ganzen Erde. Die Menschen waren so verdorben, dass jede Neigung ihres Herzens nur schlecht war.",
+      "facts": [
+        { "text": "„Nephilim“ bedeutet „Fäller“ oder „die zu Fall Bringenden“.", "ref": "1. Mose 6:4" },
+        { "text": "Die ungehorsamen Engel verließen ihre rechte Wohnstätte.", "ref": "Judas 6" },
+        { "text": "Die Erde war verderbt und voll Gewalttat.", "ref": "1. Mose 6:11, 12" }
+      ],
+      "significance": "", "persons": [], "refs": ["1. Mose 6:1-7", "Judas 6"],
+      "sources": [
+        { "title": "Nephilim – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003223" },
+        { "title": "Noah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003266" }
+      ]
+    },
+    {
+      "id": "bau-der-arche", "title": "Noah baut die Arche", "era": "anfaenge", "year": -2420, "dateLabel": "Etwa 40–50 Jahre vor der Sintflut", "place": "",
+      "summary": "Gott kündigte an, die gewalttätige Welt durch eine Flut zu vernichten, schloss einen Bund mit Noah und beauftragte ihn, eine Arche zu bauen. Unterstützt von seiner Familie machte sich Noah an das gewaltige Werk und warnte zugleich als „Prediger der Gerechtigkeit“ seine Zeitgenossen. Er tat genau das, was Gott ihm geboten hatte.",
+      "facts": [
+        { "text": "Gott setzte der damaligen Welt eine Frist von 120 Jahren.", "ref": "1. Mose 6:3" },
+        { "text": "Als Noahs Söhne erwachsen und verheiratet waren, erhielt er den Auftrag zum Bau.", "ref": "1. Mose 6:13-18" },
+        { "text": "Noah tat alles, was Gott geboten hatte.", "ref": "1. Mose 6:22" },
+        { "text": "Durch seinen Glauben verurteilte er die damalige Welt.", "ref": "Hebräer 11:7" }
+      ],
+      "significance": "", "persons": ["noah", "sem", "ham", "japhet"], "refs": ["1. Mose 6:9-22", "Hebräer 11:7", "2. Petrus 2:5"],
+      "sources": [
+        { "title": "Noah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003266" },
+        { "title": "Arche – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000367" }
+      ]
+    },
+    {
+      "id": "sintflut", "title": "Die Sintflut", "era": "anfaenge", "year": -2370, "dateLabel": "2370 v. u. Z.", "place": "Weltweit; die Arche landete auf den Bergen von Ararat",
+      "summary": "Weil die Erde voll Gewalttat war, vernichtete Jehova die damalige Welt durch eine gewaltige Flut – die größte Überschwemmung der Geschichte. Nur der gerechte Noah und seine Familie, insgesamt acht Menschen, überlebten mit den Tieren in der Arche. Die Flut dauerte über ein Jahr; etwa fünf Monate nach Beginn des Regens setzte die Arche auf den Bergen von Ararat auf.",
+      "facts": [
+        { "text": "Es war keine örtliche Überschwemmung, sondern eine weltweite Katastrophe.", "ref": "Lukas 17:27" },
+        { "text": "Nur acht Menschen überlebten.", "ref": "1. Petrus 3:20" },
+        { "text": "Die Arche ruhte auf den Bergen von Ararat.", "ref": "1. Mose 8:4" },
+        { "text": "Das Sinken des Wassers dauerte am längsten; insgesamt dauerte die Flut über ein Jahr.", "ref": "1. Mose 8:13, 14" }
+      ],
+      "significance": "", "persons": ["noah", "sem", "ham", "japhet"], "refs": ["1. Mose 7:1–8:19", "Matthäus 24:37-39", "2. Petrus 3:5-7"],
+      "sources": [{ "title": "Sintflut – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001150" }]
+    },
+    {
+      "id": "regenbogenbund", "title": "Gottes Bund mit Noah", "era": "anfaenge", "year": -2369, "dateLabel": "Nach der Sintflut", "place": "",
+      "summary": "Nachdem Noah und seine Familie die Arche verlassen hatten, opferte Noah Jehova. Gott gab neue Verordnungen und schloss einen Bund mit ihnen, mit ihren Nachkommen und mit allen Lebewesen: Nie mehr sollte eine Sintflut alles Leben vernichten. Das Zeichen dieses Bundes ist der Regenbogen.",
+      "facts": [
+        { "text": "Noah baute einen Altar und brachte Jehova Opfer dar.", "ref": "1. Mose 8:20" },
+        { "text": "Gott erlaubte, Tierfleisch zu essen – Blut aber sollte nicht gegessen werden.", "ref": "1. Mose 9:3, 4" },
+        { "text": "Der Regenbogen ist das Zeichen der Bundesverheißung.", "ref": "1. Mose 9:11-16" }
+      ],
+      "significance": "", "persons": ["noah", "jehova"], "refs": ["1. Mose 8:18–9:17"],
+      "sources": [
+        { "title": "Regenbogen – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003626" },
+        { "title": "Noah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003266" }
+      ]
+    },
+    {
+      "id": "turmbau-zu-babel", "title": "Der Turmbau zu Babel", "era": "patriarchen", "year": -2260, "dateLabel": "In den Tagen Pelegs (2269–2030 v. u. Z.)", "place": "Babel im Land Schinar",
+      "summary": "Nach der Sintflut begannen Menschen in Babel eine Stadt und einen Turm zu bauen, dessen Spitze bis in die Himmel reichen sollte, um sich „einen berühmten Namen“ zu machen – statt, wie Gott geboten hatte, die Erde zu füllen. Der Turm war einer von Menschen erdachten Religion geweiht. Jehova verwirrte ihre Sprache und zerstreute sie über die ganze Erde.",
+      "facts": [
+        { "text": "Die Erbauer wollten sich einen berühmten Namen machen.", "ref": "1. Mose 11:4" },
+        { "text": "Jehova verwirrte ihre Sprache.", "ref": "1. Mose 11:7" },
+        { "text": "„In den Tagen Pelegs“ wurde die Erdbevölkerung geteilt.", "ref": "1. Mose 10:25" }
+      ],
+      "significance": "", "persons": [], "refs": ["1. Mose 11:1-9"],
+      "sources": [
+        { "title": "Babel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000529" },
+        { "title": "Noah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003266" }
+      ]
+    },
+    {
+      "id": "geburt-abrams", "title": "Abram wird geboren", "era": "patriarchen", "year": -2018, "dateLabel": "2018 v. u. Z.", "place": "Ur in Chaldäa",
+      "summary": "Abram, der spätere Abraham, wurde 352 Jahre nach der Sintflut geboren; sein Vater Terach war damals 130 Jahre alt. Er wuchs in Ur auf, einer blühenden Stadt im Land Schinar, die dem Kult des Mondgottes Sin ergeben war. Abram dagegen glaubte wie Sem und Noah an Jehova.",
+      "facts": [
+        { "text": "Er war der Zehnte in der Linie von Noah über Sem.", "ref": "1. Mose 11:10-26" },
+        { "text": "Terach war 130 Jahre alt, als Abram geboren wurde.", "ref": "1. Mose 11:32" },
+        { "text": "Ur lag etwa 240 km südöstlich von Babel.", "ref": "" }
+      ],
+      "significance": "", "persons": ["abraham", "terach"], "refs": ["1. Mose 11:26-28"],
+      "sources": [{ "title": "Abraham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000060" }]
+    },
+    {
+      "id": "abrahamischer-bund", "title": "Der Bund mit Abraham tritt in Kraft", "era": "patriarchen", "year": -1943, "dateLabel": "1943 v. u. Z.", "place": "Euphrat; Land Kanaan",
+      "summary": "Nach dem Tod Terachs zog Abraham mit 75 Jahren aus Haran fort und überquerte den Euphrat – offenbar am 14. Tag des Monats, der später Nisan hieß. Damit trat der Bund in Kraft, den Jehova mit ihm geschlossen hatte. Mit diesem Zeitpunkt begannen die 430 Jahre, die bis zum Auszug Israels aus Ägypten 1513 v. u. Z. reichten.",
+      "facts": [
+        { "text": "Abraham war damals 75 Jahre alt.", "ref": "1. Mose 12:4" },
+        { "text": "Gott versprach, ihn zu einer großen Nation zu machen.", "ref": "1. Mose 12:1-3" },
+        { "text": "Der angekündigte „Nachkomme“ sollte von Abraham abstammen.", "ref": "1. Mose 22:18" },
+        { "text": "Von hier an zählen die 430 Jahre bis zum Gesetzesbund.", "ref": "Galater 3:17" }
+      ],
+      "significance": "Jehova machte deutlich, dass der verheißene „Nachkomme“ aus Abrahams Familie kommen würde.", "persons": ["abraham", "sara", "lot"],
+      "refs": ["1. Mose 12:1-7", "Galater 3:16, 17"],
+      "sources": [
+        { "title": "Abraham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000060" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "B1 Das Hauptthema der Bibel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070221" }
+      ]
+    },
+    {
+      "id": "melchisedek-segnet-abram", "title": "Melchisedek segnet Abram", "era": "patriarchen", "year": -1934, "dateLabel": "vor 1933 v. u. Z.", "place": "Tiefebene Schawe („Tiefebene des Königs“)",
+      "summary": "Kedorlaomer und verbündete Könige hatten Lot verschleppt. Abram verfolgte sie mit seinen Männern, besiegte sie und befreite seinen Neffen. Auf dem Rückweg kam ihm Melchisedek, König von Salem und Priester Gottes, des Höchsten, entgegen, brachte Brot und Wein heraus und segnete ihn. Abram gab ihm den Zehnten.",
+      "facts": [
+        { "text": "Abram befreite seinen Neffen Lot.", "ref": "1. Mose 14:14-16" },
+        { "text": "Melchisedek segnete Abram im Namen Gottes, des Höchsten.", "ref": "1. Mose 14:19, 20" },
+        { "text": "Abram gab ihm ein Zehntel von allem.", "ref": "1. Mose 14:20" },
+        { "text": "Paulus erklärt im Hebräerbrief die Bedeutung dieser Begegnung.", "ref": "Hebräer 7:1-10" }
+      ],
+      "significance": "", "persons": ["abraham", "melchisedek", "lot"], "refs": ["1. Mose 14:1-24", "Hebräer 7:1-10"],
+      "sources": [{ "title": "Melchisedek – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002970" }]
+    },
+    {
+      "id": "hagar-und-ismael", "title": "Hagar und Ismael werden weggeschickt", "era": "patriarchen", "year": -1913, "dateLabel": "1913 v. u. Z.", "place": "",
+      "summary": "Am Tag, an dem Isaak entwöhnt wurde, verspottete Ismael seinen fünf Jahre alten Halbbruder. Sara bestand darauf, dass der Sohn der Sklavin nicht mit Isaak erben sollte, und Gott billigte, dass Abraham Hagar und Ismael wegschickte. Mit diesem Jahr begannen die 400 Jahre der Bedrückung der Nachkommen Abrahams, die 1513 v. u. Z. endeten.",
+      "facts": [
+        { "text": "Ismael „spottlachte“ über Isaak.", "ref": "1. Mose 21:8, 9" },
+        { "text": "Gott sagte Abraham, er solle auf Sara hören.", "ref": "1. Mose 21:12" },
+        { "text": "In der Wildnis rettete Gott Hagar und Ismael.", "ref": "1. Mose 21:17-19" },
+        { "text": "Paulus beschreibt Ismaels Verhalten als Verfolgung.", "ref": "Galater 4:29" }
+      ],
+      "significance": "Die vorhergesagten 400 Jahre der Bedrückung (1913–1513 v. u. Z.) begannen hier.", "persons": ["hagar", "ismael", "isaak", "sara", "abraham"],
+      "refs": ["1. Mose 21:8-21", "Apostelgeschichte 7:6", "Galater 4:29"],
+      "sources": [
+        { "title": "Ismael – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002215" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "sodom-und-gomorra", "title": "Untergang von Sodom und Gomorra", "era": "patriarchen", "year": -1919, "dateLabel": "um 1919 v. u. Z.", "place": "Bezirk des Jordan",
+      "summary": "Die Sünde Sodoms und Gomorras war sehr schwer. Gott sandte Engel und versicherte Abraham, die Stadt um zehn Gerechter willen zu verschonen – so viele gab es dort nicht. Die Engel führten Lot, seine Frau und seine Töchter hinaus; dann vernichtete Jehova die Städte durch Feuer. Lots Frau schaute sich um und wurde zu einer Salzsäule.",
+      "facts": [
+        { "text": "Abraham setzte sich bei Jehova für die Gerechten in Sodom ein.", "ref": "1. Mose 18:20-33" },
+        { "text": "Lot floh mit seinen Töchtern nach Zoar.", "ref": "1. Mose 19:22, 23" },
+        { "text": "Jehova vernichtete die Städte durch Feuer.", "ref": "1. Mose 19:24, 25" },
+        { "text": "Sodom und Gomorra dienen als warnendes Beispiel.", "ref": "Judas 7" }
+      ],
+      "significance": "", "persons": ["lot", "lots-frau", "abraham"], "refs": ["1. Mose 18:16–19:29", "2. Petrus 2:6-8", "Judas 7"],
+      "sources": [
+        { "title": "Sodom – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004176" },
+        { "title": "Lot – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002776" }
+      ]
+    },
+    {
+      "id": "geburt-isaaks", "title": "Isaak wird geboren", "era": "patriarchen", "year": -1918, "dateLabel": "1918 v. u. Z.", "place": "",
+      "summary": "Abraham war 100 und Sara 90 Jahre alt, als sich Gottes Verheißung erfüllte und Sara einen Sohn gebar. Er wurde Isaak („Lachen“) genannt, denn beide hatten gelacht, als sie von der Verheißung hörten, und Sara sagte: „Gott hat mir ein Lachen bereitet.“ Am achten Tag wurde Isaak beschnitten.",
+      "facts": [
+        { "text": "Gott hatte die Geburt ein Jahr zuvor angekündigt.", "ref": "1. Mose 18:10-14" },
+        { "text": "Für Jehova ist nichts zu außergewöhnlich.", "ref": "1. Mose 18:14" },
+        { "text": "Isaak sollte der Erbe des Bundes sein.", "ref": "1. Mose 17:19" },
+        { "text": "Er wurde am achten Tag beschnitten.", "ref": "1. Mose 21:4" }
+      ],
+      "significance": "", "persons": ["isaak", "abraham", "sara"], "refs": ["1. Mose 21:1-7"],
+      "sources": [
+        { "title": "Isaak – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002203" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "opferung-isaaks", "title": "Abraham ist bereit, Isaak zu opfern", "era": "patriarchen", "year": -1893, "dateLabel": "um 1893 v. u. Z.", "place": "Berg Moria",
+      "summary": "Die größte Prüfung für Abrahams Glauben: Jehova forderte ihn auf, seinen Sohn Isaak auf einem Berg im Land Moria als Brandopfer darzubringen. Abraham gehorchte, denn er rechnete damit, dass Gott Isaak sogar von den Toten auferwecken könnte. Im letzten Augenblick hielt Jehova ihn zurück und sorgte für einen Widder. Danach bekräftigte er seinen Bund mit Abraham durch einen Eid.",
+      "facts": [
+        { "text": "Isaak war damals etwa 25 Jahre alt.", "ref": "" },
+        { "text": "Abraham zog von Beerscheba zum Berg Moria.", "ref": "1. Mose 22:2-4" },
+        { "text": "Er vertraute darauf, dass Gott Isaak auferwecken könnte.", "ref": "Hebräer 11:17-19" },
+        { "text": "Gott bekräftigte den Bund durch einen Eid.", "ref": "1. Mose 22:15-18" }
+      ],
+      "significance": "", "persons": ["abraham", "isaak"], "refs": ["1. Mose 22:1-18", "Hebräer 11:17-19", "Jakobus 2:21"],
+      "sources": [
+        { "title": "Abraham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000060" },
+        { "title": "Isaak – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002203" }
+      ]
+    },
+    {
+      "id": "isaak-heiratet-rebekka", "title": "Isaak heiratet Rebekka", "era": "patriarchen", "year": -1878, "dateLabel": "1878 v. u. Z.", "place": "Mesopotamien; Negeb",
+      "summary": "Abraham sandte seinen Hausverwalter nach Mesopotamien, um unter seinen Verwandten eine Frau für Isaak zu finden. Am Brunnen erwies sich Rebekka als gütig und fleißig – sie tränkte sogar die zehn Kamele des Dieners, genau wie dieser es im Gebet erbeten hatte. Ihre Familie stimmte zu, und Rebekka ging mit, um Isaaks Frau zu werden.",
+      "facts": [
+        { "text": "Isaak war damals 40 Jahre alt.", "ref": "1. Mose 25:20" },
+        { "text": "Der Diener bat Jehova im Gebet um Leitung.", "ref": "1. Mose 24:12-14" },
+        { "text": "Rebekka willigte selbst ein, mitzugehen.", "ref": "1. Mose 24:58" },
+        { "text": "Isaak liebte Rebekka und fand nach dem Tod seiner Mutter Trost.", "ref": "1. Mose 24:67" }
+      ],
+      "significance": "", "persons": ["isaak", "rebekka", "abraham", "laban"], "refs": ["1. Mose 24:1-67"],
+      "sources": [{ "title": "Rebekka – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003658" }]
+    },
+    {
+      "id": "tod-abrahams", "title": "Abraham stirbt", "era": "patriarchen", "year": -1843, "dateLabel": "1843 v. u. Z.", "place": "Höhle von Machpela",
+      "summary": "Abraham starb im hohen Alter von 175 Jahren. Seine Söhne Isaak und Ismael begruben ihn in der Höhle von Machpela, wo bereits Sara begraben lag. Zuvor hatte er Isaak alles übergeben, was er besaß, und die Söhne seiner Nebenfrauen mit Geschenken fortgeschickt.",
+      "facts": [
+        { "text": "Abraham wurde 175 Jahre alt.", "ref": "1. Mose 25:7" },
+        { "text": "Isaak erbte alles, was Abraham besaß.", "ref": "1. Mose 25:5, 6" },
+        { "text": "Er wurde in der Höhle von Machpela begraben.", "ref": "1. Mose 25:9, 10" }
+      ],
+      "significance": "", "persons": ["abraham", "isaak", "ismael"], "refs": ["1. Mose 25:1-11"],
+      "sources": [{ "title": "Abraham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000060" }]
+    }
+  ]
+}

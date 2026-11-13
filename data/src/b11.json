@@ -1,0 +1,613 @@
+{
+  "batch": "b11",
+  "persons": [
+    {
+      "id": "lazarus", "name": "Lazarus", "altNames": ["Lazarus von Bethanien"], "sex": "m", "tags": ["juenger"],
+      "role": "Freund Jesu, von ihm auferweckt", "eras": ["jesus"], "dates": [{ "label": "Zeit", "value": "auferweckt 32 u. Z. (nach dem Fest der Einweihung)" }], "year": 32,
+      "nameMeaning": "wahrscheinlich gr. Form von Eleasar: „Gott hat geholfen“",
+      "summary": "Lazarus lebte mit seinen Schwestern Martha und Maria in Bethanien, etwa drei Kilometer von Jerusalem entfernt. Jesus liebte diese Familie und war dort oft zu Gast. Als Lazarus schwer krank wurde, kam Jesus erst, als er schon vier Tage tot war – und rief ihn aus der Gruft heraus. Wegen dieses Wunders glaubten viele an Jesus. Die Oberpriester wollten daraufhin auch Lazarus töten.",
+      "facts": [
+        { "text": "Jesus liebte Martha, Maria und Lazarus.", "ref": "Johannes 11:5" },
+        { "text": "Er lag bereits vier Tage in der Gruft.", "ref": "Johannes 11:17" },
+        { "text": "Jesus rief: „Lazarus, komm heraus!“", "ref": "Johannes 11:43, 44" },
+        { "text": "Die Oberpriester berieten, auch ihn zu töten.", "ref": "Johannes 12:9-11" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": ["martha", "maria-bethanien"] },
+      "related": ["jesus"], "events": ["auferweckung-des-lazarus"], "books": [],
+      "refs": ["Johannes 11:1-44", "Johannes 12:1-11"],
+      "sources": [{ "title": "Lazarus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002698" }]
+    },
+    {
+      "id": "martha", "name": "Martha", "altNames": [], "sex": "f", "tags": ["juenger"],
+      "role": "Schwester von Lazarus und Maria", "eras": ["jesus"], "dates": [], "year": 32, "nameMeaning": "",
+      "summary": "Martha aus Bethanien war die Schwester von Lazarus und Maria; Jesus war bei den dreien oft zu Gast. Als Jesus sie besuchte, war Martha sehr um das Essen bemüht. Jesus wies sie freundlich darauf hin, dass geistige Dinge wichtiger sind. Nach dem Tod ihres Bruders bekannte sie mit starkem Glauben, dass Jesus der Christus ist.",
+      "facts": [
+        { "text": "Sie nahm Jesus gastfreundlich in ihr Haus auf.", "ref": "Lukas 10:38" },
+        { "text": "„Martha, Martha, du bist besorgt und beunruhigt um viele Dinge.“", "ref": "Lukas 10:41, 42" },
+        { "text": "Sie glaubte an die Auferstehung am letzten Tag.", "ref": "Johannes 11:24" },
+        { "text": "„Ich habe geglaubt, dass du der Christus, der Sohn Gottes, bist.“", "ref": "Johannes 11:27" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": ["lazarus", "maria-bethanien"] },
+      "related": ["jesus"], "events": ["auferweckung-des-lazarus"], "books": [],
+      "refs": ["Lukas 10:38-42", "Johannes 11:17-27", "Johannes 12:2"],
+      "sources": [{ "title": "Martha – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002917" }]
+    },
+    {
+      "id": "maria-bethanien", "name": "Maria von Bethanien", "altNames": ["Maria"], "sex": "f", "tags": ["juenger"],
+      "role": "Schwester von Martha und Lazarus", "eras": ["jesus"], "dates": [], "year": 32,
+      "nameMeaning": "von hebr. Mirjam, „Rebellisch“ (vielleicht)",
+      "summary": "Maria war die Schwester von Martha und Lazarus in Bethanien am Osthang des Ölbergs. Während Martha sich um die Bewirtung kümmerte, setzte sich Maria zu Jesu Füßen und hörte ihm zu – Jesus sagte, sie habe „das gute Teil erwählt“. Kurz vor Jesu Tod salbte sie ihn mit kostbarem Öl.",
+      "facts": [
+        { "text": "Sie lauschte zu Jesu Füßen seinem Wort.", "ref": "Lukas 10:39" },
+        { "text": "Jesus lobte sie: Sie habe das gute Teil erwählt.", "ref": "Lukas 10:42" },
+        { "text": "Sie fiel Jesus nach Lazarus’ Tod weinend zu Füßen.", "ref": "Johannes 11:32, 33" },
+        { "text": "Sie salbte Jesu Füße mit kostbarem duftendem Öl aus echter Narde.", "ref": "Johannes 12:3" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": ["martha", "lazarus"] },
+      "related": ["jesus"], "events": ["auferweckung-des-lazarus"], "books": [],
+      "refs": ["Lukas 10:38-42", "Johannes 11:28-33", "Johannes 12:1-8"],
+      "sources": [{ "title": "Maria – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002918" }]
+    },
+    {
+      "id": "nikodemus", "name": "Nikodemus", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Pharisäer und Mitglied des Sanhedrins", "eras": ["jesus"], "dates": [], "year": 30, "nameMeaning": "„Sieger des Volkes“",
+      "summary": "Nikodemus war ein Pharisäer, Lehrer in Israel und Mitglied des Sanhedrins. Beeindruckt von Jesu Zeichen zur Passahzeit 30 u. Z., suchte er ihn bei Nacht auf. Jesus sprach mit ihm darüber, „wiedergeboren“ zu werden, und über Gottes Liebe. Später verteidigte er Jesus vor den Pharisäern, und nach Jesu Tod half er, den Leib für das Begräbnis vorzubereiten.",
+      "facts": [
+        { "text": "Er kam bei Nacht zu Jesus.", "ref": "Johannes 3:1, 2" },
+        { "text": "Jesus erklärte ihm, man müsse „wiedergeboren“ werden.", "ref": "Johannes 3:3" },
+        { "text": "Er sagte: Unser Gesetz richtet niemand, ohne ihn anzuhören.", "ref": "Johannes 7:50, 51" },
+        { "text": "Er brachte etwa 33 kg Myrrhe und Aloe für Jesu Begräbnis.", "ref": "Johannes 19:39, 40" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jesus", "joseph-von-arimathaea"], "events": ["erste-tempelreinigung", "tod-jesu"], "books": [],
+      "refs": ["Johannes 3:1-21", "Johannes 7:45-52", "Johannes 19:38-40"],
+      "sources": [{ "title": "Nikodemus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003249" }]
+    },
+    {
+      "id": "joseph-von-arimathaea", "name": "Joseph von Arimathia", "altNames": ["Joseph"], "sex": "m", "tags": ["juenger"],
+      "role": "Ratsherr, der Jesus bestattete", "eras": ["jesus"], "dates": [], "year": 33,
+      "nameMeaning": "Kurzform von Josiphja: „Möge Jah hinzufügen (mehren)“",
+      "summary": "Joseph war ein reicher Mann aus der judäischen Stadt Arimathia und ein angesehenes Mitglied des Sanhedrins. Er war gut und gerecht und wartete auf Gottes Königreich, bekannte sich aber aus Furcht nicht offen als Jünger Jesu. Dem Vorgehen des Sanhedrins gegen Jesus stimmte er nicht zu. Nach Jesu Tod bat er Pilatus mutig um den Leib und legte ihn in seine neue Felsengruft.",
+      "facts": [
+        { "text": "Er war ein Jünger, aber heimlich aus Furcht vor den Juden.", "ref": "Johannes 19:38" },
+        { "text": "Er hatte dem Beschluss des Rates nicht zugestimmt.", "ref": "Lukas 23:50, 51" },
+        { "text": "Er ging mutig zu Pilatus und bat um Jesu Leib.", "ref": "Markus 15:43" },
+        { "text": "Er legte Jesus in seine neue Gruft im Felsen.", "ref": "Matthäus 27:57-60" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jesus", "nikodemus", "pilatus"], "events": ["tod-jesu"], "books": [],
+      "refs": ["Matthäus 27:57-60", "Markus 15:42-46", "Lukas 23:50-53", "Johannes 19:38-42"],
+      "sources": [{ "title": "Joseph – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002515" }]
+    },
+    {
+      "id": "zachaeus", "name": "Zachäus", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Obersteuereinnehmer in Jericho", "eras": ["jesus"], "dates": [{ "label": "Zeit", "value": "Begegnung mit Jesus im Frühling 33 u. Z." }], "year": 33,
+      "nameMeaning": "vielleicht von einer Wurzel, die „rein“ bedeutet",
+      "summary": "Zachäus war Obersteuereinnehmer in Jericho und reich geworden. Als Jesus im Frühling 33 u. Z. durch Jericho kam, stieg der kleine Mann auf einen Baum, um ihn zu sehen. Jesus kehrte bei ihm ein, obwohl die Leute murrten. Zachäus änderte seine Gesinnung: Er versprach, die Hälfte seines Besitzes den Armen zu geben und alles Erpresste vierfach zurückzuzahlen.",
+      "facts": [
+        { "text": "Er stieg auf einen Maulbeerfeigenbaum, um Jesus zu sehen.", "ref": "Lukas 19:3, 4" },
+        { "text": "Jesus sagte: „Heute muss ich in deinem Haus bleiben.“", "ref": "Lukas 19:5" },
+        { "text": "Er wollte Erpresstes vierfach erstatten.", "ref": "Lukas 19:8" },
+        { "text": "„Heute ist diesem Haus Rettung zuteilgeworden.“", "ref": "Lukas 19:9, 10" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jesus"], "events": [], "books": [],
+      "refs": ["Lukas 19:1-10"],
+      "sources": [{ "title": "Zachäus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004650" }]
+    },
+    {
+      "id": "stephanus", "name": "Stephanus", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Erster christlicher Märtyrer", "eras": ["versammlung"], "dates": [], "year": 33,
+      "nameMeaning": "von einem Wurzelwort, das „Krone“, „Kranz“ bedeutet",
+      "summary": "Stephanus war einer der sieben Männer, die in Jerusalem für die gerechte tägliche Austeilung von Nahrung an die Witwen eingesetzt wurden. Er war voll Glauben und heiligem Geist und predigte eifrig. Gegner brachten falsche Zeugen vor den Sanhedrin. In seiner Verteidigungsrede zeigte er, wie Gott mit Israel umgegangen war. Daraufhin wurde er gesteinigt – er war der erste christliche Märtyrer.",
+      "facts": [
+        { "text": "Er gehörte zu den sieben ausgewählten Männern.", "ref": "Apostelgeschichte 6:3-5" },
+        { "text": "Er vollbrachte große Zeichen unter dem Volk.", "ref": "Apostelgeschichte 6:8" },
+        { "text": "Er sah Jesus zur Rechten Gottes stehen.", "ref": "Apostelgeschichte 7:55, 56" },
+        { "text": "„Jehova, rechne ihnen diese Sünde nicht zu!“", "ref": "Apostelgeschichte 7:60" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["philippus-evangelist", "paulus"], "events": ["stephanus-gesteinigt"], "books": [],
+      "refs": ["Apostelgeschichte 6:1-15", "Apostelgeschichte 7:1-60"],
+      "sources": [{ "title": "Stephanus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004230" }]
+    },
+    {
+      "id": "philippus-evangelist", "name": "Philippus", "altNames": ["Philippus, der Evangeliumsverkündiger"], "sex": "m", "tags": ["juenger"],
+      "role": "Evangeliumsverkündiger und Missionar", "eras": ["versammlung"], "dates": [], "year": 33, "nameMeaning": "„Pferdefreund“",
+      "summary": "Philippus gehörte wie Stephanus zu den sieben Männern, die in Jerusalem die Verteilung von Nahrung an die Witwen beaufsichtigten. Als die Jünger durch Verfolgung zerstreut wurden, predigte er in Samaria, wo viele getauft wurden. Danach erklärte er einem äthiopischen Eunuchen die Schriften und taufte ihn. Rund 20 Jahre später lebte er als Evangeliumsverkündiger in Cäsarea; er hatte vier Töchter, die prophezeiten.",
+      "facts": [
+        { "text": "Er war einer der sieben Männer.", "ref": "Apostelgeschichte 6:5" },
+        { "text": "Er verkündigte in Samaria den Christus.", "ref": "Apostelgeschichte 8:5-8" },
+        { "text": "Er taufte den äthiopischen Eunuchen.", "ref": "Apostelgeschichte 8:35-38" },
+        { "text": "Paulus und Lukas wohnten um 56 u. Z. in seinem Haus.", "ref": "Apostelgeschichte 21:8, 9" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": ["Vier Töchter"], "siblings": [] },
+      "related": ["stephanus", "paulus"], "events": ["philippus-und-der-aethiopier"], "books": [],
+      "refs": ["Apostelgeschichte 6:1-6", "Apostelgeschichte 8:4-40", "Apostelgeschichte 21:8-10"],
+      "sources": [{ "title": "Philippus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003466" }]
+    },
+    {
+      "id": "paulus", "name": "Paulus", "altNames": ["Saulus", "Saulus von Tarsus", "Saul"], "sex": "m", "tags": ["apostel", "schreiber"],
+      "role": "Apostel für die Nationen", "eras": ["versammlung"],
+      "dates": [{ "label": "Wirken", "value": "ab seiner Bekehrung um 34 u. Z." }, { "label": "Gestorben", "value": "wahrscheinlich um 65 u. Z. in Rom" }], "year": 34,
+      "nameMeaning": "„Gering“, „Klein“ (aus dem Lateinischen)",
+      "summary": "Paulus, auch Saulus genannt, stammte aus Tarsus in Zilizien, war Benjaminit, Pharisäer und von Geburt römischer Bürger; Gamaliel hatte ihn unterrichtet. Zuerst verfolgte er die Christen heftig, doch um 34 u. Z. offenbarte sich ihm Jesus auf dem Weg nach Damaskus. Als „Apostel für die Nationen“ unternahm er drei Missionsreisen, gründete viele Versammlungen und schrieb 14 Briefe der Christlichen Griechischen Schriften. Er starb wahrscheinlich um 65 u. Z. unter Nero als Märtyrer.",
+      "facts": [
+        { "text": "Er war bei der Steinigung des Stephanus einverstanden.", "ref": "Apostelgeschichte 8:1" },
+        { "text": "Jesus erschien ihm auf dem Weg nach Damaskus.", "ref": "Apostelgeschichte 9:3-6" },
+        { "text": "Er lernte das Handwerk des Zeltmachers.", "ref": "Apostelgeschichte 18:3" },
+        { "text": "Er nannte sich „Apostel für die Nationen“.", "ref": "Römer 11:13" },
+        { "text": "„Ich habe den vortrefflichen Kampf gekämpft.“", "ref": "2. Timotheus 4:7" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["barnabas", "silas", "timotheus", "lukas", "gamaliel", "stephanus"],
+      "events": ["stephanus-gesteinigt", "bekehrung-des-saulus", "erste-missionsreise", "beschneidungsfrage", "zweite-missionsreise", "paulus-in-athen", "dritte-missionsreise", "paulus-verhaftet", "schiffbruch", "paulus-in-rom", "tod-des-paulus"],
+      "books": ["Römer", "1. Korinther", "2. Korinther", "Galater", "Epheser", "Philipper", "Kolosser", "1. Thessalonicher", "2. Thessalonicher", "1. Timotheus", "2. Timotheus", "Titus", "Philemon", "Hebräer"],
+      "refs": ["Apostelgeschichte 9:1-22", "Apostelgeschichte 22:3", "Philipper 3:4-8", "2. Korinther 11:23-28"],
+      "sources": [
+        { "title": "Paulus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003406" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "barnabas", "name": "Barnabas", "altNames": ["Joseph"], "sex": "m", "tags": ["juenger"],
+      "role": "Missionar, Gefährte des Paulus", "eras": ["versammlung"], "dates": [], "year": 33, "nameMeaning": "„Sohn des Trostes“",
+      "summary": "Barnabas hieß eigentlich Joseph und war ein Levit aus Zypern; die Apostel gaben ihm den Beinamen Barnabas. Kurz nach Pfingsten verkaufte er ein Feld und gab den Erlös den Aposteln. Er war warmherzig und ermunterte andere. Er stellte Paulus den Aposteln vor, wirkte mit ihm in Antiochia und unternahm mit ihm die erste Missionsreise. Später nahm er seinen Cousin Markus mit nach Zypern.",
+      "facts": [
+        { "text": "Er verkaufte ein Feld und gab das Geld den Aposteln.", "ref": "Apostelgeschichte 4:36, 37" },
+        { "text": "Er setzte sich für den neubekehrten Saulus ein.", "ref": "Apostelgeschichte 9:27" },
+        { "text": "Er war „ein guter Mann und voll heiligem Geist und Glauben“.", "ref": "Apostelgeschichte 11:24" },
+        { "text": "Er trennte sich von Paulus wegen Markus.", "ref": "Apostelgeschichte 15:37-39" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus", "markus"], "events": ["erste-missionsreise", "beschneidungsfrage"], "books": [],
+      "refs": ["Apostelgeschichte 4:36, 37", "Apostelgeschichte 11:22-26", "Apostelgeschichte 13:1-4"],
+      "sources": [{ "title": "Barnabas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000566" }]
+    },
+    {
+      "id": "ananias-und-sapphira", "name": "Ananias und Sapphira", "altNames": ["Ananias", "Sapphira"], "sex": "m", "tags": [],
+      "role": "Ehepaar, das den heiligen Geist belog", "eras": ["versammlung"], "dates": [], "year": 33,
+      "nameMeaning": "Ananias: „Jehova hat Gunst erwiesen“",
+      "summary": "Nach Pfingsten 33 u. Z. unterstützten sich die Christen in Jerusalem gegenseitig aus einem gemeinsamen Fonds. Ananias verkaufte ein Feld und gab mit Wissen seiner Frau Sapphira nur einen Teil des Erlöses ab, tat aber so, als sei es der ganze Betrag – vermutlich, um Ansehen zu gewinnen. Petrus deckte die Täuschung auf. Ananias fiel tot nieder, und etwa drei Stunden später starb auch Sapphira, die die Lüge aufrechterhielt.",
+      "facts": [
+        { "text": "Sie behielten heimlich einen Teil des Erlöses.", "ref": "Apostelgeschichte 5:1, 2" },
+        { "text": "Petrus: Du hast nicht Menschen belogen, sondern Gott.", "ref": "Apostelgeschichte 5:3, 4" },
+        { "text": "Ananias fiel nieder und starb.", "ref": "Apostelgeschichte 5:5" },
+        { "text": "Etwa drei Stunden später starb auch Sapphira.", "ref": "Apostelgeschichte 5:7-10" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["petrus"], "events": [], "books": [],
+      "refs": ["Apostelgeschichte 5:1-11"],
+      "sources": [{ "title": "Ananias – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000267" }]
+    },
+    {
+      "id": "ananias-damaskus", "name": "Ananias", "altNames": ["Ananias von Damaskus"], "sex": "m", "tags": ["juenger"],
+      "role": "Jünger in Damaskus", "eras": ["versammlung"], "dates": [], "year": 34,
+      "nameMeaning": "„Jehova hat Gunst erwiesen“",
+      "summary": "Ananias war ein christlicher Jünger in Damaskus. Nach der Bekehrung des Saulus nannte Jesus ihm in einer Vision dessen Namen und Adresse. Ananias zögerte zuerst, weil er wusste, wie heftig Saulus die Christen verfolgt hatte. Doch er ging hin, Saulus erhielt sein Augenlicht zurück, und Ananias teilte ihm seinen Auftrag mit. Paulus beschrieb ihn später als ehrfurchtsvollen Mann mit gutem Ruf.",
+      "facts": [
+        { "text": "Jesus sandte ihn in einer Vision zu Saulus.", "ref": "Apostelgeschichte 9:10-12" },
+        { "text": "Er hatte zuerst Bedenken.", "ref": "Apostelgeschichte 9:13, 14" },
+        { "text": "Durch ihn erhielt Saulus sein Augenlicht zurück.", "ref": "Apostelgeschichte 9:17, 18" },
+        { "text": "Er stand bei allen Juden in Damaskus in gutem Ruf.", "ref": "Apostelgeschichte 22:12" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus"], "events": ["bekehrung-des-saulus"], "books": [],
+      "refs": ["Apostelgeschichte 9:10-19", "Apostelgeschichte 22:12-16"],
+      "sources": [{ "title": "Ananias – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000267" }]
+    },
+    {
+      "id": "kornelius", "name": "Kornelius", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Römischer Offizier, erster unbeschnittener Christ", "eras": ["versammlung"], "dates": [{ "label": "Zeit", "value": "getauft im Herbst 36 u. Z." }], "year": 36, "nameMeaning": "",
+      "summary": "Kornelius war ein Offizier über 100 Soldaten der italischen Abteilung und lebte in Cäsarea. Er war gottergeben, gab viele Gaben der Barmherzigkeit und betete unablässig. Im Herbst 36 u. Z. erschien ihm ein Engel und sagte ihm, er solle Petrus holen lassen. Während Petrus predigte, kam heiliger Geist auf Kornelius und seine Angehörigen und Freunde – sie wurden die ersten unbeschnittenen Nichtjuden in der Christenversammlung.",
+      "facts": [
+        { "text": "Er war ein gottergebener Mann, der Gott fürchtete.", "ref": "Apostelgeschichte 10:1, 2" },
+        { "text": "Ein Engel sagte: Deine Gebete sind vor Gott emporgestiegen.", "ref": "Apostelgeschichte 10:3, 4" },
+        { "text": "Er versammelte Verwandte und Freunde, um Petrus zu hören.", "ref": "Apostelgeschichte 10:24, 33" },
+        { "text": "Sie empfingen heiligen Geist und wurden getauft.", "ref": "Apostelgeschichte 10:44-48" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["petrus"], "events": ["kornelius-getauft"], "books": [],
+      "refs": ["Apostelgeschichte 10:1-48"],
+      "sources": [{ "title": "Kornelius – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001041" }]
+    },
+    {
+      "id": "tabitha", "name": "Dorkas", "altNames": ["Tabitha"], "sex": "f", "tags": ["juenger"],
+      "role": "Christin in Joppe, von Petrus auferweckt", "eras": ["versammlung"], "dates": [{ "label": "Zeit", "value": "gestorben und auferweckt 36 u. Z." }], "year": 36,
+      "nameMeaning": "„Gazelle“ (Dorkas und Tabitha)",
+      "summary": "Dorkas, auf Aramäisch Tabitha, gehörte zur Versammlung in Joppe. Sie tat viel Gutes und nähte unter anderem Kleidung für bedürftige Witwen. Sie ist die einzige Frau, die in der Bibel ausdrücklich „Jüngerin“ genannt wird. Als sie 36 u. Z. starb, holten die Jünger Petrus aus Lydda. Er betete und sagte: „Tabitha, steh auf!“ – die erste berichtete Auferweckung durch einen Apostel. Daraufhin wurden in Joppe viele gläubig.",
+      "facts": [
+        { "text": "Sie war reich an guten Taten und Gaben der Barmherzigkeit.", "ref": "Apostelgeschichte 9:36" },
+        { "text": "Die Witwen zeigten die Kleider, die sie gemacht hatte.", "ref": "Apostelgeschichte 9:39" },
+        { "text": "Petrus sagte: „Tabitha, steh auf!“", "ref": "Apostelgeschichte 9:40" },
+        { "text": "Viele in Joppe wurden gläubig.", "ref": "Apostelgeschichte 9:42" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["petrus"], "events": [], "books": [],
+      "refs": ["Apostelgeschichte 9:36-42"],
+      "sources": [{ "title": "Dorkas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001214" }]
+    },
+    {
+      "id": "gamaliel", "name": "Gamaliel", "altNames": [], "sex": "m", "tags": [],
+      "role": "Pharisäer und Gesetzeslehrer", "eras": ["versammlung"], "dates": [], "year": 33,
+      "nameMeaning": "vielleicht „Lohn (Belohnung) von Gott“",
+      "summary": "Gamaliel war ein angesehener Pharisäer, Gesetzeslehrer und Mitglied des Sanhedrins; Paulus war zu seinen Füßen im Gesetz unterwiesen worden. Als die Apostel vor den Sanhedrin gestellt wurden, riet er, sie in Ruhe zu lassen: Sei ihr Werk von Menschen, werde es scheitern; sei es aber von Gott, könne man es nicht stürzen.",
+      "facts": [
+        { "text": "Er war beim ganzen Volk geachtet.", "ref": "Apostelgeschichte 5:34" },
+        { "text": "„Wenn es aber von Gott ist, werdet ihr sie nicht stürzen können.“", "ref": "Apostelgeschichte 5:38, 39" },
+        { "text": "Paulus wurde zu seinen Füßen unterrichtet.", "ref": "Apostelgeschichte 22:3" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus", "petrus"], "events": [], "books": [],
+      "refs": ["Apostelgeschichte 5:33-40", "Apostelgeschichte 22:3"],
+      "sources": [{ "title": "Gamaliel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001604" }]
+    },
+    {
+      "id": "herodes-agrippa-i", "name": "Herodes Agrippa I.", "altNames": ["König Herodes", "Agrippa I."], "sex": "m", "tags": ["herrscher"],
+      "role": "König über Judäa", "eras": ["versammlung"], "dates": [{ "label": "Gestorben", "value": "44 u. Z." }], "year": 41, "nameMeaning": "",
+      "summary": "Herodes Agrippa I. war ein Enkel Herodes’ des Großen und der letzte Herodianer, der König über ganz Palästina wurde. Um den Juden zu gefallen, ließ er den Apostel Jakobus mit dem Schwert hinrichten und Petrus festnehmen, den ein Engel befreite. In Cäsarea ließ er sich bei einer Rede als Gott feiern; da schlug ihn der Engel Jehovas, und er starb 44 u. Z.",
+      "facts": [
+        { "text": "Er ließ Jakobus, den Bruder des Johannes, töten.", "ref": "Apostelgeschichte 12:1, 2" },
+        { "text": "Er ließ Petrus ins Gefängnis werfen.", "ref": "Apostelgeschichte 12:3, 4" },
+        { "text": "Das Volk rief: „Eines Gottes Stimme und nicht eines Menschen!“", "ref": "Apostelgeschichte 12:21, 22" },
+        { "text": "Der Engel Jehovas schlug ihn, weil er Gott nicht die Ehre gab.", "ref": "Apostelgeschichte 12:23" }
+      ],
+      "lesson": "",
+      "family": { "father": "Aristobulos", "mother": "", "spouses": [], "children": ["herodes-agrippa-ii", "Bernice", "Drusilla", "Mariamne III."], "siblings": [] },
+      "related": ["herodes-der-grosse", "jakobus-zebedaeus", "petrus"], "events": ["petrus-befreit"], "books": [],
+      "refs": ["Apostelgeschichte 12:1-23"],
+      "sources": [{ "title": "Herodes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002000" }]
+    },
+    {
+      "id": "herodes-agrippa-ii", "name": "Herodes Agrippa II.", "altNames": ["König Agrippa", "Agrippa"], "sex": "m", "tags": ["herrscher"],
+      "role": "König, vor dem Paulus sich verteidigte", "eras": ["versammlung"], "dates": [], "year": 58, "nameMeaning": "",
+      "summary": "Herodes Agrippa II., Sohn von Agrippa I., war ein Urenkel Herodes’ des Großen; mit ihm endete die Linie der herodianischen Fürsten. Er wurde in Rom erzogen und herrschte über mehrere Gebiete. Wahrscheinlich 58 u. Z. besuchte er mit seiner Schwester Bernice den Statthalter Festus in Cäsarea. Dort hörte er die Verteidigungsrede des Paulus und erkannte, dass dieser nichts getan hatte, was Tod oder Fesseln verdiente.",
+      "facts": [
+        { "text": "Er kam mit Bernice zu Festus nach Cäsarea.", "ref": "Apostelgeschichte 25:13" },
+        { "text": "Paulus verteidigte sich vor ihm.", "ref": "Apostelgeschichte 26:1-3" },
+        { "text": "„In kurzer Zeit würdest du mich überreden, ein Christ zu werden.“", "ref": "Apostelgeschichte 26:28" },
+        { "text": "Er hielt Paulus für unschuldig.", "ref": "Apostelgeschichte 26:31, 32" }
+      ],
+      "lesson": "",
+      "family": { "father": "herodes-agrippa-i", "mother": "Kypros", "spouses": [], "children": [], "siblings": ["Bernice", "Drusilla", "Mariamne III."] },
+      "related": ["paulus", "festus", "felix"], "events": ["paulus-verhaftet"], "books": [],
+      "refs": ["Apostelgeschichte 25:13–26:32"],
+      "sources": [{ "title": "Herodes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002000" }]
+    },
+    {
+      "id": "felix", "name": "Felix", "altNames": [], "sex": "m", "tags": ["herrscher"],
+      "role": "Römischer Prokurator von Judäa", "eras": ["versammlung"], "dates": [{ "label": "Zeit", "value": "hielt Paulus um 56–58 u. Z. gefangen" }], "year": 56,
+      "nameMeaning": "„glücklich“ (aus dem Lateinischen)",
+      "summary": "Felix war Prokurator der römischen Provinz Judäa. Nach dem letzten Jerusalembesuch des Paulus um 56 u. Z. hielt er ihn zwei Jahre lang in Cäsarea gefangen. Als Paulus vor ihm und seiner Frau Drusilla über Gerechtigkeit, Selbstbeherrschung und das kommende Gericht sprach, geriet Felix in Furcht. Er hoffte vergeblich auf Bestechungsgeld. Vermutlich 58 u. Z. löste Festus ihn ab.",
+      "facts": [
+        { "text": "Paulus verteidigte sich vor ihm in Cäsarea.", "ref": "Apostelgeschichte 24:10" },
+        { "text": "Er geriet in Furcht, als Paulus vom Gericht sprach.", "ref": "Apostelgeschichte 24:24, 25" },
+        { "text": "Er hoffte, Paulus würde ihm Geld geben.", "ref": "Apostelgeschichte 24:26" },
+        { "text": "Er ließ Paulus gebunden zurück, um den Juden zu gefallen.", "ref": "Apostelgeschichte 24:27" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Drusilla"], "children": [], "siblings": [] },
+      "related": ["paulus", "festus", "herodes-agrippa-ii"], "events": ["paulus-verhaftet"], "books": [],
+      "refs": ["Apostelgeschichte 23:23–24:27"],
+      "sources": [{ "title": "Felix – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001502" }]
+    },
+    {
+      "id": "festus", "name": "Festus", "altNames": ["Porcius Festus"], "sex": "m", "tags": ["herrscher"],
+      "role": "Römischer Statthalter von Judäa", "eras": ["versammlung"], "dates": [{ "label": "Zeit", "value": "Statthalter ab wahrscheinlich 58 u. Z." }], "year": 58,
+      "nameMeaning": "„festlich“, „freudig“ (aus dem Lateinischen)",
+      "summary": "Porcius Festus folgte Felix als Statthalter von Judäa, wahrscheinlich 58 u. Z. Die Oberpriester wollten Paulus nach Jerusalem bringen lassen, doch Festus verhandelte in Cäsarea. Als er Paulus fragte, ob er in Jerusalem gerichtet werden wolle, berief sich Paulus auf Cäsar. Festus war von seiner Unschuld überzeugt und legte den Fall König Agrippa II. vor.",
+      "facts": [
+        { "text": "Er folgte Felix im Amt.", "ref": "Apostelgeschichte 24:27" },
+        { "text": "Paulus rief: „Ich berufe mich auf Cäsar!“", "ref": "Apostelgeschichte 25:11, 12" },
+        { "text": "Er fand nichts, was den Tod verdient hätte.", "ref": "Apostelgeschichte 25:25" },
+        { "text": "Er hielt Paulus für „von Sinnen“.", "ref": "Apostelgeschichte 26:24" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus", "felix", "herodes-agrippa-ii"], "events": ["paulus-verhaftet"], "books": [],
+      "refs": ["Apostelgeschichte 25:1-27"],
+      "sources": [{ "title": "Festus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001512" }]
+    },
+    {
+      "id": "silas", "name": "Silas", "altNames": ["Silvanus"], "sex": "m", "tags": ["prophet", "juenger"],
+      "role": "Prophet, Gefährte des Paulus", "eras": ["versammlung"], "dates": [], "year": 49,
+      "nameMeaning": "„Wald“ (Silvanus, aus dem Lateinischen)",
+      "summary": "Silas, auch Silvanus genannt, war ein führender Bruder der Versammlung in Jerusalem, ein Prophet und offenbar römischer Bürger. Er überbrachte mit Paulus und Barnabas die Entscheidung über die Beschneidung nach Antiochia. Auf der zweiten Missionsreise begleitete er Paulus; in Philippi wurden beide geschlagen und eingesperrt, sangen aber nachts Lieder. Später schrieb Petrus seinen ersten Brief „durch Silvanus“.",
+      "facts": [
+        { "text": "Er brachte den Brief der Apostel nach Antiochia.", "ref": "Apostelgeschichte 15:22, 27" },
+        { "text": "Paulus wählte ihn als Reisegefährten.", "ref": "Apostelgeschichte 15:40" },
+        { "text": "Im Gefängnis von Philippi beteten und sangen sie.", "ref": "Apostelgeschichte 16:25, 26" },
+        { "text": "Petrus schrieb „durch Silvanus“.", "ref": "1. Petrus 5:12" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus", "timotheus", "petrus"], "events": ["beschneidungsfrage", "zweite-missionsreise"], "books": [],
+      "refs": ["Apostelgeschichte 15:22-40", "Apostelgeschichte 16:19-40"],
+      "sources": [{ "title": "Silas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004118" }]
+    },
+    {
+      "id": "timotheus", "name": "Timotheus", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Missionar, Mitarbeiter des Paulus", "eras": ["versammlung"], "dates": [], "year": 49, "nameMeaning": "„Gott Ehrender“",
+      "summary": "Timotheus war der Sohn der Jüdin Eunike und eines griechischen Vaters. Seine Mutter und wohl auch seine Großmutter Lois lehrten ihn von klein auf die heiligen Schriften. Als Paulus Ende 49 oder Anfang 50 u. Z. nach Lystra kam, hatte Timotheus bei den Brüdern einen guten Ruf; Paulus nahm ihn mit. Er besuchte und stärkte viele Versammlungen. Paulus nannte ihn sein „geliebtes und treues Kind im Herrn“ und schrieb ihm zwei Briefe.",
+      "facts": [
+        { "text": "Er war bei den Brüdern in Lystra und Ikonion in gutem Ruf.", "ref": "Apostelgeschichte 16:1, 2" },
+        { "text": "Er kannte die heiligen Schriften von frühester Kindheit an.", "ref": "2. Timotheus 3:15" },
+        { "text": "Paulus sandte ihn als sein treues Kind nach Korinth.", "ref": "1. Korinther 4:17" },
+        { "text": "Er hatte oft mit Magenbeschwerden zu kämpfen.", "ref": "1. Timotheus 5:23" }
+      ],
+      "lesson": "",
+      "family": { "father": "Grieche (Name nicht genannt)", "mother": "eunike", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus", "lois", "silas"], "events": ["zweite-missionsreise", "dritte-missionsreise", "paulus-in-rom", "tod-des-paulus"], "books": [],
+      "refs": ["Apostelgeschichte 16:1-5", "Philipper 2:19-22", "2. Timotheus 1:5"],
+      "sources": [{ "title": "Timotheus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004416" }]
+    },
+    {
+      "id": "lukas", "name": "Lukas", "altNames": [], "sex": "m", "tags": ["schreiber", "juenger"],
+      "role": "Arzt und Bibelschreiber", "eras": ["versammlung"], "dates": [], "year": 50, "nameMeaning": "",
+      "summary": "Lukas war ein gebildeter Arzt und treuer Begleiter des Paulus. Er war kein Augenzeuge des Lebens Jesu und wurde wahrscheinlich kurz nach Pfingsten 33 u. Z. gläubig. In der Apostelgeschichte verrät das „wir“, wann er dabei war: etwa von Troas nach Philippi und auf der Reise nach Rom. Er schrieb das Lukasevangelium (um 56–58 u. Z.) und die Apostelgeschichte (um 61 u. Z.) und blieb bis zuletzt bei Paulus.",
+      "facts": [
+        { "text": "Er recherchierte alles von Anfang an genau.", "ref": "Lukas 1:1-4" },
+        { "text": "Paulus nannte ihn „den geliebten Arzt“.", "ref": "Kolosser 4:14" },
+        { "text": "Er reiste mit Paulus nach Rom.", "ref": "Apostelgeschichte 27:1" },
+        { "text": "„Lukas allein ist bei mir.“", "ref": "2. Timotheus 4:11" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus"], "events": ["zweite-missionsreise", "schiffbruch", "paulus-in-rom", "tod-des-paulus"], "books": ["Lukas", "Apostelgeschichte"],
+      "refs": ["Lukas 1:1-4", "Apostelgeschichte 1:1, 2", "Apostelgeschichte 16:10-17"],
+      "sources": [
+        { "title": "Lukas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002790" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "markus", "name": "Markus", "altNames": ["Johannes Markus", "Johannes"], "sex": "m", "tags": ["schreiber", "juenger"],
+      "role": "Missionar, Schreiber des Markusevangeliums", "eras": ["versammlung"], "dates": [], "year": 44,
+      "nameMeaning": "römischer Beiname; sein hebräischer Name Johannes bedeutet „Jehova hat Gunst erwiesen“",
+      "summary": "Johannes Markus war der Sohn Marias aus Jerusalem, in deren Haus sich die ersten Christen versammelten, und ein Cousin des Barnabas. Auf der ersten Missionsreise verließ er Paulus und Barnabas in Pamphylien, worauf Paulus ihn später nicht mitnehmen wollte. Barnabas nahm ihn mit nach Zypern. Später war Markus bei Paulus in Rom und bei Petrus in Babylon, und Paulus nannte ihn „nützlich für den Dienst“. Er schrieb das Markusevangelium (um 60–65 u. Z. in Rom).",
+      "facts": [
+        { "text": "Im Haus seiner Mutter beteten viele für Petrus.", "ref": "Apostelgeschichte 12:12" },
+        { "text": "In Pamphylien kehrte er nach Jerusalem zurück.", "ref": "Apostelgeschichte 13:13" },
+        { "text": "Er war ein Cousin des Barnabas.", "ref": "Kolosser 4:10" },
+        { "text": "„Er ist mir für den Dienst nützlich.“", "ref": "2. Timotheus 4:11" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "Maria (aus Jerusalem)", "spouses": [], "children": [], "siblings": [] },
+      "related": ["barnabas", "paulus", "petrus"], "events": ["erste-missionsreise"], "books": ["Markus"],
+      "refs": ["Apostelgeschichte 12:12, 25", "Apostelgeschichte 15:37-39", "1. Petrus 5:13"],
+      "sources": [
+        { "title": "Markus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002902" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "lydia", "name": "Lydia", "altNames": [], "sex": "f", "tags": ["juenger"],
+      "role": "Purpurhändlerin in Philippi", "eras": ["versammlung"], "dates": [{ "label": "Zeit", "value": "getauft um 50 u. Z." }], "year": 50, "nameMeaning": "",
+      "summary": "Lydia stammte aus Thyatira in Kleinasien und verkaufte in Philippi Purpur. Sie war eine Anbeterin Gottes und stand offenbar ihrem eigenen Haushalt vor. Als Paulus um 50 u. Z. in Philippi predigte, öffnete Jehova ihr Herz: Sie und ihre Hausgenossen gehörten zu den ersten Christen in Europa. Sie bestand darauf, dass Paulus und seine Begleiter bei ihr wohnten.",
+      "facts": [
+        { "text": "Jehova öffnete ihr Herz weit.", "ref": "Apostelgeschichte 16:14" },
+        { "text": "Sie und ihr Haus ließen sich taufen.", "ref": "Apostelgeschichte 16:15" },
+        { "text": "Sie nötigte die Missionare, bei ihr zu bleiben.", "ref": "Apostelgeschichte 16:15" },
+        { "text": "Paulus und Silas besuchten die Brüder in ihrem Haus.", "ref": "Apostelgeschichte 16:40" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus", "silas"], "events": ["zweite-missionsreise"], "books": [],
+      "refs": ["Apostelgeschichte 16:12-15", "Apostelgeschichte 16:40"],
+      "sources": [{ "title": "Lydia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002798" }]
+    },
+    {
+      "id": "aquila", "name": "Aquila", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Zeltmacher, Mann der Priscilla", "eras": ["versammlung"], "dates": [], "year": 50, "nameMeaning": "„Adler“ (aus dem Lateinischen)",
+      "summary": "Aquila, ein Jude aus Pontus, wird immer zusammen mit seiner Frau Priscilla erwähnt. Durch das Dekret des Kaisers Claudius aus Rom vertrieben, ließen sie sich in Korinth nieder. Dort nahmen sie Paulus im Herbst 50 u. Z. bei sich auf und arbeiteten mit ihm als Zeltmacher. Später halfen sie in Ephesus Apollos, Gottes Weg genauer zu verstehen, und stellten ihr Haus für Zusammenkünfte zur Verfügung.",
+      "facts": [
+        { "text": "Paulus wohnte und arbeitete bei ihnen.", "ref": "Apostelgeschichte 18:2, 3" },
+        { "text": "Sie reisten mit Paulus nach Ephesus.", "ref": "Apostelgeschichte 18:18, 19" },
+        { "text": "Sie erklärten Apollos den Weg Gottes genauer.", "ref": "Apostelgeschichte 18:26" },
+        { "text": "Sie setzten für Paulus ihr Leben aufs Spiel.", "ref": "Römer 16:3, 4" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["priszilla"], "children": [], "siblings": [] },
+      "related": ["paulus", "apollos"], "events": ["zweite-missionsreise", "dritte-missionsreise"], "books": [],
+      "refs": ["Apostelgeschichte 18:1-3", "Apostelgeschichte 18:18-26", "1. Korinther 16:19"],
+      "sources": [{ "title": "Aquila – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000320" }]
+    },
+    {
+      "id": "priszilla", "name": "Priscilla", "altNames": ["Priska"], "sex": "f", "tags": ["juenger"],
+      "role": "Frau des Aquila", "eras": ["versammlung"], "dates": [], "year": 50,
+      "nameMeaning": "Priska: „Alte (Frau)“; Priscilla: „Kleine alte (Frau)“",
+      "summary": "Priscilla – Paulus nennt sie Priska – war die Frau Aquilas und wird immer mit ihm zusammen erwähnt. Wegen des Dekrets von Claudius verließen beide Rom und gingen um 50 u. Z. nach Korinth, wo Paulus mit ihnen als Zeltmacher arbeitete. Sie waren sehr gastfreundlich, unterstützten Einzelne wie Apollos und stellten ihr Haus in Ephesus und in Rom für Zusammenkünfte der Versammlung zur Verfügung.",
+      "facts": [
+        { "text": "Sie kam mit Aquila aus Italien nach Korinth.", "ref": "Apostelgeschichte 18:2" },
+        { "text": "Sie half Apollos, Gottes Weg genauer zu verstehen.", "ref": "Apostelgeschichte 18:26" },
+        { "text": "Paulus nannte sie und Aquila seine Mitarbeiter.", "ref": "Römer 16:3" },
+        { "text": "In ihrem Haus traf sich eine Versammlung.", "ref": "Römer 16:5" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["aquila"], "children": [], "siblings": [] },
+      "related": ["paulus", "apollos"], "events": ["zweite-missionsreise", "dritte-missionsreise"], "books": [],
+      "refs": ["Apostelgeschichte 18:1-3", "Apostelgeschichte 18:18-26", "Römer 16:3-5", "2. Timotheus 4:19"],
+      "sources": [{ "title": "Priska – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003556" }]
+    },
+    {
+      "id": "apollos", "name": "Apollos", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Redegewandter Lehrer aus Alexandria", "eras": ["versammlung"], "dates": [{ "label": "Zeit", "value": "um 52 u. Z. in Ephesus" }], "year": 52,
+      "nameMeaning": "Kurzform von Apollonius",
+      "summary": "Apollos war ein Jude aus Alexandria in Ägypten, sehr redegewandt und in den Hebräischen Schriften gut bewandert. Er kannte zunächst nur die Taufe des Johannes. Als er um 52 u. Z. in Ephesus mutig in der Synagoge sprach, erklärten Aquila und Priscilla ihm den Weg Gottes genauer. In Korinth half er den Brüdern sehr und widerlegte die Juden anhand der Schriften – er „begoss“, was Paulus „gepflanzt“ hatte.",
+      "facts": [
+        { "text": "Er war beredt und in den Schriften bewandert.", "ref": "Apostelgeschichte 18:24, 25" },
+        { "text": "Aquila und Priscilla nahmen ihn beiseite.", "ref": "Apostelgeschichte 18:26" },
+        { "text": "Er widerlegte die Juden öffentlich mit den Schriften.", "ref": "Apostelgeschichte 18:27, 28" },
+        { "text": "Paulus pflanzte, Apollos begoss – Gott aber ließ es wachsen.", "ref": "1. Korinther 3:6" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["aquila", "priszilla", "paulus"], "events": ["dritte-missionsreise"], "books": [],
+      "refs": ["Apostelgeschichte 18:24-28", "1. Korinther 3:4-9"],
+      "sources": [{ "title": "Apollos – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000307" }]
+    },
+    {
+      "id": "titus", "name": "Titus", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Griechischer Mitarbeiter des Paulus", "eras": ["versammlung"], "dates": [], "year": 49, "nameMeaning": "",
+      "summary": "Titus war ein griechischer Christ, der eng mit Paulus zusammenarbeitete. Er begleitete Paulus und Barnabas anscheinend um 49 u. Z. nach Jerusalem, als die Beschneidungsfrage geklärt wurde, und musste sich nicht beschneiden lassen. Um 55 u. Z. half er der Versammlung in Korinth und brachte Paulus einen tröstenden Bericht. Später ließ Paulus ihn auf Kreta zurück, um ältere Männer zu ernennen; Paulus schrieb ihm einen Brief.",
+      "facts": [
+        { "text": "Obwohl Grieche, wurde er nicht zur Beschneidung gezwungen.", "ref": "Galater 2:1-3" },
+        { "text": "Seine Ankunft tröstete Paulus.", "ref": "2. Korinther 7:6, 7" },
+        { "text": "Er half bei der Sammlung für die Brüder in Judäa.", "ref": "2. Korinther 8:6" },
+        { "text": "Er sollte auf Kreta ältere Männer einsetzen.", "ref": "Titus 1:4, 5" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus", "barnabas"], "events": ["beschneidungsfrage"], "books": [],
+      "refs": ["Galater 2:1-3", "2. Korinther 8:16-23", "Titus 1:4, 5"],
+      "sources": [{ "title": "Titus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004431" }]
+    },
+    {
+      "id": "philemon", "name": "Philemon", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Christ in Kolossä", "eras": ["versammlung"], "dates": [], "year": 60, "nameMeaning": "„Liebevoll“",
+      "summary": "Philemon war ein christlicher Sklavenhalter in Kolossä; in seinem Haus versammelte sich die dortige Versammlung. Er ermunterte seine Glaubensbrüder und war ein Vorbild in Glauben und Liebe. Paulus nannte ihn einen geliebten Mitarbeiter. Um 60/61 u. Z. schrieb Paulus ihm aus Rom einen Brief und bat ihn, seinen entlaufenen Sklaven Onesimus, der Christ geworden war, freundlich wieder aufzunehmen.",
+      "facts": [
+        { "text": "In seinem Haus versammelte sich eine Versammlung.", "ref": "Philemon 1-2" },
+        { "text": "Er erquickte die Herzen der Heiligen.", "ref": "Philemon 7" },
+        { "text": "Paulus bat für Onesimus.", "ref": "Philemon 10-12" },
+        { "text": "Paulus hoffte, bei ihm Gast zu sein.", "ref": "Philemon 22" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["onesimus", "paulus"], "events": [], "books": [],
+      "refs": ["Philemon 1-25"],
+      "sources": [{ "title": "Philemon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003463" }]
+    },
+    {
+      "id": "onesimus", "name": "Onesimus", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Sklave Philemons, später Christ", "eras": ["versammlung"], "dates": [], "year": 60, "nameMeaning": "„Nützlich“",
+      "summary": "Onesimus war ein Sklave Philemons in Kolossä, der seinem Herrn davonlief und nach Rom kam. Dort lernte er Paulus kennen und wurde Christ. Paulus schätzte ihn als treuen Gefährten, schickte ihn aber – mit Onesimus’ Bereitschaft – zu Philemon zurück. Er reiste mit Tychikus und nahm Briefe nach Kolossä mit. Paulus nannte ihn einen „treuen und geliebten Bruder“.",
+      "facts": [
+        { "text": "Paulus wurde in der Haft wie ein Vater für ihn.", "ref": "Philemon 10" },
+        { "text": "Einst nutzlos, jetzt nützlich.", "ref": "Philemon 11" },
+        { "text": "Paulus schickte ihn mit Tychikus nach Kolossä.", "ref": "Kolosser 4:7-9" },
+        { "text": "Philemon sollte ihn wie einen Bruder aufnehmen.", "ref": "Philemon 15-17" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["philemon", "paulus"], "events": ["paulus-in-rom"], "books": [],
+      "refs": ["Philemon 8-21", "Kolosser 4:9"],
+      "sources": [{ "title": "Onesimus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003328" }]
+    },
+    {
+      "id": "lois", "name": "Lois", "altNames": [], "sex": "f", "tags": ["juenger"],
+      "role": "Großmutter des Timotheus", "eras": ["versammlung"], "dates": [], "year": 47, "nameMeaning": "",
+      "summary": "Lois war die Großmutter des Timotheus, offenbar die Mutter seiner Mutter Eunike. Die Familie lebte anscheinend in Lystra. Paulus lobte ihren „ungeheuchelten Glauben“. Zusammen mit Eunike unterwies sie Timotheus wohl schon von klein auf in den heiligen Schriften.",
+      "facts": [
+        { "text": "Paulus erwähnt ihren ungeheuchelten Glauben.", "ref": "2. Timotheus 1:5" },
+        { "text": "Timotheus kannte die Schriften von frühester Kindheit an.", "ref": "2. Timotheus 3:15" },
+        { "text": "Die Familie lebte offenbar in Lystra.", "ref": "Apostelgeschichte 16:1, 2" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": ["eunike"], "siblings": [] },
+      "related": ["timotheus"], "events": [], "books": [],
+      "refs": ["2. Timotheus 1:5", "2. Timotheus 3:14, 15"],
+      "sources": [{ "title": "Lois – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002768" }]
+    },
+    {
+      "id": "eunike", "name": "Eunike", "altNames": [], "sex": "f", "tags": ["juenger"],
+      "role": "Mutter des Timotheus", "eras": ["versammlung"], "dates": [], "year": 47,
+      "nameMeaning": "von einem Wurzelwort, das „siegen“ bedeutet",
+      "summary": "Eunike war eine gläubige Jüdin, die Tochter der Lois, verheiratet mit einem ungläubigen Griechen. Sehr wahrscheinlich wurden sie und ihre Mutter in Lystra durch das Predigen des Paulus auf seiner ersten Missionsreise Christen. Obwohl ihr Mann kein Anbeter Jehovas war, unterwies sie ihren Sohn Timotheus von frühester Kindheit an vorbildlich in den heiligen Schriften.",
+      "facts": [
+        { "text": "Sie war eine gläubige Jüdin, ihr Mann Grieche.", "ref": "Apostelgeschichte 16:1" },
+        { "text": "Paulus lobt ihren ungeheuchelten Glauben.", "ref": "2. Timotheus 1:5" },
+        { "text": "Sie lehrte Timotheus die heiligen Schriften.", "ref": "2. Timotheus 3:15" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "lois", "spouses": ["Grieche (Name nicht genannt)"], "children": ["timotheus"], "siblings": [] },
+      "related": ["paulus"], "events": [], "books": [],
+      "refs": ["Apostelgeschichte 16:1", "2. Timotheus 1:5"],
+      "sources": [{ "title": "Eunike – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001443" }]
+    },
+    {
+      "id": "phoebe", "name": "Phöbe", "altNames": [], "sex": "f", "tags": ["juenger"],
+      "role": "Dienerin der Versammlung in Kenchreä", "eras": ["versammlung"], "dates": [], "year": 56,
+      "nameMeaning": "„Rein“, „Leuchtend“, „Strahlend“",
+      "summary": "Phöbe war eine Christin des 1. Jahrhunderts und gehörte zur Versammlung in Kenchreä. Paulus nannte sie „eine Dienerin der Versammlung“ und empfahl sie den Christen in Rom: Sie sollten ihr helfen, denn sie hatte vielen beigestanden, auch ihm selbst. Möglicherweise brachte sie den Römerbrief nach Rom oder begleitete den Überbringer.",
+      "facts": [
+        { "text": "Paulus empfahl sie der Versammlung in Rom.", "ref": "Römer 16:1" },
+        { "text": "Sie hatte sich als Verteidigerin vieler erwiesen.", "ref": "Römer 16:2" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus"], "events": [], "books": [],
+      "refs": ["Römer 16:1, 2"],
+      "sources": [{ "title": "Phöbe – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003474" }]
+    },
+    {
+      "id": "epaphroditus", "name": "Epaphroditus", "altNames": [], "sex": "m", "tags": ["juenger"],
+      "role": "Bruder aus Philippi", "eras": ["versammlung"], "dates": [], "year": 60, "nameMeaning": "",
+      "summary": "Epaphroditus war ein vertrauenswürdiges Mitglied der Versammlung in Philippi. Die Philipper schickten ihn mit einer Gabe zu Paulus, der in Rom gefangen war (um 59–61 u. Z.). Dort wurde er todkrank, doch Gott erbarmte sich seiner. Weil er sich nach den Philippern sehnte und bedrückt war, dass sie von seiner Krankheit gehört hatten, schickte Paulus ihn mit dem Philipperbrief zurück.",
+      "facts": [
+        { "text": "Paulus nannte ihn Bruder, Mitarbeiter und Mitstreiter.", "ref": "Philipper 2:25" },
+        { "text": "Er war krank bis nahe an den Tod.", "ref": "Philipper 2:27" },
+        { "text": "Solche Männer sollten geschätzt werden.", "ref": "Philipper 2:29, 30" },
+        { "text": "Er brachte Paulus die Gaben der Philipper.", "ref": "Philipper 4:18" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["paulus"], "events": ["paulus-in-rom"], "books": [],
+      "refs": ["Philipper 2:25-30", "Philipper 4:18"],
+      "sources": [{ "title": "Epaphroditus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001380" }]
+    },
+    {
+      "id": "jakobus-halbbruder-jesu", "name": "Jakobus", "altNames": ["Jakobus, Bruder Jesu", "Jakobus, Halbbruder Jesu"], "sex": "m", "tags": ["schreiber", "juenger"],
+      "role": "Halbbruder Jesu, Schreiber des Jakobusbriefs", "eras": ["jesus", "versammlung"], "dates": [{ "label": "Zeit", "value": "Jakobusbrief vor 62 u. Z. in Jerusalem geschrieben" }], "year": 33,
+      "nameMeaning": "Form von Jakob: „Einer, der die Ferse ergreift“",
+      "summary": "Jakobus war ein Sohn von Joseph und Maria und damit ein Halbbruder Jesu – wahrscheinlich der älteste der vier Brüder. Während Jesu Dienst glaubten seine Brüder noch nicht an ihn. Nach seiner Auferstehung erschien Jesus Jakobus persönlich. Jakobus wurde ein führender Aufseher der Versammlung in Jerusalem und schlug 49 u. Z. die Entscheidung in der Beschneidungsfrage vor. Er schrieb den Jakobusbrief.",
+      "facts": [
+        { "text": "Seine Brüder glaubten zunächst nicht an Jesus.", "ref": "Johannes 7:5" },
+        { "text": "Der auferweckte Jesus erschien ihm.", "ref": "1. Korinther 15:7" },
+        { "text": "Er schlug eine Entscheidung zur Beschneidung vor.", "ref": "Apostelgeschichte 15:13-21" },
+        { "text": "Er nannte sich „Sklave Gottes und des Herrn Jesus Christus“.", "ref": "Jakobus 1:1" }
+      ],
+      "lesson": "",
+      "family": { "father": "joseph-marias-mann", "mother": "maria", "spouses": [], "children": [], "siblings": ["jesus", "judas-halbbruder-jesu", "Joseph", "Simon"] },
+      "related": ["petrus", "paulus"], "events": ["pfingsten-33", "beschneidungsfrage"], "books": ["Jakobus"],
+      "refs": ["Matthäus 13:55", "Apostelgeschichte 12:17", "Galater 1:19", "Galater 2:9"],
+      "sources": [
+        { "title": "Jakobus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002313" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "judas-halbbruder-jesu", "name": "Judas", "altNames": ["Judas, Bruder Jesu", "Judas, Halbbruder Jesu"], "sex": "m", "tags": ["schreiber", "juenger"],
+      "role": "Halbbruder Jesu, Schreiber des Judasbriefs", "eras": ["jesus", "versammlung"], "dates": [{ "label": "Zeit", "value": "Judasbrief um 65 u. Z. geschrieben" }], "year": 65,
+      "nameMeaning": "eine Form des Namens Juda",
+      "summary": "Judas war ein Halbbruder Jesu und Bruder des Jakobus. Er stellt sich in seinem Brief bescheiden als „Sklave Jesu Christi, aber ein Bruder des Jakobus“ vor. Er war offenbar nicht derselbe wie der Apostel Judas, der Sohn des Jakobus, denn er spricht von den Aposteln in der dritten Person. Um 65 u. Z. schrieb er seinen Brief und ermahnte die Christen, für den Glauben kraftvoll zu kämpfen.",
+      "facts": [
+        { "text": "Er wird unter den Brüdern Jesu genannt.", "ref": "Matthäus 13:55" },
+        { "text": "Er nennt sich „ein Bruder des Jakobus“.", "ref": "Judas 1" },
+        { "text": "Er ermuntert, für den Glauben kraftvoll zu kämpfen.", "ref": "Judas 3" },
+        { "text": "Er erinnert an die Worte der Apostel.", "ref": "Judas 17-18" }
+      ],
+      "lesson": "",
+      "family": { "father": "joseph-marias-mann", "mother": "maria", "spouses": [], "children": [], "siblings": ["jesus", "jakobus-halbbruder-jesu", "Joseph", "Simon"] },
+      "related": [], "events": [], "books": ["Judas"],
+      "refs": ["Matthäus 13:55", "Judas 1-4"],
+      "sources": [{ "title": "Judas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002541" }]
+    }
+  ],
+  "events": []
+}

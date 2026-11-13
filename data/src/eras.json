@@ -1,0 +1,52 @@
+[
+  {
+    "id": "anfaenge", "short": "Anfänge", "title": "Von der Schöpfung bis zur Sintflut", "range": "bis 2370 v. u. Z.",
+    "start": -4026, "end": -2370, "color": "green",
+    "summary": "Jehova erschafft Himmel und Erde und 4026 v. u. Z. den ersten Menschen. Nach der Rebellion in Eden nimmt die Bosheit überhand, bis Gott die damalige Welt in der Sintflut vernichtet. Nur Noah und seine Familie überleben."
+  },
+  {
+    "id": "patriarchen", "short": "Patriarchen", "title": "Die Zeit der Patriarchen", "range": "2370–1728 v. u. Z.",
+    "start": -2370, "end": -1728, "color": "orange",
+    "summary": "Nach der Flut verteilt sich die Menschheit über die Erde. Jehova schließt einen Bund mit Abraham, der 1943 v. u. Z. in Kraft tritt. Isaak und Jakob leben als Fremdlinge in Kanaan, bis Jakobs Familie nach Ägypten zieht."
+  },
+  {
+    "id": "aegypten", "short": "Ägypten & Wildnis", "title": "Israel in Ägypten und in der Wildnis", "range": "1728–1473 v. u. Z.",
+    "start": -1728, "end": -1473, "color": "brown",
+    "summary": "Israel wohnt 215 Jahre in Ägypten und wird dort versklavt. 1513 v. u. Z. führt Jehova sein Volk durch Moses heraus und schließt am Sinai den Gesetzesbund. Danach wandert Israel 40 Jahre durch die Wildnis."
+  },
+  {
+    "id": "richter", "short": "Richter", "title": "Landnahme und Richterzeit", "range": "1473–1117 v. u. Z.",
+    "start": -1473, "end": -1117, "color": "yellow",
+    "summary": "Unter Josua zieht Israel ins Land der Verheißung. Danach führen Richter das Volk, das immer wieder von Jehova abweicht und aus der Hand seiner Feinde befreit wird – bis es einen menschlichen König verlangt."
+  },
+  {
+    "id": "koenigreich", "short": "Königreich", "title": "Das vereinigte Königreich", "range": "1117–997 v. u. Z.",
+    "start": -1117, "end": -997, "color": "indigo",
+    "summary": "Saul, David und Salomo regieren über alle zwölf Stämme. Jehova schließt mit David einen Bund für ein dauerhaftes Königreich, und Salomo baut in Jerusalem den Tempel."
+  },
+  {
+    "id": "geteilt", "short": "Juda & Israel", "title": "Das geteilte Königreich", "range": "997–607 v. u. Z.",
+    "start": -997, "end": -607, "color": "purple",
+    "summary": "Nach Salomos Tod zerfällt das Reich in das Zehnstämmereich Israel und das Zweistämmereich Juda. Propheten warnen vor Untreue. Samaria fällt 740 v. u. Z. an Assyrien, Jerusalem 607 v. u. Z. an Babylon."
+  },
+  {
+    "id": "exil", "short": "Exil", "title": "Exil in Babylon", "range": "607–537 v. u. Z.",
+    "start": -607, "end": -537, "color": "red",
+    "summary": "Das Land Juda liegt 70 Jahre verwüstet, die Juden leben im Exil. Daniel und Hesekiel wirken in Babylon, bis Cyrus 539 v. u. Z. die Stadt erobert und die Rückkehr erlaubt."
+  },
+  {
+    "id": "rueckkehr", "short": "Rückkehr", "title": "Rückkehr und Wiederaufbau", "range": "537 – nach 443 v. u. Z.",
+    "start": -537, "end": -443, "color": "mint",
+    "summary": "Im Herbst 537 v. u. Z. wird die Anbetung Jehovas in Jerusalem wiederhergestellt. Der Tempel wird neu gebaut, später auch die Stadtmauer. Mit dem Buch Maleachi enden die Hebräischen Schriften."
+  },
+  {
+    "id": "jesus", "short": "Leben Jesu", "title": "Das Leben Jesu", "range": "3 v. u. Z. – 33 u. Z.",
+    "start": -3, "end": 33, "color": "blue", "gapBefore": "Rund 440 Jahre später",
+    "summary": "Jesus wird geboren, lässt sich 29 u. Z. taufen und predigt dreieinhalb Jahre über das Königreich Gottes. Am 14. Nisan 33 u. Z. stirbt er und wird am dritten Tag auferweckt."
+  },
+  {
+    "id": "versammlung", "short": "Urchristen", "title": "Die Christenversammlung", "range": "33 – um 100 u. Z.",
+    "start": 33, "end": 100, "color": "pink",
+    "summary": "Zu Pfingsten 33 u. Z. entsteht die Christenversammlung. Die gute Botschaft breitet sich unter Juden, Samaritern und Menschen aus den Nationen aus. Mit den Schriften des Apostels Johannes wird die Bibel um 98 u. Z. vollendet."
+  }
+]

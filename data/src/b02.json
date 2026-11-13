@@ -1,0 +1,438 @@
+{
+  "batch": "b02",
+  "persons": [
+    {
+      "id": "laban", "name": "Laban", "altNames": [], "sex": "m", "tags": [],
+      "role": "Bruder Rebekkas, Schwiegervater Jakobs", "eras": ["patriarchen"], "dates": [], "year": -1880, "nameMeaning": "„Weiß“",
+      "summary": "Laban, Sohn Bethuels und Bruder Rebekkas, wohnte in Haran in Paddan-Aram und war der Vater von Lea und Rahel. Als Jakob zu ihm floh, ließ er ihn insgesamt 14 Jahre für seine beiden Töchter arbeiten. In der Hochzeitsnacht betrog er Jakob, indem er ihm Lea statt Rahel gab.",
+      "facts": [
+        { "text": "Er wird „der Syrer“ (Aramäer) genannt, weil er in Paddan-Aram wohnte.", "ref": "1. Mose 25:20" },
+        { "text": "Er stimmte zu, dass Rebekka Isaak heiratete.", "ref": "1. Mose 24:50, 51" },
+        { "text": "Er gab Jakob in der Hochzeitsnacht Lea statt Rahel.", "ref": "1. Mose 29:21-26" },
+        { "text": "Er verfolgte Jakob, als dieser mit seiner Familie wegzog.", "ref": "1. Mose 31:22-24" }
+      ],
+      "lesson": "",
+      "family": { "father": "Bethuel", "mother": "", "spouses": [], "children": ["lea", "rahel"], "siblings": ["rebekka"] },
+      "related": ["jakob"], "events": ["isaak-heiratet-rebekka", "jakob-heiratet"], "books": [],
+      "refs": ["1. Mose 24:29-51", "1. Mose 29:13-30", "1. Mose 31:17-55"],
+      "sources": [
+        { "title": "Laban – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002655" },
+        { "title": "Rahel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003621" }
+      ]
+    },
+    {
+      "id": "esau", "name": "Esau", "altNames": ["Edom"], "sex": "m", "tags": [],
+      "role": "Zwillingsbruder Jakobs, Vorvater der Edomiter", "eras": ["patriarchen"],
+      "dates": [{ "label": "Geboren", "value": "1858 v. u. Z." }], "year": -1858, "nameMeaning": "„Behaart“, „Haarig“",
+      "summary": "Esau war der Erstgeborene Isaaks und Rebekkas und der Zwillingsbruder Jakobs. Er wurde ein geschickter Jäger, hatte aber keine Wertschätzung für geistige Dinge: Für ein Linsengericht verkaufte er Jakob sein Erstgeburtsrecht. Von ihm stammen die Edomiter ab; den Namen Edom („Rot“) erhielt er wegen des roten Gerichts.",
+      "facts": [
+        { "text": "Die Zwillinge stießen sich schon im Mutterleib; der Ältere sollte dem Jüngeren dienen.", "ref": "1. Mose 25:22, 23" },
+        { "text": "Er verkaufte sein Erstgeburtsrecht für ein Linsengericht und etwas Brot.", "ref": "1. Mose 25:29-34" },
+        { "text": "Mit 40 Jahren heiratete er zwei Hethiterinnen – zum Kummer seiner Eltern.", "ref": "1. Mose 26:34, 35" },
+        { "text": "Isaak gab den Segen des Erstgeborenen Jakob.", "ref": "1. Mose 27:30-40" },
+        { "text": "Die Bibel warnt davor, heilige Dinge so gering zu schätzen wie Esau.", "ref": "Hebräer 12:16" }
+      ],
+      "lesson": "",
+      "family": { "father": "isaak", "mother": "rebekka", "spouses": ["Judith", "Basemath"], "children": [], "siblings": ["jakob"] },
+      "related": [], "events": ["esau-verkauft-erstgeburtsrecht", "jakob-erhaelt-den-segen", "jakob-ringt-mit-engel"], "books": [],
+      "refs": ["1. Mose 25:24-34", "1. Mose 27:1-41", "Hebräer 12:16, 17"],
+      "sources": [{ "title": "Esau – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001417" }]
+    },
+    {
+      "id": "jakob", "name": "Jakob", "altNames": ["Israel"], "sex": "m", "tags": ["patriarch", "vorfahr-jesu"],
+      "role": "Patriarch, Stammvater Israels", "eras": ["patriarchen", "aegypten"],
+      "dates": [{ "label": "Lebenszeit", "value": "1858–1711 v. u. Z." }, { "label": "Alter", "value": "147 Jahre" }],
+      "year": -1858, "nameMeaning": "„Einer, der die Ferse ergreift“, „Verdränger“",
+      "summary": "Jakob, der jüngere Zwillingssohn Isaaks und Rebekkas, war ein Mann, der in Zelten wohnte und Gottes Verheißungen hoch schätzte. Er erwarb von Esau das Erstgeburtsrecht und erhielt den Segen seines Vaters. In Haran heiratete er Lea und Rahel; seine zwölf Söhne wurden die Stammväter Israels. Nach einem Ringkampf mit einem Engel erhielt er den Namen Israel.",
+      "facts": [
+        { "text": "Bei der Geburt hielt er die Ferse Esaus fest – daher sein Name.", "ref": "1. Mose 25:26" },
+        { "text": "Er floh 1781 v. u. Z. vor Esau nach Haran.", "ref": "1. Mose 28:1-5" },
+        { "text": "Er diente Laban 14 Jahre für Lea und Rahel.", "ref": "1. Mose 29:18-30" },
+        { "text": "Am Jabbok rang er mit einem Engel und wurde Israel genannt.", "ref": "1. Mose 32:24-28" },
+        { "text": "1728 v. u. Z. zog er mit 130 Jahren nach Ägypten.", "ref": "1. Mose 47:9" },
+        { "text": "Nach 17 Jahren in Ägypten starb er mit 147 Jahren.", "ref": "1. Mose 47:28" }
+      ],
+      "lesson": "",
+      "family": { "father": "isaak", "mother": "rebekka", "spouses": ["lea", "rahel", "Bilha", "Silpa"], "children": ["ruben", "simeon", "levi", "juda", "dina", "joseph", "benjamin"], "siblings": ["esau"] },
+      "related": ["laban"],
+      "events": ["esau-verkauft-erstgeburtsrecht", "jakob-erhaelt-den-segen", "jakobs-traum", "jakob-heiratet", "jakob-ringt-mit-engel", "joseph-wird-verkauft", "jakob-zieht-nach-aegypten", "tod-jakobs"],
+      "books": [],
+      "refs": ["1. Mose 25:19-34", "1. Mose 28:10-22", "1. Mose 32:24-30", "1. Mose 49:1-33"],
+      "sources": [
+        { "title": "Jakob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002279" },
+        { "title": "Rahel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003621" }
+      ]
+    },
+    {
+      "id": "lea", "name": "Lea", "altNames": [], "sex": "f", "tags": ["vorfahr-jesu"],
+      "role": "Erste Frau Jakobs", "eras": ["patriarchen"], "dates": [], "year": -1790, "nameMeaning": "„Kuh“ oder „Wildkuh“ (vielleicht)",
+      "summary": "Lea, die ältere Tochter Labans, wurde Jakobs erste Frau, weil ihr Vater Jakob betrog und sie ihm anstelle Rahels gab. Jakob liebte Rahel mehr; Jehova aber begünstigte Lea und schenkte ihr Söhne. Sie wurde die Mutter von Ruben, Simeon, Levi, Juda, Issachar und Sebulon sowie der Tochter Dina.",
+      "facts": [
+        { "text": "Ihre Augen werden als glanzlos beschrieben; Rahel war schöner.", "ref": "1. Mose 29:17" },
+        { "text": "Laban gab sie Jakob in der Hochzeitsnacht statt Rahel.", "ref": "1. Mose 29:23-25" },
+        { "text": "Jehova sah, dass sie weniger geliebt wurde, und schenkte ihr Söhne.", "ref": "1. Mose 29:31-35" }
+      ],
+      "lesson": "",
+      "family": { "father": "laban", "mother": "", "spouses": ["jakob"], "children": ["ruben", "simeon", "levi", "juda", "Issachar", "Sebulon", "dina"], "siblings": ["rahel"] },
+      "related": [], "events": ["jakob-heiratet"], "books": [],
+      "refs": ["1. Mose 29:16-35", "1. Mose 30:9-21"],
+      "sources": [{ "title": "Lea – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002702" }]
+    },
+    {
+      "id": "rahel", "name": "Rahel", "altNames": [], "sex": "f", "tags": [],
+      "role": "Lieblingsfrau Jakobs", "eras": ["patriarchen"], "dates": [], "year": -1785, "nameMeaning": "„Mutterschaf“",
+      "summary": "Rahel, die jüngere Tochter Labans, war Jakobs Cousine und seine Lieblingsfrau; er diente für sie insgesamt 14 Jahre. Lange blieb sie unfruchtbar, bis sie Joseph gebar. Auf dem Weg von Bethel nach Ephrath (Bethlehem) starb sie bei der Geburt ihres zweiten Sohnes Benjamin.",
+      "facts": [
+        { "text": "Sie begegnete Jakob 1781 v. u. Z. an einem Brunnen bei Haran.", "ref": "1. Mose 29:9-12" },
+        { "text": "Jakobs sieben Dienstjahre für sie kamen ihm wie wenige Tage vor.", "ref": "1. Mose 29:20" },
+        { "text": "Lange unfruchtbar, gab sie Jakob ihre Magd Bilha.", "ref": "1. Mose 30:1-8" },
+        { "text": "Sie gebar schließlich Joseph.", "ref": "1. Mose 30:22-24" },
+        { "text": "Sie starb bei der Geburt Benjamins.", "ref": "1. Mose 35:16-19" }
+      ],
+      "lesson": "",
+      "family": { "father": "laban", "mother": "", "spouses": ["jakob"], "children": ["joseph", "benjamin"], "siblings": ["lea"] },
+      "related": [], "events": ["jakob-heiratet"], "books": [],
+      "refs": ["1. Mose 29:9-30", "1. Mose 30:22-24", "1. Mose 35:16-20"],
+      "sources": [{ "title": "Rahel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003621" }]
+    },
+    {
+      "id": "ruben", "name": "Ruben", "altNames": [], "sex": "m", "tags": [],
+      "role": "Erstgeborener Jakobs", "eras": ["patriarchen"], "dates": [], "year": -1773, "nameMeaning": "„Seht, ein Sohn!“",
+      "summary": "Ruben war der Erstgeborene der zwölf Söhne Jakobs; seine Mutter war Lea. Er bewahrte Joseph davor, von seinen Brüdern getötet zu werden. Weil er jedoch mit Bilha, der Nebenfrau seines Vaters, Unmoral beging, verlor er die Vorrechte des Erstgeborenen.",
+      "facts": [
+        { "text": "Lea nannte ihn Ruben, weil Jehova ihr Elend gesehen hatte.", "ref": "1. Mose 29:32" },
+        { "text": "Er hatte Beziehungen mit Bilha und entehrte so seinen Vater.", "ref": "1. Mose 35:22" },
+        { "text": "Er überredete seine Brüder, Joseph nicht zu töten.", "ref": "1. Mose 37:21, 22" },
+        { "text": "Sein Erstgeburtsrecht ging auf die Söhne Josephs über.", "ref": "1. Chronika 5:1" }
+      ],
+      "lesson": "",
+      "family": { "father": "jakob", "mother": "lea", "spouses": [], "children": [], "siblings": ["simeon", "levi", "juda", "dina", "joseph", "benjamin"] },
+      "related": [], "events": ["joseph-wird-verkauft"], "books": [],
+      "refs": ["1. Mose 37:18-30", "1. Mose 49:3, 4", "1. Chronika 5:1"],
+      "sources": [{ "title": "Ruben – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003713" }]
+    },
+    {
+      "id": "simeon", "name": "Simeon", "altNames": [], "sex": "m", "tags": [],
+      "role": "Zweiter Sohn Jakobs", "eras": ["patriarchen"], "dates": [], "year": -1772, "nameMeaning": "„Erhörung“",
+      "summary": "Simeon war der zweite Sohn Jakobs und Leas. Zusammen mit seinem Bruder Levi rächte er auf grausame Weise die Vergewaltigung ihrer Schwester Dina und brachte damit die Familie in Verruf. In Ägypten hielt Joseph ihn als Geisel fest, bis die Brüder Benjamin mitbrachten.",
+      "facts": [
+        { "text": "Lea nannte ihn so, weil Jehova „gehört“ hatte.", "ref": "1. Mose 29:33" },
+        { "text": "Mit Levi tötete er die Männer von Sichem.", "ref": "1. Mose 34:25-31" },
+        { "text": "In Ägypten wurde er als Geisel festgehalten.", "ref": "1. Mose 42:24" }
+      ],
+      "lesson": "",
+      "family": { "father": "jakob", "mother": "lea", "spouses": [], "children": [], "siblings": ["ruben", "levi", "juda", "dina", "joseph", "benjamin"] },
+      "related": [], "events": ["joseph-wird-verkauft", "joseph-gibt-sich-zu-erkennen"], "books": [],
+      "refs": ["1. Mose 34:25-31", "1. Mose 42:14-24", "1. Mose 49:5-7"],
+      "sources": [{ "title": "Simeon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004124" }]
+    },
+    {
+      "id": "levi", "name": "Levi", "altNames": [], "sex": "m", "tags": [],
+      "role": "Sohn Jakobs, Stammvater der Leviten", "eras": ["patriarchen"], "dates": [], "year": -1771, "nameMeaning": "„Anhänglichkeit“, „Angeschlossen“",
+      "summary": "Levi war der dritte Sohn Jakobs und Leas. Mit Simeon ging er brutal gegen die Männer von Sichem vor, was Jakob scharf verurteilte. Levi wurde der Vater von Gerschon, Kehath und Merari, deren Nachkommen die drei Hauptabteilungen der Leviten bildeten.",
+      "facts": [
+        { "text": "Lea hoffte bei seiner Geburt, Jakob werde sich ihr nun anschließen.", "ref": "1. Mose 29:34" },
+        { "text": "Er rächte mit Simeon die Schändung Dinas.", "ref": "1. Mose 34:25, 26" },
+        { "text": "Jakob sagte voraus, dass seine Nachkommen in Israel zerstreut würden.", "ref": "1. Mose 49:5-7" },
+        { "text": "Er war der Vater von Gerschon, Kehath und Merari.", "ref": "1. Mose 46:11" }
+      ],
+      "lesson": "",
+      "family": { "father": "jakob", "mother": "lea", "spouses": [], "children": ["Gerschon", "Kehath", "Merari"], "siblings": ["ruben", "simeon", "juda", "dina", "joseph", "benjamin"] },
+      "related": [], "events": ["joseph-wird-verkauft"], "books": [],
+      "refs": ["1. Mose 29:34", "1. Mose 34:25-31", "1. Mose 46:11"],
+      "sources": [{ "title": "Levi – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002727" }]
+    },
+    {
+      "id": "juda", "name": "Juda", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Sohn Jakobs, Stammvater Judas", "eras": ["patriarchen"], "dates": [], "year": -1770, "nameMeaning": "„Lobgepriesen“",
+      "summary": "Juda war der vierte Sohn Jakobs und Leas. Er riet seinen Brüdern, Joseph nicht zu töten, sondern ihn an Kaufleute zu verkaufen. Später bot er sich als Sklave an, um Benjamin zu retten. Jakob sagte voraus, dass das Zepter nicht von Juda weichen werde – sein Stamm besaß später das Königtum.",
+      "facts": [
+        { "text": "Er schlug vor, Joseph an vorüberziehende Kaufleute zu verkaufen.", "ref": "1. Mose 37:25-27" },
+        { "text": "Von Tamar bekam er die Zwillinge Perez und Serach.", "ref": "1. Mose 38:27-30" },
+        { "text": "Er bot sich an, an Benjamins Stelle Sklave zu werden.", "ref": "1. Mose 44:18-34" },
+        { "text": "Jakob sagte: Das Zepter wird nicht von Juda weichen.", "ref": "1. Mose 49:10" }
+      ],
+      "lesson": "",
+      "family": { "father": "jakob", "mother": "lea", "spouses": [], "children": ["Er", "Onan", "Schela", "Perez", "Serach"], "siblings": ["ruben", "simeon", "levi", "dina", "joseph", "benjamin"] },
+      "related": ["tamar"], "events": ["joseph-wird-verkauft", "joseph-gibt-sich-zu-erkennen", "tod-jakobs"], "books": [],
+      "refs": ["1. Mose 37:25-27", "1. Mose 44:18-34", "1. Mose 49:8-10"],
+      "sources": [{ "title": "Juda – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002538" }]
+    },
+    {
+      "id": "dina", "name": "Dina", "altNames": [], "sex": "f", "tags": [],
+      "role": "Tochter Jakobs", "eras": ["patriarchen"], "dates": [], "year": -1765, "nameMeaning": "„Gerichtet“ (d. h. gerechtfertigt)",
+      "summary": "Dina war die Tochter Jakobs und Leas und wurde in Haran geboren. Als die Familie bei Sichem zeltete, besuchte sie unklugerweise immer wieder die jungen Kanaaniterinnen. Dabei tat ihr Sichem, der Sohn eines Hiwiterfürsten, Gewalt an. Ihre Brüder Simeon und Levi rächten sie, indem sie die Männer der Stadt töteten.",
+      "facts": [
+        { "text": "Sie wurde in Haran geboren.", "ref": "1. Mose 30:21" },
+        { "text": "Sie besuchte gewohnheitsmäßig die jungen Frauen des Landes.", "ref": "1. Mose 34:1" },
+        { "text": "Sichem tat ihr Gewalt an.", "ref": "1. Mose 34:2" },
+        { "text": "Simeon und Levi rächten sie.", "ref": "1. Mose 34:25, 26" }
+      ],
+      "lesson": "",
+      "family": { "father": "jakob", "mother": "lea", "spouses": [], "children": [], "siblings": ["ruben", "simeon", "levi", "juda", "joseph", "benjamin"] },
+      "related": [], "events": [], "books": [],
+      "refs": ["1. Mose 34:1-31"],
+      "sources": [{ "title": "Dina – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001182" }]
+    },
+    {
+      "id": "joseph", "name": "Joseph", "altNames": ["Josef"], "sex": "m", "tags": [],
+      "role": "Sohn Jakobs, Verwalter Ägyptens", "eras": ["patriarchen", "aegypten"],
+      "dates": [{ "label": "Gestorben", "value": "1657 v. u. Z." }, { "label": "Alter", "value": "110 Jahre" }],
+      "year": -1767, "nameMeaning": "„Möge Jah hinzufügen (mehren)“",
+      "summary": "Joseph war der erste Sohn Jakobs und Rahels und der Lieblingssohn seines Vaters. Aus Eifersucht verkauften ihn seine Halbbrüder als Sklaven nach Ägypten. Dort blieb er Jehova treu – auch als Potiphars Frau ihn verführen wollte und er unschuldig ins Gefängnis kam. Gott ließ ihn Pharaos Träume deuten; Joseph wurde Verwalter Ägyptens und rettete in der Hungersnot seine Familie.",
+      "facts": [
+        { "text": "Er wurde geboren, als Jakob etwa 91 Jahre alt war.", "ref": "1. Mose 30:22-24" },
+        { "text": "Mit 17 Jahren hütete er Schafe; Jakob schenkte ihm ein langes gestreiftes Gewand.", "ref": "1. Mose 37:2, 3" },
+        { "text": "Er erzählte Träume, die eine künftige Vorrangstellung andeuteten.", "ref": "1. Mose 37:5-10" },
+        { "text": "Er widerstand den Annäherungen der Frau Potiphars.", "ref": "1. Mose 39:7-12" },
+        { "text": "Er deutete Pharaos Träume und wurde über Ägypten gesetzt.", "ref": "1. Mose 41:14-41" },
+        { "text": "Er starb mit 110 Jahren und gab Anweisung wegen seiner Gebeine.", "ref": "1. Mose 50:22-26" }
+      ],
+      "lesson": "",
+      "family": { "father": "jakob", "mother": "rahel", "spouses": ["Asenath"], "children": ["Manasse", "Ephraim"], "siblings": ["benjamin", "ruben", "simeon", "levi", "juda", "dina"] },
+      "related": ["potiphar"], "events": ["joseph-wird-verkauft", "joseph-wird-verwalter", "joseph-gibt-sich-zu-erkennen", "jakob-zieht-nach-aegypten", "tod-josephs"], "books": [],
+      "refs": ["1. Mose 37:2-36", "1. Mose 39:1–41:57", "1. Mose 45:1-15", "Hebräer 11:22"],
+      "sources": [{ "title": "Joseph – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002515" }]
+    },
+    {
+      "id": "benjamin", "name": "Benjamin", "altNames": ["Ben-Oni"], "sex": "m", "tags": [],
+      "role": "Jüngster Sohn Jakobs", "eras": ["patriarchen"], "dates": [], "year": -1755, "nameMeaning": "„Sohn der rechten Hand“",
+      "summary": "Benjamin war der zwölfte Sohn Jakobs und Josephs einziger Vollbruder – anscheinend der einzige Sohn Jakobs, der in Kanaan geboren wurde. Seine Mutter Rahel starb bei seiner Geburt und nannte ihn Ben-Oni („Sohn meiner Trauer“); Jakob gab ihm den Namen Benjamin. Nach Josephs Verschwinden war er der Liebling seines Vaters.",
+      "facts": [
+        { "text": "Rahel starb bei seiner Geburt auf dem Weg nach Ephrath (Bethlehem).", "ref": "1. Mose 35:16-19" },
+        { "text": "Jakob ließ ihn nur sehr ungern mit nach Ägypten ziehen.", "ref": "1. Mose 42:4" },
+        { "text": "Joseph ließ seinen Becher in Benjamins Sack verstecken, um die Brüder zu prüfen.", "ref": "1. Mose 44:1-12" }
+      ],
+      "lesson": "",
+      "family": { "father": "jakob", "mother": "rahel", "spouses": [], "children": [], "siblings": ["joseph", "ruben", "simeon", "levi", "juda", "dina"] },
+      "related": [], "events": ["joseph-gibt-sich-zu-erkennen"], "books": [],
+      "refs": ["1. Mose 35:16-19", "1. Mose 43:29-34", "1. Mose 44:1-34"],
+      "sources": [{ "title": "Benjamin – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000640" }]
+    },
+    {
+      "id": "tamar", "name": "Tamar", "altNames": [], "sex": "f", "tags": ["vorfahr-jesu"],
+      "role": "Schwiegertochter Judas", "eras": ["patriarchen"], "dates": [], "year": -1745, "nameMeaning": "„Palme“",
+      "summary": "Tamar war die Schwiegertochter Judas. Nachdem ihre Männer Er und Onan wegen ihrer Bosheit gestorben waren und Juda ihr seinen dritten Sohn vorenthielt, verkleidete sie sich und bekam von Juda selbst Zwillinge. Juda erkannte an: „Sie ist gerechter als ich.“ Ihr Name steht im Geschlechtsregister Jesu.",
+      "facts": [
+        { "text": "Sie wurde nacheinander mit Er und Onan verheiratet; beide starben.", "ref": "1. Mose 38:6-10" },
+        { "text": "Juda zögerte die Ehe mit seinem dritten Sohn hinaus.", "ref": "1. Mose 38:11, 14" },
+        { "text": "Juda erkannte an, dass sie gerechter war als er.", "ref": "1. Mose 38:26" },
+        { "text": "Ihr Name steht im Geschlechtsregister Jesu.", "ref": "Matthäus 1:3" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Er", "Onan"], "children": ["Perez", "Serach"], "siblings": [] },
+      "related": ["juda"], "events": [], "books": [],
+      "refs": ["1. Mose 38:1-30", "Matthäus 1:3"],
+      "sources": [{ "title": "Tamar – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004313" }]
+    },
+    {
+      "id": "potiphar", "name": "Potiphar", "altNames": [], "sex": "m", "tags": ["herrscher"],
+      "role": "Oberster der Leibwache Pharaos", "eras": ["patriarchen"], "dates": [], "year": -1750, "nameMeaning": "Kurzform von Potiphera (ägyptisch)",
+      "summary": "Potiphar war ein wohlhabender ägyptischer Hofbeamter und Oberster der Leibwache Pharaos. Er kaufte Joseph von reisenden Kaufleuten und setzte ihn über sein ganzes Haus, das Jehova um Josephs willen segnete. Als seine Frau Joseph fälschlich beschuldigte, ließ Potiphar ihn ins Gefängnis werfen.",
+      "facts": [
+        { "text": "Er kaufte Joseph von midianitischen Kaufleuten.", "ref": "1. Mose 37:36" },
+        { "text": "Jehova segnete sein Haus um Josephs willen.", "ref": "1. Mose 39:5" },
+        { "text": "Er glaubte den falschen Anschuldigungen seiner Frau.", "ref": "1. Mose 39:19, 20" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["joseph"], "events": ["joseph-wird-verkauft"], "books": [],
+      "refs": ["1. Mose 37:36", "1. Mose 39:1-20"],
+      "sources": [{ "title": "Potiphar – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003534" }]
+    },
+    {
+      "id": "hiob", "name": "Hiob", "altNames": [], "sex": "m", "tags": [],
+      "role": "Mann aus Uz, bewahrte seine Lauterkeit", "eras": ["aegypten"],
+      "dates": [{ "label": "Zeit", "value": "Prüfung wahrscheinlich um 1613 v. u. Z." }], "year": -1613,
+      "nameMeaning": "„Gegenstand der Feindseligkeit“, „Angefeindeter“",
+      "summary": "Hiob lebte im Land Uz und betete Jehova an, obwohl er kein Israelit war. Gott sagte von ihm, es gebe auf der Erde keinen wie ihn – untadelig und rechtschaffen. Als Satan seine Lauterkeit infrage stellte, verlor Hiob seinen Besitz, seine Kinder und seine Gesundheit. Doch er hielt an seiner Treue fest, und Jehova stellte ihn wieder her.",
+      "facts": [
+        { "text": "Er lebte wahrscheinlich zwischen dem Tod Josephs und dem Auftreten von Moses.", "ref": "" },
+        { "text": "Er war sehr reich und hatte sieben Söhne und drei Töchter.", "ref": "Hiob 1:1-3" },
+        { "text": "Er trat für Witwen, Waisen und Hilflose ein.", "ref": "Hiob 29:12-17" },
+        { "text": "Satan stellte seine Lauterkeit infrage.", "ref": "Hiob 1:6-12" },
+        { "text": "Nach der Prüfung erhielt er das Doppelte und lebte noch 140 Jahre.", "ref": "Hiob 42:10-17" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["hiobs-pruefung"], "books": [],
+      "refs": ["Hiob 1:1-22", "Hiob 2:1-10", "Hiob 42:10-17", "Jakobus 5:11"],
+      "sources": [{ "title": "Hiob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002475" }]
+    }
+  ],
+  "events": [
+    {
+      "id": "esau-verkauft-erstgeburtsrecht", "title": "Esau verkauft sein Erstgeburtsrecht", "era": "patriarchen", "year": -1835, "dateLabel": "Nach 1843 v. u. Z.", "place": "",
+      "summary": "Als Esau erschöpft und hungrig vom Feld kam, bat er Jakob um etwas von dessen rotem Gericht. Jakob verlangte dafür das Erstgeburtsrecht, und Esau verkaufte es ihm mit einem Schwur für ein Linsengericht und etwas Brot. Damit zeigte er, dass er die heiligen Verheißungen, die Gott Abraham gegeben hatte, gering schätzte.",
+      "facts": [
+        { "text": "Das Erstgeburtsrecht war mit den Verheißungen an Abraham verbunden.", "ref": "" },
+        { "text": "Esau verkaufte es durch einen Schwur.", "ref": "1. Mose 25:33" },
+        { "text": "So verachtete er das Erstgeburtsrecht.", "ref": "1. Mose 25:34" },
+        { "text": "Die Bibel warnt davor, heilige Dinge so gering zu schätzen wie Esau.", "ref": "Hebräer 12:16" }
+      ],
+      "significance": "", "persons": ["esau", "jakob"], "refs": ["1. Mose 25:27-34", "Hebräer 12:16"],
+      "sources": [
+        { "title": "Esau – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001417" },
+        { "title": "Jakob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002279" }
+      ]
+    },
+    {
+      "id": "jakob-erhaelt-den-segen", "title": "Jakob erhält den Segen", "era": "patriarchen", "year": -1782, "dateLabel": "um 1781 v. u. Z.", "place": "",
+      "summary": "Der alte Isaak wollte seinen älteren Sohn Esau segnen. Auf Rebekkas Rat gab sich Jakob als Esau aus und erhielt den Segen des Erstgeborenen. Als Esau zurückkam, war der Segen bereits gegeben – und Isaak bestätigte ihn. Weil Esau ihn töten wollte, floh Jakob nach Haran.",
+      "facts": [
+        { "text": "Jehova hatte vorhergesagt, dass der Ältere dem Jüngeren dienen werde.", "ref": "1. Mose 25:23" },
+        { "text": "Rebekka half Jakob, den Segen zu erhalten.", "ref": "1. Mose 27:5-17" },
+        { "text": "Isaak bestätigte den Segen für Jakob.", "ref": "1. Mose 27:33" },
+        { "text": "Esau hasste Jakob und wollte ihn töten.", "ref": "1. Mose 27:41" }
+      ],
+      "significance": "", "persons": ["isaak", "rebekka", "jakob", "esau"], "refs": ["1. Mose 27:1-45"],
+      "sources": [
+        { "title": "Esau – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001417" },
+        { "title": "Rahel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003621" }
+      ]
+    },
+    {
+      "id": "jakobs-traum", "title": "Jakobs Traum in Bethel", "era": "patriarchen", "year": -1781, "dateLabel": "1781 v. u. Z.", "place": "Bethel",
+      "summary": "Auf der Flucht nach Haran übernachtete Jakob unter freiem Himmel, einen Stein als Kopfstütze. Im Traum sah er eine Leiter (oder Treppe), die bis an den Himmel reichte und auf der Engel auf- und niederstiegen. Jehova bestätigte ihm die Verheißungen, die er Abraham gegeben hatte. Jakob nannte den Ort Bethel („Haus Gottes“).",
+      "facts": [
+        { "text": "Jakob sah Engel auf einer Leiter auf- und niedersteigen.", "ref": "1. Mose 28:12" },
+        { "text": "Jehova bestätigte ihm den abrahamischen Bund.", "ref": "1. Mose 28:13-15" },
+        { "text": "Jakob stellte eine Säule auf und nannte den Ort Bethel.", "ref": "1. Mose 28:18, 19" }
+      ],
+      "significance": "", "persons": ["jakob"], "refs": ["1. Mose 28:10-22"],
+      "sources": [
+        { "title": "Jakob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002279" },
+        { "title": "Bethel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000682" }
+      ]
+    },
+    {
+      "id": "jakob-heiratet", "title": "Jakob heiratet Lea und Rahel", "era": "patriarchen", "year": -1774, "dateLabel": "um 1774 v. u. Z.", "place": "Haran (Paddan-Aram)",
+      "summary": "Jakob diente seinem Onkel Laban sieben Jahre, um Rahel heiraten zu dürfen. In der Hochzeitsnacht gab Laban ihm jedoch Lea. Jakob vollendete die Hochzeitswoche mit Lea, erhielt danach auch Rahel und arbeitete dafür weitere sieben Jahre.",
+      "facts": [
+        { "text": "Die sieben Jahre kamen Jakob wie wenige Tage vor.", "ref": "1. Mose 29:20" },
+        { "text": "Laban berief sich auf einen örtlichen Brauch.", "ref": "1. Mose 29:26" },
+        { "text": "Jakob liebte Rahel mehr als Lea.", "ref": "1. Mose 29:30" }
+      ],
+      "significance": "", "persons": ["jakob", "lea", "rahel", "laban"], "refs": ["1. Mose 29:15-30"],
+      "sources": [
+        { "title": "Rahel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003621" },
+        { "title": "Lea – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002702" }
+      ]
+    },
+    {
+      "id": "jakob-ringt-mit-engel", "title": "Jakob ringt mit einem Engel", "era": "patriarchen", "year": -1761, "dateLabel": "um 1761 v. u. Z.", "place": "Am Jabbok",
+      "summary": "Nach 20 Jahren bei Laban kehrte Jakob mit seiner Familie nach Kanaan zurück. In der Nacht, bevor er seinem Bruder Esau begegnete, rang er am Jabbok mit einem Engel. Wegen seiner Beharrlichkeit erhielt er einen neuen Namen: Israel. Am nächsten Tag empfing ihn Esau freundlich.",
+      "facts": [
+        { "text": "Jakob hatte 20 Jahre bei Laban gedient.", "ref": "1. Mose 31:41" },
+        { "text": "Er ließ den Engel nicht los, bevor dieser ihn segnete.", "ref": "1. Mose 32:26" },
+        { "text": "„Israel“ bedeutet „Streiter mit Gott“ oder „Gott streitet“.", "ref": "1. Mose 32:28" },
+        { "text": "Esau lief ihm entgegen und umarmte ihn.", "ref": "1. Mose 33:4" }
+      ],
+      "significance": "", "persons": ["jakob", "esau"], "refs": ["1. Mose 32:22-32", "1. Mose 33:1-17", "Hosea 12:3, 4"],
+      "sources": [{ "title": "Jakob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002279" }]
+    },
+    {
+      "id": "joseph-wird-verkauft", "title": "Joseph wird nach Ägypten verkauft", "era": "patriarchen", "year": -1750, "dateLabel": "um 1750 v. u. Z.", "place": "Dothan; Ägypten",
+      "summary": "Josephs Halbbrüder hassten ihn, weil ihr Vater ihn bevorzugte und weil er Träume von einer künftigen Vorrangstellung erzählte. Als Jakob ihn zu ihnen schickte, wollten sie ihn töten. Auf Rubens Rat warfen sie ihn in eine leere Zisterne, und auf Judas Vorschlag verkauften sie ihn für 20 Silberstücke an Kaufleute. In Ägypten kaufte ihn Potiphar.",
+      "facts": [
+        { "text": "Joseph war 17 Jahre alt.", "ref": "1. Mose 37:2" },
+        { "text": "Ruben verhinderte, dass sie ihn töteten.", "ref": "1. Mose 37:21, 22" },
+        { "text": "Sie verkauften ihn für 20 Silberstücke.", "ref": "1. Mose 37:28" },
+        { "text": "Jakob glaubte, ein wildes Tier habe Joseph getötet.", "ref": "1. Mose 37:31-35" }
+      ],
+      "significance": "", "persons": ["joseph", "ruben", "juda", "jakob", "potiphar"], "refs": ["1. Mose 37:12-36"],
+      "sources": [
+        { "title": "Joseph – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002515" },
+        { "title": "Juda – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002538" }
+      ]
+    },
+    {
+      "id": "joseph-wird-verwalter", "title": "Joseph wird Verwalter Ägyptens", "era": "patriarchen", "year": -1737, "dateLabel": "1737 v. u. Z.", "place": "Ägypten",
+      "summary": "Nach Jahren als Sklave und Gefangener wurde Joseph vor Pharao gerufen, um dessen Träume zu deuten. Mit Gottes Hilfe kündigte er sieben Jahre des Überflusses und sieben Jahre der Hungersnot an und riet, Vorräte anzulegen. Pharao setzte den 30-Jährigen über ganz Ägypten.",
+      "facts": [
+        { "text": "Im Gefängnis deutete er die Träume des Mundschenks und des Bäckers.", "ref": "1. Mose 40:1-23" },
+        { "text": "Er sagte, nicht er, sondern Gott werde die Deutung geben.", "ref": "1. Mose 41:16" },
+        { "text": "Er war 30 Jahre alt, als er vor Pharao stand.", "ref": "1. Mose 41:46" },
+        { "text": "In den sieben guten Jahren sammelte er Getreide.", "ref": "1. Mose 41:47-49" }
+      ],
+      "significance": "", "persons": ["joseph"], "refs": ["1. Mose 41:1-57"],
+      "sources": [
+        { "title": "Joseph – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002515" },
+        { "title": "Isaak – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002203" }
+      ]
+    },
+    {
+      "id": "joseph-gibt-sich-zu-erkennen", "title": "Joseph gibt sich seinen Brüdern zu erkennen", "era": "patriarchen", "year": -1729, "dateLabel": "Im 2. Jahr der Hungersnot", "place": "Ägypten",
+      "summary": "Wegen der Hungersnot kamen Josephs Brüder nach Ägypten, um Getreide zu kaufen, und verneigten sich vor ihm, ohne ihn zu erkennen. Joseph prüfte, ob sie sich geändert hatten. Als Juda sich anbot, an Benjamins Stelle Sklave zu werden, gab sich Joseph unter Tränen zu erkennen und vergab ihnen.",
+      "facts": [
+        { "text": "Die Brüder erkannten Joseph nicht.", "ref": "1. Mose 42:8" },
+        { "text": "Joseph behielt Simeon als Geisel zurück.", "ref": "1. Mose 42:24" },
+        { "text": "Juda bot sich an Benjamins Stelle an.", "ref": "1. Mose 44:33" },
+        { "text": "Joseph erkannte, dass Gott ihn vorausgesandt hatte, um Leben zu erhalten.", "ref": "1. Mose 45:5-8" }
+      ],
+      "significance": "", "persons": ["joseph", "juda", "benjamin", "simeon"], "refs": ["1. Mose 42:1–45:15"],
+      "sources": [
+        { "title": "Juda – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002538" },
+        { "title": "Simeon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004124" }
+      ]
+    },
+    {
+      "id": "jakob-zieht-nach-aegypten", "title": "Jakob zieht nach Ägypten", "era": "patriarchen", "year": -1728, "dateLabel": "1728 v. u. Z.", "place": "Gosen in Ägypten",
+      "summary": "Auf Josephs Einladung zog Jakob mit seiner ganzen Familie nach Ägypten. Gott sicherte ihm zu, dort eine große Nation aus ihm zu machen. Bald nach der Ankunft wurde der 130-jährige Jakob zu Pharao gebracht und segnete ihn; die Familie ließ sich im Land Gosen nieder.",
+      "facts": [
+        { "text": "Gott ermutigte Jakob, nach Ägypten zu ziehen.", "ref": "1. Mose 46:2-4" },
+        { "text": "Jakob war damals 130 Jahre alt.", "ref": "1. Mose 47:9" },
+        { "text": "Er segnete Pharao.", "ref": "1. Mose 47:7" },
+        { "text": "Israel wohnte danach 215 Jahre in Ägypten (1728–1513 v. u. Z.).", "ref": "" }
+      ],
+      "significance": "Damit begann die Zeit Israels in Ägypten, die bis zum Auszug 1513 v. u. Z. dauerte.", "persons": ["jakob", "joseph"], "refs": ["1. Mose 46:1–47:12"],
+      "sources": [
+        { "title": "Jakob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002279" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "tod-jakobs", "title": "Jakob segnet seine Söhne und stirbt", "era": "aegypten", "year": -1711, "dateLabel": "1711 v. u. Z.", "place": "Ägypten; begraben in Machpela",
+      "summary": "Nach 17 Jahren in Ägypten starb Jakob mit 147 Jahren. Vor seinem Tod segnete er Josephs Söhne Ephraim und Manasse und sprach prophetische Worte über jeden seiner zwölf Söhne. Über Juda sagte er voraus, dass das Zepter nicht von ihm weichen werde. Seine Söhne begruben ihn in der Höhle von Machpela.",
+      "facts": [
+        { "text": "Jakob segnete Ephraim und Manasse.", "ref": "1. Mose 48:1-20" },
+        { "text": "Er sprach über jeden seiner Söhne prophetische Worte.", "ref": "1. Mose 49:1-28" },
+        { "text": "Das Zepter sollte nicht von Juda weichen.", "ref": "1. Mose 49:10" },
+        { "text": "Er wurde in der Höhle von Machpela begraben.", "ref": "1. Mose 50:12, 13" }
+      ],
+      "significance": "", "persons": ["jakob", "joseph", "juda"], "refs": ["1. Mose 47:28–50:14"],
+      "sources": [
+        { "title": "Jakob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002279" },
+        { "title": "Juda – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002538" }
+      ]
+    },
+    {
+      "id": "tod-josephs", "title": "Joseph stirbt", "era": "aegypten", "year": -1657, "dateLabel": "1657 v. u. Z.", "place": "Ägypten",
+      "summary": "Joseph starb mit 110 Jahren und überlebte seinen Vater um etwa 54 Jahre; er erlebte sogar noch einige seiner Urenkel. Im Glauben an Gottes Verheißung ließ er seine Brüder schwören, seine Gebeine mitzunehmen, wenn Gott Israel aus Ägypten herausführen würde.",
+      "facts": [
+        { "text": "Joseph wurde 110 Jahre alt.", "ref": "1. Mose 50:22" },
+        { "text": "Er sah noch Urenkel.", "ref": "1. Mose 50:23" },
+        { "text": "Er gab Anweisung wegen seiner Gebeine.", "ref": "1. Mose 50:24, 25" },
+        { "text": "Die Bibel nennt das ein Zeichen seines Glaubens.", "ref": "Hebräer 11:22" }
+      ],
+      "significance": "", "persons": ["joseph"], "refs": ["1. Mose 50:22-26", "2. Mose 13:19", "Hebräer 11:22"],
+      "sources": [
+        { "title": "Joseph – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002515" },
+        { "title": "Hiob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002475" }
+      ]
+    },
+    {
+      "id": "hiobs-pruefung", "title": "Hiobs Prüfung", "era": "aegypten", "year": -1613, "dateLabel": "wahrscheinlich um 1613 v. u. Z.", "place": "Land Uz",
+      "summary": "Satan behauptete vor Jehova, Hiob diene Gott nur, weil er gesegnet sei. Jehova vertraute Hiobs Lauterkeit und ließ eine Prüfung zu: Hiob verlor seinen Besitz und seine Kinder, dann wurde er schwer krank. Doch Hiob blieb treu. Danach stellte Jehova ihn wieder her und gab ihm das Doppelte von dem, was er vorher besessen hatte.",
+      "facts": [
+        { "text": "Satan stellte Hiobs Beweggründe infrage.", "ref": "Hiob 1:9-11" },
+        { "text": "Hiob sagte: „Jehova hat gegeben, und Jehova hat genommen.“", "ref": "Hiob 1:21" },
+        { "text": "Er hielt an seiner Lauterkeit fest.", "ref": "Hiob 27:5" },
+        { "text": "Jehova gab ihm das Doppelte zurück.", "ref": "Hiob 42:10" }
+      ],
+      "significance": "Hiobs Treue widerlegte Satans Behauptung, Hiob diene Gott nur aus Eigennutz.", "persons": ["hiob", "satan", "jehova"],
+      "refs": ["Hiob 1:1–2:13", "Hiob 42:10-17", "Jakobus 5:11"],
+      "sources": [{ "title": "Hiob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002475" }]
+    }
+  ]
+}

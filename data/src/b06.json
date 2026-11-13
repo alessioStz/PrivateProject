@@ -1,0 +1,690 @@
+{
+  "batch": "b06",
+  "persons": [
+    {
+      "id": "rehabeam", "name": "Rehabeam", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "997–980 v. u. Z. (17 Jahre)" }], "year": -997,
+      "nameMeaning": "„Das Volk erweitern“",
+      "summary": "Rehabeam, ein Sohn Salomos und der Ammoniterin Naama, wurde 997 v. u. Z. mit 41 Jahren König. Weil er den Rat der älteren Männer verwarf und dem Volk eine noch härtere Last androhte, sagten sich zehn Stämme von ihm los. So wurde er der erste König des Zweistämmereichs Juda und Benjamin.",
+      "facts": [
+        { "text": "Er folgte dem Rat der jungen Männer statt dem der älteren.", "ref": "1. Könige 12:6-14" },
+        { "text": "Zehn Stämme fielen von ihm ab.", "ref": "1. Könige 12:16-20" },
+        { "text": "993 v. u. Z. plünderte Pharao Schischak den Tempel.", "ref": "1. Könige 14:25, 26" }
+      ],
+      "lesson": "",
+      "family": { "father": "salomo", "mother": "Naama", "spouses": ["Maacha"], "children": ["abija"], "siblings": [] },
+      "related": ["jerobeam"], "events": ["reichsteilung"], "books": [],
+      "refs": ["1. Könige 12:1-24", "1. Könige 14:21-31", "2. Chronika 10:1-19"],
+      "sources": [
+        { "title": "Rehabeam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003680" },
+        { "title": "A6-A Propheten und Könige von Juda und Israel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070206" }
+      ]
+    },
+    {
+      "id": "abija", "name": "Abija", "altNames": ["Abijam"], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "980–978 v. u. Z. (3 Jahre)" }], "year": -980,
+      "nameMeaning": "„(Mein) Vater ist Jehova“",
+      "summary": "Abija, auch Abijam genannt, war ein Sohn Rehabeams und Maachas und der zweite König des Zweistämmereichs Juda. Er war väterlicher- und mütterlicherseits ein Nachkomme Davids und steht in der königlichen Abstammungslinie Jesu.",
+      "facts": [
+        { "text": "Er regierte nur drei Jahre.", "ref": "1. Könige 15:1, 2" },
+        { "text": "Er kämpfte gegen Jerobeam von Israel.", "ref": "2. Chronika 13:1-20" },
+        { "text": "Er steht im Geschlechtsregister Jesu.", "ref": "Matthäus 1:7" }
+      ],
+      "lesson": "",
+      "family": { "father": "rehabeam", "mother": "Maacha", "spouses": [], "children": ["asa"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["1. Könige 15:1-8", "2. Chronika 13:1-22"],
+      "sources": [{ "title": "Abija – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000041" }]
+    },
+    {
+      "id": "asa", "name": "Asa", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "977–937 v. u. Z. (41 Jahre)" }], "year": -978, "nameMeaning": "",
+      "summary": "Asa, Sohn Abijams und Enkel Rehabeams, regierte 41 Jahre über Juda. Nach Jahren des Abfalls bekundete er „wie David, sein Vorvater“, großen Eifer für die reine Anbetung und entfernte Götzen und Tempelprostituierte aus dem Land. Mit Jehovas Hilfe besiegte er das gewaltige Heer Serachs, des Äthiopiers.",
+      "facts": [
+        { "text": "Er tat, was recht war in Jehovas Augen.", "ref": "1. Könige 15:11-13" },
+        { "text": "Er besiegte Serach, den Äthiopier.", "ref": "2. Chronika 14:9-12" },
+        { "text": "Später verließ er sich auf den König von Syrien statt auf Jehova.", "ref": "2. Chronika 16:7-9" }
+      ],
+      "lesson": "",
+      "family": { "father": "abija", "mother": "", "spouses": [], "children": ["josaphat"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["1. Könige 15:9-24", "2. Chronika 14:1–16:14"],
+      "sources": [{ "title": "Asa – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000397" }]
+    },
+    {
+      "id": "josaphat", "name": "Josaphat", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ab 936 v. u. Z. (25 Jahre)" }], "year": -937, "nameMeaning": "„Jehova ist Richter“",
+      "summary": "Josaphat, der Sohn Asas, wurde mit 35 Jahren König und regierte 25 Jahre. Seine Herrschaft war von Stabilität, Wohlstand und Frieden geprägt. Er sandte Fürsten, Leviten und Priester aus, um das Volk aus dem Buch des Gesetzes zu lehren. Doch er verschwägerte sich mit dem gottlosen König Ahab – sein Sohn Joram heiratete Athalja.",
+      "facts": [
+        { "text": "Im dritten Jahr ließ er das Gesetz Jehovas im Land lehren.", "ref": "2. Chronika 17:7-9" },
+        { "text": "Er verbündete sich mit Ahab im Krieg.", "ref": "2. Chronika 18:1-3" },
+        { "text": "Vor einem übermächtigen Feind vertraute er auf Jehova.", "ref": "2. Chronika 20:12-17" }
+      ],
+      "lesson": "",
+      "family": { "father": "asa", "mother": "Asuba", "spouses": [], "children": ["joram-juda"], "siblings": [] },
+      "related": ["ahab"], "events": [], "books": [],
+      "refs": ["2. Chronika 17:1-19", "2. Chronika 20:1-30", "1. Könige 22:41-50"],
+      "sources": [{ "title": "Josaphat – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002383" }]
+    },
+    {
+      "id": "joram-juda", "name": "Joram", "altNames": ["Jehoram"], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ab 913 v. u. Z. (8 Jahre)" }], "year": -913,
+      "nameMeaning": "„Jehova ist hoch (ist erhaben)“",
+      "summary": "Joram (Jehoram), der Erstgeborene Josaphats, wurde mit 32 Jahren König von Juda. Er heiratete Athalja, die Tochter Ahabs und Isebels, und folgte dem schlechten Weg des Hauses Ahab. Zeitweise regierten in Juda und Israel gleichnamige Könige.",
+      "facts": [
+        { "text": "Er war mit Athalja verheiratet.", "ref": "2. Könige 8:16-18" },
+        { "text": "Er tat, was böse war in Jehovas Augen.", "ref": "2. Chronika 21:6" },
+        { "text": "Philister und Araber drangen in Juda ein.", "ref": "2. Chronika 21:16, 17" }
+      ],
+      "lesson": "",
+      "family": { "father": "josaphat", "mother": "", "spouses": ["athalja"], "children": ["ahasja-juda"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["2. Könige 8:16-24", "2. Chronika 21:1-20"],
+      "sources": [{ "title": "Joram – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002381" }]
+    },
+    {
+      "id": "ahasja-juda", "name": "Ahasja", "altNames": ["Jehoahas"], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 906 v. u. Z. (1 Jahr)" }], "year": -906,
+      "nameMeaning": "„Jehova hat ergriffen“",
+      "summary": "Ahasja, der Sohn Jorams und Athaljas, war mit 22 Jahren König von Juda und regierte nur ein Jahr. Er ließ sich von seiner herrschsüchtigen Mutter zum Bösen beeinflussen. Als er König Joram von Israel besuchte, wurde er bei Jehus Strafgericht über das Haus Ahab getötet.",
+      "facts": [
+        { "text": "Seine Mutter Athalja beriet ihn zum Bösen.", "ref": "2. Chronika 22:2-4" },
+        { "text": "Er zog mit Joram von Israel gegen Syrien.", "ref": "2. Könige 8:28" },
+        { "text": "Er wurde auf Jehus Befehl getötet.", "ref": "2. Könige 9:27" }
+      ],
+      "lesson": "",
+      "family": { "father": "joram-juda", "mother": "athalja", "spouses": ["Zibja"], "children": ["joas-juda"], "siblings": [] },
+      "related": ["jehu"], "events": ["jehu-vollstreckt-gericht"], "books": [],
+      "refs": ["2. Könige 8:25-29", "2. Könige 9:27-29", "2. Chronika 22:1-9"],
+      "sources": [{ "title": "Ahasja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000145" }]
+    },
+    {
+      "id": "athalja", "name": "Athalja", "altNames": [], "sex": "f", "tags": ["koenig"],
+      "role": "Königin von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 905–898 v. u. Z. (6 Jahre)" }], "year": -905, "nameMeaning": "",
+      "summary": "Athalja war die Tochter Ahabs und Isebels und wurde aus politischen Gründen mit Joram von Juda verheiratet. Nach dem Tod ihres Sohnes Ahasja ließ sie die königliche Nachkommenschaft umbringen und riss den Thron an sich. Doch der kleine Joas wurde gerettet; nach sechs Jahren stürzte der Hohe Priester Jehojada Athalja, und sie wurde getötet.",
+      "facts": [
+        { "text": "Sie war eine Enkelin Omris.", "ref": "2. Könige 8:26" },
+        { "text": "Sie vernichtete die königliche Nachkommenschaft.", "ref": "2. Könige 11:1" },
+        { "text": "Joas wurde sechs Jahre im Haus Jehovas versteckt.", "ref": "2. Könige 11:2, 3" },
+        { "text": "Sie wurde auf Jehojadas Befehl getötet.", "ref": "2. Könige 11:13-16" }
+      ],
+      "lesson": "",
+      "family": { "father": "ahab", "mother": "isebel", "spouses": ["joram-juda"], "children": ["ahasja-juda"], "siblings": ["joram-israel", "ahasja-israel"] },
+      "related": ["jojada", "joas-juda"], "events": ["athalja-und-joas"], "books": [],
+      "refs": ["2. Könige 11:1-20", "2. Chronika 22:10–23:21"],
+      "sources": [{ "title": "Athalja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000457" }]
+    },
+    {
+      "id": "joas-juda", "name": "Joas", "altNames": ["Jehoas"], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "898–859 v. u. Z. (40 Jahre)" }], "year": -898, "nameMeaning": "",
+      "summary": "Joas, der jüngste Sohn Ahasjas, wurde als Kleinkind vor Athaljas Mordplan gerettet und sechs Jahre im Tempel versteckt. Mit sieben Jahren wurde er König und tat, solange der Hohe Priester Jehojada lebte, was recht war; er ließ den Tempel ausbessern. Nach Jehojadas Tod jedoch wandte er sich dem Götzendienst zu und ließ dessen Sohn Sacharja steinigen.",
+      "facts": [
+        { "text": "Er wurde mit sieben Jahren König.", "ref": "2. Könige 11:21" },
+        { "text": "Er ließ das Haus Jehovas ausbessern.", "ref": "2. Könige 12:4-15" },
+        { "text": "Nach Jehojadas Tod ließ er Sacharja steinigen.", "ref": "2. Chronika 24:17-22" },
+        { "text": "Er wurde von seinen eigenen Dienern ermordet.", "ref": "2. Chronika 24:25" }
+      ],
+      "lesson": "",
+      "family": { "father": "ahasja-juda", "mother": "Zibja", "spouses": [], "children": ["amazja"], "siblings": [] },
+      "related": ["jojada", "athalja"], "events": ["athalja-und-joas"], "books": [],
+      "refs": ["2. Könige 11:1–12:21", "2. Chronika 24:1-27"],
+      "sources": [{ "title": "Joas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002474" }]
+    },
+    {
+      "id": "amazja", "name": "Amazja", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ab 858 v. u. Z. (29 Jahre)" }], "year": -858, "nameMeaning": "„Stark ist Jehova“",
+      "summary": "Amazja wurde 858 v. u. Z. nach der Ermordung seines Vaters Joas mit 25 Jahren König. Er ließ die Mörder seines Vaters hinrichten, verschonte aber nach dem Gesetz Moses ihre Söhne. Anfangs setzte er sich für die wahre Anbetung ein; nach einem Sieg über Edom betete er jedoch die Götter der Edomiter an und wurde von Joas von Israel geschlagen.",
+      "facts": [
+        { "text": "Er bestrafte die Söhne der Mörder nicht.", "ref": "2. Könige 14:5, 6" },
+        { "text": "Er verehrte die Götter Edoms.", "ref": "2. Chronika 25:14" },
+        { "text": "Joas von Israel besiegte ihn und plünderte Jerusalem.", "ref": "2. Könige 14:11-14" }
+      ],
+      "lesson": "",
+      "family": { "father": "joas-juda", "mother": "Jehoaddin", "spouses": ["Jecholja"], "children": ["usija"], "siblings": [] },
+      "related": ["joas-israel"], "events": [], "books": [],
+      "refs": ["2. Könige 14:1-20", "2. Chronika 25:1-28"],
+      "sources": [{ "title": "Amazja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000224" }]
+    },
+    {
+      "id": "usija", "name": "Usija", "altNames": ["Asarja"], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "829–778 v. u. Z. (52 Jahre)" }], "year": -829, "nameMeaning": "„Meine Stärke ist Jehova“",
+      "summary": "Usija, auch Asarja genannt, regierte 52 Jahre über Juda. Jesaja, Hosea, Amos und vielleicht Joel waren seine Zeitgenossen. Als er stark wurde, wurde er hochmütig: Er drang in den Tempel ein, um Räucherwerk darzubringen, was nur Priestern erlaubt war. Dabei wurde er mit Aussatz geschlagen und blieb bis zu seinem Tod aussätzig.",
+      "facts": [
+        { "text": "Solange er Jehova suchte, ließ Gott ihn Gelingen haben.", "ref": "2. Chronika 26:4, 5" },
+        { "text": "Er wollte im Tempel Räucherwerk darbringen.", "ref": "2. Chronika 26:16-18" },
+        { "text": "Er wurde mit Aussatz geschlagen.", "ref": "2. Chronika 26:19-21" },
+        { "text": "In seiner Regierungszeit gab es ein großes Erdbeben.", "ref": "Sacharja 14:5" }
+      ],
+      "lesson": "",
+      "family": { "father": "amazja", "mother": "Jecholja", "spouses": ["Jeruscha"], "children": ["jotham"], "siblings": [] },
+      "related": ["jesaja"], "events": ["jesaja-wird-berufen"], "books": [],
+      "refs": ["2. Chronika 26:1-23", "2. Könige 15:1-7"],
+      "sources": [{ "title": "Usija – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004535" }]
+    },
+    {
+      "id": "jotham", "name": "Jotham", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "777–762 v. u. Z. (16 Jahre)" }], "year": -777, "nameMeaning": "„Jehova ist vollkommen“",
+      "summary": "Jotham, der Sohn Usijas, übernahm die Pflichten seines Vaters, als dieser aussätzig wurde, und regierte dann 16 Jahre. Er tat, was recht war in Jehovas Augen, das Volk aber handelte weiterhin verderblich. Micha, Hosea und Jesaja prophezeiten in seiner Zeit.",
+      "facts": [
+        { "text": "Er vertrat seinen aussätzigen Vater.", "ref": "2. Könige 15:5" },
+        { "text": "Er tat, was recht war, das Volk aber handelte verderblich.", "ref": "2. Chronika 27:2" },
+        { "text": "Er baute das obere Tor des Hauses Jehovas.", "ref": "2. Chronika 27:3" }
+      ],
+      "lesson": "",
+      "family": { "father": "usija", "mother": "Jeruscha", "spouses": [], "children": ["ahas"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["2. Könige 15:32-38", "2. Chronika 27:1-9"],
+      "sources": [{ "title": "Jotham – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002529" }]
+    },
+    {
+      "id": "ahas", "name": "Ahas", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ab 762 v. u. Z. (16 Jahre)" }], "year": -762,
+      "nameMeaning": "Kurzform von Jehoahas: „Jehova hat ergriffen“",
+      "summary": "Ahas, der Sohn Jothams, kam mit 20 Jahren auf den Thron und regierte 16 Jahre. Er war ein götzendienerischer König, der Hilfe nicht bei Jehova, sondern beim Assyrerkönig Tiglath-Pileser III. suchte und ihm tributpflichtig wurde. Micha, Hosea und Jesaja wirkten während seiner Regierung.",
+      "facts": [
+        { "text": "Er ließ sogar seinen Sohn durchs Feuer gehen.", "ref": "2. Könige 16:3" },
+        { "text": "Er suchte die Hilfe Assyriens.", "ref": "2. Könige 16:7, 8" },
+        { "text": "Jesaja ermutigte ihn vergeblich, auf Jehova zu vertrauen.", "ref": "Jesaja 7:1-12" }
+      ],
+      "lesson": "",
+      "family": { "father": "jotham", "mother": "", "spouses": [], "children": ["hiskia"], "siblings": [] },
+      "related": ["jesaja"], "events": [], "books": [],
+      "refs": ["2. Könige 16:1-20", "2. Chronika 28:1-27"],
+      "sources": [
+        { "title": "Ahas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000144" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "hiskia", "name": "Hiskia", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "745–717 v. u. Z." }], "year": -746, "nameMeaning": "„Jehova stärkt“",
+      "summary": "Hiskia, der Sohn Ahas’, hielt weiterhin fest zu Jehova; unter allen Königen Judas war keiner wie er. Schon zu Beginn seiner Regierung förderte er eifrig die wahre Anbetung. Als der Assyrerkönig Sanherib 732 v. u. Z. Jerusalem bedrohte, vertraute er auf Jehova, der die Stadt rettete. Nach einer schweren Krankheit verlängerte Gott sein Leben um 15 Jahre.",
+      "facts": [
+        { "text": "Er tat, was recht war in Jehovas Augen.", "ref": "2. Könige 18:3-7" },
+        { "text": "Er schützte Jerusalems Wasserversorgung vor den Assyrern.", "ref": "2. Chronika 32:2-4" },
+        { "text": "Jehovas Engel schlug das Heer Sanheribs.", "ref": "2. Könige 19:35" },
+        { "text": "Nach seiner Heilung schrieb er ein Danklied.", "ref": "Jesaja 38:9-20" },
+        { "text": "Seine Männer schrieben Sprüche Salomos ab.", "ref": "Sprüche 25:1" }
+      ],
+      "lesson": "",
+      "family": { "father": "ahas", "mother": "", "spouses": ["Hephzibah"], "children": ["manasse"], "siblings": [] },
+      "related": ["jesaja", "sanherib", "micha"], "events": ["sanherib-bedroht-jerusalem"], "books": [],
+      "refs": ["2. Könige 18:1–20:21", "2. Chronika 29:1–32:33", "Jesaja 36:1–39:8"],
+      "sources": [{ "title": "Hiskia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002011" }]
+    },
+    {
+      "id": "manasse", "name": "Manasse", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "716–662 v. u. Z. (55 Jahre)" }], "year": -716, "nameMeaning": "„Vergessen Machender“",
+      "summary": "Manasse, der Sohn Hiskias, kam mit 12 Jahren auf den Thron und regierte 55 Jahre – länger als jeder andere König Judas. Er baute die Höhen wieder auf, diente Baal und dem „Heer der Himmel“, trieb Magie und ließ seine Söhne durchs Feuer gehen. Er verführte Juda, Schlimmeres zu tun als die Nationen. Als er nach Babylon gebracht wurde, demütigte er sich jedoch vor Jehova, und Gott ließ ihn zurückkehren.",
+      "facts": [
+        { "text": "Er stellte das Bild eines heiligen Pfahls ins Haus Jehovas.", "ref": "2. Könige 21:7" },
+        { "text": "Er vergoss sehr viel unschuldiges Blut.", "ref": "2. Könige 21:16" },
+        { "text": "In Bedrängnis demütigte er sich vor Jehova.", "ref": "2. Chronika 33:11-13" },
+        { "text": "Danach entfernte er die fremden Götter.", "ref": "2. Chronika 33:15, 16" }
+      ],
+      "lesson": "",
+      "family": { "father": "hiskia", "mother": "Hephzibah", "spouses": [], "children": ["amon"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["2. Könige 21:1-18", "2. Chronika 33:1-20"],
+      "sources": [{ "title": "Manasse – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002882" }]
+    },
+    {
+      "id": "amon", "name": "Amon", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "661–660 v. u. Z. (2 Jahre)" }], "year": -661, "nameMeaning": "",
+      "summary": "Amon, der Sohn Manasses, wurde mit 22 Jahren König und trieb Götzendienst wie sein Vater in dessen früheren Jahren. Nach zwei Jahren wurde er von seinen eigenen Dienern ermordet; das Volk setzte seinen Sohn Josia auf den Thron.",
+      "facts": [
+        { "text": "Er diente den Götzen wie sein Vater.", "ref": "2. Könige 21:20-22" },
+        { "text": "Er demütigte sich nicht wie Manasse.", "ref": "2. Chronika 33:23" },
+        { "text": "Seine Diener ermordeten ihn.", "ref": "2. Könige 21:23, 24" }
+      ],
+      "lesson": "",
+      "family": { "father": "manasse", "mother": "", "spouses": ["Jedida"], "children": ["josia"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["2. Könige 21:19-26", "2. Chronika 33:21-25"],
+      "sources": [{ "title": "Amon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000244" }]
+    },
+    {
+      "id": "josia", "name": "Josia", "altNames": [], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "659–629 v. u. Z. (31 Jahre)" }], "year": -659,
+      "nameMeaning": "„Jehova hat geheilt“ (falls mit einer arabischen Wurzel verwandt)",
+      "summary": "Josia wurde mit acht Jahren König, nachdem sein Vater Amon ermordet worden war. Im 8. Regierungsjahr begann er, Jehova zu suchen, und ab dem 12. Jahr reinigte er Juda und sogar Teile des früheren Nordreichs vom Götzendienst. Bei der Ausbesserung des Tempels wurde das Buch des Gesetzes gefunden. Er feierte ein Passah wie keines zuvor. Gegen Ende seiner Regierung fiel er bei Megiddo im Kampf gegen Pharao Necho.",
+      "facts": [
+        { "text": "Mit 16 Jahren begann er, den Gott Davids zu suchen.", "ref": "2. Chronika 34:3" },
+        { "text": "Er vernichtete die Altäre der falschen Götter.", "ref": "2. Chronika 34:3-7" },
+        { "text": "Das Buch des Gesetzes wurde im Tempel gefunden.", "ref": "2. Könige 22:8" },
+        { "text": "Er feierte ein außergewöhnliches Passah.", "ref": "2. Könige 23:21-23" },
+        { "text": "Er wurde bei Megiddo tödlich verwundet.", "ref": "2. Chronika 35:20-24" }
+      ],
+      "lesson": "",
+      "family": { "father": "amon", "mother": "Jedida", "spouses": ["Hamutal", "Sebida"], "children": ["joahas-juda", "jojakim", "zedekia", "Johanan"], "siblings": [] },
+      "related": ["jeremia", "zephanja", "hulda"], "events": ["josias-reform", "jeremia-wird-berufen"], "books": [],
+      "refs": ["2. Könige 22:1–23:30", "2. Chronika 34:1–35:27"],
+      "sources": [{ "title": "Josia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002525" }]
+    },
+    {
+      "id": "joahas-juda", "name": "Jehoahas", "altNames": ["Joahas", "Schallum"], "sex": "m", "tags": ["koenig"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "628 v. u. Z. (3 Monate)" }], "year": -628, "nameMeaning": "„Jehova hat ergriffen“",
+      "summary": "Jehoahas, ein Sohn Josias und Hamutals, wurde nach dem Tod seines Vaters vom Volk zum König gewählt, obwohl er nicht der älteste Sohn war. Er regierte nur drei Monate; dann setzte ihn Pharao Necho ab und führte ihn nach Ägypten, wo er starb.",
+      "facts": [
+        { "text": "Er wurde mit 23 Jahren König.", "ref": "2. Könige 23:31" },
+        { "text": "Pharao Necho nahm ihn gefangen.", "ref": "2. Könige 23:33, 34" },
+        { "text": "Jeremia kündigte an, dass er nicht zurückkehren werde.", "ref": "Jeremia 22:11, 12" }
+      ],
+      "lesson": "",
+      "family": { "father": "josia", "mother": "Hamutal", "spouses": [], "children": [], "siblings": ["jojakim", "zedekia"] },
+      "related": [], "events": [], "books": [],
+      "refs": ["2. Könige 23:30-34", "2. Chronika 36:1-4"],
+      "sources": [
+        { "title": "Jehoahas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002372" },
+        { "title": "A6-B Propheten und Könige von Juda und Israel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070215" }
+      ]
+    },
+    {
+      "id": "jojakim", "name": "Jojakim", "altNames": ["Eljakim"], "sex": "m", "tags": ["koenig"],
+      "role": "König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "628–618 v. u. Z. (11 Jahre)" }], "year": -628,
+      "nameMeaning": "„Jehova richtet auf“ (vielleicht)",
+      "summary": "Jojakim, ursprünglich Eljakim genannt, ein Sohn Josias, wurde von Pharao Necho als König eingesetzt. Seine Herrschaft war von Ungerechtigkeit, Bedrückung und Blutvergießen geprägt. Später wurde er Nebukadnezar tributpflichtig und lehnte sich 618 v. u. Z. gegen ihn auf.",
+      "facts": [
+        { "text": "Pharao Necho machte ihn zum König.", "ref": "2. Könige 23:34" },
+        { "text": "Er verbrannte die Buchrolle mit Jeremias Prophezeiungen.", "ref": "Jeremia 36:22-24" },
+        { "text": "Er ließ den Propheten Urija töten.", "ref": "Jeremia 26:20-23" },
+        { "text": "Nebukadnezar machte ihn zum Vasallen.", "ref": "2. Könige 24:1" }
+      ],
+      "lesson": "",
+      "family": { "father": "josia", "mother": "Sebida", "spouses": ["Nehuschta"], "children": ["jojachin"], "siblings": ["joahas-juda", "zedekia"] },
+      "related": ["jeremia", "baruch", "nebukadnezar"], "events": [], "books": [],
+      "refs": ["2. Könige 23:34–24:6", "Jeremia 36:1-32"],
+      "sources": [{ "title": "Jojakim – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002377" }]
+    },
+    {
+      "id": "jojachin", "name": "Jojachin", "altNames": ["Jechonja", "Konja"], "sex": "m", "tags": ["koenig", "vorfahr-jesu"],
+      "role": "König von Juda", "eras": ["geteilt", "exil"], "dates": [{ "label": "Regierung", "value": "618–617 v. u. Z. (3 Monate, 10 Tage)" }], "year": -618,
+      "nameMeaning": "„Jehova hat befestigt“ (wahrscheinlich)",
+      "summary": "Jojachin, auch Jechonja genannt, wurde mit 18 Jahren König und setzte den schlechten Weg seines Vaters Jojakim fort. Nach nur drei Monaten und zehn Tagen ergab er sich 617 v. u. Z. Nebukadnezar und wurde mit Tausenden Judäern nach Babylon weggeführt. 580 v. u. Z. ließ ihn Ewil-Merodach aus dem Gefängnis frei.",
+      "facts": [
+        { "text": "Er tat, was böse war in Jehovas Augen.", "ref": "2. Könige 24:8, 9" },
+        { "text": "Er wurde mit seinen Fürsten nach Babylon weggeführt.", "ref": "2. Könige 24:12-15" },
+        { "text": "Im fünften Jahr seines Exils begann Hesekiel zu prophezeien.", "ref": "Hesekiel 1:2" },
+        { "text": "580 v. u. Z. ließ ihn Ewil-Merodach frei.", "ref": "2. Könige 25:27-30" }
+      ],
+      "lesson": "",
+      "family": { "father": "jojakim", "mother": "Nehuschta", "spouses": [], "children": [], "siblings": [] },
+      "related": ["nebukadnezar", "hesekiel"], "events": ["wegfuehrung-jojachins"], "books": [],
+      "refs": ["2. Könige 24:8-17", "2. Könige 25:27-30", "Matthäus 1:11, 12"],
+      "sources": [{ "title": "Jojachin – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002375" }]
+    },
+    {
+      "id": "zedekia", "name": "Zedekia", "altNames": ["Mattanja"], "sex": "m", "tags": ["koenig"],
+      "role": "Letzter König von Juda", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "617–607 v. u. Z. (11 Jahre)" }], "year": -617,
+      "nameMeaning": "„Gerechtigkeit ist Jehova“",
+      "summary": "Zedekia, ursprünglich Mattanja, ein Sohn Josias, wurde von Nebukadnezar als abhängiger König eingesetzt und war der letzte König in der Linie Davids, der in Jerusalem regierte. Er tat fortgesetzt, was böse war, und hörte nicht auf Jeremia. Als er sich gegen Babylon auflehnte, wurde Jerusalem belagert und 607 v. u. Z. zerstört; Zedekia wurde geblendet und nach Babylon gebracht.",
+      "facts": [
+        { "text": "Nebukadnezar änderte seinen Namen in Zedekia.", "ref": "2. Könige 24:17" },
+        { "text": "Er lieferte Jeremia den Fürsten aus.", "ref": "Jeremia 38:4, 5" },
+        { "text": "Er lehnte sich gegen den König von Babylon auf.", "ref": "2. Könige 24:20" },
+        { "text": "Seine Söhne wurden vor seinen Augen getötet, dann wurde er geblendet.", "ref": "2. Könige 25:6, 7" }
+      ],
+      "lesson": "",
+      "family": { "father": "josia", "mother": "Hamutal", "spouses": [], "children": [], "siblings": ["joahas-juda", "jojakim"] },
+      "related": ["jeremia", "nebukadnezar", "ebed-melech"], "events": ["zerstoerung-jerusalems-607"], "books": [],
+      "refs": ["2. Könige 24:17–25:7", "Jeremia 38:14-28", "Hesekiel 21:25-27"],
+      "sources": [
+        { "title": "Zedekia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004685" },
+        { "title": "A6-B Propheten und Könige von Juda und Israel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070215" }
+      ]
+    },
+    {
+      "id": "jojada", "name": "Jehojada", "altNames": ["Jojada"], "sex": "m", "tags": ["priester"],
+      "role": "Hoher Priester zur Zeit von Joas", "eras": ["geteilt"], "dates": [], "year": -905, "nameMeaning": "„Möge Jehova wissen“",
+      "summary": "Jehojada war Hoher Priester zur Zeit Jorams, Ahasjas, Athaljas und des Joas. Er war mit Jehoscheba verheiratet, die den kleinen Joas vor Athalja rettete. Nach sechs Jahren stürzte er Athalja, setzte Joas als König ein und erhob die wahre Anbetung wieder zu ihrer richtigen Stellung.",
+      "facts": [
+        { "text": "Seine Frau Jehoscheba versteckte Joas.", "ref": "2. Chronika 22:11" },
+        { "text": "Im siebten Jahr ließ er Joas zum König krönen.", "ref": "2. Könige 11:4-12" },
+        { "text": "Er schloss einen Bund, dass das Volk Jehova gehören sollte.", "ref": "2. Könige 11:17" },
+        { "text": "Man begrub ihn bei den Königen.", "ref": "2. Chronika 24:15, 16" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Jehoscheba"], "children": ["Sacharja"], "siblings": [] },
+      "related": ["joas-juda", "athalja"], "events": ["athalja-und-joas"], "books": [],
+      "refs": ["2. Könige 11:1-21", "2. Chronika 23:1-21", "2. Chronika 24:15, 16"],
+      "sources": [{ "title": "Jehojada – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002376" }]
+    },
+    {
+      "id": "jesaja", "name": "Jesaja", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet in Juda", "eras": ["geteilt"], "dates": [{ "label": "Wirken", "value": "um 778 bis nach 732 v. u. Z." }], "year": -778,
+      "nameMeaning": "„Rettung von Jehova“",
+      "summary": "Jesaja, der Sohn des Amoz, diente Juda und Jerusalem als Prophet in den Tagen der Könige Usija, Jotham, Ahas und Hiskia – ungefähr ab 778 v. u. Z. bis nach 732 v. u. Z. Er erlebte den Untergang des Nordreichs Israel 740 v. u. Z. In einer schlimmen Zeit kündigte er Gericht an, aber auch Trost und Rettung für einen treuen Überrest.",
+      "facts": [
+        { "text": "In einer Vision sah er Jehova auf seinem Thron und sagte: „Hier bin ich! Sende mich.“", "ref": "Jesaja 6:1-8" },
+        { "text": "Seine Frau wird als „Prophetin“ bezeichnet.", "ref": "Jesaja 8:3" },
+        { "text": "Er ermutigte Hiskia, als Sanherib Jerusalem bedrohte.", "ref": "Jesaja 37:5-7" },
+        { "text": "Er war ein Zeitgenosse von Micha, Hosea und Oded.", "ref": "" }
+      ],
+      "lesson": "",
+      "family": { "father": "Amoz", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["hiskia", "ahas", "usija", "micha"], "events": ["jesaja-wird-berufen", "sanherib-bedroht-jerusalem"], "books": ["Jesaja"],
+      "refs": ["Jesaja 1:1", "Jesaja 6:1-13", "Jesaja 37:21-35"],
+      "sources": [{ "title": "Jesaja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002204" }]
+    },
+    {
+      "id": "micha", "name": "Micha", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet aus Moreschet", "eras": ["geteilt"], "dates": [{ "label": "Wirken", "value": "unter Jotham, Ahas und Hiskia (777–717 v. u. Z.)" }], "year": -777,
+      "nameMeaning": "Kurzform von Michael oder Michaja",
+      "summary": "Micha aus dem Dorf Morescheth war Prophet Jehovas während der Herrschaft Jothams, Ahas’ und Hiskias von Juda. Er war ein Zeitgenosse Hoseas und Jesajas. Anscheinend hörte er gegen Ende der Herrschaft Hiskias auf zu prophezeien, als er sein Buch vollendet hatte.",
+      "facts": [
+        { "text": "Er stammte aus Morescheth.", "ref": "Micha 1:1" },
+        { "text": "Er sagte voraus, dass der Herrscher Israels aus Bethlehem kommen werde.", "ref": "Micha 5:2" },
+        { "text": "Er fasste zusammen, was Jehova fordert: Recht, Güte und Bescheidenheit.", "ref": "Micha 6:8" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jesaja", "hiskia"], "events": [], "books": ["Micha"],
+      "refs": ["Micha 1:1", "Micha 4:1-4", "Micha 5:2", "Micha 6:8"],
+      "sources": [{ "title": "Micha – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003032" }]
+    },
+    {
+      "id": "joel", "name": "Joel", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet, Sohn Pethuels", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "Buch vielleicht um 820 v. u. Z." }], "year": -820,
+      "nameMeaning": "„Jehova ist Gott“",
+      "summary": "Joel, der Sohn Pethuels, war ein Prophet Jehovas und schrieb das nach ihm benannte Bibelbuch. Über sein Leben ist wenig bekannt; sein Buch wurde vielleicht um 820 v. u. Z. geschrieben. Bekannt ist besonders seine Prophezeiung, dass Gott seinen Geist auf Menschen aller Art ausgießen werde.",
+      "facts": [
+        { "text": "Er war der Sohn Pethuels.", "ref": "Joel 1:1" },
+        { "text": "Er kündigte den großen Tag Jehovas an.", "ref": "Joel 2:1, 2" },
+        { "text": "Er sagte die Ausgießung von Gottes Geist voraus.", "ref": "Joel 2:28, 29" }
+      ],
+      "lesson": "",
+      "family": { "father": "Pethuel", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["pfingsten-33"], "books": ["Joel"],
+      "refs": ["Joel 1:1", "Joel 2:28-32", "Apostelgeschichte 2:16-21"],
+      "sources": [
+        { "title": "Joel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002481" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "obadja", "name": "Obadja", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet, Schreiber des Buches Obadja", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "Buch um 607 v. u. Z." }], "year": -607,
+      "nameMeaning": "",
+      "summary": "Von Obadja ist nichts weiter bekannt als sein Name. Er schrieb das kürzeste prophetische Buch der Hebräischen Schriften, um 607 v. u. Z. Es enthält Jehovas Urteil über Edom, weil die Edomiter – Nachkommen Esaus – sich über Judas Unglück gefreut und sich an der Plünderung beteiligt hatten. Die Prophezeiung erfüllte sich genau.",
+      "facts": [
+        { "text": "Die Edomiter freuten sich über das Unglück Judas.", "ref": "Obadja 12-14" },
+        { "text": "Er sagte Edoms Untergang voraus.", "ref": "Obadja 17-18" },
+        { "text": "Er kündigte die Wiederherstellung des Hauses Jakob an.", "ref": "Obadja 17" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": [], "books": ["Obadja"],
+      "refs": ["Obadja 1-21"],
+      "sources": [
+        { "title": "Obadja (Buch) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003288" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "nahum", "name": "Nahum", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet aus Elkosch", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "Buch vor 632 v. u. Z." }], "year": -640, "nameMeaning": "„Tröster“",
+      "summary": "Nahum, ein Elkoschiter, war ein Prophet im 7. Jahrhundert v. u. Z. und schrieb das gleichnamige Bibelbuch wahrscheinlich in Juda. Er kündigte den Untergang Ninives, der Hauptstadt Assyriens, an – eine Prophezeiung, die sich 632 v. u. Z. erfüllte.",
+      "facts": [
+        { "text": "Er stammte aus Elkosch.", "ref": "Nahum 1:1" },
+        { "text": "Er sagte Ninives Fall voraus.", "ref": "Nahum 3:7" },
+        { "text": "Er nannte Jehova eine Festung am Tag der Bedrängnis.", "ref": "Nahum 1:7" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["fall-ninives"], "books": ["Nahum"],
+      "refs": ["Nahum 1:1-15", "Nahum 3:1-19"],
+      "sources": [
+        { "title": "Nahum – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003172" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "habakuk", "name": "Habakuk", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet aus Juda", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "Buch vielleicht um 628 v. u. Z." }], "year": -628, "nameMeaning": "„Innige Umarmung“",
+      "summary": "Habakuk war ein hebräischer Prophet aus Juda und schrieb das nach ihm benannte Bibelbuch, vielleicht um 628 v. u. Z. Er fragte Jehova, warum er Unrecht zulasse, und erfuhr, dass Gott die Chaldäer als Strafwerkzeug gebrauchen würde. Bekannt sind seine Worte, dass der Gerechte durch seine Treue leben wird.",
+      "facts": [
+        { "text": "Er fragte, wie lange Jehova Gewalttat zulassen werde.", "ref": "Habakuk 1:2-4" },
+        { "text": "Jehova kündigte das Kommen der Chaldäer an.", "ref": "Habakuk 1:6" },
+        { "text": "„Der Gerechte wird durch seine Treue am Leben bleiben.“", "ref": "Habakuk 2:4" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": [], "books": ["Habakuk"],
+      "refs": ["Habakuk 1:1-11", "Habakuk 2:1-4", "Habakuk 3:17-19"],
+      "sources": [
+        { "title": "Habakuk – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001789" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "zephanja", "name": "Zephanja", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet zu Beginn der Herrschaft Josias", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "Buch vor 648 v. u. Z." }], "year": -650,
+      "nameMeaning": "„Verborgen (aufbewahrt) hat Jehova“",
+      "summary": "Zephanja war ein Prophet Jehovas in Juda zu Beginn der Herrschaft Josias und schrieb das gleichnamige Buch vor 648 v. u. Z. Er war anscheinend ein Ururenkel König Hiskias. Seine Verurteilung des Götzendienstes trug offenbar dazu bei, dass Josia das Land reinigte.",
+      "facts": [
+        { "text": "Er war anscheinend ein Ururenkel Hiskias.", "ref": "Zephanja 1:1" },
+        { "text": "Er verurteilte den Götzendienst in Juda.", "ref": "Zephanja 1:4-6" },
+        { "text": "„Sucht Jehova … vielleicht werdet ihr verborgen werden.“", "ref": "Zephanja 2:3" }
+      ],
+      "lesson": "",
+      "family": { "father": "Kuschi", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["josia"], "events": [], "books": ["Zephanja"],
+      "refs": ["Zephanja 1:1-6", "Zephanja 2:3", "Zephanja 3:9"],
+      "sources": [
+        { "title": "Zephanja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004696" },
+        { "title": "Josia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002525" }
+      ]
+    },
+    {
+      "id": "jeremia", "name": "Jeremia", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet in Juda", "eras": ["geteilt", "exil"], "dates": [{ "label": "Wirken", "value": "ab 647 v. u. Z." }], "year": -647,
+      "nameMeaning": "„Jehova erhöht“ (vielleicht)",
+      "summary": "Jeremia, der Sohn Hilkijas, eines Priesters aus Anathoth, wurde 647 v. u. Z. als junger Mann zum Propheten berufen. Obwohl er sich selbst für zu jung hielt, verkündete er über 40 Jahre lang mutig Jehovas Gericht über Juda und Jerusalem. Er wurde verspottet, geschlagen und eingesperrt, erlebte aber die Erfüllung seiner Prophezeiung: die Zerstörung Jerusalems 607 v. u. Z. Er schrieb die Bücher Jeremia, Klagelieder sowie 1. und 2. Könige.",
+      "facts": [
+        { "text": "Jehova sagte: „Zum Propheten für die Nationen machte ich dich.“", "ref": "Jeremia 1:4-10" },
+        { "text": "Er diktierte Baruch seine Prophezeiungen.", "ref": "Jeremia 36:4" },
+        { "text": "Er wurde in eine schlammige Zisterne geworfen.", "ref": "Jeremia 38:6" },
+        { "text": "Er sagte 70 Jahre der Verwüstung voraus.", "ref": "Jeremia 25:11, 12" },
+        { "text": "Nach der Zerstörung Jerusalems schrieb er die Klagelieder.", "ref": "" }
+      ],
+      "lesson": "",
+      "family": { "father": "Hilkija", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["baruch", "ebed-melech", "josia", "zedekia"], "events": ["jeremia-wird-berufen", "zerstoerung-jerusalems-607"],
+      "books": ["Jeremia", "Klagelieder", "1. Könige", "2. Könige"],
+      "refs": ["Jeremia 1:1-10", "Jeremia 20:9", "Jeremia 25:8-12", "Jeremia 38:1-13"],
+      "sources": [
+        { "title": "Jeremia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002421" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "baruch", "name": "Baruch", "altNames": [], "sex": "m", "tags": [],
+      "role": "Sekretär Jeremias", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "625–607 v. u. Z." }], "year": -625, "nameMeaning": "„Gesegnet“",
+      "summary": "Baruch, der Sohn Nerijas, war der Sekretär des Propheten Jeremia. Ab dem 4. Jahr König Jojakims (625 v. u. Z.) schrieb er die Botschaft vom Untergang Jerusalems nieder, die Jeremia ihm diktierte, und las sie im folgenden Jahr am Eingang des Tempels öffentlich vor. Als der König die Rolle verbrannte, schrieb er sie erneut.",
+      "facts": [
+        { "text": "Er schrieb Jeremias Worte in eine Buchrolle.", "ref": "Jeremia 36:4" },
+        { "text": "Er las die Rolle vor dem Volk im Tempel vor.", "ref": "Jeremia 36:8-10" },
+        { "text": "Jehova ermahnte ihn, nicht nach großen Dingen zu trachten.", "ref": "Jeremia 45:1-5" }
+      ],
+      "lesson": "",
+      "family": { "father": "Nerija", "mother": "", "spouses": [], "children": [], "siblings": ["Seraja"] },
+      "related": ["jeremia", "jojakim"], "events": [], "books": [],
+      "refs": ["Jeremia 36:1-32", "Jeremia 45:1-5"],
+      "sources": [{ "title": "Baruch – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000571" }]
+    },
+    {
+      "id": "ebed-melech", "name": "Ebed-Melech", "altNames": [], "sex": "m", "tags": [],
+      "role": "Äthiopier, rettete Jeremia", "eras": ["geteilt"], "dates": [], "year": -608, "nameMeaning": "„Diener des Königs“",
+      "summary": "Ebed-Melech war ein äthiopischer Eunuch im Haus König Zedekias. Als die Fürsten Jeremia in eine Zisterne warfen, um ihn verhungern zu lassen, setzte er sich trotz der Gefahr beim König für den Propheten ein und zog ihn mit Seilen heraus. Jehova versprach ihm, ihn bei der Zerstörung Jerusalems zu retten, weil er auf ihn vertraut hatte.",
+      "facts": [
+        { "text": "Er sprach beim König für Jeremia vor.", "ref": "Jeremia 38:7-9" },
+        { "text": "Er zog Jeremia mit Seilen und alten Lumpen aus der Zisterne.", "ref": "Jeremia 38:10-13" },
+        { "text": "Jehova versprach ihm Rettung, weil er auf ihn vertraute.", "ref": "Jeremia 39:15-18" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jeremia", "zedekia"], "events": ["zerstoerung-jerusalems-607"], "books": [],
+      "refs": ["Jeremia 38:7-13", "Jeremia 39:15-18"],
+      "sources": [{ "title": "Ebed-Melech – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001247" }]
+    },
+    {
+      "id": "hulda", "name": "Hulda", "altNames": [], "sex": "f", "tags": ["prophet"],
+      "role": "Prophetin zur Zeit Josias", "eras": ["geteilt"], "dates": [], "year": -642, "nameMeaning": "Femininum von Heled: „Lebensdauer“",
+      "summary": "Hulda, die Frau Schallums, diente in Jerusalem als Prophetin während der Herrschaft König Josias. Als das Buch des Gesetzes im Tempel gefunden worden war, ließ Josia Jehova durch sie befragen. Sie kündigte an, dass das Unglück über die abtrünnige Nation kommen werde, Josia es aber wegen seiner Demut nicht mehr erleben müsse.",
+      "facts": [
+        { "text": "Josias Abordnung ging zu ihr, um Jehova zu befragen.", "ref": "2. Könige 22:12-14" },
+        { "text": "Sie kündigte Unglück über Jerusalem an.", "ref": "2. Könige 22:15-17" },
+        { "text": "Josia sollte das Unglück wegen seiner Demut nicht sehen.", "ref": "2. Könige 22:18-20" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Schallum"], "children": [], "siblings": [] },
+      "related": ["josia"], "events": ["josias-reform"], "books": [],
+      "refs": ["2. Könige 22:14-20", "2. Chronika 34:22-28"],
+      "sources": [{ "title": "Hulda – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002101" }]
+    },
+    {
+      "id": "sanherib", "name": "Sanherib", "altNames": [], "sex": "m", "tags": ["herrscher"],
+      "role": "König von Assyrien", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "Feldzug gegen Juda 732 v. u. Z." }], "year": -732,
+      "nameMeaning": "„Sin (der Mondgott) hat mir die Brüder ersetzt“ (akkadisch)",
+      "summary": "Sanherib, Sohn Sargons II., war König von Assyrien. 732 v. u. Z., im 14. Jahr Hiskias, nahm er die befestigten Städte Judas ein und forderte die Übergabe Jerusalems, wobei er Jehova verhöhnte. Doch Jehovas Engel tötete in einer Nacht 185 000 Mann seines Heeres. Später wurde Sanherib im Tempel seines Gottes Nisroch von zwei seiner Söhne erschlagen.",
+      "facts": [
+        { "text": "Er nahm die befestigten Städte Judas ein.", "ref": "2. Könige 18:13" },
+        { "text": "Sein Sprecher verhöhnte Jehova.", "ref": "2. Könige 18:28-35" },
+        { "text": "Der Engel Jehovas schlug 185 000 Assyrer.", "ref": "2. Könige 19:35" },
+        { "text": "Seine Söhne erschlugen ihn im Haus Nisrochs.", "ref": "Jesaja 37:37, 38" }
+      ],
+      "lesson": "",
+      "family": { "father": "Sargon II.", "mother": "", "spouses": [], "children": ["Adrammelech", "Sarezer"], "siblings": [] },
+      "related": ["hiskia", "jesaja"], "events": ["sanherib-bedroht-jerusalem"], "books": [],
+      "refs": ["2. Könige 18:13–19:37", "Jesaja 36:1–37:38"],
+      "sources": [
+        { "title": "Sanherib – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003897" },
+        { "title": "Hiskia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002011" }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "reichsteilung", "title": "Das Königreich wird geteilt", "era": "geteilt", "year": -997, "dateLabel": "997 v. u. Z.", "place": "Sichem",
+      "summary": "Nach Salomos Tod bat das Volk Rehabeam, die schwere Last zu erleichtern. Doch Rehabeam folgte dem Rat der jungen Männer und drohte mit noch härterer Behandlung. Daraufhin sagten sich zehn Stämme vom Haus Davids los und machten Jerobeam zum König. So entstanden das Zehnstämmereich Israel und das Zweistämmereich Juda und Benjamin – wie Jehova es wegen Salomos Untreue angekündigt hatte.",
+      "facts": [
+        { "text": "Der Prophet Ahija hatte Jerobeam zehn Stämme angekündigt.", "ref": "1. Könige 11:29-31" },
+        { "text": "Rehabeam verwarf den Rat der älteren Männer.", "ref": "1. Könige 12:8-14" },
+        { "text": "Die zehn Stämme machten Jerobeam zum König.", "ref": "1. Könige 12:20" },
+        { "text": "Jerobeam führte den Kälberdienst ein.", "ref": "1. Könige 12:28-30" }
+      ],
+      "significance": "Von 997 v. u. Z. bis zum Fall Jerusalems 607 v. u. Z. vergingen 390 Jahre.", "persons": ["rehabeam", "jerobeam", "salomo"], "refs": ["1. Könige 11:26–12:33", "2. Chronika 10:1-19"],
+      "sources": [
+        { "title": "Rehabeam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003680" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "athalja-und-joas", "title": "Athalja reißt die Macht an sich", "era": "geteilt", "year": -905, "dateLabel": "um 905–898 v. u. Z.", "place": "Jerusalem",
+      "summary": "Nach dem Tod ihres Sohnes Ahasja ließ Athalja, die Tochter Ahabs und Isebels, die königliche Nachkommenschaft Judas umbringen und machte sich zur Königin. Doch Jehoscheba rettete den kleinen Joas und verbarg ihn sechs Jahre im Tempel. Im siebten Jahr ließ der Hohe Priester Jehojada Joas zum König krönen; Athalja wurde getötet, und das Volk zerstörte das Haus Baals.",
+      "facts": [
+        { "text": "Athalja vernichtete die königliche Nachkommenschaft.", "ref": "2. Könige 11:1" },
+        { "text": "Joas wurde sechs Jahre versteckt.", "ref": "2. Könige 11:2, 3" },
+        { "text": "Jehojada ließ Joas krönen.", "ref": "2. Könige 11:12" },
+        { "text": "Das Haus Baals wurde niedergerissen.", "ref": "2. Könige 11:18" }
+      ],
+      "significance": "Durch die Rettung des Joas blieb die königliche Linie Davids erhalten.", "persons": ["athalja", "joas-juda", "jojada"], "refs": ["2. Könige 11:1-21", "2. Chronika 22:10–23:21"],
+      "sources": [
+        { "title": "Jehojada – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002376" },
+        { "title": "Athalja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000457" }
+      ]
+    },
+    {
+      "id": "jesaja-wird-berufen", "title": "Jesaja wird Prophet", "era": "geteilt", "year": -778, "dateLabel": "um 778 v. u. Z.", "place": "Jerusalem",
+      "summary": "In dem Jahr, in dem König Usija starb, sah Jesaja in einer Vision Jehova auf einem hohen Thron, umgeben von Seraphen. Als Jehova fragte, wen er senden solle, antwortete Jesaja: „Hier bin ich! Sende mich.“ Er erfuhr, dass das Volk nicht hören würde, bis das Land verwüstet sei – doch ein „heiliger Same“ würde übrig bleiben.",
+      "facts": [
+        { "text": "Er sah Jehova auf einem erhabenen Thron.", "ref": "Jesaja 6:1-4" },
+        { "text": "Er bot sich bereitwillig an.", "ref": "Jesaja 6:8" },
+        { "text": "Ein Überrest – wie ein Baumstumpf – sollte bleiben.", "ref": "Jesaja 6:11-13" }
+      ],
+      "significance": "", "persons": ["jesaja", "usija"], "refs": ["Jesaja 6:1-13"],
+      "sources": [{ "title": "Jesaja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002204" }]
+    },
+    {
+      "id": "sanherib-bedroht-jerusalem", "title": "Sanherib bedroht Jerusalem", "era": "geteilt", "year": -732, "dateLabel": "732 v. u. Z.", "place": "Juda; Jerusalem",
+      "summary": "Im 14. Jahr Hiskias nahm der Assyrerkönig Sanherib die befestigten Städte Judas ein und forderte die Übergabe Jerusalems. Sein Sprecher verhöhnte Jehova vor den Mauern der Stadt. Hiskia breitete den Brief Sanheribs vor Jehova aus und betete; Jesaja überbrachte Jehovas Antwort. In einer Nacht tötete der Engel Jehovas 185 000 Assyrer, und Sanherib kehrte nach Ninive zurück.",
+      "facts": [
+        { "text": "Hiskia betete im Tempel um Rettung.", "ref": "2. Könige 19:14-19" },
+        { "text": "Jesaja kündigte an, dass Sanherib die Stadt nicht betreten werde.", "ref": "2. Könige 19:32-34" },
+        { "text": "Der Engel Jehovas schlug 185 000 Mann.", "ref": "2. Könige 19:35" }
+      ],
+      "significance": "", "persons": ["hiskia", "sanherib", "jesaja"], "refs": ["2. Könige 18:13–19:37", "Jesaja 36:1–37:38"],
+      "sources": [
+        { "title": "Hiskia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002011" },
+        { "title": "Sanherib – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003897" }
+      ]
+    },
+    {
+      "id": "jeremia-wird-berufen", "title": "Jeremia wird Prophet", "era": "geteilt", "year": -647, "dateLabel": "647 v. u. Z.", "place": "Juda",
+      "summary": "Im 13. Regierungsjahr Josias berief Jehova den jungen Jeremia zum Propheten: Schon bevor Jeremia geboren war, hatte Gott ihn dafür bestimmt. Jeremia wandte ein, er sei noch zu jung und könne nicht reden. Doch Jehova legte seine Worte in Jeremias Mund und versprach, mit ihm zu sein.",
+      "facts": [
+        { "text": "Jehova sagte: „Bevor ich dich im Mutterleib bildete, kannte ich dich.“", "ref": "Jeremia 1:4, 5" },
+        { "text": "Jeremia sagte: „Ich bin nur ein Knabe.“", "ref": "Jeremia 1:6" },
+        { "text": "Jehova legte seine Worte in seinen Mund.", "ref": "Jeremia 1:9, 10" }
+      ],
+      "significance": "", "persons": ["jeremia", "josia"], "refs": ["Jeremia 1:1-19"],
+      "sources": [{ "title": "Jeremia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002421" }]
+    },
+    {
+      "id": "josias-reform", "title": "Josia findet das Buch des Gesetzes", "era": "geteilt", "year": -642, "dateLabel": "642 v. u. Z.", "place": "Jerusalem",
+      "summary": "Bei der Ausbesserung des Tempels fand der Hohe Priester Hilkija „das durch die Hand Mose übermittelte Buch des Gesetzes Jehovas“. Als man es König Josia vorlas, zerriss er seine Kleider. Er ließ Jehova durch die Prophetin Hulda befragen, las dem Volk den Bund vor, beseitigte den Götzendienst weiter und feierte im 18. Jahr seiner Regierung ein Passah wie keines zuvor.",
+      "facts": [
+        { "text": "Hilkija fand das Buch im Haus Jehovas.", "ref": "2. Könige 22:8" },
+        { "text": "Josia zerriss beim Zuhören seine Kleider.", "ref": "2. Könige 22:11" },
+        { "text": "Das Volk trat in den Bund ein.", "ref": "2. Könige 23:1-3" },
+        { "text": "Ein solches Passah war seit den Tagen der Richter nicht gefeiert worden.", "ref": "2. Könige 23:21-23" }
+      ],
+      "significance": "", "persons": ["josia", "hulda"], "refs": ["2. Könige 22:3–23:25", "2. Chronika 34:8–35:19"],
+      "sources": [
+        { "title": "Josia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002525" },
+        { "title": "Hulda – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002101" }
+      ]
+    },
+    {
+      "id": "fall-ninives", "title": "Ninive wird zerstört", "era": "geteilt", "year": -632, "dateLabel": "632 v. u. Z.", "place": "Ninive (Assyrien)",
+      "summary": "Ninive, die Hauptstadt des Assyrischen Reiches, wurde von den Streitkräften Nabupolassars von Babylon und Kyaxares’, des Meders, belagert und eingenommen. Die Stadt wurde offensichtlich durch Feuer zerstört. Damit erfüllten sich die Prophezeiungen Nahums und Zephanjas über Ninive.",
+      "facts": [
+        { "text": "Nahum hatte die Verwüstung Ninives vorhergesagt.", "ref": "Nahum 3:7" },
+        { "text": "Auch Zephanja kündigte Ninives Untergang an.", "ref": "Zephanja 2:13-15" },
+        { "text": "Assyrische Reliefs zeigen Spuren von Feuer und Rauch.", "ref": "" }
+      ],
+      "significance": "", "persons": ["nahum", "zephanja"], "refs": ["Nahum 3:1-19", "Zephanja 2:13-15"],
+      "sources": [{ "title": "Ninive – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003261" }]
+    },
+    {
+      "id": "wegfuehrung-jojachins", "title": "Jojachin wird nach Babylon weggeführt", "era": "geteilt", "year": -617, "dateLabel": "617 v. u. Z.", "place": "Jerusalem; Babylon",
+      "summary": "Nachdem sich Jojakim gegen Babylon aufgelehnt hatte, belagerte Nebukadnezar Jerusalem. König Jojachin ergab sich nach nur drei Monaten und zehn Tagen. Nebukadnezar führte ihn mit seiner Familie, den Fürsten, den Kriegern und den Handwerkern nach Babylon – unter ihnen auch Hesekiel. Er nahm Tempelschätze mit und setzte Zedekia als König ein.",
+      "facts": [
+        { "text": "Jojachin ergab sich dem König von Babylon.", "ref": "2. Könige 24:12" },
+        { "text": "Tausende wurden weggeführt.", "ref": "2. Könige 24:14-16" },
+        { "text": "Nebukadnezar setzte Mattanja (Zedekia) ein.", "ref": "2. Könige 24:17" }
+      ],
+      "significance": "", "persons": ["jojachin", "nebukadnezar", "zedekia", "hesekiel"], "refs": ["2. Könige 24:8-17"],
+      "sources": [
+        { "title": "Jojachin – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002375" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "zerstoerung-jerusalems-607", "title": "Babylon zerstört Jerusalem", "era": "geteilt", "year": -607, "dateLabel": "607 v. u. Z.", "place": "Jerusalem",
+      "summary": "Weil sich Zedekia gegen Babylon auflehnte, belagerte Nebukadnezar ab 609 v. u. Z. Jerusalem. Am 9. Tag des 4. Monats 607 v. u. Z. wurden die Mauern durchbrochen, am 10. Tag des 5. Monats Stadt und Tempel niedergebrannt. Nachdem die letzten Juden um die Mitte des 7. Monats das Land verlassen hatten, lag Juda verödet da – der Beginn der vorhergesagten 70 Jahre.",
+      "facts": [
+        { "text": "Die Belagerung begann 609 v. u. Z.", "ref": "2. Könige 25:1" },
+        { "text": "Der Tempel und die Stadt wurden verbrannt.", "ref": "Jeremia 52:12, 13" },
+        { "text": "Zedekia wurde geblendet und nach Babylon gebracht.", "ref": "2. Könige 25:7" },
+        { "text": "Das Land sollte 70 Jahre verwüstet liegen.", "ref": "2. Chronika 36:20, 21" }
+      ],
+      "significance": "Mit 607 v. u. Z. begannen die 70 Jahre der Verwüstung, die 537 v. u. Z. endeten.", "persons": ["zedekia", "nebukadnezar", "jeremia", "ebed-melech"],
+      "refs": ["2. Könige 25:1-21", "Jeremia 39:1-10", "Jeremia 52:1-30"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    }
+  ]
+}

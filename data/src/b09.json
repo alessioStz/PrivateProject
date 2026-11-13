@@ -1,0 +1,629 @@
+{
+  "batch": "b09",
+  "persons": [
+    {
+      "id": "jesus", "name": "Jesus Christus", "altNames": ["Jesus", "Christus", "Messias", "Michael", "das Wort", "Jesus von Nazareth"], "sex": "m", "tags": ["prophet", "koenig", "priester"],
+      "role": "Sohn Gottes, Messias und König", "eras": ["jesus", "versammlung"],
+      "dates": [{ "label": "Lebenszeit", "value": "auf der Erde 2 v. u. Z. – 33 u. Z." }], "year": -2,
+      "nameMeaning": "Jesus: „Jehova ist Rettung“; Christus: „Gesalbter“",
+      "summary": "Jesus Christus ist der Sohn Gottes. Bevor er Mensch wurde, lebte er im Himmel als „das Wort“, der Erstgeborene aller Schöpfung. 2 v. u. Z. wurde er in Bethlehem geboren, 29 u. Z. getauft und mit heiligem Geist gesalbt. Dreieinhalb Jahre predigte er über das Königreich Gottes. Am 14. Nisan 33 u. Z. starb er am Marterpfahl, am dritten Tag wurde er auferweckt. Durch sein Opfer werden Sündenvergebung und ewiges Leben möglich.",
+      "facts": [
+        { "text": "Im Himmel war er „das Wort“, der Erstgeborene aller Schöpfung.", "ref": "Kolosser 1:15" },
+        { "text": "Er wurde 2 v. u. Z., um den 1. Oktober, in Bethlehem geboren.", "ref": "Lukas 2:4-7" },
+        { "text": "Bei seiner Taufe 29 u. Z. nannte Jehova ihn seinen Sohn.", "ref": "Matthäus 3:16, 17" },
+        { "text": "Er predigte: „Das Königreich des Himmels ist nah.“", "ref": "Matthäus 4:17" },
+        { "text": "Am 14. Nisan 33 u. Z. starb er am Marterpfahl.", "ref": "Johannes 19:16-30" },
+        { "text": "Laut jw.org bezieht sich der Name Michael auf Gottes Sohn – vor und nach seinem Leben auf der Erde.", "ref": "1. Thessalonicher 4:16" }
+      ],
+      "lesson": "",
+      "family": { "father": "jehova", "mother": "maria", "spouses": [], "children": [], "siblings": ["jakobus-halbbruder-jesu", "judas-halbbruder-jesu", "Joseph", "Simon"] },
+      "related": ["joseph-marias-mann", "johannes-der-taeufer", "petrus", "johannes-apostel", "maria-magdalene"],
+      "events": ["ankuendigung-jesu", "geburt-jesu", "darstellung-im-tempel", "astrologen-und-flucht", "zwoelfjaehriger-jesus", "taufe-jesu", "versuchung", "erste-juenger", "hochzeit-in-kana", "erste-tempelreinigung", "samariterin", "bergpredigt", "wahl-der-apostel", "speisung-der-5000", "jesus-geht-auf-dem-wasser", "umgestaltung", "auferweckung-des-lazarus", "einzug-in-jerusalem", "abendmahl-des-herrn", "gethsemane", "tod-jesu", "auferweckung-jesu", "himmelfahrt"],
+      "books": [],
+      "refs": ["Johannes 1:1-3", "Johannes 3:16", "Matthäus 20:28", "Philipper 2:5-11"],
+      "sources": [
+        { "title": "Jesus Christus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002451" },
+        { "title": "Michael – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003035" },
+        { "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" },
+        { "title": "B1 Das Hauptthema der Bibel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070221" }
+      ]
+    },
+    {
+      "id": "maria", "name": "Maria", "altNames": ["Maria, Mutter Jesu"], "sex": "f", "tags": [],
+      "role": "Mutter Jesu", "eras": ["jesus", "versammlung"], "dates": [], "year": -20,
+      "nameMeaning": "von hebr. Mirjam, „Rebellisch“ (vielleicht)",
+      "summary": "Maria, die Tochter Helis aus dem Stamm Juda, war eine Nachkommin Davids und lebte in Nazareth. Zu Beginn des Jahres 2 v. u. Z. sandte Gott den Engel Gabriel zu der Jungfrau und ließ ihr ankündigen, dass sie durch heiligen Geist den Sohn Gottes gebären werde. Demütig nahm sie den Auftrag an. Sie heiratete Joseph und bekam später weitere Kinder. Sie stand bei Jesu Tod am Marterpfahl und gehörte zu den Jüngern in Jerusalem.",
+      "facts": [
+        { "text": "Gabriel grüßte sie: „Jehova ist mit dir.“", "ref": "Lukas 1:28" },
+        { "text": "Sie sagte: „Siehe, Jehovas Sklavin!“", "ref": "Lukas 1:38" },
+        { "text": "Sie besuchte ihre Verwandte Elisabeth.", "ref": "Lukas 1:39-45" },
+        { "text": "Sie stand beim Marterpfahl Jesu.", "ref": "Johannes 19:25-27" },
+        { "text": "Nach Jesu Himmelfahrt war sie mit den Jüngern zusammen.", "ref": "Apostelgeschichte 1:14" }
+      ],
+      "lesson": "",
+      "family": { "father": "Heli", "mother": "", "spouses": ["joseph-marias-mann"], "children": ["jesus", "jakobus-halbbruder-jesu", "judas-halbbruder-jesu"], "siblings": [] },
+      "related": ["elisabeth", "gabriel"], "events": ["ankuendigung-jesu", "geburt-jesu", "darstellung-im-tempel", "astrologen-und-flucht", "zwoelfjaehriger-jesus", "hochzeit-in-kana", "tod-jesu"], "books": [],
+      "refs": ["Lukas 1:26-56", "Lukas 2:1-52", "Johannes 19:25-27"],
+      "sources": [{ "title": "Maria – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002918" }]
+    },
+    {
+      "id": "joseph-marias-mann", "name": "Joseph", "altNames": ["Josef", "Joseph, Marias Mann"], "sex": "m", "tags": [],
+      "role": "Mann Marias, Adoptivvater Jesu", "eras": ["jesus"], "dates": [], "year": -25,
+      "nameMeaning": "„Möge Jah hinzufügen (mehren)“",
+      "summary": "Joseph, ein Nachkomme Davids, war Zimmermann in Nazareth. Als seine Verlobte Maria vor der Heirat durch heiligen Geist schwanger wurde, wollte er sie zunächst heimlich entlassen; nach der Erklärung eines Engels im Traum nahm er sie zur Frau. Er war gerecht, gehorchte Gottes Anweisungen und hielt sich an das Gesetz. Er brachte seine Familie vor Herodes nach Ägypten in Sicherheit und wurde später Vater von mindestens vier Söhnen und von Töchtern.",
+      "facts": [
+        { "text": "Er war Zimmermann in Nazareth.", "ref": "Matthäus 13:55" },
+        { "text": "Ein Engel erklärte ihm im Traum, was geschehen war.", "ref": "Matthäus 1:19-24" },
+        { "text": "Er floh mit Maria und Jesus nach Ägypten.", "ref": "Matthäus 2:13-15" },
+        { "text": "Er wird in Lukas 3:23 „Sohn des Heli“ genannt.", "ref": "Lukas 3:23" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jakob", "mother": "", "spouses": ["maria"], "children": ["jakobus-halbbruder-jesu", "judas-halbbruder-jesu"], "siblings": [] },
+      "related": ["jesus"], "events": ["geburt-jesu", "darstellung-im-tempel", "astrologen-und-flucht", "zwoelfjaehriger-jesus"], "books": [],
+      "refs": ["Matthäus 1:18-25", "Matthäus 2:13-23", "Lukas 2:39-51"],
+      "sources": [{ "title": "Joseph – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002515" }]
+    },
+    {
+      "id": "elisabeth", "name": "Elisabeth", "altNames": [], "sex": "f", "tags": [],
+      "role": "Mutter von Johannes dem Täufer", "eras": ["jesus"], "dates": [], "year": -60,
+      "nameMeaning": "„Mein Gott ist Überfluss“",
+      "summary": "Elisabeth, die gottesfürchtige Frau des Priesters Sacharja, stammte selbst aus der Priesterfamilie Aarons. Beide waren schon alt, als der Engel Gabriel ankündigte, dass sie einen Sohn bekommen würde. Im sechsten Monat ihrer Schwangerschaft besuchte sie ihre Verwandte Maria; da hüpfte das Kind in ihrem Leib, und Elisabeth segnete Maria, erfüllt mit heiligem Geist.",
+      "facts": [
+        { "text": "Sie und Sacharja waren gerecht vor Gott.", "ref": "Lukas 1:5, 6" },
+        { "text": "Sie hielt sich fünf Monate abgesondert.", "ref": "Lukas 1:24" },
+        { "text": "Mit heiligem Geist erfüllt, segnete sie Maria.", "ref": "Lukas 1:41-45" },
+        { "text": "Sie bestand darauf, dass das Kind Johannes heißen sollte.", "ref": "Lukas 1:60" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["zacharias"], "children": ["johannes-der-taeufer"], "siblings": [] },
+      "related": ["maria"], "events": ["ankuendigung-johannes", "ankuendigung-jesu", "geburt-johannes"], "books": [],
+      "refs": ["Lukas 1:5-25", "Lukas 1:39-66"],
+      "sources": [{ "title": "Elisabeth – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001323" }]
+    },
+    {
+      "id": "zacharias", "name": "Sacharja", "altNames": ["Zacharias"], "sex": "m", "tags": ["priester"],
+      "role": "Priester, Vater von Johannes dem Täufer", "eras": ["jesus"], "dates": [], "year": -62,
+      "nameMeaning": "„Erinnert hat sich Jehova“",
+      "summary": "Sacharja war ein Priester aus der Abteilung Abijas. Er und seine Frau Elisabeth waren gottesfürchtig, aber kinderlos und schon alt. Als er 3 v. u. Z. im Heiligtum Räucherwerk darbrachte, erschien ihm der Engel Gabriel und kündigte einen Sohn an. Weil Sacharja zweifelte, konnte er bis zur Namensgebung nicht mehr sprechen; dann schrieb er: „Johannes ist sein Name“, und prophezeite.",
+      "facts": [
+        { "text": "Er gehörte zur Priesterabteilung Abijas.", "ref": "Lukas 1:5" },
+        { "text": "Gabriel erschien ihm am Räucheraltar.", "ref": "Lukas 1:11-17" },
+        { "text": "Er verstummte, weil er nicht glaubte.", "ref": "Lukas 1:18-20" },
+        { "text": "Mit heiligem Geist erfüllt, prophezeite er.", "ref": "Lukas 1:67-79" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["elisabeth"], "children": ["johannes-der-taeufer"], "siblings": [] },
+      "related": ["gabriel"], "events": ["ankuendigung-johannes", "geburt-johannes"], "books": [],
+      "refs": ["Lukas 1:5-25", "Lukas 1:57-80"],
+      "sources": [
+        { "title": "Sacharja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004681" },
+        { "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" }
+      ]
+    },
+    {
+      "id": "johannes-der-taeufer", "name": "Johannes der Täufer", "altNames": ["Johannes"], "sex": "m", "tags": ["prophet"],
+      "role": "Vorläufer Jesu", "eras": ["jesus"], "dates": [{ "label": "Geboren", "value": "2 v. u. Z." }, { "label": "Wirken", "value": "ab Frühjahr 29 u. Z." }], "year": -2,
+      "nameMeaning": "„Jehova hat Gunst erwiesen“",
+      "summary": "Johannes, der Sohn Sacharjas und Elisabeths, wurde durch ein Wunder Gottes geboren und war sein Leben lang Nasiräer. Ab dem Frühjahr 29 u. Z. predigte er in der Wildnis Reue und taufte. Im Herbst taufte er Jesus und wies seine Jünger auf ihn als „das Lamm Gottes“ hin. Weil er Herodes Antipas wegen dessen Ehe mit Herodias zurechtwies, wurde er eingesperrt und später enthauptet.",
+      "facts": [
+        { "text": "Gabriel kündigte seine Geburt an.", "ref": "Lukas 1:13-17" },
+        { "text": "Er bereitete Jehova ein Volk vor.", "ref": "Lukas 1:17" },
+        { "text": "Er nannte Jesus „das Lamm Gottes“.", "ref": "Johannes 1:29" },
+        { "text": "Durch ihn erfüllte sich die Prophezeiung über das Kommen „Elias“.", "ref": "Matthäus 17:10-13" },
+        { "text": "Laut jw.org gehört er nicht zur „Braut“, die mit Christus im Himmel regiert.", "ref": "Matthäus 11:11" }
+      ],
+      "lesson": "",
+      "family": { "father": "zacharias", "mother": "elisabeth", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jesus", "herodes-antipas", "andreas"], "events": ["ankuendigung-johannes", "geburt-johannes", "johannes-tauft", "taufe-jesu", "erste-juenger", "tod-johannes-des-taeufers"], "books": [],
+      "refs": ["Lukas 1:13-17", "Lukas 3:1-20", "Johannes 1:19-36", "Matthäus 14:1-12"],
+      "sources": [
+        { "title": "Johannes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002489" },
+        { "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" }
+      ]
+    },
+    {
+      "id": "simeon-in-jerusalem", "name": "Simeon", "altNames": [], "sex": "m", "tags": [],
+      "role": "Gerechter Mann in Jerusalem", "eras": ["jesus"], "dates": [], "year": -2, "nameMeaning": "„Erhörung“",
+      "summary": "Simeon war ein gerechter, gottesfürchtiger alter Mann in Jerusalem. Gott hatte ihm offenbart, dass er nicht sterben werde, bevor er den Christus gesehen hätte. Als Joseph und Maria das Kind Jesus in den Tempel brachten, nahm er es in die Arme und pries Jehova. Er sagte voraus, dass Maria wegen ihres Sohnes heftigen Schmerz empfinden würde.",
+      "facts": [
+        { "text": "Der heilige Geist war auf ihm.", "ref": "Lukas 2:25, 26" },
+        { "text": "Er nahm das Kind in seine Arme und pries Gott.", "ref": "Lukas 2:28-32" },
+        { "text": "Er sagte: „Dieser ist zum Fall und Wiederaufstehen vieler gesetzt.“", "ref": "Lukas 2:34, 35" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["hanna-prophetin"], "events": ["darstellung-im-tempel"], "books": [],
+      "refs": ["Lukas 2:25-35"],
+      "sources": [{ "title": "Simeon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004124" }]
+    },
+    {
+      "id": "hanna-prophetin", "name": "Anna", "altNames": ["Hanna"], "sex": "f", "tags": ["prophet"],
+      "role": "Prophetin im Tempel", "eras": ["jesus"], "dates": [{ "label": "Alter", "value": "84 Jahre (als Witwe)" }], "year": -2, "nameMeaning": "",
+      "summary": "Anna war eine betagte Prophetin, die Tochter Phanuels aus dem Stamm Ascher. Als Witwe war sie ständig im Tempel und diente Gott Tag und Nacht mit Fasten und Gebeten. Als Joseph und Maria das Kind Jesus in den Tempel brachten, dankte sie Gott und sprach über das Kind zu allen, die auf die Befreiung Jerusalems warteten.",
+      "facts": [
+        { "text": "Sie war die Tochter Phanuels aus dem Stamm Ascher.", "ref": "Lukas 2:36" },
+        { "text": "Sie fehlte nie im Tempel.", "ref": "Lukas 2:37" },
+        { "text": "Sie sprach über das Kind zu allen, die auf Befreiung warteten.", "ref": "Lukas 2:38" }
+      ],
+      "lesson": "",
+      "family": { "father": "Phanuel", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["simeon-in-jerusalem"], "events": ["darstellung-im-tempel"], "books": [],
+      "refs": ["Lukas 2:36-38"],
+      "sources": [{ "title": "Phanuel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003457" }]
+    },
+    {
+      "id": "gabriel", "name": "Gabriel", "altNames": [], "sex": "", "tags": ["engel"],
+      "role": "Engel Gottes", "eras": ["jesus", "exil"], "dates": [], "year": -3, "nameMeaning": "„Kräftiger Mann Gottes“",
+      "summary": "Gabriel ist neben Michael der einzige heilige Engel, der in der Bibel namentlich erwähnt wird. Er erschien Daniel zweimal, um ihm Visionen und die Prophezeiung über die „siebzig Wochen“ zu erklären. Später überbrachte er dem Priester Sacharja die Nachricht von der Geburt Johannes’ des Täufers und kündigte Maria an, dass sie den Sohn Gottes gebären werde.",
+      "facts": [
+        { "text": "Er erklärte Daniel die Vision vom Widder und Ziegenbock.", "ref": "Daniel 8:15-26" },
+        { "text": "Er übermittelte die Prophezeiung von den 70 Wochen.", "ref": "Daniel 9:21-27" },
+        { "text": "Er kündigte Sacharja die Geburt des Johannes an.", "ref": "Lukas 1:19" },
+        { "text": "Er wurde zu Maria nach Nazareth gesandt.", "ref": "Lukas 1:26-33" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["daniel", "maria", "zacharias"], "events": ["ankuendigung-johannes", "ankuendigung-jesu"], "books": [],
+      "refs": ["Daniel 9:21-27", "Lukas 1:19", "Lukas 1:26-38"],
+      "sources": [{ "title": "Gabriel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001582" }]
+    },
+    {
+      "id": "herodes-der-grosse", "name": "Herodes der Große", "altNames": ["Herodes"], "sex": "m", "tags": ["herrscher"],
+      "role": "König von Judäa", "eras": ["jesus"], "dates": [], "year": -40,
+      "nameMeaning": "",
+      "summary": "Herodes der Große stammte aus der Dynastie der Idumäer (Edomiter). Er war ein geschickter Diplomat und befähigter Heerführer, aber skrupellos, misstrauisch, grausam und mordlustig. Als Astrologen nach dem neugeborenen „König der Juden“ fragten, ließ er in Bethlehem und Umgebung alle Jungen bis zu zwei Jahren umbringen. Kurz danach starb er; seine Söhne Archelaus, Antipas und Philippus erhielten Teile seines Reiches.",
+      "facts": [
+        { "text": "Er erschrak, als er vom geborenen König der Juden hörte.", "ref": "Matthäus 2:1-3" },
+        { "text": "Er ließ die kleinen Jungen in Bethlehem töten.", "ref": "Matthäus 2:16" },
+        { "text": "Nach seinem Tod kehrte Jesu Familie aus Ägypten zurück.", "ref": "Matthäus 2:19-23" }
+      ],
+      "lesson": "",
+      "family": { "father": "Antipater", "mother": "Kypros", "spouses": [], "children": ["herodes-antipas", "Archelaus", "Philippus"], "siblings": [] },
+      "related": [], "events": ["astrologen-und-flucht"], "books": [],
+      "refs": ["Matthäus 2:1-22", "Lukas 1:5"],
+      "sources": [{ "title": "Herodes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002000" }]
+    },
+    {
+      "id": "herodes-antipas", "name": "Herodes Antipas", "altNames": ["Antipas", "Herodes"], "sex": "m", "tags": ["herrscher"],
+      "role": "Bezirksherrscher von Galiläa und Peräa", "eras": ["jesus"], "dates": [], "year": -4,
+      "nameMeaning": "",
+      "summary": "Herodes Antipas, ein Sohn Herodes’ des Großen, erhielt die Tetrarchie Galiläa und Peräa. Er heiratete Herodias, die Frau seines Halbbruders. Weil Johannes der Täufer ihn deswegen zurechtwies, ließ er ihn einsperren und auf Herodias’ Betreiben enthaupten. Jesus nannte ihn „diesen Fuchs“. Bei Jesu Prozess schickte Pilatus Jesus zu ihm; Herodes verspottete ihn und sandte ihn zurück.",
+      "facts": [
+        { "text": "Er ließ Johannes den Täufer enthaupten.", "ref": "Markus 6:17-28" },
+        { "text": "Jesus nannte ihn „diesen Fuchs“.", "ref": "Lukas 13:31, 32" },
+        { "text": "Er verspottete Jesus und schickte ihn zu Pilatus zurück.", "ref": "Lukas 23:7-11" }
+      ],
+      "lesson": "",
+      "family": { "father": "herodes-der-grosse", "mother": "Malthake", "spouses": ["Herodias"], "children": [], "siblings": ["Archelaus"] },
+      "related": ["johannes-der-taeufer", "pilatus"], "events": ["tod-johannes-des-taeufers", "tod-jesu"], "books": [],
+      "refs": ["Markus 6:14-29", "Lukas 23:6-12"],
+      "sources": [{ "title": "Herodes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002000" }]
+    },
+    {
+      "id": "pilatus", "name": "Pontius Pilatus", "altNames": ["Pilatus"], "sex": "m", "tags": ["herrscher"],
+      "role": "Römischer Statthalter von Judäa", "eras": ["jesus"], "dates": [{ "label": "Zeit", "value": "Statthalter ab 26 u. Z. (10 Jahre)" }], "year": 26,
+      "nameMeaning": "",
+      "summary": "Pontius Pilatus wurde 26 u. Z. von Kaiser Tiberius als Statthalter von Judäa eingesetzt und regierte zehn Jahre. Eine 1961 in Cäsarea gefundene Inschrift trägt seinen Namen. Beim Prozess Jesu fand er keine Schuld an ihm und wollte ihn freilassen, gab aber dem Druck der Menge nach und verurteilte ihn zum Tod am Marterpfahl.",
+      "facts": [
+        { "text": "Er fragte Jesus: „Was ist Wahrheit?“", "ref": "Johannes 18:37, 38" },
+        { "text": "Er fand keine Schuld an Jesus.", "ref": "Lukas 23:4" },
+        { "text": "Er gab Barabbas frei und übergab Jesus zur Hinrichtung.", "ref": "Markus 15:15" },
+        { "text": "Er ließ eine Inschrift über Jesus anbringen.", "ref": "Johannes 19:19-22" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jesus", "herodes-antipas", "kaiphas"], "events": ["tod-jesu"], "books": [],
+      "refs": ["Johannes 18:28–19:22", "Lukas 23:1-25"],
+      "sources": [{ "title": "Pilatus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003485" }]
+    },
+    {
+      "id": "kaiphas", "name": "Kaiphas", "altNames": ["Joseph Kaiphas"], "sex": "m", "tags": ["priester"],
+      "role": "Hoher Priester zur Zeit Jesu", "eras": ["jesus", "versammlung"], "dates": [{ "label": "Zeit", "value": "Hoher Priester um 18 bis um 36 u. Z." }], "year": 18,
+      "nameMeaning": "",
+      "summary": "Joseph Kaiphas, ein Sadduzäer und Schwiegersohn des Annas, war während des Dienstes Jesu Hoher Priester – länger als jeder seiner unmittelbaren Vorgänger. Er ging im Komplott gegen Jesus führend voran und meinte, es sei vorteilhaft, dass ein Mensch für das Volk sterbe. Er leitete das Verhör vor dem Sanhedrin und verfolgte später auch die Apostel.",
+      "facts": [
+        { "text": "Er riet, dass ein Mensch für das Volk sterben solle.", "ref": "Johannes 11:49-53" },
+        { "text": "Jesus wurde vor ihn und den Sanhedrin gebracht.", "ref": "Matthäus 26:57-66" },
+        { "text": "Er ging gegen die Apostel vor.", "ref": "Apostelgeschichte 4:5-7" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["hannas", "pilatus"], "events": ["gethsemane", "tod-jesu"], "books": [],
+      "refs": ["Johannes 11:47-53", "Matthäus 26:57-68"],
+      "sources": [{ "title": "Kaiphas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000856" }]
+    },
+    {
+      "id": "hannas", "name": "Annas", "altNames": ["Hannas"], "sex": "m", "tags": ["priester"],
+      "role": "Einflussreicher früherer Hoher Priester", "eras": ["jesus"], "dates": [{ "label": "Zeit", "value": "Hoher Priester 6/7 bis um 15 u. Z." }], "year": 6,
+      "nameMeaning": "„Gunst erweisend“ (aus dem Hebräischen)",
+      "summary": "Annas wurde 6 oder 7 u. Z. vom römischen Statthalter Quirinius als Hoher Priester eingesetzt und behielt das Amt bis um 15 u. Z. Auch danach übte er als maßgeblicher Sprecher der jüdischen Führung großen Einfluss aus: Fünf seiner Söhne und sein Schwiegersohn Kaiphas wurden Hohe Priester. Nach der Festnahme Jesu wurde Jesus zuerst zu Annas gebracht.",
+      "facts": [
+        { "text": "Er war Hoher Priester, als der 12-jährige Jesus im Tempel war.", "ref": "Lukas 2:42-49" },
+        { "text": "Jesus wurde zuerst zu ihm geführt.", "ref": "Johannes 18:13" },
+        { "text": "Er war beim Verhör der Apostel dabei.", "ref": "Apostelgeschichte 4:6" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["kaiphas"], "events": ["gethsemane"], "books": [],
+      "refs": ["Johannes 18:12-24", "Lukas 3:2"],
+      "sources": [{ "title": "Annas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000284" }]
+    },
+    {
+      "id": "maria-magdalene", "name": "Maria Magdalene", "altNames": [], "sex": "f", "tags": ["juenger"],
+      "role": "Jüngerin Jesu", "eras": ["jesus"], "dates": [], "year": 30,
+      "nameMeaning": "Magdalene: „Zu Magdala gehörend“",
+      "summary": "Maria Magdalene stammte wahrscheinlich aus Magdala am Westufer des Galiläischen Meeres. Jesus hatte sieben Dämonen aus ihr ausgetrieben; daraufhin bekundete sie Glauben an ihn als den Messias und unterstützte ihn mit ihrem Besitz. Sie war bei seinem Tod am Marterpfahl dabei, kam früh am Morgen zu seinem Grab und war eine der Ersten, denen der auferweckte Jesus erschien.",
+      "facts": [
+        { "text": "Jesus trieb sieben Dämonen aus ihr aus.", "ref": "Lukas 8:2" },
+        { "text": "Sie diente Jesus mit ihren Mitteln.", "ref": "Lukas 8:3" },
+        { "text": "Sie stand beim Marterpfahl.", "ref": "Johannes 19:25" },
+        { "text": "Der auferweckte Jesus sprach sie mit Namen an.", "ref": "Johannes 20:11-18" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jesus"], "events": ["tod-jesu", "auferweckung-jesu"], "books": [],
+      "refs": ["Lukas 8:1-3", "Johannes 20:1-18"],
+      "sources": [{ "title": "Maria – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002918" }]
+    }
+  ],
+  "events": [
+    {
+      "id": "ankuendigung-johannes", "title": "Gabriel kündigt Johannes an", "era": "jesus", "year": -3, "dateLabel": "3 v. u. Z.", "place": "Jerusalem, Tempel",
+      "summary": "Als der Priester Sacharja im Heiligtum Räucherwerk darbrachte, erschien ihm der Engel Gabriel. Er kündigte an, dass Sacharjas betagte Frau Elisabeth einen Sohn gebären werde, der Johannes heißen und Jehova ein vorbereitetes Volk bereit machen sollte. Weil Sacharja zweifelte, verstummte er bis zur Geburt.",
+      "facts": [
+        { "text": "Sacharja diente in der Abteilung Abijas.", "ref": "Lukas 1:5, 8, 9" },
+        { "text": "Johannes sollte wie Elia vor Jehova hergehen.", "ref": "Lukas 1:17" },
+        { "text": "Sacharja konnte nicht mehr sprechen.", "ref": "Lukas 1:20" }
+      ],
+      "significance": "", "persons": ["zacharias", "elisabeth", "gabriel"], "refs": ["Lukas 1:5-25"],
+      "sources": [{ "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" }]
+    },
+    {
+      "id": "ankuendigung-jesu", "title": "Gabriel besucht Maria", "era": "jesus", "year": -2, "dateLabel": "um 2 v. u. Z.", "place": "Nazareth; Judäa",
+      "summary": "Gott sandte den Engel Gabriel nach Nazareth zu Maria, einer Jungfrau, die mit Joseph verlobt war. Er kündigte an, dass sie durch heiligen Geist schwanger werden und einen Sohn gebären werde, der Jesus heißen und als König auf dem Thron Davids für immer regieren werde. Maria nahm den Auftrag demütig an und besuchte danach ihre Verwandte Elisabeth.",
+      "facts": [
+        { "text": "Jesus sollte „Sohn des Höchsten“ genannt werden.", "ref": "Lukas 1:32, 33" },
+        { "text": "Heiliger Geist würde über Maria kommen.", "ref": "Lukas 1:35" },
+        { "text": "„Für Gott ist nichts unmöglich.“", "ref": "Lukas 1:37" },
+        { "text": "Maria pries Jehova bei Elisabeth.", "ref": "Lukas 1:46-55" }
+      ],
+      "significance": "", "persons": ["maria", "gabriel", "elisabeth"], "refs": ["Lukas 1:26-56"],
+      "sources": [
+        { "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" },
+        { "title": "Maria – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002918" }
+      ]
+    },
+    {
+      "id": "geburt-johannes", "title": "Johannes wird geboren", "era": "jesus", "year": -2, "dateLabel": "2 v. u. Z.", "place": "Judäisches Hügelland",
+      "summary": "Elisabeth gebar einen Sohn. Als Verwandte ihn nach seinem Vater benennen wollten, bestand sie auf dem Namen Johannes, und Sacharja schrieb auf ein Täfelchen: „Johannes ist sein Name.“ Sofort konnte er wieder sprechen, und er prophezeite über den kommenden Retter. Johannes wuchs heran und blieb in der Wüste, bis er öffentlich auftrat.",
+      "facts": [
+        { "text": "Die Verwandten wollten ihn Sacharja nennen.", "ref": "Lukas 1:59" },
+        { "text": "Sacharja schrieb: „Johannes ist sein Name.“", "ref": "Lukas 1:63, 64" },
+        { "text": "Er blieb in der Wüste bis zu seinem Auftreten.", "ref": "Lukas 1:80" }
+      ],
+      "significance": "", "persons": ["johannes-der-taeufer", "zacharias", "elisabeth"], "refs": ["Lukas 1:57-80"],
+      "sources": [
+        { "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" },
+        { "title": "Johannes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002489" }
+      ]
+    },
+    {
+      "id": "geburt-jesu", "title": "Jesus wird geboren", "era": "jesus", "year": -2, "dateLabel": "2 v. u. Z., um den 1. Oktober", "place": "Bethlehem",
+      "summary": "Wegen einer Volkszählung reisten Joseph und Maria nach Bethlehem, der Stadt Davids. Dort wurde Jesus geboren und in eine Krippe gelegt – „das Wort“ wurde Mensch. In der Nähe verkündete ein Engel Hirten die gute Botschaft, eine Menge Engel pries Gott, und die Hirten besuchten das Neugeborene.",
+      "facts": [
+        { "text": "Joseph und Maria zogen zur Eintragung nach Bethlehem.", "ref": "Lukas 2:1-5" },
+        { "text": "Maria legte das Kind in eine Krippe.", "ref": "Lukas 2:7" },
+        { "text": "Engel erschienen Hirten auf dem Feld.", "ref": "Lukas 2:8-14" },
+        { "text": "„Das Wort wurde Fleisch.“", "ref": "Johannes 1:14" }
+      ],
+      "significance": "Michas Prophezeiung, dass der Herrscher aus Bethlehem kommen werde, erfüllte sich.", "persons": ["jesus", "maria", "joseph-marias-mann"],
+      "refs": ["Lukas 2:1-20", "Matthäus 1:18-25", "Micha 5:2"],
+      "sources": [{ "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" }]
+    },
+    {
+      "id": "darstellung-im-tempel", "title": "Jesus wird im Tempel dargestellt", "era": "jesus", "year": -1, "dateLabel": "2 v. u. Z. (nach dem 40. Tag)", "place": "Bethlehem; Jerusalem",
+      "summary": "Am achten Tag wurde Jesus beschnitten. Nach dem 40. Tag brachten Joseph und Maria ihn in den Tempel, um ihn Jehova zu übergeben, und brachten das Opfer der Armen dar. Dort nahm der greise Simeon das Kind in die Arme und pries Gott, und die betagte Prophetin Anna sprach über das Kind zu allen, die auf Befreiung warteten.",
+      "facts": [
+        { "text": "Jesus wurde am achten Tag beschnitten.", "ref": "Lukas 2:21" },
+        { "text": "Die Eltern opferten zwei Turteltauben oder junge Tauben.", "ref": "Lukas 2:24" },
+        { "text": "Simeon pries Gott.", "ref": "Lukas 2:28-32" },
+        { "text": "Anna sprach über das Kind.", "ref": "Lukas 2:38" }
+      ],
+      "significance": "", "persons": ["jesus", "maria", "joseph-marias-mann", "simeon-in-jerusalem", "hanna-prophetin"], "refs": ["Lukas 2:21-38"],
+      "sources": [{ "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" }]
+    },
+    {
+      "id": "astrologen-und-flucht", "title": "Die Astrologen und die Flucht nach Ägypten", "era": "jesus", "year": 0, "dateLabel": "1 v. u. Z. oder 1 u. Z.", "place": "Jerusalem; Bethlehem; Ägypten; Nazareth",
+      "summary": "Astrologen aus dem Osten kamen nach Jerusalem und fragten nach dem neugeborenen „König der Juden“. Herodes erschrak und wollte das Kind töten lassen. Gewarnt durch einen Engel, floh Joseph mit Maria und Jesus nach Ägypten. Herodes ließ in Bethlehem alle Jungen bis zu zwei Jahren umbringen. Nach seinem Tod kehrte die Familie zurück und wohnte in Nazareth.",
+      "facts": [
+        { "text": "Die Astrologen fragten nach dem König der Juden.", "ref": "Matthäus 2:1, 2" },
+        { "text": "Ein Engel warnte Joseph im Traum.", "ref": "Matthäus 2:13" },
+        { "text": "Herodes ließ die kleinen Jungen töten.", "ref": "Matthäus 2:16" },
+        { "text": "Die Familie ließ sich in Nazareth nieder.", "ref": "Matthäus 2:23" }
+      ],
+      "significance": "", "persons": ["jesus", "maria", "joseph-marias-mann", "herodes-der-grosse"], "refs": ["Matthäus 2:1-23"],
+      "sources": [
+        { "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" },
+        { "title": "Herodes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002000" }
+      ]
+    },
+    {
+      "id": "zwoelfjaehriger-jesus", "title": "Der 12-jährige Jesus im Tempel", "era": "jesus", "year": 12, "dateLabel": "12 u. Z., Passah", "place": "Jerusalem",
+      "summary": "Zum Passah reiste die Familie nach Jerusalem. Auf dem Heimweg merkten Joseph und Maria, dass der 12-jährige Jesus fehlte. Nach drei Tagen fanden sie ihn im Tempel, wo er den Lehrern zuhörte und Fragen stellte; alle staunten über sein Verständnis. Jesus fragte: „Wusstet ihr nicht, dass ich im Haus meines Vaters sein muss?“ Danach kehrte er nach Nazareth zurück, ordnete sich seinen Eltern unter und wurde Zimmermann.",
+      "facts": [
+        { "text": "Die Eltern fanden ihn nach drei Tagen.", "ref": "Lukas 2:46" },
+        { "text": "Alle staunten über seine Antworten.", "ref": "Lukas 2:47" },
+        { "text": "Er ordnete sich seinen Eltern weiter unter.", "ref": "Lukas 2:51" },
+        { "text": "Er wurde Zimmermann.", "ref": "Markus 6:3" }
+      ],
+      "significance": "", "persons": ["jesus", "maria", "joseph-marias-mann"], "refs": ["Lukas 2:41-52"],
+      "sources": [{ "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" }]
+    },
+    {
+      "id": "johannes-tauft", "title": "Johannes beginnt zu taufen", "era": "jesus", "year": 29, "dateLabel": "Frühjahr 29 u. Z.", "place": "Wildnis; Jordan",
+      "summary": "Im 15. Jahr der Regierung des Tiberius erging Gottes Wort an Johannes in der Wildnis. Er predigte, die Menschen sollten bereuen, denn das Königreich des Himmels habe sich genaht, und taufte im Jordan alle, die ihre Sünden bekannten. Er bereitete den Weg für den Messias vor, von dem er sagte, er werde mit heiligem Geist taufen.",
+      "facts": [
+        { "text": "Sein Dienst begann im 15. Jahr des Tiberius.", "ref": "Lukas 3:1-3" },
+        { "text": "„Bereut, denn das Königreich der Himmel hat sich genaht.“", "ref": "Matthäus 3:1, 2" },
+        { "text": "Er erfüllte Jesajas Prophezeiung von der Stimme in der Wildnis.", "ref": "Matthäus 3:3" }
+      ],
+      "significance": "", "persons": ["johannes-der-taeufer"], "refs": ["Matthäus 3:1-12", "Lukas 3:1-18"],
+      "sources": [
+        { "title": "A7-A Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070207" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "taufe-jesu", "title": "Jesus wird getauft", "era": "jesus", "year": 29, "dateLabel": "Herbst 29 u. Z.", "place": "Jordan (bei Bethanien auf der anderen Jordanseite)",
+      "summary": "Mit etwa 30 Jahren kam Jesus zu Johannes an den Jordan, um sich taufen zu lassen. Als er aus dem Wasser stieg, kam heiliger Geist auf ihn herab, und Jehova sagte vom Himmel: „Dies ist mein Sohn, der Geliebte, an dem ich Gefallen gefunden habe.“ Damit wurde Jesus der Messias, der Gesalbte – genau 483 Jahre nach 455 v. u. Z., wie in Daniel 9 vorhergesagt.",
+      "facts": [
+        { "text": "Jesus war etwa 30 Jahre alt.", "ref": "Lukas 3:23" },
+        { "text": "Der Geist kam wie eine Taube auf ihn herab.", "ref": "Matthäus 3:16" },
+        { "text": "Jehova bezeichnete ihn als seinen Sohn.", "ref": "Matthäus 3:17" },
+        { "text": "Die 69 Jahrwochen endeten 29 u. Z.", "ref": "Daniel 9:25" }
+      ],
+      "significance": "29 u. Z. trat der „Messias, der Führer“, auf.", "persons": ["jesus", "johannes-der-taeufer"], "refs": ["Matthäus 3:13-17", "Lukas 3:21, 22"],
+      "sources": [
+        { "title": "A7-B Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070208" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "versuchung", "title": "Jesus wird in der Wildnis versucht", "era": "jesus", "year": 29, "dateLabel": "29 u. Z.", "place": "Wildnis von Judäa",
+      "summary": "Nach seiner Taufe hielt sich Jesus etwa 40 Tage in der Wildnis auf. Dort trat der Teufel mit drei großen Versuchungen an ihn heran: Steine in Brot zu verwandeln, sich vom Tempel zu stürzen und für einen Akt der Anbetung alle Königreiche der Welt zu bekommen. Jesus wies jede Versuchung mit einem Zitat aus Gottes Wort zurück.",
+      "facts": [
+        { "text": "Er fastete 40 Tage und Nächte.", "ref": "Matthäus 4:2" },
+        { "text": "„Nicht von Brot allein soll der Mensch leben.“", "ref": "Matthäus 4:4" },
+        { "text": "„Jehova, deinen Gott, sollst du anbeten.“", "ref": "Matthäus 4:10" }
+      ],
+      "significance": "", "persons": ["jesus", "satan"], "refs": ["Matthäus 4:1-11", "Lukas 4:1-13"],
+      "sources": [
+        { "title": "A7-B Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070208" },
+        { "title": "Satan – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003845" }
+      ]
+    },
+    {
+      "id": "erste-juenger", "title": "Die ersten Jünger", "era": "jesus", "year": 29, "dateLabel": "29 u. Z.", "place": "Bethanien auf der anderen Jordanseite",
+      "summary": "Johannes der Täufer wies seine Jünger auf Jesus hin: „Siehe, das Lamm Gottes!“ Daraufhin schlossen sich Andreas und ein weiterer Jünger – wahrscheinlich Johannes, der Sohn des Zebedäus – Jesus an. Andreas holte seinen Bruder Simon, dem Jesus den Namen Kephas (Petrus) gab; auch Philippus und Nathanael wurden Jünger.",
+      "facts": [
+        { "text": "Johannes nannte Jesus das Lamm Gottes.", "ref": "Johannes 1:29, 36" },
+        { "text": "Andreas sagte: „Wir haben den Messias gefunden.“", "ref": "Johannes 1:41" },
+        { "text": "Simon erhielt den Namen Kephas.", "ref": "Johannes 1:42" },
+        { "text": "Nathanael erkannte Jesus als Sohn Gottes.", "ref": "Johannes 1:49" }
+      ],
+      "significance": "", "persons": ["jesus", "johannes-der-taeufer", "andreas", "petrus", "johannes-apostel", "philippus-apostel", "bartholomaeus"], "refs": ["Johannes 1:35-51"],
+      "sources": [
+        { "title": "A7-B Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070208" },
+        { "title": "Johannes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002489" }
+      ]
+    },
+    {
+      "id": "hochzeit-in-kana", "title": "Die Hochzeit in Kana", "era": "jesus", "year": 29, "dateLabel": "29 u. Z.", "place": "Kana in Galiläa",
+      "summary": "Bei einer Hochzeit in Kana ging der Wein aus. Auf Bitten seiner Mutter ließ Jesus sechs große Steinkrüge mit Wasser füllen und verwandelte das Wasser in Wein. Es war sein erstes Wunder. Dadurch offenbarte er seine Herrlichkeit, und seine Jünger glaubten an ihn.",
+      "facts": [
+        { "text": "Maria sagte: „Sie haben keinen Wein.“", "ref": "Johannes 2:3" },
+        { "text": "Die Krüge wurden bis zum Rand gefüllt.", "ref": "Johannes 2:7" },
+        { "text": "Es war der Anfang seiner Zeichen.", "ref": "Johannes 2:11" }
+      ],
+      "significance": "", "persons": ["jesus", "maria"], "refs": ["Johannes 2:1-12"],
+      "sources": [
+        { "title": "A7-B Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070208" },
+        { "title": "Kana – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000873" }
+      ]
+    },
+    {
+      "id": "erste-tempelreinigung", "title": "Jesus reinigt den Tempel", "era": "jesus", "year": 30, "dateLabel": "Passah 30 u. Z.", "place": "Jerusalem",
+      "summary": "Zum Passah 30 u. Z. kam Jesus nach Jerusalem und fand im Tempel Händler mit Rindern, Schafen und Tauben sowie Geldwechsler. Er machte eine Peitsche aus Stricken und trieb sie hinaus: „Hört auf, das Haus meines Vaters zu einem Haus des Handels zu machen!“ In dieser Zeit sprach er auch nachts mit Nikodemus.",
+      "facts": [
+        { "text": "Er stieß die Tische der Geldwechsler um.", "ref": "Johannes 2:15" },
+        { "text": "Die Jünger dachten an den Eifer für Gottes Haus.", "ref": "Johannes 2:17" },
+        { "text": "Er sprach mit Nikodemus über die neue Geburt.", "ref": "Johannes 3:1-8" }
+      ],
+      "significance": "", "persons": ["jesus", "nikodemus"], "refs": ["Johannes 2:13-25", "Johannes 3:1-21"],
+      "sources": [{ "title": "A7-B Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070208" }]
+    },
+    {
+      "id": "samariterin", "title": "Jesus und die Samariterin", "era": "jesus", "year": 30, "dateLabel": "30 u. Z.", "place": "Sychar in Samaria",
+      "summary": "Auf dem Weg nach Galiläa rastete Jesus an einem Brunnen bei Sychar und bat eine samaritische Frau um Wasser. Er sprach mit ihr über „lebendiges Wasser“ und erklärte, dass wahre Anbeter Gott mit Geist und Wahrheit anbeten. Ihr gegenüber gab er sich deutlich als Messias zu erkennen. Viele Samariter glaubten daraufhin an ihn.",
+      "facts": [
+        { "text": "Jesus bat die Frau um Wasser.", "ref": "Johannes 4:7" },
+        { "text": "Gott muss mit Geist und Wahrheit angebetet werden.", "ref": "Johannes 4:23, 24" },
+        { "text": "„Ich bin es, der mit dir redet“ – der Messias.", "ref": "Johannes 4:25, 26" },
+        { "text": "Viele Samariter glaubten an ihn.", "ref": "Johannes 4:39-42" }
+      ],
+      "significance": "", "persons": ["jesus"], "refs": ["Johannes 4:4-43"],
+      "sources": [{ "title": "A7-B Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070208" }]
+    },
+    {
+      "id": "wahl-der-apostel", "title": "Jesus wählt 12 Apostel", "era": "jesus", "year": 31, "dateLabel": "31 u. Z.", "place": "Berg bei Kapernaum",
+      "summary": "Nachdem Jesus die ganze Nacht im Gebet zu Gott verbracht hatte, rief er seine Jünger und wählte aus ihnen zwölf aus, die er Apostel nannte: Simon Petrus und Andreas, Jakobus und Johannes, Philippus, Bartholomäus, Matthäus, Thomas, Jakobus, den Sohn des Alphäus, Thaddäus, Simon den Kananäer und Judas Iskariot. Sie sollten bei ihm sein und predigen.",
+      "facts": [
+        { "text": "Jesus betete die ganze Nacht.", "ref": "Lukas 6:12, 13" },
+        { "text": "Er nannte die Zwölf Apostel.", "ref": "Markus 3:14" },
+        { "text": "Die Namen der Apostel werden aufgezählt.", "ref": "Lukas 6:14-16" }
+      ],
+      "significance": "", "persons": ["jesus", "petrus", "andreas", "jakobus-zebedaeus", "johannes-apostel", "philippus-apostel", "bartholomaeus", "matthaeus", "thomas", "jakobus-alphaeus", "thaddaeus", "simon-kananaeer", "judas-iskariot"],
+      "refs": ["Markus 3:13-19", "Lukas 6:12-16"],
+      "sources": [{ "title": "A7-C Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070209" }]
+    },
+    {
+      "id": "bergpredigt", "title": "Die Bergpredigt", "era": "jesus", "year": 31, "dateLabel": "31 u. Z.", "place": "Berg bei Kapernaum",
+      "summary": "Auf einem Berg bei Kapernaum hielt Jesus seine bekannteste Rede. Er sprach darüber, wer wirklich glücklich ist, über Liebe auch zu Feinden, aufrichtiges Gebet – mit dem Mustergebet – und darüber, zuerst das Königreich zu suchen. Die Menge staunte, denn er lehrte wie jemand, der Autorität hat.",
+      "facts": [
+        { "text": "Glücklich sind die, die sich ihrer geistigen Bedürfnisse bewusst sind.", "ref": "Matthäus 5:3" },
+        { "text": "Er lehrte das Mustergebet.", "ref": "Matthäus 6:9-13" },
+        { "text": "„Sucht zuerst das Königreich.“", "ref": "Matthäus 6:33" },
+        { "text": "Die Goldene Regel: Behandelt andere so, wie ihr behandelt werden wollt.", "ref": "Matthäus 7:12" }
+      ],
+      "significance": "", "persons": ["jesus"], "refs": ["Matthäus 5:1–7:29", "Lukas 6:17-49"],
+      "sources": [{ "title": "A7-C Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070209" }]
+    },
+    {
+      "id": "tod-johannes-des-taeufers", "title": "Johannes der Täufer wird hingerichtet", "era": "jesus", "year": 32, "dateLabel": "31 oder 32 u. Z.", "place": "Tiberias (Herrschaftsgebiet des Herodes Antipas)",
+      "summary": "Johannes hatte Herodes Antipas vorgehalten, dass es nicht erlaubt sei, Herodias, die Frau seines Bruders, zu haben, und war deshalb ins Gefängnis gekommen. An seinem Geburtstag versprach Herodes der Tochter der Herodias nach ihrem Tanz jeden Wunsch. Auf Anstiften ihrer Mutter verlangte sie den Kopf des Johannes, und Herodes ließ ihn enthaupten.",
+      "facts": [
+        { "text": "Johannes hatte Herodes zurechtgewiesen.", "ref": "Markus 6:18" },
+        { "text": "Die Tochter der Herodias verlangte seinen Kopf.", "ref": "Markus 6:24, 25" },
+        { "text": "Seine Jünger begruben ihn und berichteten Jesus davon.", "ref": "Matthäus 14:12" }
+      ],
+      "significance": "", "persons": ["johannes-der-taeufer", "herodes-antipas"], "refs": ["Matthäus 14:1-12", "Markus 6:14-29"],
+      "sources": [{ "title": "A7-D Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070210" }]
+    },
+    {
+      "id": "speisung-der-5000", "title": "Die Speisung der 5000", "era": "jesus", "year": 32, "dateLabel": "32 u. Z., vor dem Passah", "place": "Nordostufer des Sees von Galiläa",
+      "summary": "Als die Apostel von ihrer Predigtreise zurückkamen, folgte eine große Menge Jesus an einen abgelegenen Ort. Mit nur fünf Broten und zwei Fischen speiste er etwa 5000 Männer, dazu Frauen und Kinder; danach sammelte man zwölf Körbe voller Reste. Die Menge wollte ihn daraufhin zum König machen.",
+      "facts": [
+        { "text": "Es waren nur fünf Brote und zwei Fische da.", "ref": "Johannes 6:9" },
+        { "text": "Etwa 5000 Männer aßen sich satt.", "ref": "Johannes 6:10, 11" },
+        { "text": "Zwölf Körbe mit Resten blieben übrig.", "ref": "Johannes 6:13" },
+        { "text": "Man wollte ihn zum König machen; er zog sich zurück.", "ref": "Johannes 6:15" }
+      ],
+      "significance": "", "persons": ["jesus", "philippus-apostel", "andreas"], "refs": ["Johannes 6:1-15", "Matthäus 14:13-21"],
+      "sources": [{ "title": "A7-D Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070210" }]
+    },
+    {
+      "id": "jesus-geht-auf-dem-wasser", "title": "Jesus geht auf dem Wasser", "era": "jesus", "year": 32, "dateLabel": "32 u. Z., vor dem Passah", "place": "See von Galiläa",
+      "summary": "In der Nacht nach der Speisung der 5000 kämpften die Jünger in ihrem Boot gegen den Wind. Da kam Jesus auf dem Wasser zu ihnen. Petrus ging ihm auf dem Wasser entgegen, bekam aber Angst und begann zu sinken, bis Jesus ihn fasste. Als sie ins Boot stiegen, legte sich der Wind, und die Jünger sagten: „Du bist wirklich Gottes Sohn.“",
+      "facts": [
+        { "text": "Jesus ging in der vierten Nachtwache auf dem See.", "ref": "Matthäus 14:25" },
+        { "text": "Petrus ging auf dem Wasser, begann aber zu sinken.", "ref": "Matthäus 14:29, 30" },
+        { "text": "„Du Kleingläubiger, warum hast du gezweifelt?“", "ref": "Matthäus 14:31" }
+      ],
+      "significance": "", "persons": ["jesus", "petrus"], "refs": ["Matthäus 14:22-33", "Johannes 6:16-21"],
+      "sources": [{ "title": "A7-D Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070210" }]
+    },
+    {
+      "id": "umgestaltung", "title": "Die Umgestaltung Jesu", "era": "jesus", "year": 32, "dateLabel": "32 u. Z., nach dem Passah", "place": "Wahrscheinlich Berg Hermon",
+      "summary": "Jesus nahm Petrus, Jakobus und Johannes mit auf einen hohen Berg. Dort wurde er vor ihren Augen umgestaltet: Sein Gesicht leuchtete wie die Sonne, und Moses und Elia erschienen und sprachen mit ihm. Aus einer Wolke sagte Jehovas Stimme: „Dies ist mein Sohn … hört auf ihn.“ Die Vision gab einen Vorgeschmack auf Jesu Herrlichkeit in seinem Königreich.",
+      "facts": [
+        { "text": "Sein Gesicht leuchtete wie die Sonne.", "ref": "Matthäus 17:2" },
+        { "text": "Moses und Elia erschienen in der Vision.", "ref": "Matthäus 17:3" },
+        { "text": "Jehova sagte: „Hört auf ihn.“", "ref": "Matthäus 17:5" },
+        { "text": "Petrus schrieb später darüber.", "ref": "2. Petrus 1:16-18" }
+      ],
+      "significance": "", "persons": ["jesus", "petrus", "jakobus-zebedaeus", "johannes-apostel"], "refs": ["Matthäus 17:1-13", "Lukas 9:28-36"],
+      "sources": [
+        { "title": "A7-E Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070211" },
+        { "title": "Umgestaltung – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004466" }
+      ]
+    },
+    {
+      "id": "auferweckung-des-lazarus", "title": "Lazarus wird auferweckt", "era": "jesus", "year": 33, "dateLabel": "Nach dem Fest der Einweihung 32 u. Z.", "place": "Bethanien",
+      "summary": "Lazarus, der Bruder von Martha und Maria, war gestorben und lag schon vier Tage im Grab, als Jesus nach Bethanien kam. Jesus weinte, ließ den Stein wegnehmen, betete laut und rief: „Lazarus, komm heraus!“ Der Tote kam heraus. Viele glaubten an Jesus – doch die führenden Juden beschlossen, ihn zu töten.",
+      "facts": [
+        { "text": "Lazarus lag seit vier Tagen im Grab.", "ref": "Johannes 11:17" },
+        { "text": "„Ich bin die Auferstehung und das Leben.“", "ref": "Johannes 11:25" },
+        { "text": "Jesus brach in Tränen aus.", "ref": "Johannes 11:35" },
+        { "text": "Danach planten die Führer, Jesus zu töten.", "ref": "Johannes 11:53" }
+      ],
+      "significance": "", "persons": ["jesus", "lazarus", "martha", "maria-bethanien", "kaiphas"], "refs": ["Johannes 11:1-54"],
+      "sources": [{ "title": "A7-F Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070212" }]
+    },
+    {
+      "id": "einzug-in-jerusalem", "title": "Jesus zieht in Jerusalem ein", "era": "jesus", "year": 33, "dateLabel": "9. Nisan 33 u. Z.", "place": "Bethanien – Bethphage – Jerusalem",
+      "summary": "Sechs Tage vor dem Passah kam Jesus nach Bethanien. Am 9. Nisan ritt er auf einem Esel nach Jerusalem, wie Sacharja vorhergesagt hatte. Eine große Menge breitete ihre Gewänder und Zweige auf dem Weg aus und rief: „Rette doch den Sohn Davids! Gesegnet ist der, der im Namen Jehovas kommt!“",
+      "facts": [
+        { "text": "Er ritt auf einem jungen Esel.", "ref": "Matthäus 21:6, 7" },
+        { "text": "So erfüllte sich Sacharja 9:9.", "ref": "Sacharja 9:9" },
+        { "text": "Die Menge rief „Hosanna dem Sohn Davids“.", "ref": "Matthäus 21:9" },
+        { "text": "Am nächsten Tag reinigte er erneut den Tempel.", "ref": "Markus 11:15-17" }
+      ],
+      "significance": "", "persons": ["jesus"], "refs": ["Matthäus 21:1-11", "Johannes 12:12-19"],
+      "sources": [{ "title": "A7-G Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070213" }]
+    },
+    {
+      "id": "abendmahl-des-herrn", "title": "Das Abendmahl des Herrn", "era": "jesus", "year": 33, "dateLabel": "14. Nisan 33 u. Z. (abends)", "place": "Jerusalem",
+      "summary": "Am Abend des 14. Nisan feierte Jesus mit seinen Aposteln das letzte Passah und wusch ihnen die Füße. Nachdem er Judas weggeschickt hatte, führte er das Abendmahl des Herrn ein: Das ungesäuerte Brot stellte seinen Leib dar, der Wein sein „Blut des Bundes“. Er gebot: „Tut dies immer wieder zur Erinnerung an mich.“",
+      "facts": [
+        { "text": "Jesus wusch den Aposteln die Füße.", "ref": "Johannes 13:1-15" },
+        { "text": "Er entlarvte Judas als Verräter.", "ref": "Johannes 13:21-30" },
+        { "text": "„Tut dies immer wieder zur Erinnerung an mich.“", "ref": "Lukas 22:19, 20" },
+        { "text": "Paulus beschreibt das Abendmahl des Herrn.", "ref": "1. Korinther 11:23-26" }
+      ],
+      "significance": "Wie das Passah soll das Abendmahl des Herrn einmal im Jahr gefeiert werden – zur Erinnerung an Jesu Tod.", "persons": ["jesus", "petrus", "johannes-apostel", "judas-iskariot"], "refs": ["Lukas 22:7-30", "Matthäus 26:17-29"],
+      "sources": [
+        { "title": "A7-H Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070214" },
+        { "title": "Abendmahl des Herrn – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002773" }
+      ]
+    },
+    {
+      "id": "gethsemane", "title": "Gethsemane und Verhaftung", "era": "jesus", "year": 33, "dateLabel": "14. Nisan 33 u. Z. (nachts)", "place": "Garten Gethsemane; Jerusalem",
+      "summary": "Nach dem Abendmahl ging Jesus mit den Aposteln in den Garten Gethsemane und betete in tiefer Qual. Judas kam mit einer bewaffneten Schar und verriet ihn mit einem Kuss. Jesus wurde festgenommen, zuerst von Annas verhört und dann vor Kaiphas und dem Sanhedrin angeklagt, während Petrus ihn dreimal verleugnete.",
+      "facts": [
+        { "text": "Jesus betete: „Nicht wie ich will, sondern wie du willst.“", "ref": "Matthäus 26:39" },
+        { "text": "Judas verriet ihn mit einem Kuss.", "ref": "Matthäus 26:48, 49" },
+        { "text": "Annas verhörte ihn zuerst.", "ref": "Johannes 18:13" },
+        { "text": "Petrus verleugnete ihn dreimal.", "ref": "Matthäus 26:69-75" }
+      ],
+      "significance": "", "persons": ["jesus", "judas-iskariot", "petrus", "hannas", "kaiphas"], "refs": ["Matthäus 26:36-75", "Johannes 18:1-27"],
+      "sources": [
+        { "title": "A7-H Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070214" },
+        { "title": "Gethsemane – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001671" }
+      ]
+    },
+    {
+      "id": "tod-jesu", "title": "Jesus stirbt", "era": "jesus", "year": 33, "dateLabel": "14. Nisan 33 u. Z. (Freitag gegen 15 Uhr)", "place": "Golgotha",
+      "summary": "Am Morgen brachte man Jesus zu Pilatus, dann zu Herodes und wieder zu Pilatus. Obwohl Pilatus ihn freilassen wollte, forderte die Menge Barabbas, und Jesus wurde zum Tod am Marterpfahl verurteilt. Auf Golgotha starb er am Freitag gegen 15 Uhr. Joseph von Arimathia legte seinen Leichnam in ein neues Grab. Sein Tod öffnete den Weg zu Sündenvergebung und ewigem Leben.",
+      "facts": [
+        { "text": "Pilatus fand keine Schuld an ihm.", "ref": "Lukas 23:4" },
+        { "text": "Er wurde an einen Marterpfahl gehängt.", "ref": "Johannes 19:16-18" },
+        { "text": "Seine letzten Worte: „Es ist vollbracht!“", "ref": "Johannes 19:30" },
+        { "text": "Er gab sein Leben als Lösegeld für viele.", "ref": "Matthäus 20:28" }
+      ],
+      "significance": "Jesus starb als Passahopfer genau am 14. Nisan 33 u. Z.", "persons": ["jesus", "pilatus", "herodes-antipas", "maria", "maria-magdalene", "johannes-apostel", "joseph-von-arimathaea"],
+      "refs": ["Johannes 19:1-42", "Matthäus 27:11-61", "Lukas 23:1-56"],
+      "sources": [
+        { "title": "A7-H Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070214" },
+        { "title": "Marterpfahl – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004456" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "auferweckung-jesu", "title": "Jesus wird auferweckt", "era": "jesus", "year": 33, "dateLabel": "16. Nisan 33 u. Z.", "place": "Jerusalem und Umgebung; Emmaus",
+      "summary": "Am dritten Tag, dem 16. Nisan, fanden Frauen das Grab leer. Engel verkündeten, dass Jesus auferweckt worden war. Noch am selben Tag erschien Jesus seinen Jüngern fünfmal, unter anderem Maria Magdalene und zwei Jüngern auf dem Weg nach Emmaus. In den folgenden 40 Tagen zeigte er sich ihnen immer wieder und gab ihnen den Auftrag, Menschen zu Jüngern zu machen.",
+      "facts": [
+        { "text": "Das Grab war leer.", "ref": "Lukas 24:1-6" },
+        { "text": "Er erschien Maria Magdalene.", "ref": "Johannes 20:14-16" },
+        { "text": "Er erschien über 500 Brüdern auf einmal.", "ref": "1. Korinther 15:6" },
+        { "text": "„Macht Jünger aus Menschen aller Nationen.“", "ref": "Matthäus 28:19, 20" }
+      ],
+      "significance": "Jehova erweckte Jesus zum Leben; mit dem Wert seines vollkommenen Lebens erschien er im Himmel vor Gott.", "persons": ["jesus", "maria-magdalene", "petrus", "thomas"],
+      "refs": ["Matthäus 28:1-20", "Lukas 24:1-49", "Johannes 20:1-29"],
+      "sources": [
+        { "title": "A7-H Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070214" },
+        { "title": "B1 Das Hauptthema der Bibel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070221" }
+      ]
+    },
+    {
+      "id": "himmelfahrt", "title": "Jesus fährt in den Himmel auf", "era": "jesus", "year": 33, "dateLabel": "25. Ijjar 33 u. Z.", "place": "Ölberg, bei Bethanien",
+      "summary": "Am 40. Tag nach seiner Auferweckung führte Jesus seine Jünger zum Ölberg bei Bethanien. Er versprach ihnen heiligen Geist und sagte, sie würden seine Zeugen sein „bis zum entferntesten Teil der Erde“. Dann wurde er emporgehoben, und eine Wolke entzog ihn ihren Blicken. Zwei Engel sagten, er werde in gleicher Weise kommen.",
+      "facts": [
+        { "text": "Es war der 40. Tag nach der Auferweckung.", "ref": "Apostelgeschichte 1:3" },
+        { "text": "„Ihr werdet Zeugen von mir sein.“", "ref": "Apostelgeschichte 1:8" },
+        { "text": "Eine Wolke nahm ihn auf.", "ref": "Apostelgeschichte 1:9" }
+      ],
+      "significance": "", "persons": ["jesus"], "refs": ["Apostelgeschichte 1:3-11", "Lukas 24:50-53"],
+      "sources": [{ "title": "A7-H Jesu Leben auf der Erde – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070214" }]
+    }
+  ]
+}

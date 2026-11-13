@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Bibel-Übersicht</title>
+  <meta name="description" content="Biblische Personen und Ereignisse mit Zeitleiste und Suche – Zusammenfassungen nach jw.org.">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f9f9fb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Bibel">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+  <div class="app" id="app">
+    <aside class="sidebar" id="sidebar" aria-label="Navigation">
+      <div class="brand"><img src="assets/icons/icon.svg" alt="" width="30" height="30"><span>Bibel-Übersicht</span></div>
+      <label class="search" role="search">
+        <svg class="ico" aria-hidden="true"><use href="#i-search"/></svg>
+        <span class="sr-only">Suchen</span>
+        <input id="sideSearch" type="search" placeholder="Suchen" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+        <kbd aria-hidden="true">/</kbd>
+      </label>
+      <nav class="side-nav" aria-label="Bereiche">
+        <a class="side-link" data-tab="uebersicht" href="#/"><svg class="ico" aria-hidden="true"><use href="#i-overview"/></svg>Übersicht</a>
+        <a class="side-link" data-tab="zeitleiste" href="#/zeitleiste"><svg class="ico" aria-hidden="true"><use href="#i-timeline"/></svg>Zeitleiste<span class="n" data-count="events"></span></a>
+        <a class="side-link" data-tab="personen" href="#/personen"><svg class="ico" aria-hidden="true"><use href="#i-people"/></svg>Personen<span class="n" data-count="persons"></span></a>
+      </nav>
+      <div class="side-head">Epochen</div>
+      <nav class="side-nav" id="sideEras" aria-label="Epochen"></nav>
+      <div class="side-foot">Alle Inhalte sind Zusammenfassungen nach <a href="https://www.jw.org/de/" target="_blank" rel="noopener">jw.org</a>.</div>
+    </aside>
+
+    <main class="main" id="main">
+      <section class="view grouped" id="view-uebersicht" aria-label="Übersicht"></section>
+      <section class="view" id="view-zeitleiste" aria-label="Zeitleiste" hidden></section>
+      <section class="view" id="view-personen" aria-label="Personen" hidden></section>
+      <section class="view" id="view-suche" aria-label="Suche" hidden></section>
+    </main>
+
+    <section class="detail" id="detail" aria-label="Details" aria-live="polite"></section>
+
+    <nav class="tabbar" id="tabbar" aria-label="Bereiche">
+      <a class="tab" data-tab="uebersicht" href="#/"><svg class="ico" aria-hidden="true"><use href="#i-overview"/></svg><span>Übersicht</span></a>
+      <a class="tab" data-tab="zeitleiste" href="#/zeitleiste"><svg class="ico" aria-hidden="true"><use href="#i-timeline"/></svg><span>Zeitleiste</span></a>
+      <a class="tab" data-tab="personen" href="#/personen"><svg class="ico" aria-hidden="true"><use href="#i-people"/></svg><span>Personen</span></a>
+      <a class="tab" data-tab="suche" href="#/suche"><svg class="ico" aria-hidden="true"><use href="#i-search"/></svg><span>Suche</span></a>
+    </nav>
+
+    <div class="stack-scrim" id="scrim"></div>
+    <div class="stack" id="stack"></div>
+  </div>
+
+  <noscript><p style="padding:24px;font:17px system-ui">Diese Seite benötigt JavaScript.</p></noscript>
+
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="i-overview" viewBox="0 0 24 24"><rect x="3.5" y="3.5" width="7" height="7" rx="2.2"/><rect x="13.5" y="3.5" width="7" height="7" rx="2.2"/><rect x="3.5" y="13.5" width="7" height="7" rx="2.2"/><rect x="13.5" y="13.5" width="7" height="7" rx="2.2"/></symbol>
+    <symbol id="i-timeline" viewBox="0 0 24 24"><path d="M6 4v16"/><circle cx="6" cy="6.5" r="2.1" fill="currentColor" stroke="none"/><circle cx="6" cy="12" r="2.1" fill="currentColor" stroke="none"/><circle cx="6" cy="17.5" r="2.1" fill="currentColor" stroke="none"/><path d="M11 6.5h9M11 12h6.5M11 17.5h8"/></symbol>
+    <symbol id="i-people" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.4"/><path d="M2.8 19.5c.6-3.3 3.1-5.3 6.2-5.3s5.6 2 6.2 5.3"/><path d="M15.6 4.9a3.3 3.3 0 0 1 0 6.3"/><path d="M17.7 14.4c1.9.6 3.2 2.3 3.6 5.1"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.3"/><path d="m15.3 15.3 5.2 5.2"/></symbol>
+    <symbol id="i-chevron-right" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="i-chevron-left" viewBox="0 0 24 24"><path d="m15 4.5-7.5 7.5 7.5 7.5"/></symbol>
+    <symbol id="i-xmark-circle" viewBox="0 0 24 24"><path fill="currentColor" stroke="none" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm3.5 12.1a1 1 0 0 1-1.4 1.4L12 13.4l-2.1 2.1a1 1 0 0 1-1.4-1.4l2.1-2.1-2.1-2.1a1 1 0 0 1 1.4-1.4l2.1 2.1 2.1-2.1a1 1 0 0 1 1.4 1.4L13.4 12Z"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M8 16 16.5 7.5M9.5 7.5h7v7"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6.6c-1.9-1.5-4.7-2.1-8.2-1.9v13.2c3.5-.2 6.3.4 8.2 1.9 1.9-1.5 4.7-2.1 8.2-1.9V4.7c-3.5-.2-6.3.4-8.2 1.9Z"/><path d="M12 6.6v13.2"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11Z"/><circle cx="12" cy="10" r="2.3"/></symbol>
+    <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="3.2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></symbol>
+    <symbol id="i-shuffle" viewBox="0 0 24 24"><path d="M3 7h3.2c4.6 0 6.4 10 11 10H21"/><path d="M3 17h3.2c1.9 0 3.1-1.7 4.2-3.6M13.6 10.6C14.7 8.7 15.9 7 17.8 7H21"/><path d="m18.6 4.4 2.6 2.6-2.6 2.6M18.6 14.4l2.6 2.6-2.6 2.6"/></symbol>
+    <symbol id="i-bulb" viewBox="0 0 24 24"><path d="M9.2 18h5.6M10.2 21h3.6"/><path d="M12 3a6 6 0 0 0-3.7 10.7c.7.6 1.1 1.4 1.1 2.3h5.2c0-.9.4-1.7 1.1-2.3A6 6 0 0 0 12 3Z"/></symbol>
+    <symbol id="i-sparkle" viewBox="0 0 24 24"><path d="M12 3.5 13.9 8.6 19 10.5 13.9 12.4 12 17.5 10.1 12.4 5 10.5 10.1 8.6Z"/><path d="M18.5 16v4M16.5 18h4"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.7v.1"/></symbol>
+    <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></symbol>
+    <symbol id="i-scroll" viewBox="0 0 24 24"><path d="M7 4h11a2 2 0 0 1 2 2v1h-4"/><path d="M16 7v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-1h10"/><path d="M7 4a2 2 0 0 0-2 2v11"/><path d="M8.5 9h4.5M8.5 12.5h4.5"/></symbol>
+  </svg>
+
+  <script src="assets/js/data.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,437 @@
+{
+  "batch": "b04",
+  "persons": [
+    {
+      "id": "rahab", "name": "Rahab", "altNames": [], "sex": "f", "tags": ["vorfahr-jesu"],
+      "role": "Frau aus Jericho, Anbeterin Jehovas", "eras": ["richter"], "dates": [{ "label": "Zeit", "value": "1473 v. u. Z." }], "year": -1473,
+      "nameMeaning": "„Weit“, „Geräumig“ (vielleicht)",
+      "summary": "Rahab war eine Prostituierte in Jericho, die eine Anbeterin Jehovas wurde. Im Frühjahr 1473 v. u. Z. nahm sie zwei israelitische Kundschafter auf und versteckte sie, weil sie glaubte, dass Jehova Israel das Land geben würde. Als Jericho fiel, wurden sie und ihre Familie verschont. Später heiratete sie Salmon und wurde die Mutter von Boas – eine Vorfahrin Jesu.",
+      "facts": [
+        { "text": "Sie gewährte zwei Kundschaftern Unterkunft und versteckte sie.", "ref": "Josua 2:1-7" },
+        { "text": "Sie sagte, Jehova sei Gott oben im Himmel und unten auf der Erde.", "ref": "Josua 2:11" },
+        { "text": "Eine karmesinrote Schnur am Fenster kennzeichnete ihr Haus.", "ref": "Josua 2:18" },
+        { "text": "Beim Fall Jerichos wurde ihre Familie gerettet.", "ref": "Josua 6:22-25" },
+        { "text": "Die Bibel nennt sie ein Beispiel für Glauben, der sich durch Werke zeigt.", "ref": "Jakobus 2:25" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Salmon"], "children": ["boas"], "siblings": [] },
+      "related": ["josua"], "events": ["jordan-ueberquerung", "fall-jerichos"], "books": [],
+      "refs": ["Josua 2:1-24", "Josua 6:22-25", "Hebräer 11:31", "Matthäus 1:5"],
+      "sources": [
+        { "title": "Rahab – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003623" },
+        { "title": "Boas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000779" }
+      ]
+    },
+    {
+      "id": "achan", "name": "Achan", "altNames": ["Achar"], "sex": "m", "tags": [],
+      "role": "Israelit, nahm verbotene Beute", "eras": ["richter"], "dates": [{ "label": "Zeit", "value": "1473 v. u. Z." }], "year": -1472,
+      "nameMeaning": "verbunden mit Achar: „Der in Verruf brachte“",
+      "summary": "Achan aus dem Stamm Juda nahm bei der Einnahme Jerichos heimlich ein kostbares Gewand, Gold und Silber an sich, obwohl Jehova geboten hatte, dass alles Wertvolle der Stadt ihm gehörte. Damit beraubte er Gott. Deshalb versagte Jehova Israel seine Hilfe, und die Israeliten erlitten bei Ai eine Niederlage. Achan wurde entlarvt und mit seiner Hausgemeinschaft gesteinigt.",
+      "facts": [
+        { "text": "Jericho war „der Vernichtung geweiht“; Silber und Gold gehörten Jehova.", "ref": "Josua 6:17-19" },
+        { "text": "Er vergrub die Beute unter seinem Zelt.", "ref": "Josua 7:21" },
+        { "text": "Israel wurde bei Ai geschlagen.", "ref": "Josua 7:4, 5" },
+        { "text": "Er wurde entlarvt und gesteinigt.", "ref": "Josua 7:24-26" }
+      ],
+      "lesson": "",
+      "family": { "father": "Karmi", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["josua"], "events": ["fall-jerichos"], "books": [],
+      "refs": ["Josua 7:1-26", "1. Chronika 2:7"],
+      "sources": [{ "title": "Achan – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000074" }]
+    },
+    {
+      "id": "othniel", "name": "Othniel", "altNames": [], "sex": "m", "tags": ["richter"],
+      "role": "Erster Richter nach Josua", "eras": ["richter"], "dates": [], "year": -1440, "nameMeaning": "",
+      "summary": "Othniel aus dem Stamm Juda ist der erste Richter, den die Bibel nach Josua erwähnt; er war ein Neffe Kalebs. Er eroberte die kanaanitische Stadt Debir und erhielt dafür Kalebs Tochter Achsa zur Frau. Als Israel von einem mesopotamischen König bedrückt wurde, erweckte Jehova ihn als Retter.",
+      "facts": [
+        { "text": "Er war der Sohn von Kalebs Bruder Kenas.", "ref": "Richter 1:13" },
+        { "text": "Er eroberte Debir und heiratete Achsa.", "ref": "Josua 15:16, 17" },
+        { "text": "Jehova erweckte ihn als Retter Israels.", "ref": "Richter 3:9-11" }
+      ],
+      "lesson": "",
+      "family": { "father": "Kenas", "mother": "", "spouses": ["Achsa"], "children": [], "siblings": [] },
+      "related": ["kaleb"], "events": ["zeit-der-richter"], "books": [],
+      "refs": ["Josua 15:16, 17", "Richter 3:7-11"],
+      "sources": [{ "title": "Othniel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003349" }]
+    },
+    {
+      "id": "ehud", "name": "Ehud", "altNames": [], "sex": "m", "tags": ["richter"],
+      "role": "Richter, Befreier von Moab", "eras": ["richter"], "dates": [], "year": -1400, "nameMeaning": "",
+      "summary": "Ehud, ein linkshändiger Benjaminiter, wurde von Gott erwählt, Israel aus 18 Jahren Knechtschaft unter König Eglon von Moab zu befreien. Unter dem Vorwand, Tribut zu überbringen, gelangte er zu Eglon und tötete ihn mit einem kurzen zweischneidigen Schwert. Danach führte er Israel zum Sieg über Moab.",
+      "facts": [
+        { "text": "Israel war 18 Jahre Eglon von Moab unterworfen.", "ref": "Richter 3:12-14" },
+        { "text": "Jehova erweckte ihn als „Retter“.", "ref": "Richter 3:15" },
+        { "text": "Er tötete Eglon mit einem zweischneidigen Schwert.", "ref": "Richter 3:16-22" },
+        { "text": "Danach hatte das Land 80 Jahre Ruhe.", "ref": "Richter 3:30" }
+      ],
+      "lesson": "",
+      "family": { "father": "Gera", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["zeit-der-richter"], "books": [],
+      "refs": ["Richter 3:12-30"],
+      "sources": [{ "title": "Ehud – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001268" }]
+    },
+    {
+      "id": "debora", "name": "Debora", "altNames": [], "sex": "f", "tags": ["prophet", "richter"],
+      "role": "Prophetin in Israel", "eras": ["richter"], "dates": [], "year": -1300, "nameMeaning": "„Biene“",
+      "summary": "Debora war eine Prophetin in Israel, die Frau Lappidoths. Sie wohnte unter einer Palme zwischen Rama und Bethel, und die Israeliten kamen zu ihr, um sich richten zu lassen. Jehova gebrauchte sie, um Barak zu beauftragen, gegen das Heer des Kanaaniterkönigs Jabin unter Sisera zu kämpfen. Sie ging mit Barak in die Schlacht und sagte voraus, dass eine Frau die Ehre des Sieges erhalten würde.",
+      "facts": [
+        { "text": "Die Israeliten kamen zu ihr, um sich richten zu lassen.", "ref": "Richter 4:4, 5" },
+        { "text": "Sie rief Barak auf, mit 10 000 Mann gegen Sisera zu ziehen.", "ref": "Richter 4:6, 7" },
+        { "text": "Sie sagte voraus, dass eine Frau Sisera besiegen würde.", "ref": "Richter 4:9" },
+        { "text": "Mit Barak sang sie ein Siegeslied, das Jehova alle Ehre gab.", "ref": "Richter 5:1-31" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Lappidoth"], "children": [], "siblings": [] },
+      "related": ["barak", "jael"], "events": ["debora-und-barak"], "books": [],
+      "refs": ["Richter 4:4-10", "Richter 5:1-31"],
+      "sources": [{ "title": "Debora – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001138" }]
+    },
+    {
+      "id": "barak", "name": "Barak", "altNames": [], "sex": "m", "tags": ["richter"],
+      "role": "Heerführer gegen Sisera", "eras": ["richter"], "dates": [], "year": -1300, "nameMeaning": "„Blitz“",
+      "summary": "Barak, der Sohn Abinoams aus Kedesch in Naphtali, wurde von Jehova eingesetzt, als Israel 20 Jahre unter dem Kanaaniterkönig Jabin litt. Er bestand darauf, dass die Prophetin Debora ihn begleitete. Mit 10 000 Mann besiegte er vom Berg Tabor aus das gut bewaffnete Heer Siseras. Hebräer 11 nennt ihn unter den Vorbildern des Glaubens.",
+      "facts": [
+        { "text": "Israel war 20 Jahre von Jabin bedrückt.", "ref": "Richter 4:1-3" },
+        { "text": "Er wollte nur gehen, wenn Debora mitkam.", "ref": "Richter 4:8" },
+        { "text": "Jehova gab Israel einen unvergesslichen Sieg.", "ref": "Psalm 83:9" },
+        { "text": "Er wird unter den Glaubensvorbildern genannt.", "ref": "Hebräer 11:32" }
+      ],
+      "lesson": "",
+      "family": { "father": "Abinoam", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["debora", "jael"], "events": ["debora-und-barak"], "books": [],
+      "refs": ["Richter 4:1-24", "Richter 5:1-31", "Hebräer 11:32"],
+      "sources": [{ "title": "Barak – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000559" }]
+    },
+    {
+      "id": "jael", "name": "Jael", "altNames": [], "sex": "f", "tags": [],
+      "role": "Frau des Keniters Heber", "eras": ["richter"], "dates": [], "year": -1300, "nameMeaning": "„Steinbock“",
+      "summary": "Jael war die Frau des Keniters Heber und keine Israelitin. Als der kanaanitische Heerführer Sisera nach seiner Niederlage zu ihrem Zelt floh, nahm sie ihn auf, gab ihm Milch zu trinken und deckte ihn zu. Als er fest schlief, tötete sie ihn. So erfüllte sich Deboras Prophezeiung, dass eine Frau die Ehre des Sieges erhalten würde.",
+      "facts": [
+        { "text": "Ihr Mann Heber lebte im Frieden mit den Kanaanitern.", "ref": "Richter 4:17" },
+        { "text": "Sie gab Sisera geronnene Milch zu trinken.", "ref": "Richter 5:25" },
+        { "text": "Sie tötete Sisera, als er schlief.", "ref": "Richter 4:21" },
+        { "text": "Im Lied Deboras wird sie gesegnet.", "ref": "Richter 5:24" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Heber"], "children": [], "siblings": [] },
+      "related": ["debora", "barak"], "events": ["debora-und-barak"], "books": [],
+      "refs": ["Richter 4:17-22", "Richter 5:24-27"],
+      "sources": [{ "title": "Jael – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002286" }]
+    },
+    {
+      "id": "gideon", "name": "Gideon", "altNames": ["Jerubbaal"], "sex": "m", "tags": ["richter"],
+      "role": "Richter, Befreier von den Midianitern", "eras": ["richter"], "dates": [], "year": -1250, "nameMeaning": "„Umhauer“",
+      "summary": "Gideon aus dem Stamm Manasse war einer der hervorragendsten Richter Israels. Als die Midianiter Israel sieben Jahre lang plünderten, berief ihn ein Engel Jehovas zum Befreier. Gideon riss den Baalsaltar seines Vaters nieder und besiegte mit nur 300 Mann – ausgerüstet mit Hörnern, Krügen und Fackeln – das riesige Heer Midians.",
+      "facts": [
+        { "text": "Ein Engel sagte zu ihm: „Jehova ist mit dir, du tapferer Starker.“", "ref": "Richter 6:12" },
+        { "text": "Er riss den Altar Baals nieder, den sein Vater errichtet hatte.", "ref": "Richter 6:25-27" },
+        { "text": "Jehova verringerte sein Heer auf 300 Mann.", "ref": "Richter 7:2-7" },
+        { "text": "Mit Hörnern, Krügen und Fackeln wurde Midian geschlagen.", "ref": "Richter 7:16-22" }
+      ],
+      "lesson": "",
+      "family": { "father": "Joas", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["gideons-300"], "books": [],
+      "refs": ["Richter 6:11-40", "Richter 7:1-25", "Hebräer 11:32"],
+      "sources": [{ "title": "Gideon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001685" }]
+    },
+    {
+      "id": "jephtha", "name": "Jephtha", "altNames": [], "sex": "m", "tags": ["richter"],
+      "role": "Richter in Gilead", "eras": ["richter"], "dates": [{ "label": "Wirken", "value": "6 Jahre, ab etwa 1173 v. u. Z." }], "year": -1173,
+      "nameMeaning": "„(Gott) hat geöffnet“",
+      "summary": "Jephtha aus dem Stamm Manasse richtete das Land Gilead sechs Jahre lang, wahrscheinlich zur Zeit Elis. Von seinen Halbbrüdern vertrieben, wurde er später von den Ältesten Gileads zurückgeholt, um gegen die Ammoniter zu kämpfen. Vor der Schlacht legte er ein Gelübde ab: Wer ihm nach dem Sieg zuerst aus seinem Haus entgegenkäme, sollte Jehova gehören. Das war seine einzige Tochter.",
+      "facts": [
+        { "text": "Er richtete Israel sechs Jahre.", "ref": "Richter 12:7" },
+        { "text": "Er verwies auf die 300 Jahre, die Israel das Land östlich des Jordan besaß.", "ref": "Richter 11:26" },
+        { "text": "Jehovas Geist kam auf ihn, und er besiegte die Ammoniter.", "ref": "Richter 11:29-33" },
+        { "text": "Er erfüllte sein Gelübde, obwohl es ihn seine einzige Tochter kostete.", "ref": "Richter 11:34-39" }
+      ],
+      "lesson": "",
+      "family": { "father": "Gilead", "mother": "", "spouses": [], "children": ["jephthas-tochter"], "siblings": [] },
+      "related": [], "events": ["jephthas-geluebde"], "books": [],
+      "refs": ["Richter 11:1-40", "Hebräer 11:32"],
+      "sources": [{ "title": "Jephtha – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002413" }]
+    },
+    {
+      "id": "jephthas-tochter", "name": "Jephthas Tochter", "altNames": [], "sex": "f", "tags": [],
+      "role": "Diente ihr Leben lang am Heiligtum", "eras": ["richter"], "dates": [], "year": -1172, "nameMeaning": "",
+      "summary": "Jephthas einzige Tochter kam ihrem Vater nach seinem Sieg über die Ammoniter als Erste entgegen. Wegen seines Gelübdes sollte sie „Jehova gehören“. Laut jw.org bedeutete das kein Menschenopfer – das wäre für Jehova abscheulich gewesen –, sondern dass sie unverheiratet für immer im Dienst am Heiligtum stand, ähnlich wie Samuel von seiner Mutter Gott zur Verfügung gestellt wurde.",
+      "facts": [
+        { "text": "Sie kam ihrem Vater mit Tamburinen und Tanz entgegen.", "ref": "Richter 11:34" },
+        { "text": "Sie unterstützte ihren Vater darin, sein Gelübde zu halten.", "ref": "Richter 11:36" },
+        { "text": "Sie blieb unverheiratet.", "ref": "Richter 11:37-39" },
+        { "text": "Jedes Jahr besuchten die Töchter Israels sie, um sie zu loben.", "ref": "Richter 11:40" }
+      ],
+      "lesson": "",
+      "family": { "father": "jephtha", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["jephthas-geluebde"], "books": [],
+      "refs": ["Richter 11:34-40"],
+      "sources": [{ "title": "Jephtha – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002413" }]
+    },
+    {
+      "id": "simson", "name": "Simson", "altNames": [], "sex": "m", "tags": ["richter"],
+      "role": "Richter, Kämpfer gegen die Philister", "eras": ["richter"], "dates": [{ "label": "Wirken", "value": "20 Jahre als Richter" }], "year": -1150,
+      "nameMeaning": "von einer Wurzel mit der Bedeutung „Sonne“",
+      "summary": "Simson, der Sohn Manoachs aus dem Stamm Dan, war von Geburt an ein Nasiräer und sollte Israel aus der Hand der Philister retten. In der Kraft des Geistes Gottes riss er einen Löwen entzwei und schlug immer wieder die Philister. Durch Delila verriet er das Geheimnis seiner Kraft und geriet in Gefangenschaft. Bei seinem Tod im Haus Dagons riss er die Säulen ein und tötete viele Philister.",
+      "facts": [
+        { "text": "Ein Engel kündigte seine Geburt an.", "ref": "Richter 13:2-5" },
+        { "text": "Er riss mit bloßen Händen einen Löwen entzwei.", "ref": "Richter 14:5, 6" },
+        { "text": "Er richtete Israel 20 Jahre.", "ref": "Richter 16:31" },
+        { "text": "Delila verriet ihn an die Philister.", "ref": "Richter 16:4-21" },
+        { "text": "Er bat Jehova ein letztes Mal um Kraft und riss das Haus Dagons ein.", "ref": "Richter 16:28-30" }
+      ],
+      "lesson": "",
+      "family": { "father": "Manoach", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["delila"], "events": ["simson-und-die-philister"], "books": [],
+      "refs": ["Richter 13:1–16:31", "Hebräer 11:32-34"],
+      "sources": [{ "title": "Simson – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003823" }]
+    },
+    {
+      "id": "delila", "name": "Delila", "altNames": [], "sex": "f", "tags": [],
+      "role": "Verriet Simson an die Philister", "eras": ["richter"], "dates": [], "year": -1130, "nameMeaning": "„Herabhängend“ (vielleicht)",
+      "summary": "Delila wohnte im Wildbachtal Sorek; Simson verliebte sich gegen Ende seiner 20-jährigen Richterzeit in sie. Die Achsenherren der Philister versprachen ihr je 1100 Silberstücke, wenn sie das Geheimnis seiner Kraft herausfände. Nach mehreren Versuchen drängte sie ihn so lange, bis er es ihr verriet – und lieferte ihn seinen Feinden aus.",
+      "facts": [
+        { "text": "Jeder Achsenherr der Philister bot ihr 1100 Silberstücke.", "ref": "Richter 16:5" },
+        { "text": "Dreimal gab Simson ihr eine irreführende Antwort.", "ref": "Richter 16:6-14" },
+        { "text": "Sie drängte ihn täglich, bis er sein Geheimnis verriet.", "ref": "Richter 16:15-17" },
+        { "text": "Sie ließ ihm das Haar abschneiden und rief die Philister.", "ref": "Richter 16:19-21" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["simson"], "events": ["simson-und-die-philister"], "books": [],
+      "refs": ["Richter 16:4-21"],
+      "sources": [{ "title": "Delila – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001149" }]
+    },
+    {
+      "id": "noomi", "name": "Noomi", "altNames": [], "sex": "f", "tags": [],
+      "role": "Schwiegermutter Ruths", "eras": ["richter"], "dates": [], "year": -1360, "nameMeaning": "„Meine Lieblichkeit“",
+      "summary": "Noomi lebte in den Tagen der Richter in Bethlehem in Juda. Wegen einer Hungersnot zog sie mit ihrem Mann Elimelech und ihren Söhnen nach Moab. Dort starben ihr Mann und später beide Söhne. Als sie nach Juda zurückkehrte, blieb ihre Schwiegertochter Ruth bei ihr. Durch Ruths Heirat mit Boas bekam Noomi einen Enkel, Obed, den Großvater Davids.",
+      "facts": [
+        { "text": "Sie zog wegen einer Hungersnot mit ihrer Familie nach Moab.", "ref": "Ruth 1:1, 2" },
+        { "text": "Ihr Mann und ihre beiden Söhne starben.", "ref": "Ruth 1:3-5" },
+        { "text": "Sie riet Ruth, Boas um Rückkauf zu bitten.", "ref": "Ruth 3:1-4" },
+        { "text": "Ruth war ihr „besser als sieben Söhne“.", "ref": "Ruth 4:15" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Elimelech"], "children": ["Machlon", "Kiljon"], "siblings": [] },
+      "related": ["ruth", "boas"], "events": ["ruth-und-noomi"], "books": [],
+      "refs": ["Ruth 1:1-22", "Ruth 4:13-17"],
+      "sources": [{ "title": "Noomi – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003178" }]
+    },
+    {
+      "id": "ruth", "name": "Ruth", "altNames": [], "sex": "f", "tags": ["vorfahr-jesu"],
+      "role": "Moabiterin, Vorfahrin Davids", "eras": ["richter"], "dates": [], "year": -1355, "nameMeaning": "",
+      "summary": "Ruth war eine Moabiterin, die Machlon heiratete, den Sohn Noomis. Nach dem Tod ihres Mannes hielt sie loyal zu ihrer Schwiegermutter und wollte Jehova mit seinem Volk dienen. In Bethlehem las sie fleißig Ähren auf dem Feld des Boas auf, der sie schließlich als Rückkäufer heiratete. Sie wurde die Urgroßmutter Davids und eine Vorfahrin Jesu.",
+      "facts": [
+        { "text": "Sie sagte zu Noomi: „Dein Volk wird mein Volk sein und dein Gott mein Gott.“", "ref": "Ruth 1:16" },
+        { "text": "Sie las fleißig Ähren auf dem Feld des Boas auf.", "ref": "Ruth 2:2-7" },
+        { "text": "Boas lobte ihre loyale Liebe.", "ref": "Ruth 3:10, 11" },
+        { "text": "Sie gebar Obed, den Großvater Davids.", "ref": "Ruth 4:13-17" }
+      ],
+      "lesson": "Ruths loyale Liebe zu Noomi und ihr Wunsch, Jehova zu dienen, gaben ihr die Kraft, Heimat und Familie zu verlassen.",
+      "family": { "father": "", "mother": "", "spouses": ["Machlon", "boas"], "children": ["Obed"], "siblings": [] },
+      "related": ["noomi"], "events": ["ruth-und-noomi"], "books": [],
+      "refs": ["Ruth 1:16, 17", "Ruth 2:1-23", "Ruth 4:9-17", "Matthäus 1:5"],
+      "sources": [{ "title": "Ruth – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003776" }]
+    },
+    {
+      "id": "boas", "name": "Boas", "altNames": [], "sex": "m", "tags": ["vorfahr-jesu"],
+      "role": "Grundbesitzer in Bethlehem, Mann Ruths", "eras": ["richter"], "dates": [{ "label": "Zeit", "value": "etwa 14. Jahrhundert v. u. Z." }], "year": -1350,
+      "nameMeaning": "„In Stärke“ (vielleicht)",
+      "summary": "Boas war ein vermögender Grundbesitzer in Bethlehem, der Sohn Salmons und Rahabs. Als Ruth auf seinem Feld Ähren las, behandelte er sie freundlich und großzügig. Als naher Verwandter Elimelechs heiratete er sie als Rückkäufer und wurde der Vater Obeds – ein Glied in der Abstammungslinie des Messias.",
+      "facts": [
+        { "text": "Er war ein „vermögender Mann“ aus der Familie Elimelechs.", "ref": "Ruth 2:1" },
+        { "text": "Er sorgte dafür, dass Ruth genug auflesen konnte.", "ref": "Ruth 2:15, 16" },
+        { "text": "Am Stadttor regelte er den Rückkauf rechtmäßig.", "ref": "Ruth 4:1-10" },
+        { "text": "Er steht im Geschlechtsregister Jesu.", "ref": "Matthäus 1:5" }
+      ],
+      "lesson": "",
+      "family": { "father": "Salmon", "mother": "rahab", "spouses": ["ruth"], "children": ["Obed"], "siblings": [] },
+      "related": ["noomi"], "events": ["ruth-und-noomi"], "books": [],
+      "refs": ["Ruth 2:1-23", "Ruth 4:1-13", "Matthäus 1:5"],
+      "sources": [{ "title": "Boas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000779" }]
+    },
+    {
+      "id": "eli", "name": "Eli", "altNames": [], "sex": "m", "tags": ["priester", "richter"],
+      "role": "Hoher Priester in Silo", "eras": ["richter"], "dates": [{ "label": "Wirken", "value": "richtete Israel 40 Jahre" }, { "label": "Alter", "value": "98 Jahre" }], "year": -1220,
+      "nameMeaning": "„Hinaufgestiegen“",
+      "summary": "Eli, ein Nachkomme Aarons, war Hoher Priester und richtete Israel 40 Jahre. In seinen Tagen war das Wort Jehovas selten. Seine Söhne Hophni und Pinehas dienten als Priester, waren aber „nichtsnutzige Männer“, und Eli war zu nachsichtig mit ihnen. Als er mit 98 Jahren hörte, dass die Bundeslade erbeutet und seine Söhne gefallen waren, stürzte er und starb.",
+      "facts": [
+        { "text": "Er hielt die betende Hanna zunächst für betrunken.", "ref": "1. Samuel 1:12-14" },
+        { "text": "Seine Söhne missbrauchten ihr Priesteramt.", "ref": "1. Samuel 2:12-17" },
+        { "text": "Er ehrte seine Söhne mehr als Jehova.", "ref": "1. Samuel 2:29" },
+        { "text": "Er starb, als er vom Verlust der Lade hörte.", "ref": "1. Samuel 4:15-18" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": ["Hophni", "Pinehas"], "siblings": [] },
+      "related": ["samuel", "hanna"], "events": ["hannas-gebet", "bundeslade-erbeutet"], "books": [],
+      "refs": ["1. Samuel 2:12-36", "1. Samuel 3:11-14", "1. Samuel 4:12-18"],
+      "sources": [{ "title": "Eli – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001290" }]
+    },
+    {
+      "id": "hanna", "name": "Hanna", "altNames": [], "sex": "f", "tags": [],
+      "role": "Mutter Samuels", "eras": ["richter"], "dates": [], "year": -1190, "nameMeaning": "„Gunst“, „Gnade“",
+      "summary": "Hanna war mit dem Leviten Elkana verheiratet und blieb lange kinderlos, während seine andere Frau Peninna sie deswegen verhöhnte. Beim jährlichen Besuch der Stiftshütte in Silo schüttete sie Jehova ihr Herz aus und gelobte, einen Sohn seinem Dienst zu weihen. Sie bekam Samuel und brachte ihn nach seiner Entwöhnung zu Eli nach Silo.",
+      "facts": [
+        { "text": "Elkana liebte sie, obwohl sie kinderlos war.", "ref": "1. Samuel 1:5" },
+        { "text": "Sie gelobte, ihren Sohn Jehova zu geben.", "ref": "1. Samuel 1:11" },
+        { "text": "Sie brachte Samuel nach seiner Entwöhnung nach Silo.", "ref": "1. Samuel 1:24-28" },
+        { "text": "Sie dankte Jehova mit einem Gebet voller Lobpreis.", "ref": "1. Samuel 2:1-10" },
+        { "text": "Später bekam sie noch drei Söhne und zwei Töchter.", "ref": "1. Samuel 2:21" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Elkana"], "children": ["samuel"], "siblings": [] },
+      "related": ["eli"], "events": ["hannas-gebet"], "books": [],
+      "refs": ["1. Samuel 1:1-28", "1. Samuel 2:1-10"],
+      "sources": [{ "title": "Hanna – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001861" }]
+    },
+    {
+      "id": "samuel", "name": "Samuel", "altNames": [], "sex": "m", "tags": ["prophet", "richter", "schreiber"],
+      "role": "Prophet und Richter", "eras": ["richter", "koenigreich"], "dates": [], "year": -1185, "nameMeaning": "„Name Gottes“",
+      "summary": "Samuel, der Sohn Elkanas und Hannas, wurde schon als Kind in den Dienst an der Stiftshütte in Silo gestellt. Dort sprach Jehova zu ihm, und er wurde bereits in jungen Jahren ein Prophet. Er richtete Israel von Rama aus. Als das Volk einen König verlangte, salbte er auf Jehovas Anweisung Saul und später David. Der Überlieferung nach schrieb er die Bücher Richter und Ruth sowie einen Teil von 1. Samuel.",
+      "facts": [
+        { "text": "Als Kind diente er mit einem leinenen Ephod vor Jehova.", "ref": "1. Samuel 2:18, 19" },
+        { "text": "Jehova rief ihn nachts beim Namen.", "ref": "1. Samuel 3:4-10" },
+        { "text": "Er richtete Israel in Bethel, Gilgal und Mizpa.", "ref": "1. Samuel 7:15-17" },
+        { "text": "Er salbte Saul zum König.", "ref": "1. Samuel 10:1" },
+        { "text": "Er salbte den jungen David.", "ref": "1. Samuel 16:13" }
+      ],
+      "lesson": "",
+      "family": { "father": "Elkana", "mother": "hanna", "spouses": [], "children": ["Joel", "Abija"], "siblings": [] },
+      "related": ["eli", "saul", "david"], "events": ["hannas-gebet", "israel-will-einen-koenig", "saul-wird-koenig", "david-wird-gesalbt"],
+      "books": ["Richter", "Ruth", "1. Samuel (teilweise)"],
+      "refs": ["1. Samuel 3:1-21", "1. Samuel 8:4-22", "Apostelgeschichte 3:24"],
+      "sources": [{ "title": "Samuel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003824" }]
+    }
+  ],
+  "events": [
+    {
+      "id": "zeit-der-richter", "title": "Die Zeit der Richter", "era": "richter", "year": -1440, "dateLabel": "Nach Josuas Tod bis 1117 v. u. Z.", "place": "Israel",
+      "summary": "Nach dem Tod Josuas und seiner Generation wandte sich Israel immer wieder anderen Göttern zu. Dann ließ Jehova zu, dass Feinde das Volk bedrückten. Wenn die Israeliten zu ihm um Hilfe riefen, erweckte er Richter, die sie befreiten – so begann der Kreislauf von Neuem. Zwischen Josua und Samuel werden zwölf Richter mit Namen genannt.",
+      "facts": [
+        { "text": "Israel diente den Baalen und vergaß Jehova.", "ref": "Richter 2:11-13" },
+        { "text": "Jehova erweckte Richter, die das Volk retteten.", "ref": "Richter 2:16-18" },
+        { "text": "Jeder tat, was in seinen eigenen Augen recht war.", "ref": "Richter 21:25" },
+        { "text": "Zu den Richtern gehören Othniel, Ehud, Barak, Gideon, Jephtha und Simson.", "ref": "Hebräer 11:32" }
+      ],
+      "significance": "", "persons": ["othniel", "ehud", "debora", "gideon", "jephtha", "simson", "samuel"], "refs": ["Richter 2:6-23"],
+      "sources": [
+        { "title": "Richter – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002545" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "ruth-und-noomi", "title": "Ruth hält zu Noomi", "era": "richter", "year": -1355, "dateLabel": "In den Tagen der Richter", "place": "Moab; Bethlehem",
+      "summary": "Nachdem Noomis Mann und ihre beiden Söhne in Moab gestorben waren, kehrte sie nach Bethlehem zurück. Ihre Schwiegertochter Orpa ging zu ihrem Volk zurück, doch die Moabiterin Ruth blieb bei ihr – aus Liebe zu Noomi und weil sie Jehova dienen wollte. In Bethlehem las Ruth Ähren auf dem Feld des Boas, der sie schließlich als Rückkäufer heiratete. Ihr Sohn Obed wurde der Großvater Davids.",
+      "facts": [
+        { "text": "Ruth sagte: „Dein Gott wird mein Gott sein.“", "ref": "Ruth 1:16" },
+        { "text": "Sie kamen zu Beginn der Gerstenernte nach Bethlehem.", "ref": "Ruth 1:22" },
+        { "text": "Boas heiratete Ruth als Rückkäufer.", "ref": "Ruth 4:9-13" },
+        { "text": "Obed wurde der Großvater Davids.", "ref": "Ruth 4:17" }
+      ],
+      "significance": "Durch Ruth und Boas führt die Abstammungslinie zu David und schließlich zu Jesus.", "persons": ["ruth", "noomi", "boas"], "refs": ["Ruth 1:1–4:22", "Matthäus 1:5"],
+      "sources": [
+        { "title": "Ruth – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003776" },
+        { "title": "Boas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000779" }
+      ]
+    },
+    {
+      "id": "debora-und-barak", "title": "Debora und Barak besiegen Sisera", "era": "richter", "year": -1300, "dateLabel": "Zeitpunkt unbekannt", "place": "Berg Tabor; Wildbach Kischon",
+      "summary": "Zwanzig Jahre lang bedrückte der Kanaaniterkönig Jabin Israel. Durch die Prophetin Debora beauftragte Jehova Barak, mit 10 000 Mann gegen Jabins Heerführer Sisera zu ziehen. Jehova gab Israel den Sieg über das gut bewaffnete Heer. Sisera floh zu Fuß und wurde von Jael getötet. Debora und Barak besangen den Sieg in einem Lied, das Jehova alle Ehre gibt.",
+      "facts": [
+        { "text": "Barak zog mit 10 000 Mann zum Berg Tabor.", "ref": "Richter 4:6, 14" },
+        { "text": "Jehova brachte Sisera und sein Heer in Verwirrung.", "ref": "Richter 4:15" },
+        { "text": "Jael tötete Sisera in ihrem Zelt.", "ref": "Richter 4:21" },
+        { "text": "Das Lied Deboras und Baraks preist Jehova.", "ref": "Richter 5:1-3" }
+      ],
+      "significance": "", "persons": ["debora", "barak", "jael"], "refs": ["Richter 4:1–5:31"],
+      "sources": [
+        { "title": "Debora – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001138" },
+        { "title": "Barak – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000559" }
+      ]
+    },
+    {
+      "id": "gideons-300", "title": "Gideons 300 Mann", "era": "richter", "year": -1250, "dateLabel": "Zeitpunkt unbekannt", "place": "Ebene Jesreel",
+      "summary": "Sieben Jahre lang fielen die Midianiter wie Heuschrecken in Israel ein. Jehova berief Gideon zum Befreier, verringerte aber sein Heer: Nur 300 Mann, die das Wasser mit der Hand zum Mund schöpften, durften bleiben. In der Nacht umstellten sie das Lager Midians von drei Seiten, bliesen die Hörner, zerschlugen ihre Krüge, hielten die Fackeln hoch – und das feindliche Heer floh in Panik.",
+      "facts": [
+        { "text": "Gideon bat um Zeichen mit einem Wollvlies.", "ref": "Richter 6:36-40" },
+        { "text": "Von 32 000 Mann blieben 300.", "ref": "Richter 7:2-7" },
+        { "text": "Sie riefen: „Jehovas Schwert und Gideons!“", "ref": "Richter 7:20" },
+        { "text": "Die Midianiter wandten sich gegeneinander.", "ref": "Richter 7:22" }
+      ],
+      "significance": "", "persons": ["gideon"], "refs": ["Richter 6:1–7:25"],
+      "sources": [{ "title": "Gideon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001685" }]
+    },
+    {
+      "id": "jephthas-geluebde", "title": "Jephthas Gelübde", "era": "richter", "year": -1173, "dateLabel": "um 1173 v. u. Z.", "place": "Gilead; Mizpa",
+      "summary": "Vor der Schlacht gegen die Ammoniter gelobte Jephtha: Wer ihm nach dem Sieg zuerst aus seinem Haus entgegenkommt, soll Jehova gehören. Als seine einzige Tochter ihm entgegenkam, hielt er sein Gelübde. Nach jw.org war das kein Menschenopfer – das hätte Jehova verabscheut –, sondern sie diente fortan unverheiratet am Heiligtum.",
+      "facts": [
+        { "text": "Jehovas Geist kam auf Jephtha.", "ref": "Richter 11:29" },
+        { "text": "Jehova gab die Ammoniter in seine Hand.", "ref": "Richter 11:32, 33" },
+        { "text": "Seine Tochter kam ihm als Erste entgegen.", "ref": "Richter 11:34" },
+        { "text": "Menschenopfer waren für Jehova etwas Abscheuliches.", "ref": "5. Mose 18:10-12" }
+      ],
+      "significance": "", "persons": ["jephtha", "jephthas-tochter"], "refs": ["Richter 11:29-40"],
+      "sources": [{ "title": "Jephtha – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002413" }]
+    },
+    {
+      "id": "simson-und-die-philister", "title": "Simson und die Philister", "era": "richter", "year": -1150, "dateLabel": "Zeitpunkt unbekannt", "place": "Gebiet der Philister; Gaza",
+      "summary": "In der Kraft des Geistes Gottes kämpfte Simson 20 Jahre lang gegen die Philister. Doch durch Delila verriet er das Geheimnis seiner Kraft; die Philister nahmen ihn gefangen, blendeten ihn und ließen ihn in Gaza Mühlsteine drehen. Beim Opferfest für ihren Gott Dagon betete Simson ein letztes Mal um Kraft, riss die tragenden Säulen ein und tötete bei seinem Tod mehr Philister als zu Lebzeiten.",
+      "facts": [
+        { "text": "Er tötete in Aschkelon 30 Philister.", "ref": "Richter 14:19" },
+        { "text": "Delila verriet ihn.", "ref": "Richter 16:18-21" },
+        { "text": "Er betete: „Gedenke bitte meiner.“", "ref": "Richter 16:28" },
+        { "text": "Er starb mit den Philistern im Haus Dagons.", "ref": "Richter 16:30" }
+      ],
+      "significance": "", "persons": ["simson", "delila"], "refs": ["Richter 14:1–16:31"],
+      "sources": [
+        { "title": "Simson – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003823" },
+        { "title": "Delila – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001149" }
+      ]
+    },
+    {
+      "id": "hannas-gebet", "title": "Hanna betet um einen Sohn", "era": "richter", "year": -1186, "dateLabel": "Zeitpunkt unbekannt", "place": "Silo",
+      "summary": "Die kinderlose Hanna betete in Silo lautlos zu Jehova und gelobte, einen Sohn seinem Dienst zu weihen. Der Hohe Priester Eli hielt sie zuerst für betrunken, segnete sie dann aber. Hanna bekam Samuel und brachte ihn nach seiner Entwöhnung zur Stiftshütte, wo er unter Elis Aufsicht Jehova diente.",
+      "facts": [
+        { "text": "Peninna verhöhnte Hanna wegen ihrer Kinderlosigkeit.", "ref": "1. Samuel 1:6, 7" },
+        { "text": "Hanna gelobte, ihren Sohn Jehova zu geben.", "ref": "1. Samuel 1:11" },
+        { "text": "Eli wünschte ihr, dass Gott ihre Bitte erfülle.", "ref": "1. Samuel 1:17" },
+        { "text": "Sie gab Samuel Jehova für sein ganzes Leben.", "ref": "1. Samuel 1:27, 28" }
+      ],
+      "significance": "", "persons": ["hanna", "eli", "samuel"], "refs": ["1. Samuel 1:1–2:11"],
+      "sources": [
+        { "title": "Hanna – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001861" },
+        { "title": "Samuel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003824" }
+      ]
+    },
+    {
+      "id": "bundeslade-erbeutet", "title": "Die Philister erbeuten die Bundeslade", "era": "richter", "year": -1140, "dateLabel": "Zeitpunkt unbekannt", "place": "Eben-Eser; Aschdod",
+      "summary": "Im Krieg gegen die Philister holten die Israeliten die Bundeslade aus Silo, als wäre sie ein Glücksbringer. Dennoch fielen 30 000 Israeliten, die Lade wurde erbeutet, und Elis Söhne Hophni und Pinehas kamen um. Als der 98-jährige Eli die Nachricht hörte, fiel er rücklings vom Sitz und starb. Die Philister mussten die Lade jedoch bald zurückgeben, weil Jehova sie mit Plagen schlug.",
+      "facts": [
+        { "text": "Die Israeliten holten die Lade ins Kriegslager.", "ref": "1. Samuel 4:3-5" },
+        { "text": "30 000 Israeliten fielen; die Lade wurde erbeutet.", "ref": "1. Samuel 4:10, 11" },
+        { "text": "Eli starb, als er die Nachricht hörte.", "ref": "1. Samuel 4:18" },
+        { "text": "Das Götzenbild Dagon fiel vor der Lade nieder.", "ref": "1. Samuel 5:1-4" }
+      ],
+      "significance": "", "persons": ["eli", "samuel"], "refs": ["1. Samuel 4:1–6:21"],
+      "sources": [
+        { "title": "Eli – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001290" },
+        { "title": "Bundeslade – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000369" }
+      ]
+    },
+    {
+      "id": "israel-will-einen-koenig", "title": "Israel verlangt einen König", "era": "richter", "year": -1117, "dateLabel": "1117 v. u. Z.", "place": "Rama",
+      "summary": "Weil Samuels Söhne das Recht beugten und ein Krieg mit den Ammonitern drohte, verlangten die älteren Männer Israels einen menschlichen König „wie alle Nationen“. Damit zeigten sie Mangel an Glauben an Jehovas Königtum. Jehova ließ Samuel dem Wunsch nachkommen, das Volk aber vor den Folgen warnen. Danach salbte Samuel den Benjaminiter Saul.",
+      "facts": [
+        { "text": "Samuels Söhne nahmen Bestechung an.", "ref": "1. Samuel 8:1-3" },
+        { "text": "Das Volk wollte einen König wie alle Nationen.", "ref": "1. Samuel 8:5" },
+        { "text": "Jehova sagte: „Mich haben sie verworfen.“", "ref": "1. Samuel 8:7" },
+        { "text": "Samuel warnte vor den Lasten eines Königtums.", "ref": "1. Samuel 8:10-18" }
+      ],
+      "significance": "Damit endete die Richterzeit; 1117 v. u. Z. begann die Zeit der Könige.", "persons": ["samuel", "saul"], "refs": ["1. Samuel 8:1-22"],
+      "sources": [
+        { "title": "Samuel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003824" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    }
+  ]
+}

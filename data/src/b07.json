@@ -1,0 +1,548 @@
+{
+  "batch": "b07",
+  "persons": [
+    {
+      "id": "jerobeam", "name": "Jerobeam", "altNames": ["Jerobeam I."], "sex": "m", "tags": ["koenig"],
+      "role": "Erster König des Zehnstämmereichs Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ab 997 v. u. Z. (22 Jahre)" }], "year": -997, "nameMeaning": "",
+      "summary": "Jerobeam, der Sohn Nebats, ein Ephraimiter, war unter Salomo Aufseher über die Fronarbeiter. Der Prophet Ahija kündigte ihm an, dass er über zehn Stämme regieren werde. Nach der Reichsteilung 997 v. u. Z. wurde er König Israels. Damit das Volk nicht mehr zum Tempel nach Jerusalem ging, stellte er goldene Kälber in Bethel und Dan auf – eine Sünde, die das Nordreich bis zu seinem Ende prägte.",
+      "facts": [
+        { "text": "Salomo machte ihn zum Aufseher über die Fronarbeiter.", "ref": "1. Könige 11:28" },
+        { "text": "Ahija riss sein Gewand in zwölf Stücke und gab ihm zehn.", "ref": "1. Könige 11:29-31" },
+        { "text": "Er stellte goldene Kälber in Bethel und Dan auf.", "ref": "1. Könige 12:28, 29" },
+        { "text": "Er setzte Priester ein, die keine Leviten waren.", "ref": "1. Könige 12:31" }
+      ],
+      "lesson": "",
+      "family": { "father": "Nebat", "mother": "Zerua", "spouses": [], "children": ["nadab"], "siblings": [] },
+      "related": ["rehabeam"], "events": ["reichsteilung"], "books": [],
+      "refs": ["1. Könige 11:26-40", "1. Könige 12:20-33", "1. Könige 14:1-20"],
+      "sources": [
+        { "title": "Jerobeam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002431" },
+        { "title": "A6-A Propheten und Könige von Juda und Israel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070206" }
+      ]
+    },
+    {
+      "id": "nadab", "name": "Nadab", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 976 v. u. Z. (2 Jahre)" }], "year": -976, "nameMeaning": "„Bereitwillig“, „Edel“",
+      "summary": "Nadab, der Sohn Jerobeams, war der zweite König des Zehnstämmereichs und setzte die Kälberanbetung seines Vaters fort. Während er die Stadt Gibbethon belagerte, wurde er von Bascha ermordet, der danach das ganze Haus Jerobeams auslöschte.",
+      "facts": [
+        { "text": "Er tat, was böse war in Jehovas Augen.", "ref": "1. Könige 15:25, 26" },
+        { "text": "Bascha ermordete ihn bei Gibbethon.", "ref": "1. Könige 15:27, 28" },
+        { "text": "Damit erfüllte sich die Prophezeiung über das Haus Jerobeams.", "ref": "1. Könige 15:29, 30" }
+      ],
+      "lesson": "",
+      "family": { "father": "jerobeam", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["bascha"], "events": [], "books": [],
+      "refs": ["1. Könige 15:25-31"],
+      "sources": [{ "title": "Nadab – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003159" }]
+    },
+    {
+      "id": "bascha", "name": "Bascha", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 975 v. u. Z. (24 Jahre)" }], "year": -975, "nameMeaning": "",
+      "summary": "Bascha aus dem Stamm Issachar riss den Thron an sich, indem er Nadab tötete, und schlug – wie prophezeit – das ganze Haus Jerobeams nieder. Doch er setzte den Kälberkult fort, weshalb auch seinem Haus der Untergang angekündigt wurde. Er führte Krieg gegen Asa von Juda.",
+      "facts": [
+        { "text": "Er tötete Nadab und das Haus Jerobeams.", "ref": "1. Könige 15:27-29" },
+        { "text": "Der Prophet Jehu kündigte seinem Haus Unglück an.", "ref": "1. Könige 16:1-4" },
+        { "text": "Er führte Krieg gegen Asa von Juda.", "ref": "1. Könige 15:16, 17" }
+      ],
+      "lesson": "",
+      "family": { "father": "Ahija", "mother": "", "spouses": [], "children": ["ela"], "siblings": [] },
+      "related": ["asa"], "events": [], "books": [],
+      "refs": ["1. Könige 15:27–16:7"],
+      "sources": [{ "title": "Bascha – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000528" }]
+    },
+    {
+      "id": "ela", "name": "Ela", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 952 v. u. Z. (2 Jahre)" }], "year": -952, "nameMeaning": "",
+      "summary": "Ela, der Sohn Baschas, regierte in Tirza einen Teil von zwei Jahren. Als er betrunken war, wurde er von Simri, einem Obersten seiner Wagen, ermordet. Simri rottete daraufhin das Haus Baschas aus, wie Jehova es angekündigt hatte.",
+      "facts": [
+        { "text": "Er regierte in Tirza.", "ref": "1. Könige 16:8" },
+        { "text": "Simri tötete ihn, als er betrunken war.", "ref": "1. Könige 16:9, 10" },
+        { "text": "Das Haus Baschas wurde ausgerottet.", "ref": "1. Könige 16:11-13" }
+      ],
+      "lesson": "",
+      "family": { "father": "bascha", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["simri"], "events": [], "books": [],
+      "refs": ["1. Könige 16:8-14"],
+      "sources": [{ "title": "Ela – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001273" }]
+    },
+    {
+      "id": "simri", "name": "Simri", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel (7 Tage)", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 951 v. u. Z. (7 Tage)" }], "year": -951, "nameMeaning": "",
+      "summary": "Simri, Oberster der Hälfte der Wagen, ermordete König Ela und das Haus Baschas und bemächtigte sich des Thrones. Doch er regierte nur sieben Tage: Das Heer rief Omri zum König aus und belagerte Tirza. Als Simri sah, dass die Stadt fiel, verbrannte er sich im Königshaus.",
+      "facts": [
+        { "text": "Er tötete Ela in Tirza.", "ref": "1. Könige 16:9, 10" },
+        { "text": "Er regierte sieben Tage.", "ref": "1. Könige 16:15" },
+        { "text": "Er verbrannte sich im Königshaus.", "ref": "1. Könige 16:18" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["ela", "omri"], "events": [], "books": [],
+      "refs": ["1. Könige 16:9-20"],
+      "sources": [{ "title": "Simri – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004737" }]
+    },
+    {
+      "id": "omri", "name": "Omri", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel, Gründer Samarias", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 951 v. u. Z. (12 Jahre)" }], "year": -951, "nameMeaning": "",
+      "summary": "Omri, ein Heeroberster, wurde vom Heer zum König ausgerufen und setzte sich gegen Simri und den Rivalen Tibni durch. Er gründete die dritte Dynastie Israels und baute auf dem Berg, den er kaufte, die neue Hauptstadt Samaria. Er handelte schlimmer als alle Könige vor ihm. Seine Enkelin war Athalja.",
+      "facts": [
+        { "text": "Das Heer machte ihn zum König.", "ref": "1. Könige 16:16" },
+        { "text": "Er besiegte Tibnis Anhänger.", "ref": "1. Könige 16:21, 22" },
+        { "text": "Er baute Samaria.", "ref": "1. Könige 16:24" },
+        { "text": "Er tat Schlimmeres als alle vor ihm.", "ref": "1. Könige 16:25" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": ["ahab"], "siblings": [] },
+      "related": ["athalja"], "events": [], "books": [],
+      "refs": ["1. Könige 16:16-28"],
+      "sources": [
+        { "title": "Omri – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003324" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "ahab", "name": "Ahab", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ab 940 v. u. Z. (22 Jahre)" }], "year": -940, "nameMeaning": "„Vaters Bruder“",
+      "summary": "Ahab, der Sohn Omris, regierte 22 Jahre in Samaria. Durch seine Heirat mit Isebel, der Tochter des Sidonierkönigs, förderte er den Baalskult in noch nie da gewesenem Ausmaß. Elia kündigte ihm eine Dürre an, die dreieinhalb Jahre dauerte. Um den Weingarten Naboths zu bekommen, ließ Isebel Naboth umbringen. Ahab fiel im Kampf bei Ramoth-Gilead.",
+      "facts": [
+        { "text": "Er baute Baal einen Tempel in Samaria.", "ref": "1. Könige 16:30-33" },
+        { "text": "Elia kündigte ihm eine Dürre an.", "ref": "1. Könige 17:1" },
+        { "text": "Er nahm Naboths Weingarten in Besitz.", "ref": "1. Könige 21:1-16" },
+        { "text": "Er demütigte sich, als Elia ihm das Urteil verkündete.", "ref": "1. Könige 21:27-29" },
+        { "text": "Er starb in der Schlacht bei Ramoth-Gilead.", "ref": "1. Könige 22:34-37" }
+      ],
+      "lesson": "",
+      "family": { "father": "omri", "mother": "", "spouses": ["isebel"], "children": ["ahasja-israel", "joram-israel", "athalja"], "siblings": [] },
+      "related": ["elia", "josaphat"], "events": ["elia-und-die-duerre", "elia-auf-dem-karmel"], "books": [],
+      "refs": ["1. Könige 16:29-33", "1. Könige 21:1-29", "1. Könige 22:29-40"],
+      "sources": [{ "title": "Ahab – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000138" }]
+    },
+    {
+      "id": "ahasja-israel", "name": "Ahasja", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 919 v. u. Z. (2 Jahre)" }], "year": -919, "nameMeaning": "„Jehova hat ergriffen“",
+      "summary": "Ahasja, der Sohn Ahabs und Isebels, war zwei Jahre König von Israel und betete wie seine Eltern Baal an. Nach einem Sturz ließ er Baal-Sebub, den Gott Ekrons, befragen. Elia verkündete ihm, dass er sterben werde, weil er nicht Jehova befragt hatte.",
+      "facts": [
+        { "text": "Er diente Baal.", "ref": "1. Könige 22:51-53" },
+        { "text": "Moab lehnte sich nach Ahabs Tod auf.", "ref": "2. Könige 1:1" },
+        { "text": "Er befragte Baal-Sebub statt Jehova.", "ref": "2. Könige 1:2-4" }
+      ],
+      "lesson": "",
+      "family": { "father": "ahab", "mother": "isebel", "spouses": [], "children": [], "siblings": ["joram-israel", "athalja"] },
+      "related": ["elia"], "events": [], "books": [],
+      "refs": ["1. Könige 22:51-53", "2. Könige 1:1-18"],
+      "sources": [{ "title": "Ahasja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000145" }]
+    },
+    {
+      "id": "joram-israel", "name": "Joram", "altNames": ["Jehoram"], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 917 v. u. Z. (12 Jahre)" }], "year": -917, "nameMeaning": "„Jehova ist hoch“",
+      "summary": "Joram (Jehoram), ein Sohn Ahabs und Isebels, folgte seinem Bruder Ahasja als König Israels und regierte 12 Jahre. In seiner Zeit wirkte Elisa als Prophet. Bei Ramoth-Gilead im Krieg gegen Syrien verwundet, wurde er in Jesreel von Jehu getötet.",
+      "facts": [
+        { "text": "Er entfernte die Säule Baals, hielt aber an Jerobeams Sünden fest.", "ref": "2. Könige 3:1-3" },
+        { "text": "Elisa wirkte während seiner Regierung.", "ref": "2. Könige 3:11-20" },
+        { "text": "Jehu tötete ihn mit einem Pfeil.", "ref": "2. Könige 9:24" }
+      ],
+      "lesson": "",
+      "family": { "father": "ahab", "mother": "isebel", "spouses": [], "children": [], "siblings": ["ahasja-israel", "athalja"] },
+      "related": ["elisa", "jehu", "naaman"], "events": ["naaman-wird-geheilt", "jehu-vollstreckt-gericht"], "books": [],
+      "refs": ["2. Könige 3:1-27", "2. Könige 9:14-26"],
+      "sources": [{ "title": "Joram – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002381" }]
+    },
+    {
+      "id": "jehu", "name": "Jehu", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 904–877 v. u. Z. (28 Jahre)" }], "year": -905, "nameMeaning": "„Jehova ist er“ (vielleicht)",
+      "summary": "Jehu, ein Militärbefehlshaber, wurde auf Jehovas Anweisung von einem Prophetensohn im Auftrag Elisas zum König gesalbt. Entschlossen vollstreckte er das Urteil an Ahabs Haus: Er tötete Joram von Israel, Ahasja von Juda und Isebel und vernichtete den Baalskult in Israel. Doch die goldenen Kälber Jerobeams ließ er bestehen.",
+      "facts": [
+        { "text": "Er wurde in Ramoth-Gilead gesalbt.", "ref": "2. Könige 9:1-10" },
+        { "text": "Er tötete König Joram.", "ref": "2. Könige 9:24" },
+        { "text": "Isebel wurde aus dem Fenster gestürzt.", "ref": "2. Könige 9:30-37" },
+        { "text": "Er tilgte Baal aus Israel, nicht aber die goldenen Kälber.", "ref": "2. Könige 10:28, 29" }
+      ],
+      "lesson": "",
+      "family": { "father": "Josaphat", "mother": "", "spouses": [], "children": ["jehoahas-israel"], "siblings": [] },
+      "related": ["elisa", "isebel", "joram-israel"], "events": ["jehu-vollstreckt-gericht"], "books": [],
+      "refs": ["2. Könige 9:1–10:36"],
+      "sources": [{ "title": "Jehu – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002401" }]
+    },
+    {
+      "id": "jehoahas-israel", "name": "Jehoahas", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "876 – um 860 v. u. Z. (17 Jahre)" }], "year": -876, "nameMeaning": "„Jehova hat ergriffen“",
+      "summary": "Jehoahas, der Sohn Jehus, regierte 17 Jahre über Israel. Weil er tat, was böse war, ließ Jehova zu, dass Hasael von Syrien Israel bedrückte, bis von seinem Heer nur noch ein kleiner Rest übrig war. Als Jehoahas Jehova besänftigte, erhielt Israel einen Retter.",
+      "facts": [
+        { "text": "Hasael bedrückte Israel alle seine Tage.", "ref": "2. Könige 13:3, 22" },
+        { "text": "Er besänftigte Jehova, und Jehova hörte ihn.", "ref": "2. Könige 13:4, 5" },
+        { "text": "Ihm blieben nur 50 Reiter, 10 Wagen und 10 000 Mann.", "ref": "2. Könige 13:7" }
+      ],
+      "lesson": "",
+      "family": { "father": "jehu", "mother": "", "spouses": [], "children": ["joas-israel"], "siblings": [] },
+      "related": [], "events": [], "books": [],
+      "refs": ["2. Könige 13:1-9"],
+      "sources": [{ "title": "Jehoahas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002372" }]
+    },
+    {
+      "id": "joas-israel", "name": "Joas", "altNames": ["Jehoas"], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 859 v. u. Z. (16 Jahre)" }], "year": -859, "nameMeaning": "",
+      "summary": "Joas, der Sohn des Jehoahas und Enkel Jehus, regierte 16 Jahre über Israel und ließ die Kälberverehrung bestehen. Er besuchte den sterbenden Propheten Elisa, der ihm drei Siege über Syrien ankündigte. Später besiegte er Amazja von Juda und plünderte Jerusalem.",
+      "facts": [
+        { "text": "Er weinte am Sterbebett Elisas.", "ref": "2. Könige 13:14" },
+        { "text": "Er schlug Syrien dreimal.", "ref": "2. Könige 13:18, 19, 25" },
+        { "text": "Er besiegte Amazja und brach in die Mauer Jerusalems ein.", "ref": "2. Könige 14:11-14" }
+      ],
+      "lesson": "",
+      "family": { "father": "jehoahas-israel", "mother": "", "spouses": [], "children": ["jerobeam-ii"], "siblings": [] },
+      "related": ["elisa", "amazja"], "events": [], "books": [],
+      "refs": ["2. Könige 13:10-25", "2. Könige 14:8-16"],
+      "sources": [{ "title": "Joas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002474" }]
+    },
+    {
+      "id": "jerobeam-ii", "name": "Jerobeam II.", "altNames": ["Jerobeam"], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 844 v. u. Z. (41 Jahre)" }], "year": -844, "nameMeaning": "",
+      "summary": "Jerobeam II., der Sohn des Joas und Urenkel Jehus, regierte 41 Jahre als 14. Herrscher des Nordreichs. Wie Jona vorhergesagt hatte, stellte er die Grenzen Israels wieder her. Doch auch er ließ die von Jerobeam I. eingeführte Kälberverehrung bestehen. In seiner Zeit wirkten Jona, Hosea und Amos.",
+      "facts": [
+        { "text": "Er tat, was böse war in Jehovas Augen.", "ref": "2. Könige 14:23, 24" },
+        { "text": "Er stellte die Grenzen Israels wieder her, wie Jona angekündigt hatte.", "ref": "2. Könige 14:25" },
+        { "text": "Amos prophezeite gegen sein Haus.", "ref": "Amos 7:9-11" }
+      ],
+      "lesson": "",
+      "family": { "father": "joas-israel", "mother": "", "spouses": [], "children": ["secharja"], "siblings": [] },
+      "related": ["jona", "amos", "hosea"], "events": [], "books": [],
+      "refs": ["2. Könige 14:23-29"],
+      "sources": [{ "title": "Jerobeam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002431" }]
+    },
+    {
+      "id": "secharja", "name": "Sacharja", "altNames": ["Secharja"], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel (6 Monate)", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 803/792 v. u. Z. (6 Monate)" }], "year": -803,
+      "nameMeaning": "„Erinnert hat sich Jehova“",
+      "summary": "Sacharja, ein Sohn Jerobeams II., war der letzte König aus der Dynastie Jehus. Seine Herrschaft begann in gewissem Sinn nach dem Tod seines Vaters um 803 v. u. Z., lag aber offensichtlich erst um 792 v. u. Z. fest in seinen Händen. Nach sechs Monaten wurde er von Schallum ermordet – so erfüllte sich, dass Jehus Nachkommen bis zur vierten Generation regieren würden.",
+      "facts": [
+        { "text": "Er regierte sechs Monate.", "ref": "2. Könige 15:8" },
+        { "text": "Schallum ermordete ihn.", "ref": "2. Könige 15:10" },
+        { "text": "Jehovas Wort an Jehu erfüllte sich.", "ref": "2. Könige 15:12" }
+      ],
+      "lesson": "",
+      "family": { "father": "jerobeam-ii", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["schallum"], "events": [], "books": [],
+      "refs": ["2. Könige 15:8-12"],
+      "sources": [
+        { "title": "Sacharja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004681" },
+        { "title": "A6-B Propheten und Könige von Juda und Israel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070215" }
+      ]
+    },
+    {
+      "id": "schallum", "name": "Schallum", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel (1 Monat)", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 791 v. u. Z. (1 Monat)" }], "year": -791,
+      "nameMeaning": "von einer Wurzel mit der Bedeutung „Frieden schließen“",
+      "summary": "Schallum, der Sohn des Jabesch, verschwor sich gegen König Sacharja, tötete ihn und regierte dann einen Mondmonat lang in Samaria. Danach wurde er selbst von Menahem ermordet.",
+      "facts": [
+        { "text": "Er tötete Sacharja öffentlich.", "ref": "2. Könige 15:10" },
+        { "text": "Er regierte einen Monat lang.", "ref": "2. Könige 15:13" },
+        { "text": "Menahem tötete ihn in Samaria.", "ref": "2. Könige 15:14" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jabesch", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["secharja", "menahem"], "events": [], "books": [],
+      "refs": ["2. Könige 15:10-15"],
+      "sources": [{ "title": "Schallum – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003933" }]
+    },
+    {
+      "id": "menahem", "name": "Menahem", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ab etwa 790 v. u. Z. (10 Jahre)" }], "year": -790, "nameMeaning": "„Einer, der tröstet“",
+      "summary": "Menahem, der Sohn Gadis, tötete Schallum in Samaria und regierte zehn Jahre über Israel. Er behandelte die Bewohner der Stadt Tiphsach, die ihm das Tor nicht öffnen wollte, grausam. Er hielt an der Kälberanbetung fest und zahlte dem Assyrerkönig hohen Tribut.",
+      "facts": [
+        { "text": "Er tötete Schallum.", "ref": "2. Könige 15:14" },
+        { "text": "Er schlug Tiphsach grausam nieder.", "ref": "2. Könige 15:16" },
+        { "text": "Er zahlte dem König von Assyrien 1000 Talente Silber.", "ref": "2. Könige 15:19, 20" }
+      ],
+      "lesson": "",
+      "family": { "father": "Gadi", "mother": "", "spouses": [], "children": ["pekachja"], "siblings": [] },
+      "related": ["schallum"], "events": [], "books": [],
+      "refs": ["2. Könige 15:14-22"],
+      "sources": [{ "title": "Menahem – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002978" }]
+    },
+    {
+      "id": "pekachja", "name": "Pekachja", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "ca. 780–779 v. u. Z. (2 Jahre)" }], "year": -780, "nameMeaning": "„Jah hat geöffnet“",
+      "summary": "Pekachja, der Sohn und Nachfolger Menahems, regierte zwei Jahre in Samaria und hielt an der Kälberanbetung fest. Sein Adjutant Pekach verschwor sich gegen ihn, tötete ihn und regierte an seiner Stelle.",
+      "facts": [
+        { "text": "Er regierte zwei Jahre.", "ref": "2. Könige 15:23" },
+        { "text": "Er hielt an den Sünden Jerobeams fest.", "ref": "2. Könige 15:24" },
+        { "text": "Pekach ermordete ihn.", "ref": "2. Könige 15:25" }
+      ],
+      "lesson": "",
+      "family": { "father": "menahem", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["pekach"], "events": [], "books": [],
+      "refs": ["2. Könige 15:22-26"],
+      "sources": [{ "title": "Pekachja – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003416" }]
+    },
+    {
+      "id": "pekach", "name": "Pekach", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 778 v. u. Z. (20 Jahre)" }], "year": -778,
+      "nameMeaning": "von einer Wurzel mit der Bedeutung „öffnen“",
+      "summary": "Pekach, der Sohn Remaljas, ermordete als Adjutant König Pekachja und regierte etwa 20 Jahre. Er war ein Zeitgenosse der judäischen Könige Usija, Jotham und Ahas und verbündete sich mit Syrien gegen Juda. Schließlich wurde er von Hoschea ermordet.",
+      "facts": [
+        { "text": "Er ermordete Pekachja mit Hilfe von 50 Gileaditern.", "ref": "2. Könige 15:25" },
+        { "text": "Mit Syrien zog er gegen Jerusalem.", "ref": "Jesaja 7:1" },
+        { "text": "Hoschea brachte ihn um.", "ref": "2. Könige 15:30" }
+      ],
+      "lesson": "",
+      "family": { "father": "Remalja", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["ahas", "hosea-koenig"], "events": [], "books": [],
+      "refs": ["2. Könige 15:25-31", "Jesaja 7:1-9"],
+      "sources": [{ "title": "Pekach – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003415" }]
+    },
+    {
+      "id": "hosea-koenig", "name": "Hoschea", "altNames": ["Hosea"], "sex": "m", "tags": ["koenig"],
+      "role": "Letzter König von Israel", "eras": ["geteilt"], "dates": [{ "label": "Regierung", "value": "um 758 v. u. Z., fest ab etwa 748 (9 Jahre)" }], "year": -758, "nameMeaning": "",
+      "summary": "Hoschea, der Sohn Elas, war der letzte König des Nordreichs Israel. Er riss den Thron durch eine Verschwörung gegen Pekach an sich. Er tat, was böse war, wenn auch nicht so schlimm wie seine Vorgänger. Als er sich gegen Assyrien auflehnte, belagerten die Assyrer Samaria und nahmen es 740 v. u. Z. ein.",
+      "facts": [
+        { "text": "Er ermordete Pekach.", "ref": "2. Könige 15:30" },
+        { "text": "Er wurde dem König von Assyrien tributpflichtig.", "ref": "2. Könige 17:3" },
+        { "text": "Er suchte Hilfe bei Ägypten und wurde gefangen gesetzt.", "ref": "2. Könige 17:4" },
+        { "text": "In seinem 9. Jahr fiel Samaria.", "ref": "2. Könige 17:6" }
+      ],
+      "lesson": "",
+      "family": { "father": "Ela", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["pekach"], "events": ["fall-samarias"], "books": [],
+      "refs": ["2. Könige 17:1-6", "2. Könige 18:9-12"],
+      "sources": [
+        { "title": "Hoschea – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002090" },
+        { "title": "A6-B Propheten und Könige von Juda und Israel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070215" }
+      ]
+    },
+    {
+      "id": "isebel", "name": "Isebel", "altNames": [], "sex": "f", "tags": [],
+      "role": "Frau König Ahabs", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "2. Hälfte des 10. Jahrhunderts v. u. Z." }], "year": -940,
+      "nameMeaning": "„Wo ist der Erhabene?“ (vielleicht, phönizisch)",
+      "summary": "Isebel, die Tochter des Sidonierkönigs Ethbaal, war die Frau König Ahabs. Sie war eine herrschsüchtige, fanatische Verfechterin des Baalskults und wollte die Anbetung Jehovas verdrängen. Sie ließ Jehovas Propheten töten und trachtete Elia nach dem Leben. Um Naboths Weingarten für Ahab zu bekommen, ließ sie Naboth durch falsche Zeugen umbringen. Bei Jehus Gericht wurde sie aus dem Fenster gestürzt.",
+      "facts": [
+        { "text": "Sie ließ Jehovas Propheten töten.", "ref": "1. Könige 18:4" },
+        { "text": "Sie schwor, Elia umzubringen.", "ref": "1. Könige 19:1, 2" },
+        { "text": "Sie ließ Naboth durch falsche Zeugen töten.", "ref": "1. Könige 21:5-16" },
+        { "text": "Sie wurde auf Jehus Befehl aus dem Fenster gestürzt.", "ref": "2. Könige 9:30-37" }
+      ],
+      "lesson": "",
+      "family": { "father": "Ethbaal", "mother": "", "spouses": ["ahab"], "children": ["ahasja-israel", "joram-israel", "athalja"], "siblings": [] },
+      "related": ["elia", "jehu"], "events": ["elia-am-horeb", "jehu-vollstreckt-gericht"], "books": [],
+      "refs": ["1. Könige 16:31", "1. Könige 21:1-25", "2. Könige 9:30-37"],
+      "sources": [{ "title": "Isebel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002463" }]
+    },
+    {
+      "id": "elia", "name": "Elia", "altNames": [], "sex": "m", "tags": ["prophet"],
+      "role": "Prophet in Israel", "eras": ["geteilt"], "dates": [{ "label": "Wirken", "value": "ab der Zeit Ahabs (um 940 v. u. Z.) bis nach 913 v. u. Z." }], "year": -940,
+      "nameMeaning": "„Mein Gott ist Jehova“",
+      "summary": "Elia aus Tischbe war einer der bedeutendsten Propheten Israels. Er wirkte in einer Zeit, in der Ahab und Isebel den Baalskult förderten. Er kündigte eine Dürre an, bewies auf dem Berg Karmel, dass Jehova der wahre Gott ist, und erweckte einen Toten. Laut jw.org wurde er im Windsturm nicht in den Himmel zu Gott aufgenommen, sondern mit einem neuen Auftrag an einen anderen Ort versetzt – Jahre später schrieb er noch einen Brief an König Joram von Juda.",
+      "facts": [
+        { "text": "Er kündigte Ahab eine Dürre an.", "ref": "1. Könige 17:1" },
+        { "text": "Raben versorgten ihn mit Nahrung.", "ref": "1. Könige 17:2-6" },
+        { "text": "Er erweckte den Sohn der Witwe von Zarephath.", "ref": "1. Könige 17:17-24" },
+        { "text": "Auf dem Karmel sandte Jehova Feuer auf sein Opfer.", "ref": "1. Könige 18:36-39" },
+        { "text": "Später schrieb er König Joram von Juda einen Brief.", "ref": "2. Chronika 21:12-15" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["elisa", "ahab", "isebel"], "events": ["elia-und-die-duerre", "elia-auf-dem-karmel", "elia-am-horeb", "elia-wird-weggenommen"], "books": [],
+      "refs": ["1. Könige 17:1-24", "1. Könige 18:17-46", "2. Könige 2:1-12", "Jakobus 5:17, 18"],
+      "sources": [{ "title": "Elia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001307" }]
+    },
+    {
+      "id": "elisa", "name": "Elisa", "altNames": [], "sex": "m", "tags": ["prophet"],
+      "role": "Prophet, Nachfolger Elias", "eras": ["geteilt"], "dates": [{ "label": "Wirken", "value": "10. und 9. Jahrhundert v. u. Z." }], "year": -925,
+      "nameMeaning": "„Gott ist Rettung“",
+      "summary": "Elisa, der Sohn Schaphats, wurde berufen, als Elia sein Amtsgewand auf ihn warf, während er pflügte. Etwa sechs Jahre diente er Elia, dann erhielt er „zwei Anteile“ von dessen Geist und wurde sein Nachfolger. Er wirkte unter den Königen Ahab, Ahasja, Joram, Jehu, Jehoahas und Joas und vollbrachte viele Wunder – unter anderem die Heilung Naamans.",
+      "facts": [
+        { "text": "Er verließ seine Arbeit, um Elia zu folgen.", "ref": "1. Könige 19:19-21" },
+        { "text": "Er erbat zwei Anteile vom Geist Elias.", "ref": "2. Könige 2:9" },
+        { "text": "Er erweckte den Sohn der Schunemitin.", "ref": "2. Könige 4:32-37" },
+        { "text": "Er heilte den Syrer Naaman vom Aussatz.", "ref": "2. Könige 5:1-14" },
+        { "text": "Er ließ Jehu zum König salben.", "ref": "2. Könige 9:1-3" }
+      ],
+      "lesson": "",
+      "family": { "father": "Schaphat", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["elia", "naaman", "jehu", "joas-israel"], "events": ["elia-wird-weggenommen", "naaman-wird-geheilt", "jehu-vollstreckt-gericht"], "books": [],
+      "refs": ["1. Könige 19:19-21", "2. Könige 2:1-15", "2. Könige 4:1–6:23", "2. Könige 13:14-21"],
+      "sources": [{ "title": "Elisa – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001316" }]
+    },
+    {
+      "id": "naaman", "name": "Naaman", "altNames": [], "sex": "m", "tags": ["herrscher"],
+      "role": "Syrischer Heerführer", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "10. Jahrhundert v. u. Z., zur Zeit Jorams von Israel" }], "year": -910,
+      "nameMeaning": "von einer Wurzel mit der Bedeutung „lieblich sein“",
+      "summary": "Naaman war ein angesehener syrischer Heeroberster, durch den Jehova Syrien Rettung verschafft hatte – doch er war aussätzig. Ein verschlepptes israelitisches Mädchen erzählte von dem Propheten in Samaria. Elisa ließ ihm sagen, er solle sich siebenmal im Jordan waschen. Nach anfänglichem Zorn gehorchte Naaman, wurde gesund und erkannte, dass es keinen Gott gibt außer in Israel.",
+      "facts": [
+        { "text": "Ein israelitisches Mädchen wies ihn auf Elisa hin.", "ref": "2. Könige 5:2, 3" },
+        { "text": "Er sollte sich siebenmal im Jordan waschen.", "ref": "2. Könige 5:10" },
+        { "text": "Seine Haut wurde wie die eines kleinen Jungen.", "ref": "2. Könige 5:14" },
+        { "text": "Er wollte nur noch Jehova Opfer darbringen.", "ref": "2. Könige 5:15-17" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["elisa"], "events": ["naaman-wird-geheilt"], "books": [],
+      "refs": ["2. Könige 5:1-27", "Lukas 4:27"],
+      "sources": [{ "title": "Naaman – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003149" }]
+    },
+    {
+      "id": "jona", "name": "Jona", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet, Bote nach Ninive", "eras": ["geteilt"], "dates": [{ "label": "Wirken", "value": "zur Zeit Jerobeams II. (Buch um 844 v. u. Z.)" }], "year": -844, "nameMeaning": "„Taube“",
+      "summary": "Jona, der Sohn Amittais aus Gath-Hepher, war ein Prophet in Israel zur Zeit Jerobeams II. Als Jehova ihn beauftragte, Ninive das Gericht anzukündigen, floh er per Schiff in Richtung Tarschisch. In einem Sturm warf man ihn ins Meer, und ein großer Fisch verschlang ihn. Nach drei Tagen kam er frei, ging nach Ninive – und die Niniviten bereuten. Jona schrieb das gleichnamige Buch.",
+      "facts": [
+        { "text": "Er sagte die Wiederherstellung der Grenzen Israels voraus.", "ref": "2. Könige 14:25" },
+        { "text": "Er floh vor seinem Auftrag nach Joppe.", "ref": "Jona 1:1-3" },
+        { "text": "Er betete im Innern eines großen Fisches.", "ref": "Jona 2:1-10" },
+        { "text": "Die Niniviten bereuten in Sacktuch.", "ref": "Jona 3:4-10" },
+        { "text": "Jehova lehrte ihn mit einer Flaschenkürbispflanze Mitgefühl.", "ref": "Jona 4:6-11" }
+      ],
+      "lesson": "",
+      "family": { "father": "Amittai", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jerobeam-ii"], "events": ["jona-in-ninive"], "books": ["Jona"],
+      "refs": ["Jona 1:1–4:11", "Matthäus 12:39-41"],
+      "sources": [
+        { "title": "Jona – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002503" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "hosea", "name": "Hosea", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet, Sohn Beeris", "eras": ["geteilt"], "dates": [{ "label": "Wirken", "value": "Ende 9. und Anfang 8. Jahrhundert v. u. Z." }], "year": -810, "nameMeaning": "Kurzform von Hoschaja",
+      "summary": "Hosea, der Sohn Beeris, war ein Prophet Jehovas während der Herrschaft der Könige Usija, Jotham, Ahas und Hiskia von Juda und Jerobeams II. von Israel. Er schrieb das Bibelbuch Hosea, in dem die Untreue Israels mit der Untreue einer Ehefrau verglichen wird. Amos, Jesaja und Micha waren seine Zeitgenossen.",
+      "facts": [
+        { "text": "Er war der Sohn Beeris.", "ref": "Hosea 1:1" },
+        { "text": "Seine Ehe mit Gomer veranschaulichte Israels Untreue.", "ref": "Hosea 1:2, 3" },
+        { "text": "Er rief Israel auf, zu Jehova umzukehren.", "ref": "Hosea 14:1, 2" }
+      ],
+      "lesson": "",
+      "family": { "father": "Beeri", "mother": "", "spouses": ["Gomer"], "children": [], "siblings": [] },
+      "related": ["amos", "jesaja", "micha"], "events": [], "books": ["Hosea"],
+      "refs": ["Hosea 1:1-11", "Hosea 3:1-5", "Hosea 14:1-9"],
+      "sources": [{ "title": "Hosea – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002086" }]
+    },
+    {
+      "id": "amos", "name": "Amos", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet aus Tekoa", "eras": ["geteilt"], "dates": [{ "label": "Zeit", "value": "9. Jahrhundert v. u. Z. (Buch um 804 v. u. Z.)" }], "year": -804,
+      "nameMeaning": "„Getragen“, „Die Last tragend“",
+      "summary": "Amos aus Tekoa in Juda war kein Prophetensohn, sondern ein Hirte und Ritzer von Maulbeerfeigen, als Jehova ihn rief. Er prophezeite vor allem gegen das Nordreich Israel, das trotz Wohlstands die Armen unterdrückte und am Kälberdienst festhielt. Er schrieb das gleichnamige Bibelbuch.",
+      "facts": [
+        { "text": "Er war Hirte, kein Prophet von Beruf.", "ref": "Amos 7:14, 15" },
+        { "text": "Er stammte aus Tekoa.", "ref": "Amos 1:1" },
+        { "text": "Jehova offenbart seine vertraulichen Angelegenheiten seinen Propheten.", "ref": "Amos 3:7" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["jerobeam-ii", "hosea"], "events": [], "books": ["Amos"],
+      "refs": ["Amos 1:1", "Amos 3:7", "Amos 7:10-17"],
+      "sources": [
+        { "title": "Amos – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000246" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "elia-und-die-duerre", "title": "Elia kündigt eine Dürre an", "era": "geteilt", "year": -936, "dateLabel": "Zur Zeit Ahabs", "place": "Samaria; Wildbachtal Krith; Zarephath",
+      "summary": "Weil Ahab den Baalskult förderte, kündigte Elia an, dass es weder Tau noch Regen geben werde, außer auf sein Wort. Die Dürre dauerte dreieinhalb Jahre. Jehova versorgte Elia zuerst durch Raben am Wildbach Krith, dann durch eine Witwe in Zarephath, deren Mehl und Öl nicht ausgingen. Als ihr Sohn starb, erweckte Elia ihn zum Leben.",
+      "facts": [
+        { "text": "Elia kündigte die Dürre an.", "ref": "1. Könige 17:1" },
+        { "text": "Die Dürre dauerte drei Jahre und sechs Monate.", "ref": "Jakobus 5:17" },
+        { "text": "Mehl und Öl der Witwe gingen nicht aus.", "ref": "1. Könige 17:14-16" },
+        { "text": "Elia erweckte ihren Sohn.", "ref": "1. Könige 17:21-24" }
+      ],
+      "significance": "", "persons": ["elia", "ahab"], "refs": ["1. Könige 17:1-24", "Lukas 4:25, 26"],
+      "sources": [
+        { "title": "Elia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001307" },
+        { "title": "Ahab – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000138" }
+      ]
+    },
+    {
+      "id": "elia-auf-dem-karmel", "title": "Elia auf dem Berg Karmel", "era": "geteilt", "year": -933, "dateLabel": "Zur Zeit Ahabs", "place": "Berg Karmel",
+      "summary": "Auf dem Karmel forderte Elia 450 Baalspropheten heraus: Der Gott, der mit Feuer antwortet, ist der wahre Gott. Die Baalspropheten riefen stundenlang vergeblich. Elia baute den Altar Jehovas wieder auf, übergoss Opfer und Holz mit Wasser und betete. Jehova sandte Feuer, das alles verzehrte. Das Volk rief: „Jehova ist der wahre Gott!“ Danach kam der Regen.",
+      "facts": [
+        { "text": "Elia fragte: „Wie lange werdet ihr auf zwei Meinungen hinken?“", "ref": "1. Könige 18:21" },
+        { "text": "Baal antwortete nicht.", "ref": "1. Könige 18:26-29" },
+        { "text": "Jehova sandte Feuer vom Himmel.", "ref": "1. Könige 18:36-38" },
+        { "text": "Danach endete die Dürre.", "ref": "1. Könige 18:41-45" }
+      ],
+      "significance": "", "persons": ["elia", "ahab"], "refs": ["1. Könige 18:17-46"],
+      "sources": [{ "title": "Elia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001307" }]
+    },
+    {
+      "id": "elia-am-horeb", "title": "Elia am Horeb", "era": "geteilt", "year": -932, "dateLabel": "Zur Zeit Ahabs", "place": "Berg Horeb",
+      "summary": "Nach dem Sieg auf dem Karmel schwor Isebel, Elia zu töten. Elia floh in die Wildnis und wünschte sich den Tod. Ein Engel stärkte ihn, und er wanderte bis zum Horeb. Dort sprach Jehova zu ihm mit einer „ruhigen, leisen Stimme“, sagte ihm, dass es noch 7000 Treue in Israel gab, und beauftragte ihn, Elisa als Nachfolger zu berufen sowie Hasael und Jehu zu salben.",
+      "facts": [
+        { "text": "Isebel drohte Elia mit dem Tod.", "ref": "1. Könige 19:1, 2" },
+        { "text": "Ein Engel versorgte ihn mit Nahrung.", "ref": "1. Könige 19:5-8" },
+        { "text": "Jehova sprach mit einer ruhigen, leisen Stimme.", "ref": "1. Könige 19:11-13" },
+        { "text": "7000 hatten ihr Knie nicht vor Baal gebeugt.", "ref": "1. Könige 19:18" }
+      ],
+      "significance": "", "persons": ["elia", "isebel", "elisa", "jehu"], "refs": ["1. Könige 19:1-21"],
+      "sources": [
+        { "title": "Elia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001307" },
+        { "title": "Jehu – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002401" }
+      ]
+    },
+    {
+      "id": "elia-wird-weggenommen", "title": "Elia wird im Sturmwind weggenommen", "era": "geteilt", "year": -917, "dateLabel": "Nach dem Tod Ahasjas von Israel", "place": "Östlich des Jordan",
+      "summary": "Elisa begleitete Elia bis zuletzt und bat um „zwei Anteile“ von seinem Geist. Dann sah er einen feurigen Kriegswagen und Elia in einem Windsturm aufsteigen. Laut jw.org starb Elia dabei nicht und kam auch nicht in den geistigen Himmel, sondern wurde mit einem neuen Auftrag an einen anderen Ort gebracht – Jahre später schrieb er noch einen Brief an König Joram von Juda. Elisa nahm Elias Amtsgewand auf und wurde sein Nachfolger.",
+      "facts": [
+        { "text": "Elisa erbat zwei Anteile von Elias Geist.", "ref": "2. Könige 2:9, 10" },
+        { "text": "Ein feuriger Kriegswagen trennte die beiden.", "ref": "2. Könige 2:11" },
+        { "text": "Elisa nahm Elias Amtsgewand auf.", "ref": "2. Könige 2:13, 14" },
+        { "text": "Niemand ist in den Himmel hinaufgestiegen außer dem Menschensohn.", "ref": "Johannes 3:13" }
+      ],
+      "significance": "", "persons": ["elia", "elisa"], "refs": ["2. Könige 2:1-15", "2. Chronika 21:12-15"],
+      "sources": [{ "title": "Elia – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001307" }]
+    },
+    {
+      "id": "naaman-wird-geheilt", "title": "Naaman wird geheilt", "era": "geteilt", "year": -910, "dateLabel": "Zur Zeit Jorams von Israel", "place": "Samaria; Jordan",
+      "summary": "Der aussätzige syrische Heerführer Naaman kam auf Rat eines israelitischen Mädchens zu Elisa. Der Prophet ließ ihm ausrichten, er solle sich siebenmal im Jordan waschen. Erst war Naaman empört, doch seine Diener überredeten ihn. Als er gehorchte, wurde er völlig gesund und erklärte, er werde nur noch Jehova anbeten. Elisas Diener Gehasi dagegen erschlich sich Geschenke und wurde aussätzig.",
+      "facts": [
+        { "text": "Das verschleppte Mädchen sprach vom Propheten in Samaria.", "ref": "2. Könige 5:2, 3" },
+        { "text": "Naaman wurde zornig über die einfache Anweisung.", "ref": "2. Könige 5:11, 12" },
+        { "text": "Nach dem siebten Mal wurde er rein.", "ref": "2. Könige 5:14" },
+        { "text": "Gehasi wurde wegen seiner Habgier aussätzig.", "ref": "2. Könige 5:20-27" }
+      ],
+      "significance": "", "persons": ["naaman", "elisa", "joram-israel"], "refs": ["2. Könige 5:1-27", "Lukas 4:27"],
+      "sources": [{ "title": "Naaman – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003149" }]
+    },
+    {
+      "id": "jehu-vollstreckt-gericht", "title": "Jehu vollstreckt das Urteil an Ahabs Haus", "era": "geteilt", "year": -905, "dateLabel": "um 905 v. u. Z.", "place": "Ramoth-Gilead; Jesreel; Samaria",
+      "summary": "Ein Prophetensohn salbte im Auftrag Elisas den Heeroberst Jehu zum König über Israel. Jehu handelte sofort: Er fuhr nach Jesreel, tötete König Joram von Israel und König Ahasja von Juda und ließ Isebel aus dem Fenster stürzen. Danach rottete er die Nachkommen Ahabs und die Baalsanbeter aus – doch die goldenen Kälber Jerobeams ließ er bestehen.",
+      "facts": [
+        { "text": "Jehu wurde in Ramoth-Gilead gesalbt.", "ref": "2. Könige 9:1-6" },
+        { "text": "Er fuhr „wie ein Wahnsinniger“.", "ref": "2. Könige 9:20" },
+        { "text": "Isebel wurde aus dem Fenster geworfen.", "ref": "2. Könige 9:33" },
+        { "text": "Er tilgte Baal aus Israel.", "ref": "2. Könige 10:28" }
+      ],
+      "significance": "", "persons": ["jehu", "joram-israel", "ahasja-juda", "isebel", "elisa"], "refs": ["2. Könige 9:1–10:31"],
+      "sources": [
+        { "title": "Jehu – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002401" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "jona-in-ninive", "title": "Jona predigt in Ninive", "era": "geteilt", "year": -844, "dateLabel": "um 844 v. u. Z.", "place": "Joppe; Ninive",
+      "summary": "Jona sollte der großen assyrischen Stadt Ninive Jehovas Urteil verkünden, floh aber per Schiff. Ein Sturm brach los, die Seeleute warfen ihn ins Meer, und ein großer Fisch verschlang ihn. Nach drei Tagen spie ihn der Fisch aus. Beim zweiten Auftrag ging Jona nach Ninive; die Einwohner glaubten Gott und bereuten, und Jehova verschonte die Stadt.",
+      "facts": [
+        { "text": "Jona floh in Richtung Tarschisch.", "ref": "Jona 1:3" },
+        { "text": "Er war drei Tage im Fisch.", "ref": "Jona 1:17" },
+        { "text": "„Noch vierzig Tage, und Ninive wird umgekehrt.“", "ref": "Jona 3:4" },
+        { "text": "Jesus nannte das „Zeichen Jonas“.", "ref": "Matthäus 12:39-41" }
+      ],
+      "significance": "", "persons": ["jona"], "refs": ["Jona 1:1–4:11"],
+      "sources": [
+        { "title": "Jona – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002503" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "fall-samarias", "title": "Samaria fällt", "era": "geteilt", "year": -740, "dateLabel": "740 v. u. Z.", "place": "Samaria",
+      "summary": "Weil König Hoschea sich gegen Assyrien auflehnte und Hilfe bei Ägypten suchte, belagerte das assyrische Heer Samaria drei Jahre lang. 740 v. u. Z. fiel die Stadt; das Zehnstämmereich Israel hörte auf zu bestehen, und seine Bewohner wurden ins Exil geführt. Die Bibel nennt als Grund, dass Israel Jehova verlassen und anderen Göttern gedient hatte. Assyrien siedelte Menschen aus anderen Ländern in Samaria an.",
+      "facts": [
+        { "text": "Die Belagerung begann 742 v. u. Z.", "ref": "2. Könige 17:5" },
+        { "text": "Im 9. Jahr Hoscheas wurde Samaria eingenommen.", "ref": "2. Könige 17:6" },
+        { "text": "Israel hatte Jehovas Warnungen nicht beachtet.", "ref": "2. Könige 17:13-18" },
+        { "text": "Fremde wurden in den Städten Samarias angesiedelt.", "ref": "2. Könige 17:24" }
+      ],
+      "significance": "Das Ende des Nordreichs Israel – im 6. Jahr Hiskias von Juda.", "persons": ["hosea-koenig"], "refs": ["2. Könige 17:1-41", "2. Könige 18:9-12"],
+      "sources": [
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" },
+        { "title": "Hoschea – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002090" }
+      ]
+    }
+  ]
+}

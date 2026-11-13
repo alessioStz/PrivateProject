@@ -1,0 +1,466 @@
+{
+  "batch": "b05",
+  "persons": [
+    {
+      "id": "saul", "name": "Saul", "altNames": [], "sex": "m", "tags": ["koenig"],
+      "role": "Erster König Israels", "eras": ["koenigreich"],
+      "dates": [{ "label": "Regierung", "value": "ab 1117 v. u. Z. (40 Jahre)" }], "year": -1117, "nameMeaning": "„Erbeten (von Gott)“",
+      "summary": "Saul, ein Benjaminiter aus wohlhabender Familie, war der erste König Israels. Er war stattlich, kräftig und anfangs bescheiden. Doch er gehorchte Jehova nicht: Im Krieg gegen die Amalekiter verschonte er König Agag und das beste Vieh und schob die Schuld auf das Volk. Jehova verwarf ihn als König. Zuletzt suchte er sogar ein Geistermedium in En-Dor auf und starb im Kampf gegen die Philister auf dem Berg Gilboa.",
+      "facts": [
+        { "text": "Samuel salbte ihn zum König; drei prophetische Zeichen bestätigten das.", "ref": "1. Samuel 10:1-9" },
+        { "text": "Er war einen Kopf größer als alle anderen.", "ref": "1. Samuel 9:2" },
+        { "text": "Er verschonte Agag und das beste Vieh der Amalekiter.", "ref": "1. Samuel 15:7-9" },
+        { "text": "„Gehorchen ist besser als ein Schlachtopfer“, sagte Samuel zu ihm.", "ref": "1. Samuel 15:22" },
+        { "text": "Er befragte ein Geistermedium in En-Dor.", "ref": "1. Samuel 28:7-19" },
+        { "text": "Er starb mit drei Söhnen auf dem Berg Gilboa.", "ref": "1. Samuel 31:1-6" }
+      ],
+      "lesson": "",
+      "family": { "father": "Kisch", "mother": "", "spouses": ["Ahinoam"], "children": ["jonathan", "Isch-Boscheth", "michal", "Merab"], "siblings": [] },
+      "related": ["samuel", "david"], "events": ["israel-will-einen-koenig", "saul-wird-koenig", "david-und-goliath", "david-flieht-vor-saul", "sauls-tod"], "books": [],
+      "refs": ["1. Samuel 9:1–10:27", "1. Samuel 15:1-35", "1. Samuel 31:1-13"],
+      "sources": [
+        { "title": "Saul – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003847" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "jonathan", "name": "Jonathan", "altNames": [], "sex": "m", "tags": [],
+      "role": "Sohn Sauls, Freund Davids", "eras": ["koenigreich"], "dates": [{ "label": "Gestorben", "value": "um 1078 v. u. Z." }], "year": -1138,
+      "nameMeaning": "„Jehova hat gegeben“",
+      "summary": "Jonathan war der älteste Sohn König Sauls und ein tapferer Heerführer. Bekannt ist er vor allem für seine uneigennützige Freundschaft mit David, den Jehova als König bestimmt hatte – obwohl Jonathan selbst Thronerbe war und etwa 30 Jahre älter als David. Er schloss einen Bund mit David und schützte ihn vor Sauls Zorn. Um 1078 v. u. Z. fiel er mit seinem Vater auf dem Gilboa.",
+      "facts": [
+        { "text": "Er befehligte schon früh tausend Krieger.", "ref": "1. Samuel 13:2" },
+        { "text": "Er schloss mit David einen Bund und gab ihm sein Obergewand.", "ref": "1. Samuel 18:1-4" },
+        { "text": "Er warnte David vor Sauls Absichten.", "ref": "1. Samuel 20:12-17" },
+        { "text": "Er starb im Kampf gegen die Philister.", "ref": "1. Samuel 31:2" }
+      ],
+      "lesson": "",
+      "family": { "father": "saul", "mother": "Ahinoam", "spouses": [], "children": ["mephiboscheth"], "siblings": ["michal", "Isch-Boscheth"] },
+      "related": ["david"], "events": ["david-flieht-vor-saul", "sauls-tod"], "books": [],
+      "refs": ["1. Samuel 18:1-4", "1. Samuel 20:1-42", "2. Samuel 1:25, 26"],
+      "sources": [{ "title": "Jonathan – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002506" }]
+    },
+    {
+      "id": "david", "name": "David", "altNames": [], "sex": "m", "tags": ["koenig", "prophet", "schreiber", "vorfahr-jesu"],
+      "role": "König Israels, Psalmendichter", "eras": ["koenigreich"],
+      "dates": [{ "label": "Geboren", "value": "1107 v. u. Z." }, { "label": "Regierung", "value": "1077–1037 v. u. Z. (40 Jahre)" }], "year": -1107,
+      "nameMeaning": "„Geliebter“ (wahrscheinlich)",
+      "summary": "David, der jüngste der acht Söhne Isais aus Bethlehem, war Hirte, Musiker, Dichter, Krieger, Prophet und König. Als junger Mann besiegte er Goliath; später musste er jahrelang vor Saul fliehen. 1077 v. u. Z. wurde er König in Hebron, 1070 v. u. Z. über ganz Israel, und er machte Jerusalem zur Hauptstadt. Jehova schloss mit ihm einen Bund für ein ewiges Königreich. Trotz schwerer Sünden bereute er aufrichtig und vertraute stets auf Jehova.",
+      "facts": [
+        { "text": "Samuel salbte ihn als Jüngsten der Söhne Isais.", "ref": "1. Samuel 16:11-13" },
+        { "text": "Er besiegte den Riesen Goliath im Namen Jehovas.", "ref": "1. Samuel 17:45-51" },
+        { "text": "Mit 30 Jahren wurde er in Hebron König über Juda.", "ref": "2. Samuel 5:3-5" },
+        { "text": "Er eroberte Jerusalem und machte es zur Hauptstadt.", "ref": "2. Samuel 5:6-9" },
+        { "text": "Nach seiner Sünde mit Bathseba bereute er zutiefst.", "ref": "Psalm 51:1-4" },
+        { "text": "Sein Name steht in den Überschriften von 73 Psalmen.", "ref": "" }
+      ],
+      "lesson": "",
+      "family": { "father": "Isai", "mother": "", "spouses": ["michal", "abigail", "batseba", "Ahinoam"], "children": ["absalom", "salomo", "Amnon", "Adonia", "Tamar"], "siblings": [] },
+      "related": ["samuel", "jonathan", "nathan", "joab", "saul"],
+      "events": ["david-wird-gesalbt", "david-und-goliath", "david-flieht-vor-saul", "sauls-tod", "david-koenig-in-hebron", "david-erobert-jerusalem", "bundeslade-nach-jerusalem", "bund-mit-david", "david-und-batseba", "absaloms-aufstand", "salomo-wird-koenig"],
+      "books": ["Psalm (viele)"],
+      "refs": ["1. Samuel 16:1-13", "2. Samuel 7:8-16", "Psalm 51:1-19", "Apostelgeschichte 13:22"],
+      "sources": [
+        { "title": "David – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001130" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "goliath", "name": "Goliath", "altNames": [], "sex": "m", "tags": [],
+      "role": "Riese der Philister", "eras": ["koenigreich"], "dates": [], "year": -1091, "nameMeaning": "",
+      "summary": "Goliath aus Gath war ein Riese und Vorkämpfer der Philister – sechs Ellen und eine Spanne groß (etwa 2,9 m). Sein kupfernes Panzerhemd wog rund 57 kg. Im Tal zwischen den Heeren verhöhnte er Israel und forderte einen Zweikampf. Der junge David trat ihm im Namen Jehovas entgegen und tötete ihn mit einer Schleuder.",
+      "facts": [
+        { "text": "Er war etwa 2,9 m groß.", "ref": "1. Samuel 17:4" },
+        { "text": "Er verhöhnte die Schlachtreihen Israels.", "ref": "1. Samuel 17:8-10" },
+        { "text": "David traf ihn mit einem Stein an der Stirn.", "ref": "1. Samuel 17:49" },
+        { "text": "Er gehörte zu den Rephaim.", "ref": "1. Chronika 20:5, 8" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["david"], "events": ["david-und-goliath"], "books": [],
+      "refs": ["1. Samuel 17:1-54"],
+      "sources": [{ "title": "Goliath – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001739" }]
+    },
+    {
+      "id": "michal", "name": "Michal", "altNames": [], "sex": "f", "tags": [],
+      "role": "Tochter Sauls, Frau Davids", "eras": ["koenigreich"], "dates": [], "year": -1100, "nameMeaning": "„Wer ist wie Gott?“ (wahrscheinlich)",
+      "summary": "Michal, die jüngere Tochter König Sauls, war in David verliebt und wurde seine Frau, nachdem David Sauls gefährliche Bedingung erfüllt hatte. Als Saul David töten wollte, half sie ihm zu fliehen. Während Davids Abwesenheit gab Saul sie einem anderen Mann. Später verachtete sie David, als er vor der Bundeslade tanzte.",
+      "facts": [
+        { "text": "Saul gab sie David, nachdem er 200 Philister geschlagen hatte.", "ref": "1. Samuel 18:20-27" },
+        { "text": "Sie half David, durch ein Fenster zu fliehen.", "ref": "1. Samuel 19:11, 12" },
+        { "text": "Saul gab sie einem anderen Mann.", "ref": "1. Samuel 25:44" },
+        { "text": "Sie verachtete David, als er vor Jehova tanzte.", "ref": "2. Samuel 6:16" }
+      ],
+      "lesson": "",
+      "family": { "father": "saul", "mother": "Ahinoam", "spouses": ["david"], "children": [], "siblings": ["jonathan", "Merab"] },
+      "related": [], "events": ["david-flieht-vor-saul", "bundeslade-nach-jerusalem"], "books": [],
+      "refs": ["1. Samuel 18:20-29", "1. Samuel 19:11-17", "2. Samuel 6:16-23"],
+      "sources": [{ "title": "Michal – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003036" }]
+    },
+    {
+      "id": "abigail", "name": "Abigail", "altNames": [], "sex": "f", "tags": [],
+      "role": "Frau Nabals, später Davids", "eras": ["koenigreich"], "dates": [], "year": -1085, "nameMeaning": "„(Mein) Vater freut sich“",
+      "summary": "Abigail war die verständige und schöne Frau Nabals, eines reichen, harten Mannes aus Maon. Als Nabal Davids Boten beleidigte und David sich rächen wollte, ging sie ihm mit Lebensmitteln entgegen und bewahrte ihn mit klugen Worten vor Blutschuld. Nachdem Jehova Nabal geschlagen hatte und er gestorben war, heiratete David sie.",
+      "facts": [
+        { "text": "Sie war „gut hinsichtlich Verständigkeit und schön“.", "ref": "1. Samuel 25:3" },
+        { "text": "Sie brachte David und seinen Männern Lebensmittel.", "ref": "1. Samuel 25:18" },
+        { "text": "David dankte ihr, dass sie ihn vor Blutschuld bewahrt hatte.", "ref": "1. Samuel 25:32, 33" },
+        { "text": "Nach Nabals Tod wurde sie Davids Frau.", "ref": "1. Samuel 25:39-42" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["Nabal", "david"], "children": [], "siblings": [] },
+      "related": [], "events": ["david-flieht-vor-saul"], "books": [],
+      "refs": ["1. Samuel 25:2-42"],
+      "sources": [
+        { "title": "Abigail – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000037" },
+        { "title": "David – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001130" }
+      ]
+    },
+    {
+      "id": "batseba", "name": "Bathseba", "altNames": ["Batseba"], "sex": "f", "tags": ["vorfahr-jesu"],
+      "role": "Frau Davids, Mutter Salomos", "eras": ["koenigreich"], "dates": [], "year": -1060, "nameMeaning": "„Tochter des Überflusses“",
+      "summary": "Bathseba war zuerst die Frau des Hethiters Uria, eines der starken Männer Davids. David sah sie vom Dach seines Palastes aus, beging mit ihr Ehebruch und ließ ihren Mann im Krieg umkommen. Danach wurde sie Davids Frau. Ihr erstes Kind starb; später gebar sie Salomo, der Davids Nachfolger wurde.",
+      "facts": [
+        { "text": "David sah sie vom Dach aus, wie sie sich badete.", "ref": "2. Samuel 11:2-4" },
+        { "text": "Nach Urias Tod wurde sie Davids Frau.", "ref": "2. Samuel 11:26, 27" },
+        { "text": "Sie gebar Salomo, den Jehova liebte.", "ref": "2. Samuel 12:24" },
+        { "text": "Mit Nathan sorgte sie dafür, dass Salomo König wurde.", "ref": "1. Könige 1:11-31" }
+      ],
+      "lesson": "",
+      "family": { "father": "Eliam", "mother": "", "spouses": ["uria", "david"], "children": ["salomo", "Schimea", "Schobab", "Nathan"], "siblings": [] },
+      "related": ["nathan"], "events": ["david-und-batseba", "salomo-wird-koenig"], "books": [],
+      "refs": ["2. Samuel 11:1-27", "2. Samuel 12:24", "1. Könige 1:11-31", "Matthäus 1:6"],
+      "sources": [{ "title": "Bathseba – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000581" }]
+    },
+    {
+      "id": "uria", "name": "Uria", "altNames": [], "sex": "m", "tags": [],
+      "role": "Der Hethiter, Krieger Davids", "eras": ["koenigreich"], "dates": [], "year": -1061, "nameMeaning": "„Mein Licht ist Jehova“",
+      "summary": "Uria, ein Hethiter, gehörte zu Davids Kriegern und war mit Bathseba verheiratet; vermutlich hatte er die Anbetung Jehovas angenommen. Als David ihn aus dem Krieg holte, um seinen Ehebruch zu vertuschen, weigerte sich Uria, nach Hause zu gehen, solange das Heer im Feld war. David ließ ihn daraufhin an der gefährlichsten Stelle der Front sterben.",
+      "facts": [
+        { "text": "Er gehörte zu Davids Kriegsleuten.", "ref": "2. Samuel 23:39" },
+        { "text": "Er weigerte sich, heimzugehen, solange das Heer im Feld lag.", "ref": "2. Samuel 11:8-11" },
+        { "text": "David ließ ihn im Kampf umkommen.", "ref": "2. Samuel 11:14-17" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": ["batseba"], "children": [], "siblings": [] },
+      "related": ["david", "joab"], "events": ["david-und-batseba"], "books": [],
+      "refs": ["2. Samuel 11:1-27"],
+      "sources": [{ "title": "Uria – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004521" }]
+    },
+    {
+      "id": "nathan", "name": "Nathan", "altNames": [], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet zur Zeit Davids", "eras": ["koenigreich"], "dates": [], "year": -1070, "nameMeaning": "„(Gott) hat gegeben“",
+      "summary": "Nathan war ein Prophet Jehovas während der Herrschaft Davids. Durch ihn kündigte Jehova den Bund für ein Königreich an, das für immer in Davids Linie bleiben sollte. Nach Davids Sünde mit Bathseba hielt er dem König mutig mit einem Gleichnis seine Schuld vor. Später sorgte er mit Bathseba dafür, dass Salomo König wurde. Mit Gad vollendete er das Buch 2. Samuel.",
+      "facts": [
+        { "text": "Er übermittelte Jehovas Bund mit David.", "ref": "2. Samuel 7:4-17" },
+        { "text": "Mit einem Gleichnis führte er David seine Sünde vor Augen.", "ref": "2. Samuel 12:1-7" },
+        { "text": "Er setzte sich dafür ein, dass Salomo König wurde.", "ref": "1. Könige 1:11-14" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["david", "batseba", "salomo"], "events": ["bund-mit-david", "david-und-batseba", "salomo-wird-koenig"],
+      "books": ["2. Samuel (mit Gad)"],
+      "refs": ["2. Samuel 7:1-17", "2. Samuel 12:1-15", "1. Könige 1:22-27"],
+      "sources": [
+        { "title": "Nathan – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003184" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "joab", "name": "Joab", "altNames": [], "sex": "m", "tags": [],
+      "role": "Heerführer Davids", "eras": ["koenigreich"], "dates": [], "year": -1077, "nameMeaning": "„Jehova ist Vater“",
+      "summary": "Joab, ein Sohn Zerujas und Neffe Davids, war Davids Heerführer. Er war tüchtig, erfinderisch und tatkräftig, aber auch ehrgeizig, rachsüchtig und manchmal skrupellos. Er tötete Abner, um seinen Bruder Asahel zu rächen, und später gegen Davids ausdrücklichen Wunsch Absalom. Am Ende schloss er sich Adonia an und wurde unter Salomo hingerichtet.",
+      "facts": [
+        { "text": "Seine Brüder waren Abischai und Asahel.", "ref": "1. Chronika 2:16" },
+        { "text": "Er tötete Abner aus Rache.", "ref": "2. Samuel 3:27" },
+        { "text": "Er führte Davids Befehl aus, Uria an die Front zu stellen.", "ref": "2. Samuel 11:14-17" },
+        { "text": "Er tötete Absalom.", "ref": "2. Samuel 18:14" },
+        { "text": "Er wurde auf Salomos Befehl hingerichtet.", "ref": "1. Könige 2:28-34" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "Zeruja", "spouses": [], "children": [], "siblings": ["Abischai", "Asahel"] },
+      "related": ["david", "absalom"], "events": ["david-erobert-jerusalem", "david-und-batseba", "absaloms-aufstand"], "books": [],
+      "refs": ["2. Samuel 3:22-30", "2. Samuel 18:9-17", "1. Könige 2:28-34"],
+      "sources": [{ "title": "Joab – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002469" }]
+    },
+    {
+      "id": "absalom", "name": "Absalom", "altNames": ["Abischalom"], "sex": "m", "tags": [],
+      "role": "Sohn Davids, Aufrührer", "eras": ["koenigreich"], "dates": [], "year": -1075, "nameMeaning": "„Vater (d. h. Gott) ist Frieden“",
+      "summary": "Absalom war ein in Hebron geborener Sohn Davids und Maachas, berühmt für seine Schönheit und sein üppiges Haar. Er ließ seinen Halbbruder Amnon töten, der seine Schwester Tamar entehrt hatte, und floh. Später gewann er durch Schmeichelei die Herzen der Israeliten, ließ sich in Hebron zum König ausrufen und vertrieb David aus Jerusalem. In der Schlacht verfing er sich mit dem Kopf in einem Baum und wurde von Joab getötet.",
+      "facts": [
+        { "text": "Er wurde im ganzen Land wegen seiner Schönheit gepriesen.", "ref": "2. Samuel 14:25, 26" },
+        { "text": "Er ließ Amnon töten.", "ref": "2. Samuel 13:28, 29" },
+        { "text": "Er „stahl das Herz der Männer Israels“.", "ref": "2. Samuel 15:6" },
+        { "text": "Er verfing sich in einem großen Baum und wurde getötet.", "ref": "2. Samuel 18:9-15" }
+      ],
+      "lesson": "",
+      "family": { "father": "david", "mother": "Maacha", "spouses": [], "children": ["Tamar"], "siblings": ["salomo", "Amnon", "Adonia", "Tamar"] },
+      "related": ["joab"], "events": ["absaloms-aufstand"], "books": [],
+      "refs": ["2. Samuel 15:1-14", "2. Samuel 18:1-33"],
+      "sources": [{ "title": "Absalom – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000063" }]
+    },
+    {
+      "id": "mephiboscheth", "name": "Mephiboscheth", "altNames": [], "sex": "m", "tags": [],
+      "role": "Sohn Jonathans", "eras": ["koenigreich"], "dates": [], "year": -1083, "nameMeaning": "",
+      "summary": "Mephiboscheth war der Sohn Jonathans und Enkel Sauls. Als die Nachricht vom Tod seines Vaters kam, floh seine Wärterin mit dem Fünfjährigen; dabei fiel er und wurde lahm. Aus Erinnerung an seinen Bund mit Jonathan erwies David ihm liebende Güte: Er gab ihm den Besitz Sauls zurück und ließ ihn ständig an seinem Tisch essen.",
+      "facts": [
+        { "text": "Mit fünf Jahren wurde er bei einem Sturz lahm.", "ref": "2. Samuel 4:4" },
+        { "text": "Er lebte in Lo-Debar im Haus Machirs.", "ref": "2. Samuel 9:4" },
+        { "text": "David erwies ihm um Jonathans willen liebende Güte.", "ref": "2. Samuel 9:7" },
+        { "text": "Er aß ständig am Tisch des Königs.", "ref": "2. Samuel 9:13" }
+      ],
+      "lesson": "",
+      "family": { "father": "jonathan", "mother": "", "spouses": [], "children": ["Micha"], "siblings": [] },
+      "related": ["david"], "events": [], "books": [],
+      "refs": ["2. Samuel 4:4", "2. Samuel 9:1-13", "2. Samuel 19:24-30"],
+      "sources": [{ "title": "Mephiboscheth – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002986" }]
+    },
+    {
+      "id": "salomo", "name": "Salomo", "altNames": ["Jedidjah"], "sex": "m", "tags": ["koenig", "schreiber", "vorfahr-jesu"],
+      "role": "König Israels, Erbauer des Tempels", "eras": ["koenigreich"],
+      "dates": [{ "label": "Regierung", "value": "1037–998 v. u. Z." }], "year": -1037, "nameMeaning": "von einer Wurzel mit der Bedeutung „Frieden“",
+      "summary": "Salomo, Sohn Davids und Bathsebas, wurde 1037 v. u. Z. König. Statt Reichtum erbat er von Jehova Weisheit und erhielt beides. Er baute in Jerusalem den Tempel, der 1027 v. u. Z. vollendet wurde, und seine Herrschaft war eine Zeit des Friedens. Im Alter jedoch neigten seine vielen ausländischen Frauen sein Herz anderen Göttern zu – sein Herz war nicht mehr ungeteilt mit Jehova.",
+      "facts": [
+        { "text": "Jehova gab ihm durch Nathan den Namen Jedidjah („Geliebter Jahs“).", "ref": "2. Samuel 12:24, 25" },
+        { "text": "Er bat um ein gehorsames Herz, um das Volk zu richten.", "ref": "1. Könige 3:9-12" },
+        { "text": "Er baute den Tempel in Jerusalem.", "ref": "1. Könige 6:1, 37, 38" },
+        { "text": "Er hatte 700 Frauen und 300 Nebenfrauen, die sein Herz zu anderen Göttern neigten.", "ref": "1. Könige 11:3, 4" },
+        { "text": "Er schrieb das Hohe Lied und Prediger und viele Sprüche.", "ref": "" }
+      ],
+      "lesson": "",
+      "family": { "father": "david", "mother": "batseba", "spouses": [], "children": ["rehabeam"], "siblings": ["absalom", "Adonia"] },
+      "related": ["nathan", "koenigin-von-saba"],
+      "events": ["salomo-wird-koenig", "salomo-bittet-um-weisheit", "tempelbau", "besuch-der-koenigin-von-saba", "reichsteilung"],
+      "books": ["Sprüche (größtenteils)", "Prediger", "Hohes Lied"],
+      "refs": ["1. Könige 3:5-14", "1. Könige 8:22-61", "1. Könige 11:1-13"],
+      "sources": [
+        { "title": "Salomo – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004178" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "koenigin-von-saba", "name": "Königin von Scheba", "altNames": ["Königin von Saba"], "sex": "f", "tags": ["herrscher"],
+      "role": "Besuchte Salomo", "eras": ["koenigreich"], "dates": [], "year": -1020, "nameMeaning": "",
+      "summary": "Die Bibel nennt den Namen dieser Königin nicht. Sie herrschte über Scheba, ein wohlhabendes Königreich wahrscheinlich im Südwesten Arabiens, das für Gold und Duftstoffe bekannt war. Sie hatte vom Ruf Salomos „in Verbindung mit dem Namen Jehovas“ gehört und kam mit einem großen Tross nach Jerusalem, um ihn mit schwierigen Fragen zu prüfen. Jesus erwähnte sie später als Beispiel.",
+      "facts": [
+        { "text": "Sie kam mit Kamelen voll Balsamöl, Gold und Edelsteinen.", "ref": "1. Könige 10:1, 2" },
+        { "text": "Sie prüfte Salomo mit schwierigen Fragen.", "ref": "1. Könige 10:1" },
+        { "text": "Sie pries Jehova, Salomos Gott.", "ref": "1. Könige 10:9" },
+        { "text": "Jesus sagte, sie sei von den Enden der Erde gekommen, um Salomos Weisheit zu hören.", "ref": "Matthäus 12:42" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["salomo"], "events": ["besuch-der-koenigin-von-saba"], "books": [],
+      "refs": ["1. Könige 10:1-13", "Matthäus 12:42"],
+      "sources": [{ "title": "Scheba – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003970" }]
+    }
+  ],
+  "events": [
+    {
+      "id": "saul-wird-koenig", "title": "Saul wird König", "era": "koenigreich", "year": -1117, "dateLabel": "1117 v. u. Z.", "place": "Rama; Mizpa",
+      "summary": "Als Saul die verlorenen Eselinnen seines Vaters suchte, führte Jehova ihn zu Samuel. Samuel salbte ihn heimlich zum König und gab ihm drei Zeichen, die sich noch am selben Tag erfüllten. Später wurde Saul in Mizpa durch das Los als König bestätigt – er hatte sich zunächst beim Gepäck versteckt. Nach einem Sieg über die Ammoniter wurde sein Königtum in Gilgal erneuert.",
+      "facts": [
+        { "text": "Saul zeigte anfangs ein bescheidenes Wesen.", "ref": "1. Samuel 9:21" },
+        { "text": "Samuel salbte ihn mit Öl.", "ref": "1. Samuel 10:1" },
+        { "text": "In Mizpa fiel das Los auf ihn.", "ref": "1. Samuel 10:20-24" },
+        { "text": "Er regierte 40 Jahre.", "ref": "Apostelgeschichte 13:21" }
+      ],
+      "significance": "Mit Saul begann die Zeit der Könige über alle zwölf Stämme Israels.", "persons": ["saul", "samuel"], "refs": ["1. Samuel 9:1–11:15"],
+      "sources": [
+        { "title": "Saul – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003847" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "david-wird-gesalbt", "title": "Samuel salbt David", "era": "koenigreich", "year": -1092, "dateLabel": "Zeitpunkt unbekannt", "place": "Bethlehem",
+      "summary": "Nachdem Jehova Saul als König verworfen hatte, sandte er Samuel nach Bethlehem in das Haus Isais. Keiner der älteren Söhne war der Erwählte, denn „Jehova sieht, wie das Herz ist“. Schließlich wurde David geholt, der jüngste, der die Schafe hütete. Samuel salbte ihn, und Jehovas Geist kam von diesem Tag an über David.",
+      "facts": [
+        { "text": "Samuel sollte einen der Söhne Isais salben.", "ref": "1. Samuel 16:1" },
+        { "text": "Jehova sieht nicht das Äußere, sondern das Herz.", "ref": "1. Samuel 16:7" },
+        { "text": "David, der Jüngste, wurde gesalbt.", "ref": "1. Samuel 16:11-13" },
+        { "text": "Der Geist Jehovas wich von Saul.", "ref": "1. Samuel 16:14" }
+      ],
+      "significance": "", "persons": ["samuel", "david", "saul"], "refs": ["1. Samuel 16:1-13"],
+      "sources": [{ "title": "David – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001130" }]
+    },
+    {
+      "id": "david-und-goliath", "title": "David besiegt Goliath", "era": "koenigreich", "year": -1091, "dateLabel": "Kurz nach Davids Salbung", "place": "Tal Ela (zwischen Socho und Aseka)",
+      "summary": "Die Heere Israels und der Philister standen sich gegenüber, als der Riese Goliath Israel verhöhnte und einen Zweikampf forderte. Der junge David, der Lebensmittel zu seinen Brüdern brachte, trat ihm entgegen – nicht in Sauls Rüstung, sondern mit Stab und Schleuder und „im Namen Jehovas“. Mit dem ersten Stein traf er Goliath an der Stirn und tötete ihn; die Philister flohen.",
+      "facts": [
+        { "text": "Goliath forderte Israel 40 Tage lang heraus.", "ref": "1. Samuel 17:16" },
+        { "text": "David hatte schon einen Löwen und einen Bären besiegt.", "ref": "1. Samuel 17:34-37" },
+        { "text": "„Ich komme zu dir mit dem Namen Jehovas der Heerscharen.“", "ref": "1. Samuel 17:45" },
+        { "text": "Der Stein drang in Goliaths Stirn ein.", "ref": "1. Samuel 17:49" }
+      ],
+      "significance": "", "persons": ["david", "goliath", "saul"], "refs": ["1. Samuel 17:1-58"],
+      "sources": [{ "title": "Goliath – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001739" }]
+    },
+    {
+      "id": "david-flieht-vor-saul", "title": "David auf der Flucht vor Saul", "era": "koenigreich", "year": -1088, "dateLabel": "Zeitpunkt unbekannt", "place": "Wildnis von Juda; Ziklag",
+      "summary": "Davids Erfolge machten Saul eifersüchtig; mehrmals versuchte er, David zu töten. Mit Hilfe Michals und Jonathans entkam David und lebte jahrelang als Flüchtling in der Wildnis. Zweimal hätte er Saul töten können, verschonte ihn aber, weil er „den Gesalbten Jehovas“ nicht antasten wollte. In dieser Zeit bewahrte ihn Abigail vor Blutschuld.",
+      "facts": [
+        { "text": "Saul warf einen Speer nach David.", "ref": "1. Samuel 18:10, 11" },
+        { "text": "Jonathan schloss einen Bund mit David.", "ref": "1. Samuel 20:16, 17" },
+        { "text": "David verschonte Saul in einer Höhle.", "ref": "1. Samuel 24:3-7" },
+        { "text": "Abigail hielt ihn davon ab, Rache zu üben.", "ref": "1. Samuel 25:32-34" }
+      ],
+      "significance": "", "persons": ["david", "saul", "jonathan", "michal", "abigail"], "refs": ["1. Samuel 18:6–27:12"],
+      "sources": [{ "title": "David – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001130" }]
+    },
+    {
+      "id": "sauls-tod", "title": "Saul und Jonathan sterben", "era": "koenigreich", "year": -1078, "dateLabel": "um 1078 v. u. Z.", "place": "Berg Gilboa",
+      "summary": "Im Krieg gegen die Philister erreichte die Schlacht auf dem Berg Gilboa ihren Höhepunkt. Saul und drei seiner Söhne, darunter Jonathan, kamen ums Leben. David trauerte um sie und dichtete ein Klagelied, in dem er die Freundschaft Jonathans würdigte.",
+      "facts": [
+        { "text": "Zuvor hatte Saul ein Geistermedium in En-Dor befragt.", "ref": "1. Samuel 28:7-19" },
+        { "text": "Saul und drei seiner Söhne fielen am Gilboa.", "ref": "1. Samuel 31:1-6" },
+        { "text": "David beklagte Saul und Jonathan in einem Lied.", "ref": "2. Samuel 1:17-27" }
+      ],
+      "significance": "", "persons": ["saul", "jonathan", "david"], "refs": ["1. Samuel 31:1-13", "2. Samuel 1:17-27"],
+      "sources": [
+        { "title": "Jonathan – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002506" },
+        { "title": "David – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001130" }
+      ]
+    },
+    {
+      "id": "david-koenig-in-hebron", "title": "David wird König in Hebron", "era": "koenigreich", "year": -1077, "dateLabel": "1077 v. u. Z.", "place": "Hebron",
+      "summary": "Nach Sauls Tod zog David nach Hebron. Dort salbten ihn die älteren Männer Judas im Alter von 30 Jahren zum König über ihren Stamm. Über die übrigen Stämme regierte zunächst Sauls Sohn Isch-Boscheth; nach dessen Tod kamen alle Stämme zu David.",
+      "facts": [
+        { "text": "Die Männer Judas salbten David in Hebron.", "ref": "2. Samuel 2:1-4" },
+        { "text": "Isch-Boscheth wurde König über die anderen Stämme.", "ref": "2. Samuel 2:8-10" },
+        { "text": "David regierte siebeneinhalb Jahre in Hebron.", "ref": "2. Samuel 5:5" }
+      ],
+      "significance": "", "persons": ["david", "joab"], "refs": ["2. Samuel 2:1-11", "2. Samuel 5:1-5"],
+      "sources": [
+        { "title": "David – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001130" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "david-erobert-jerusalem", "title": "David erobert Jerusalem", "era": "koenigreich", "year": -1070, "dateLabel": "1070 v. u. Z.", "place": "Jerusalem (Zion)",
+      "summary": "1070 v. u. Z. wurde David König über ganz Israel. Er eroberte die Festung Zion von den Jebusitern und machte Jerusalem zu seiner Hauptstadt – zur „Stadt Davids“. Von dort aus regierte er weitere 33 Jahre.",
+      "facts": [
+        { "text": "Alle Stämme Israels salbten David in Hebron zum König.", "ref": "2. Samuel 5:1-3" },
+        { "text": "Er nahm die Festung Zion ein.", "ref": "2. Samuel 5:6, 7" },
+        { "text": "Er regierte 33 Jahre in Jerusalem.", "ref": "2. Samuel 5:5" }
+      ],
+      "significance": "Jerusalem wurde zum Mittelpunkt der Anbetung Jehovas und des Königreichs Israel.", "persons": ["david", "joab"], "refs": ["2. Samuel 5:1-10", "1. Chronika 11:4-9"],
+      "sources": [{ "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }]
+    },
+    {
+      "id": "bundeslade-nach-jerusalem", "title": "Die Bundeslade kommt nach Jerusalem", "era": "koenigreich", "year": -1069, "dateLabel": "Nach 1070 v. u. Z.", "place": "Jerusalem",
+      "summary": "David wollte die Bundeslade nach Jerusalem holen. Beim ersten Versuch wurde sie auf einem Wagen gefahren, statt – wie Gott angeordnet hatte – von Leviten getragen, und Ussa starb, als er die Lade berührte. Beim zweiten Mal trugen die Leviten sie, und David tanzte voller Freude vor Jehova, während Michal ihn verachtete.",
+      "facts": [
+        { "text": "Ussa starb, weil er die Lade anfasste.", "ref": "2. Samuel 6:6, 7" },
+        { "text": "Beim zweiten Versuch trugen Leviten die Lade.", "ref": "1. Chronika 15:2, 15" },
+        { "text": "David tanzte mit aller Kraft vor Jehova.", "ref": "2. Samuel 6:14" },
+        { "text": "Michal verachtete ihn in ihrem Herzen.", "ref": "2. Samuel 6:16" }
+      ],
+      "significance": "", "persons": ["david", "michal"], "refs": ["2. Samuel 6:1-23", "1. Chronika 15:1-29"],
+      "sources": [
+        { "title": "Bundeslade – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000369" },
+        { "title": "Michal – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003036" }
+      ]
+    },
+    {
+      "id": "bund-mit-david", "title": "Jehovas Bund mit David", "era": "koenigreich", "year": -1068, "dateLabel": "Nach 1070 v. u. Z.", "place": "Jerusalem",
+      "summary": "David wollte Jehova einen Tempel bauen. Doch durch den Propheten Nathan ließ Jehova ihm sagen, nicht David, sondern einer seiner Nachkommen werde das Haus Jehovas bauen. Stattdessen werde Jehova David ein „Haus“ bauen: Er schloss mit ihm einen Bund für ein Königreich, das für immer in Davids Linie bleiben sollte.",
+      "facts": [
+        { "text": "Nathan ermutigte David zuerst, dann übermittelte er Jehovas Antwort.", "ref": "2. Samuel 7:1-5" },
+        { "text": "Ein Nachkomme Davids sollte den Tempel bauen.", "ref": "2. Samuel 7:12, 13" },
+        { "text": "Davids Thron sollte auf unabsehbare Zeit bestehen.", "ref": "2. Samuel 7:16" },
+        { "text": "Der verheißene „Nachkomme“ sollte aus Davids Familie stammen.", "ref": "Lukas 1:32, 33" }
+      ],
+      "significance": "Jehova versprach David, dass der verheißene „Nachkomme“ aus seiner Familie kommen würde – erfüllt in Jesus.", "persons": ["david", "nathan", "jehova"],
+      "refs": ["2. Samuel 7:1-29", "1. Chronika 17:1-15"],
+      "sources": [
+        { "title": "Nathan – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003184" },
+        { "title": "B1 Das Hauptthema der Bibel – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070221" }
+      ]
+    },
+    {
+      "id": "david-und-batseba", "title": "David sündigt mit Bathseba", "era": "koenigreich", "year": -1060, "dateLabel": "Zeitpunkt unbekannt", "place": "Jerusalem",
+      "summary": "Während sein Heer gegen die Ammoniter kämpfte, sah David vom Dach seines Palastes Bathseba, die Frau Urias. Er beging Ehebruch mit ihr, und als sie schwanger wurde, ließ er Uria an der Front sterben. Der Prophet Nathan hielt ihm mit einem Gleichnis seine Sünde vor. David bereute aufrichtig – Psalm 51 bringt seine Reue zum Ausdruck –, musste aber die Folgen tragen.",
+      "facts": [
+        { "text": "David ließ Bathseba in den Palast holen.", "ref": "2. Samuel 11:2-4" },
+        { "text": "Er ließ Uria an der gefährlichsten Stelle kämpfen.", "ref": "2. Samuel 11:14-17" },
+        { "text": "Nathan sagte: „Du selbst bist der Mann!“", "ref": "2. Samuel 12:7" },
+        { "text": "David bekannte: „Ich habe gegen Jehova gesündigt.“", "ref": "2. Samuel 12:13" }
+      ],
+      "significance": "", "persons": ["david", "batseba", "uria", "nathan", "joab"], "refs": ["2. Samuel 11:1–12:25", "Psalm 51:1-19"],
+      "sources": [
+        { "title": "Bathseba – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000581" },
+        { "title": "Uria – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004521" }
+      ]
+    },
+    {
+      "id": "absaloms-aufstand", "title": "Absaloms Aufstand", "era": "koenigreich", "year": -1045, "dateLabel": "Zeitpunkt unbekannt", "place": "Hebron; Jerusalem; Wald Ephraim",
+      "summary": "Davids Sohn Absalom gewann durch Schmeichelei die Herzen vieler Israeliten und ließ sich in Hebron zum König ausrufen. David musste aus Jerusalem fliehen. In der entscheidenden Schlacht im Wald Ephraim wurde Absaloms Heer geschlagen; Absalom verfing sich mit dem Kopf in einem großen Baum und wurde von Joab getötet. David trauerte bitterlich um seinen Sohn.",
+      "facts": [
+        { "text": "Absalom stahl die Herzen der Männer Israels.", "ref": "2. Samuel 15:6" },
+        { "text": "David floh aus Jerusalem.", "ref": "2. Samuel 15:14" },
+        { "text": "Joab tötete Absalom gegen Davids Wunsch.", "ref": "2. Samuel 18:5, 14" },
+        { "text": "David rief: „Mein Sohn Absalom!“", "ref": "2. Samuel 18:33" }
+      ],
+      "significance": "", "persons": ["absalom", "david", "joab"], "refs": ["2. Samuel 15:1–18:33"],
+      "sources": [
+        { "title": "Absalom – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000063" },
+        { "title": "Joab – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002469" }
+      ]
+    },
+    {
+      "id": "salomo-wird-koenig", "title": "Salomo wird König", "era": "koenigreich", "year": -1037, "dateLabel": "1037 v. u. Z.", "place": "Jerusalem (Gihon)",
+      "summary": "Als David alt war, versuchte sein Sohn Adonia, den Thron an sich zu reißen. Doch Nathan und Bathseba erinnerten David an seinen Eid, dass Salomo ihm folgen sollte. David ließ Salomo daraufhin zum König salben. Bevor David starb, ermahnte er Salomo, auf Jehovas Wegen zu wandeln.",
+      "facts": [
+        { "text": "Adonia ließ sich zum König ausrufen.", "ref": "1. Könige 1:5" },
+        { "text": "Nathan und Bathseba sprachen bei David vor.", "ref": "1. Könige 1:11-31" },
+        { "text": "Salomo wurde am Gihon gesalbt.", "ref": "1. Könige 1:38, 39" },
+        { "text": "David ermahnte Salomo, Jehovas Gebote zu halten.", "ref": "1. Könige 2:1-4" }
+      ],
+      "significance": "", "persons": ["salomo", "david", "nathan", "batseba"], "refs": ["1. Könige 1:1–2:12"],
+      "sources": [
+        { "title": "Salomo – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004178" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "salomo-bittet-um-weisheit", "title": "Salomo bittet um Weisheit", "era": "koenigreich", "year": -1036, "dateLabel": "Zu Beginn seiner Herrschaft", "place": "Gibeon",
+      "summary": "In Gibeon erschien Jehova Salomo in einem Traum und forderte ihn auf, um etwas zu bitten. Salomo bat nicht um Reichtum oder ein langes Leben, sondern um ein gehorsames Herz, um das Volk zu richten und Gut und Böse zu unterscheiden. Jehova gab ihm außergewöhnliche Weisheit – und dazu Reichtum und Ehre.",
+      "facts": [
+        { "text": "Salomo nannte sich einen „kleinen Jungen“.", "ref": "1. Könige 3:7" },
+        { "text": "Er bat um ein gehorsames Herz.", "ref": "1. Könige 3:9" },
+        { "text": "Jehova gab ihm Weisheit, Reichtum und Ehre.", "ref": "1. Könige 3:12, 13" },
+        { "text": "Seine Weisheit zeigte sich im Streit zweier Frauen um ein Kind.", "ref": "1. Könige 3:16-28" }
+      ],
+      "significance": "", "persons": ["salomo", "jehova"], "refs": ["1. Könige 3:4-28"],
+      "sources": [{ "title": "Salomo – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004178" }]
+    },
+    {
+      "id": "tempelbau", "title": "Der Tempel wird gebaut", "era": "koenigreich", "year": -1034, "dateLabel": "1034–1027 v. u. Z.", "place": "Jerusalem (Berg Moria)",
+      "summary": "Im zweiten Monat des vierten Regierungsjahres Salomos – im Frühjahr 1034 v. u. Z. – begann der Bau des Tempels, 479 volle Jahre nach dem Auszug aus Ägypten. Nach rund sieben Jahren wurde er 1027 v. u. Z. vollendet. Bei der Einweihung betete Salomo, und Jehovas Herrlichkeit erfüllte das Haus.",
+      "facts": [
+        { "text": "Der Bau begann im 480. Jahr nach dem Auszug.", "ref": "1. Könige 6:1" },
+        { "text": "Der Tempel wurde nach sieben Jahren vollendet.", "ref": "1. Könige 6:37, 38" },
+        { "text": "Salomo sprach bei der Einweihung ein Gebet.", "ref": "1. Könige 8:22-53" },
+        { "text": "Die Herrlichkeit Jehovas erfüllte das Haus.", "ref": "2. Chronika 7:1-3" }
+      ],
+      "significance": "Das Datum 1034 v. u. Z. ist ein wichtiger Anhaltspunkt der biblischen Zeitrechnung.", "persons": ["salomo"], "refs": ["1. Könige 6:1-38", "1. Könige 8:1-66"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Tempel – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004359" },
+        { "title": "B8 Der Tempel Salomos – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070228" }
+      ]
+    },
+    {
+      "id": "besuch-der-koenigin-von-saba", "title": "Die Königin von Scheba besucht Salomo", "era": "koenigreich", "year": -1020, "dateLabel": "Nach der Vollendung von Salomos Bauten", "place": "Jerusalem",
+      "summary": "Einige Zeit nachdem Salomo viele Bauwerke vollendet hatte, kam die Königin von Scheba nach Jerusalem. Sie hatte vom Ruf Salomos „in Verbindung mit dem Namen Jehovas“ gehört und prüfte ihn mit schwierigen Fragen. Überwältigt von seiner Weisheit und dem Wohlstand seines Reiches pries sie Jehova und beschenkte den König reich.",
+      "facts": [
+        { "text": "Sie kam mit einem eindrucksvollen Tross.", "ref": "1. Könige 10:1, 2" },
+        { "text": "Salomo beantwortete alle ihre Fragen.", "ref": "1. Könige 10:3" },
+        { "text": "Sie sagte, nicht die Hälfte sei ihr berichtet worden.", "ref": "1. Könige 10:7" },
+        { "text": "Jesus erwähnte ihren Besuch.", "ref": "Lukas 11:31" }
+      ],
+      "significance": "", "persons": ["koenigin-von-saba", "salomo"], "refs": ["1. Könige 10:1-13", "2. Chronika 9:1-12"],
+      "sources": [{ "title": "Scheba – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003970" }]
+    }
+  ]
+}

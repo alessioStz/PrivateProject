@@ -1,0 +1,527 @@
+{
+  "batch": "b03",
+  "persons": [
+    {
+      "id": "jochebed", "name": "Jochebed", "altNames": [], "sex": "f", "tags": [],
+      "role": "Mutter von Moses, Aaron und Mirjam", "eras": ["aegypten"], "dates": [], "year": -1620, "nameMeaning": "„Jehova ist Herrlichkeit“ (vielleicht)",
+      "summary": "Jochebed, eine Tochter Levis, war mit Amram verheiratet und die Mutter von Mirjam, Aaron und Moses. Sie glaubte fest an Jehova: Trotz Pharaos Befehl tötete sie ihren neugeborenen Sohn nicht, sondern verbarg ihn drei Monate lang und legte ihn dann in einem Papyruskästchen ins Schilf am Nil. Pharaos Tochter fand ihn – und Jochebed durfte ihn stillen.",
+      "facts": [
+        { "text": "Sie verbarg ihren Säugling drei Monate lang.", "ref": "2. Mose 2:2" },
+        { "text": "Sie legte ihn in einem Papyruskästchen ins Schilf am Nil.", "ref": "2. Mose 2:3" },
+        { "text": "Pharaos Tochter beauftragte sie, das Kind zu stillen.", "ref": "2. Mose 2:7-9" },
+        { "text": "Mit ihrem Mann lehrte sie ihre Kinder die reine Anbetung.", "ref": "" }
+      ],
+      "lesson": "",
+      "family": { "father": "levi", "mother": "", "spouses": ["Amram"], "children": ["mirjam", "aaron", "moses"], "siblings": [] },
+      "related": [], "events": ["geburt-moses"], "books": [],
+      "refs": ["2. Mose 2:1-10", "2. Mose 6:20", "Hebräer 11:23"],
+      "sources": [{ "title": "Jochebed – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002478" }]
+    },
+    {
+      "id": "moses", "name": "Moses", "altNames": ["Mose"], "sex": "m", "tags": ["prophet", "schreiber"],
+      "role": "Prophet, Führer Israels, Mittler des Gesetzesbundes", "eras": ["aegypten"],
+      "dates": [{ "label": "Lebenszeit", "value": "1593–1473 v. u. Z." }, { "label": "Alter", "value": "120 Jahre" }],
+      "year": -1593, "nameMeaning": "„Herausgezogen“ (d. h. aus dem Wasser errettet)",
+      "summary": "Moses, „der Mann des wahren Gottes“, war Führer der Nation Israel, Mittler des Gesetzesbundes, Prophet, Richter und Bibelschreiber. Als Säugling vor Pharaos Mordbefehl gerettet, wuchs er am Hof Pharaos auf, entschied sich aber für Gottes Volk. Nach 40 Jahren in Midian sandte ihn Jehova, Israel aus Ägypten zu führen. Er leitete das Volk 40 Jahre durch die Wildnis und starb mit 120 Jahren auf dem Berg Nebo.",
+      "facts": [
+        { "text": "Geboren 1593 v. u. Z.; Pharaos Tochter adoptierte ihn.", "ref": "2. Mose 2:1-10" },
+        { "text": "Er wurde in aller Weisheit der Ägypter unterwiesen.", "ref": "Apostelgeschichte 7:22" },
+        { "text": "Mit 40 Jahren stellte er sich auf die Seite seines Volkes und musste nach Midian fliehen.", "ref": "Hebräer 11:24, 25" },
+        { "text": "Mit 80 Jahren beauftragte ihn Jehova am Horeb aus einem brennenden Dornbusch.", "ref": "2. Mose 3:1-15" },
+        { "text": "Er führte Israel 1513 v. u. Z. aus Ägypten und vermittelte den Gesetzesbund.", "ref": "2. Mose 24:3-8" },
+        { "text": "Er starb mit 120 Jahren, nachdem er das Land vom Nebo aus gesehen hatte.", "ref": "5. Mose 34:1-7" }
+      ],
+      "lesson": "",
+      "family": { "father": "Amram", "mother": "jochebed", "spouses": ["zippora"], "children": ["Gerschom", "Elieser"], "siblings": ["aaron", "mirjam"] },
+      "related": ["josua", "jethro"],
+      "events": ["geburt-moses", "moses-flieht-nach-midian", "brennender-dornbusch", "zehn-plagen", "erstes-passah", "auszug-aus-aegypten", "durchzug-rotes-meer", "manna", "gesetzesbund", "goldenes-kalb", "stiftshuette", "zwoelf-kundschafter", "korahs-aufstand", "kupferschlange", "tod-moses"],
+      "books": ["1. Mose", "2. Mose", "3. Mose", "4. Mose", "5. Mose", "Hiob"],
+      "refs": ["2. Mose 3:1-15", "4. Mose 12:3", "5. Mose 34:5-12", "Hebräer 11:23-29"],
+      "sources": [
+        { "title": "Moses – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003118" },
+        { "title": "Exodus (2. Mose) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001459" },
+        { "title": "Hiob – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002475" }
+      ]
+    },
+    {
+      "id": "aaron", "name": "Aaron", "altNames": [], "sex": "m", "tags": ["priester", "prophet"],
+      "role": "Erster Hoher Priester Israels", "eras": ["aegypten"],
+      "dates": [{ "label": "Lebenszeit", "value": "1597–1474 v. u. Z." }, { "label": "Alter", "value": "123 Jahre" }],
+      "year": -1597, "nameMeaning": "",
+      "summary": "Aaron, der ältere Bruder von Moses, wurde Israels erster Hoher Priester. Weil Moses meinte, nicht gut reden zu können, bestimmte Jehova Aaron zu seinem Sprecher; der 83-Jährige trat für ihn vor Pharao. Später ließ er sich vom Volk drängen, das goldene Kalb zu machen. Er starb 1474 v. u. Z. mit 123 Jahren.",
+      "facts": [
+        { "text": "Er diente Moses als „Mund“ vor den Ältesten und vor Pharao.", "ref": "2. Mose 4:14-16" },
+        { "text": "Er wirkte das erste Zeichen vor Pharao und gab das Signal für die erste Plage.", "ref": "2. Mose 7:9-20" },
+        { "text": "Auf Drängen des Volkes machte er das goldene Kalb.", "ref": "2. Mose 32:1-6" },
+        { "text": "Er wurde mit seinen Söhnen in den Priesterdienst eingesetzt.", "ref": "3. Mose 8:1-36" },
+        { "text": "Er starb mit 123 Jahren auf dem Berg Hor.", "ref": "4. Mose 33:39" }
+      ],
+      "lesson": "",
+      "family": { "father": "Amram", "mother": "jochebed", "spouses": ["Elischeba"], "children": ["Nadab", "Abihu", "Eleasar", "Ithamar"], "siblings": ["moses", "mirjam"] },
+      "related": ["pinehas"], "events": ["brennender-dornbusch", "zehn-plagen", "erstes-passah", "goldenes-kalb", "stiftshuette", "korahs-aufstand"], "books": [],
+      "refs": ["2. Mose 4:14-16", "2. Mose 28:1", "4. Mose 17:8", "4. Mose 20:23-29"],
+      "sources": [{ "title": "Aaron – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000005" }]
+    },
+    {
+      "id": "mirjam", "name": "Mirjam", "altNames": [], "sex": "f", "tags": ["prophet"],
+      "role": "Prophetin, Schwester von Moses und Aaron", "eras": ["aegypten"], "dates": [], "year": -1605, "nameMeaning": "„Rebellisch“ (vielleicht)",
+      "summary": "Mirjam war die ältere Schwester von Moses und Aaron. Als Mädchen passte sie am Nil auf ihren kleinen Bruder auf und sorgte geschickt dafür, dass seine eigene Mutter ihn stillen durfte. Nach dem Durchzug durch das Rote Meer führte „Mirjam, die Prophetin“, die Frauen beim Lobgesang an. Weil sie gegen Moses murrte, wurde sie vorübergehend mit Aussatz geschlagen.",
+      "facts": [
+        { "text": "Sie beobachtete am Nil, was mit dem kleinen Moses geschah.", "ref": "2. Mose 2:4-8" },
+        { "text": "Sie leitete die Frauen beim Tamburinspiel und Gesang.", "ref": "2. Mose 15:20, 21" },
+        { "text": "Wegen ihres Murrens gegen Moses wurde sie aussätzig.", "ref": "4. Mose 12:1-15" },
+        { "text": "Nach sieben Tagen außerhalb des Lagers durfte sie zurückkehren.", "ref": "4. Mose 12:15" }
+      ],
+      "lesson": "",
+      "family": { "father": "Amram", "mother": "jochebed", "spouses": [], "children": [], "siblings": ["moses", "aaron"] },
+      "related": [], "events": ["geburt-moses", "durchzug-rotes-meer"], "books": [],
+      "refs": ["2. Mose 2:4-8", "2. Mose 15:20, 21", "4. Mose 12:1-15"],
+      "sources": [{ "title": "Mirjam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003074" }]
+    },
+    {
+      "id": "schiphra-und-pua", "name": "Schiphra und Pua", "altNames": ["Schiphra", "Pua"], "sex": "f", "tags": [],
+      "role": "Hebräische Hebammen in Ägypten", "eras": ["aegypten"], "dates": [], "year": -1595, "nameMeaning": "Schiphra: „Angenehm“, „Schön“",
+      "summary": "Schiphra und Pua waren zwei hebräische Hebammen in Ägypten. Pharao befahl ihnen, alle neugeborenen Jungen der Hebräer zu töten. Weil sie Gott fürchteten und die Heiligkeit des menschlichen Lebens respektierten, ließen sie die Jungen am Leben. Jehova segnete sie später mit eigenen Familien.",
+      "facts": [
+        { "text": "Pharao befahl ihnen, die Jungen der Hebräer zu töten.", "ref": "2. Mose 1:15, 16" },
+        { "text": "Sie fürchteten den wahren Gott und ließen die Kinder leben.", "ref": "2. Mose 1:17" },
+        { "text": "Gott schenkte ihnen eigene Familien.", "ref": "2. Mose 1:20, 21" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["unterdrueckung-in-aegypten"], "books": [],
+      "refs": ["2. Mose 1:15-21"],
+      "sources": [
+        { "title": "Schiphra – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004066" },
+        { "title": "Pua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003574" }
+      ]
+    },
+    {
+      "id": "jethro", "name": "Jethro", "altNames": ["Reguel"], "sex": "m", "tags": ["priester"],
+      "role": "Priester von Midian, Schwiegervater von Moses", "eras": ["aegypten"], "dates": [], "year": -1560, "nameMeaning": "von einer Wurzel mit der Bedeutung „mehr als genug“",
+      "summary": "Jethro, auch Reuel genannt, war ein Keniter und „der Priester von Midian“ – das Haupt einer großen Familie. Moses lebte 40 Jahre bei ihm und hütete seine Herden. Später besuchte Jethro Moses in der Wildnis und gab ihm den klugen Rat, tüchtige Männer als Oberste einzusetzen, die ihm beim Richten helfen sollten.",
+      "facts": [
+        { "text": "Er hatte mindestens sieben Töchter.", "ref": "2. Mose 2:16" },
+        { "text": "Er gab Moses seine Tochter Zippora zur Frau.", "ref": "2. Mose 2:21" },
+        { "text": "Er riet Moses, die Last des Richtens auf andere zu verteilen.", "ref": "2. Mose 18:13-26" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": ["zippora"], "siblings": [] },
+      "related": ["moses"], "events": ["moses-flieht-nach-midian"], "books": [],
+      "refs": ["2. Mose 2:15-22", "2. Mose 18:1-27"],
+      "sources": [{ "title": "Jethro – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002454" }]
+    },
+    {
+      "id": "zippora", "name": "Zippora", "altNames": [], "sex": "f", "tags": [],
+      "role": "Frau von Moses", "eras": ["aegypten"], "dates": [], "year": -1560, "nameMeaning": "„Vogel“ (vielleicht „Kleiner Vogel“)",
+      "summary": "Zippora, eine Tochter Jethros, lernte Moses an einem Brunnen in Midian kennen, als er ihr und ihren Schwestern gegen Hirten half und ihre Herde tränkte. Sie wurde seine Frau und gebar ihm zwei Söhne, Gerschom und Elieser. Auf dem Weg nach Ägypten beschnitt sie in einer gefährlichen Situation ihren Sohn.",
+      "facts": [
+        { "text": "Moses half ihr und ihren Schwestern am Brunnen.", "ref": "2. Mose 2:16-21" },
+        { "text": "Sie gebar Gerschom und Elieser.", "ref": "2. Mose 18:3, 4" },
+        { "text": "Sie beschnitt ihren Sohn, als Gefahr drohte.", "ref": "2. Mose 4:24-26" }
+      ],
+      "lesson": "",
+      "family": { "father": "jethro", "mother": "", "spouses": ["moses"], "children": ["Gerschom", "Elieser"], "siblings": [] },
+      "related": [], "events": ["moses-flieht-nach-midian"], "books": [],
+      "refs": ["2. Mose 2:16-22", "2. Mose 4:24-26", "2. Mose 18:2-6"],
+      "sources": [{ "title": "Zippora – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004748" }]
+    },
+    {
+      "id": "korah", "name": "Korah", "altNames": [], "sex": "m", "tags": [],
+      "role": "Levit, Anführer eines Aufstands", "eras": ["aegypten"], "dates": [], "year": -1500, "nameMeaning": "„Kahl“ (vielleicht)",
+      "summary": "Korah war ein kehathitischer Levit. Während der Wüstenwanderung verbündete er sich mit den Rubenitern Dathan, Abiram und On sowie mit 250 angesehenen Vorstehern und lehnte sich gegen die Autorität von Moses und Aaron auf. Jehova vollstreckte das Urteil: Die Erde verschlang die Aufrührer, und Feuer verzehrte die 250 Männer.",
+      "facts": [
+        { "text": "Er behauptete, die ganze Gemeinde sei heilig – warum sollten sich Moses und Aaron erheben?", "ref": "4. Mose 16:3" },
+        { "text": "Mit 250 Männern erschien er mit Feuerbecken vor Jehova.", "ref": "4. Mose 16:16-18" },
+        { "text": "Die Erde tat ihren Mund auf und verschlang die Aufrührer.", "ref": "4. Mose 16:31-33" },
+        { "text": "Die Söhne Korahs starben jedoch nicht.", "ref": "4. Mose 26:11" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jizhar", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["moses", "aaron"], "events": ["korahs-aufstand"], "books": [],
+      "refs": ["4. Mose 16:1-50", "Judas 11"],
+      "sources": [{ "title": "Korah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002648" }]
+    },
+    {
+      "id": "bileam", "name": "Bileam", "altNames": [], "sex": "m", "tags": [],
+      "role": "Wahrsager aus Pethor", "eras": ["aegypten"], "dates": [{ "label": "Zeit", "value": "15. Jahrhundert v. u. Z." }], "year": -1474, "nameMeaning": "„Verschlinger“ (vielleicht)",
+      "summary": "Bileam, der Sohn Beors, wohnte in Pethor am oberen Euphrat und kannte Jehova. Der Moabiterkönig Balak bot ihm Lohn, damit er Israel verfluche. Unterwegs stellte sich ihm Jehovas Engel in den Weg, und seine Eselin begann zu sprechen. Statt zu fluchen, musste Bileam Israel segnen – doch später riet er, Israel zur Sünde zu verleiten.",
+      "facts": [
+        { "text": "Er lehnte die erste Abordnung Balaks ab.", "ref": "4. Mose 22:5-14" },
+        { "text": "Seine Eselin sprach durch ein Wunder zu ihm.", "ref": "4. Mose 22:28" },
+        { "text": "Er segnete Israel, statt es zu verfluchen.", "ref": "4. Mose 23:11, 12" },
+        { "text": "Er riet, Israel zur Untreue gegenüber Jehova zu verleiten.", "ref": "4. Mose 31:16" }
+      ],
+      "lesson": "",
+      "family": { "father": "Beor", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["bileam-und-balak"], "books": [],
+      "refs": ["4. Mose 22:1–24:25", "2. Petrus 2:15, 16", "Offenbarung 2:14"],
+      "sources": [{ "title": "Bileam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000543" }]
+    },
+    {
+      "id": "pinehas", "name": "Pinehas", "altNames": [], "sex": "m", "tags": ["priester"],
+      "role": "Enkel Aarons, später Hoher Priester", "eras": ["aegypten", "richter"], "dates": [], "year": -1475, "nameMeaning": "",
+      "summary": "Pinehas war der Sohn Eleasars und ein Enkel Aarons. Als Israel in den Ebenen Moabs dem Baal von Peor diente und eine Plage 24 000 Menschen das Leben kostete, griff er entschlossen ein. Weil er keine Rivalität gegenüber Jehova duldete, sicherte Gott ihm in einem Bund zu, dass das Priestertum dauerhaft in seiner Linie bleiben werde.",
+      "facts": [
+        { "text": "Sein Eingreifen beendete die Plage nach dem Götzendienst bei Peor.", "ref": "4. Mose 25:6-9" },
+        { "text": "Sein Eifer wurde ihm als Gerechtigkeit angerechnet.", "ref": "Psalm 106:30, 31" },
+        { "text": "Gott schloss mit ihm einen Bund für ein dauerhaftes Priestertum.", "ref": "4. Mose 25:10-13" }
+      ],
+      "lesson": "",
+      "family": { "father": "Eleasar", "mother": "", "spouses": [], "children": ["Abischua"], "siblings": [] },
+      "related": ["aaron"], "events": ["bileam-und-balak"], "books": [],
+      "refs": ["4. Mose 25:1-15", "Psalm 106:30, 31"],
+      "sources": [{ "title": "Pinehas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003472" }]
+    },
+    {
+      "id": "josua", "name": "Josua", "altNames": ["Hoschea"], "sex": "m", "tags": ["schreiber"],
+      "role": "Nachfolger von Moses, Heerführer Israels", "eras": ["richter", "aegypten"], "dates": [{ "label": "Alter", "value": "110 Jahre" }],
+      "year": -1513, "nameMeaning": "„Jehova ist Rettung“",
+      "summary": "Josua, der Sohn Nuns aus dem Stamm Ephraim, diente Moses und wurde später sein Nachfolger. Er war ein mutiger Anführer, der den Verheißungen Jehovas völlig vertraute. Als Kundschafter gab er mit Kaleb einen guten Bericht. Unter seiner Führung zog Israel über den Jordan, nahm das Land Kanaan ein und verteilte es unter die Stämme. Er starb mit 110 Jahren.",
+      "facts": [
+        { "text": "1513 v. u. Z. führte er Israel bei Rephidim gegen die Amalekiter.", "ref": "2. Mose 17:8-13" },
+        { "text": "Mit Kaleb gab er einen guten Bericht über das Land.", "ref": "4. Mose 14:6-9" },
+        { "text": "Er wurde zum Nachfolger von Moses bestimmt.", "ref": "5. Mose 34:9" },
+        { "text": "Er führte Israel über den Jordan und nahm Jericho ein.", "ref": "Josua 6:1-21" },
+        { "text": "Er verteilte das Land durch Lose, später von Silo aus.", "ref": "Josua 18:1-10" },
+        { "text": "Er starb mit 110 Jahren und wurde in Timnath-Serach begraben.", "ref": "Josua 24:29, 30" }
+      ],
+      "lesson": "Josuas unerschütterliche Loyalität wirkte sich auf das ganze Volk aus: Israel diente Jehova alle Tage Josuas.",
+      "family": { "father": "Nun", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["moses", "kaleb"],
+      "events": ["goldenes-kalb", "zwoelf-kundschafter", "tod-moses", "jordan-ueberquerung", "fall-jerichos", "sonne-steht-still", "landverteilung", "tod-josuas"],
+      "books": ["Josua"],
+      "refs": ["4. Mose 14:6-9", "Josua 1:6-9", "Josua 24:14, 15"],
+      "sources": [
+        { "title": "Josua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002523" },
+        { "title": "Josua (Buch) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002524" }
+      ]
+    },
+    {
+      "id": "kaleb", "name": "Kaleb", "altNames": [], "sex": "m", "tags": [],
+      "role": "Treuer Kundschafter aus Juda", "eras": ["aegypten", "richter"], "dates": [], "year": -1552, "nameMeaning": "„Hund“",
+      "summary": "Kaleb, der Sohn Jephunnes aus dem Stamm Juda, war einer der zwölf Kundschafter. Zusammen mit Josua gab er einen guten Bericht und ermutigte das Volk, das Land in Besitz zu nehmen. Weil er „Jehova, seinem Gott, völlig nachgefolgt war“, durfte er als einer der wenigen seiner Generation 1473 v. u. Z. ins Land der Verheißung ziehen. Mit 85 Jahren erbat er sich das Gebiet um Hebron.",
+      "facts": [
+        { "text": "Mit 40 Jahren kundschaftete er das Land 40 Tage lang aus.", "ref": "4. Mose 13:6, 25" },
+        { "text": "Er sagte: „Lasst uns gleich hinaufziehen.“", "ref": "4. Mose 13:30" },
+        { "text": "Er folgte Jehova völlig nach.", "ref": "4. Mose 32:12" },
+        { "text": "Mit 85 Jahren erbat er sich das Bergland um Hebron.", "ref": "Josua 14:10-14" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jephunne", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["josua", "othniel"], "events": ["zwoelf-kundschafter", "landverteilung"], "books": [],
+      "refs": ["4. Mose 13:30", "4. Mose 14:6-9", "Josua 14:6-14"],
+      "sources": [{ "title": "Kaleb – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000863" }]
+    }
+  ],
+  "events": [
+    {
+      "id": "unterdrueckung-in-aegypten", "title": "Israel wird in Ägypten unterdrückt", "era": "aegypten", "year": -1650, "dateLabel": "Nach dem Tod Josephs (1657 v. u. Z.)", "place": "Ägypten",
+      "summary": "Nach dem Tod Josephs vermehrten sich die Israeliten in Ägypten stark. Ein neuer König, der Joseph nicht kannte, zwang sie zu harter Sklavenarbeit. Als sie sich trotzdem weiter vermehrten, befahl Pharao den Hebammen, alle neugeborenen hebräischen Jungen zu töten – doch Schiphra und Pua fürchteten Gott und ließen die Kinder leben.",
+      "facts": [
+        { "text": "Die Israeliten wurden sehr zahlreich.", "ref": "2. Mose 1:7" },
+        { "text": "Ein neuer König bedrückte sie mit Zwangsarbeit.", "ref": "2. Mose 1:8-14" },
+        { "text": "Die Hebammen ließen die Jungen am Leben.", "ref": "2. Mose 1:15-21" },
+        { "text": "Pharao befahl, die neugeborenen Jungen in den Nil zu werfen.", "ref": "2. Mose 1:22" }
+      ],
+      "significance": "", "persons": ["schiphra-und-pua"], "refs": ["2. Mose 1:1-22"],
+      "sources": [
+        { "title": "Exodus (2. Mose) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001459" },
+        { "title": "Schiphra – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004066" }
+      ]
+    },
+    {
+      "id": "geburt-moses", "title": "Moses wird geboren", "era": "aegypten", "year": -1593, "dateLabel": "1593 v. u. Z.", "place": "Ägypten",
+      "summary": "Trotz Pharaos Befehl, alle hebräischen Jungen zu töten, verbarg Jochebed ihren Sohn drei Monate lang. Dann legte sie ihn in einem Papyruskästchen ins Schilf am Nil, wo ihn Pharaos Tochter fand. Durch das kluge Vorgehen seiner Schwester durfte seine eigene Mutter ihn stillen; später adoptierte ihn Pharaos Tochter und nannte ihn Moses.",
+      "facts": [
+        { "text": "Seine Mutter verbarg ihn drei Monate lang.", "ref": "2. Mose 2:2" },
+        { "text": "Seine Schwester beobachtete, was mit ihm geschah.", "ref": "2. Mose 2:4" },
+        { "text": "Pharaos Tochter nahm ihn als Sohn an.", "ref": "2. Mose 2:10" },
+        { "text": "Seine Eltern handelten im Glauben.", "ref": "Hebräer 11:23" }
+      ],
+      "significance": "", "persons": ["moses", "jochebed", "mirjam"], "refs": ["2. Mose 2:1-10", "Hebräer 11:23"],
+      "sources": [
+        { "title": "Moses – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003118" },
+        { "title": "Jochebed – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002478" }
+      ]
+    },
+    {
+      "id": "moses-flieht-nach-midian", "title": "Moses flieht nach Midian", "era": "aegypten", "year": -1553, "dateLabel": "1553 v. u. Z.", "place": "Midian",
+      "summary": "Mit 40 Jahren sah Moses, wie ein Ägypter einen Hebräer schlug. Er verteidigte seinen Bruder, tötete den Ägypter und begrub ihn im Sand – er hatte sich entschieden, lieber mit Gottes Volk zu leiden, als Ansehen am Hof Pharaos zu genießen. Als die Sache bekannt wurde, floh er nach Midian. Dort heiratete er Zippora und hütete 40 Jahre die Herden Jethros.",
+      "facts": [
+        { "text": "Moses weigerte sich, der Sohn der Tochter Pharaos genannt zu werden.", "ref": "Hebräer 11:24, 25" },
+        { "text": "Er tötete einen Ägypter, der einen Hebräer schlug.", "ref": "2. Mose 2:11, 12" },
+        { "text": "Er floh vor Pharao nach Midian.", "ref": "2. Mose 2:15" },
+        { "text": "In Midian heiratete er Zippora.", "ref": "2. Mose 2:21" }
+      ],
+      "significance": "", "persons": ["moses", "jethro", "zippora"], "refs": ["2. Mose 2:11-22", "Apostelgeschichte 7:23-29"],
+      "sources": [{ "title": "Moses – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003118" }]
+    },
+    {
+      "id": "brennender-dornbusch", "title": "Der brennende Dornbusch", "era": "aegypten", "year": -1514, "dateLabel": "1514 v. u. Z.", "place": "Berg Horeb",
+      "summary": "Als Moses am Horeb die Herde Jethros hütete, sah er einen Dornbusch, der brannte, aber nicht verbrannte. Jehovas Engel sprach aus der Flamme, und Jehova beauftragte den 80-Jährigen, sein Volk aus Ägypten zu befreien. Moses brachte viele Einwände vor; schließlich bestimmte Jehova Aaron zu seinem Sprecher.",
+      "facts": [
+        { "text": "Der Dornbusch brannte, verbrannte aber nicht.", "ref": "2. Mose 3:2" },
+        { "text": "Gott stellte sich als der Gott Abrahams, Isaaks und Jakobs vor.", "ref": "2. Mose 3:6" },
+        { "text": "Gott sprach über die Bedeutung seines Namens.", "ref": "2. Mose 3:13-15" },
+        { "text": "Aaron sollte für Moses sprechen.", "ref": "2. Mose 4:14-16" }
+      ],
+      "significance": "", "persons": ["moses", "aaron", "jehova"], "refs": ["2. Mose 3:1–4:17"],
+      "sources": [{ "title": "Moses – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003118" }]
+    },
+    {
+      "id": "zehn-plagen", "title": "Die zehn Plagen", "era": "aegypten", "year": -1513, "dateLabel": "1513 v. u. Z.", "place": "Ägypten",
+      "summary": "Pharao weigerte sich, Israel ziehen zu lassen. Daraufhin brachte Jehova durch Moses und Aaron zehn Plagen über Ägypten. Nach den ersten drei Plagen waren nur noch die Ägypter betroffen. Durch die zehnte Plage starben alle männlichen Erstgeborenen der Ägypter und ihrer Tiere, während Israel das Passah feierte.",
+      "facts": [
+        { "text": "Aaron gab mit dem Stab das Zeichen für die erste Plage.", "ref": "2. Mose 7:19, 20" },
+        { "text": "Das Land Gosen, wo Israel wohnte, wurde verschont.", "ref": "2. Mose 8:22, 23" },
+        { "text": "Die zehnte Plage traf alle Erstgeborenen Ägyptens.", "ref": "2. Mose 12:29" },
+        { "text": "Jehova vollstreckte Gericht an allen Göttern Ägyptens.", "ref": "2. Mose 12:12" }
+      ],
+      "significance": "", "persons": ["moses", "aaron", "jehova"], "refs": ["2. Mose 7:14–12:36"],
+      "sources": [
+        { "title": "Exodus (2. Mose) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001459" },
+        { "title": "Aaron – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000005" }
+      ]
+    },
+    {
+      "id": "erstes-passah", "title": "Das erste Passah", "era": "aegypten", "year": -1513, "dateLabel": "14. Abib (Nisan) 1513 v. u. Z.", "place": "Ägypten",
+      "summary": "In der Nacht der zehnten Plage feierte Israel das erste Passah: Jede Familie schlachtete ein Lamm und strich etwas von seinem Blut an die Türpfosten. Wo das Blut zu sehen war, ging Jehova vorüber. Das Passah sollte jedes Jahr gefeiert werden; anschließend folgte das siebentägige Fest der ungesäuerten Brote.",
+      "facts": [
+        { "text": "Es wurde um die Zeit des Vollmonds am 14. Abib gefeiert.", "ref": "2. Mose 12:6" },
+        { "text": "Das Blut an den Türpfosten schützte die Erstgeborenen.", "ref": "2. Mose 12:13" },
+        { "text": "Es sollte jedes Jahr gefeiert werden.", "ref": "2. Mose 12:24-27" },
+        { "text": "Christus ist das Passahopfer.", "ref": "1. Korinther 5:7" }
+      ],
+      "significance": "", "persons": ["moses", "aaron"], "refs": ["2. Mose 12:1-28"],
+      "sources": [{ "title": "Passah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003397" }]
+    },
+    {
+      "id": "auszug-aus-aegypten", "title": "Auszug aus Ägypten", "era": "aegypten", "year": -1513, "dateLabel": "1513 v. u. Z.", "place": "Von Ramses nach Sukkoth",
+      "summary": "Nach der zehnten Plage drängten die Ägypter die Israeliten, das Land zu verlassen. So zog Israel nach Ablauf der 430 Jahre „Wohnzeit“ – gerechnet ab 1943 v. u. Z. – aus Ägypten aus, zusammen mit einer großen gemischten Volksmenge. Die Gebeine Josephs nahmen sie mit, und Jehova führte sie mit einer Wolken- und einer Feuersäule.",
+      "facts": [
+        { "text": "Der Auszug geschah genau am Ende der 430 Jahre.", "ref": "2. Mose 12:40, 41" },
+        { "text": "Eine große gemischte Volksmenge zog mit.", "ref": "2. Mose 12:38" },
+        { "text": "Moses nahm die Gebeine Josephs mit.", "ref": "2. Mose 13:19" },
+        { "text": "Eine Wolkensäule und eine Feuersäule führten sie.", "ref": "2. Mose 13:21, 22" }
+      ],
+      "significance": "1513 v. u. Z. ist ein Schlüsseldatum: Israel wurde frei von der Herrschaft Ägyptens.", "persons": ["moses", "aaron"],
+      "refs": ["2. Mose 12:29-42", "2. Mose 13:17-22"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Exodus (2. Mose) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001459" }
+      ]
+    },
+    {
+      "id": "durchzug-rotes-meer", "title": "Durchzug durch das Rote Meer", "era": "aegypten", "year": -1513, "dateLabel": "1513 v. u. Z.", "place": "Rotes Meer",
+      "summary": "Pharao bereute, Israel ziehen gelassen zu haben, und jagte mit seinen Streitwagen hinterher. Am Roten Meer schienen die Israeliten gefangen. Doch Jehova teilte durch ein Wunder das Meer, sodass sie auf trockenem Land hindurchzogen. Als die Ägypter folgten, kehrte das Wasser zurück, und Pharaos Streitmacht kam um. Israel sang ein Siegeslied, und Mirjam leitete die Frauen beim Tanz.",
+      "facts": [
+        { "text": "Jehova teilte das Meer durch einen starken Ostwind.", "ref": "2. Mose 14:21" },
+        { "text": "Israel zog auf trockenem Land hindurch.", "ref": "2. Mose 14:22" },
+        { "text": "Die Streitmacht Pharaos kam im Meer um.", "ref": "2. Mose 14:27, 28" },
+        { "text": "Mirjam, die Prophetin, leitete den Gesang der Frauen.", "ref": "2. Mose 15:20, 21" }
+      ],
+      "significance": "", "persons": ["moses", "mirjam", "aaron"], "refs": ["2. Mose 14:1–15:21", "Hebräer 11:29"],
+      "sources": [
+        { "title": "Rotes Meer – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003669" },
+        { "title": "Mirjam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003074" }
+      ]
+    },
+    {
+      "id": "manna", "title": "Manna in der Wildnis", "era": "aegypten", "year": -1513, "dateLabel": "1513 v. u. Z.", "place": "Wildnis Sin",
+      "summary": "In der Wildnis murrte das Volk über den Mangel an Nahrung. Jehova versorgte es mit Wachteln und mit Manna, das morgens erschien, wenn der Tau verdunstet war. In Verbindung mit dem Manna wurde der Sabbat eingesetzt. Israel aß Manna, bis es 1473 v. u. Z. nach Kanaan kam.",
+      "facts": [
+        { "text": "Manna wurde zuerst in der Wildnis Sin gegeben.", "ref": "2. Mose 16:1-4" },
+        { "text": "Am sechsten Tag sammelten sie die doppelte Menge – für den Sabbat.", "ref": "2. Mose 16:22-26" },
+        { "text": "Das Manna hörte auf, als Israel vom Ertrag des Landes aß.", "ref": "Josua 5:10-12" }
+      ],
+      "significance": "", "persons": ["moses"], "refs": ["2. Mose 16:1-36"],
+      "sources": [
+        { "title": "Manna – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002888" },
+        { "title": "Exodus (2. Mose) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001459" }
+      ]
+    },
+    {
+      "id": "gesetzesbund", "title": "Der Gesetzesbund am Sinai", "era": "aegypten", "year": -1513, "dateLabel": "1513 v. u. Z.", "place": "Berg Sinai",
+      "summary": "Im dritten Monat nach dem Auszug lagerte Israel am Berg Sinai. Jehova lud die Nation ein, sein besonderes Eigentum zu werden, und gab ihr die Zehn Gebote und weitere Gesetze. Der Gesetzesbund wurde über dem Blut von Opfertieren geschlossen; Moses war der Mittler. Das Volk versprach: „Alles, was Jehova geredet hat, wollen wir tun.“",
+      "facts": [
+        { "text": "Israel lagerte im dritten Monat am Sinai.", "ref": "2. Mose 19:1" },
+        { "text": "Jehova gab die Zehn Gebote.", "ref": "2. Mose 20:1-17" },
+        { "text": "Der Bund wurde mit dem Blut von Opfertieren geschlossen.", "ref": "2. Mose 24:5-8" },
+        { "text": "Das Gesetz war wie ein Erzieher, der zu Christus führte.", "ref": "Galater 3:24" }
+      ],
+      "significance": "", "persons": ["moses", "aaron", "jehova"], "refs": ["2. Mose 19:1–24:18", "Galater 3:19-24"],
+      "sources": [
+        { "title": "Exodus (2. Mose) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001459" },
+        { "title": "Zehn Gebote – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004361" },
+        { "title": "Bund – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001054" }
+      ]
+    },
+    {
+      "id": "goldenes-kalb", "title": "Das goldene Kalb", "era": "aegypten", "year": -1513, "dateLabel": "1513 v. u. Z.", "place": "Am Fuß des Sinai",
+      "summary": "Während Moses 40 Tage auf dem Berg Sinai war, drängte das Volk Aaron, ihm einen Gott zu machen. Aaron fertigte ein goldenes Kalb, und das Volk betete es an. Als Moses mit Josua herabkam, zerbrach er die Steintafeln, die Gott ihm gegeben hatte. Die Leviten erwiesen sich als loyal; etwa 3000 Götzenanbeter wurden getötet.",
+      "facts": [
+        { "text": "Moses war 40 Tage und Nächte auf dem Berg.", "ref": "2. Mose 24:18" },
+        { "text": "Aaron machte auf Drängen des Volkes ein goldenes Kalb.", "ref": "2. Mose 32:1-4" },
+        { "text": "Moses zerbrach die Steintafeln.", "ref": "2. Mose 32:19" },
+        { "text": "Die Leviten stellten sich auf Jehovas Seite.", "ref": "2. Mose 32:26-28" }
+      ],
+      "significance": "", "persons": ["moses", "aaron", "josua"], "refs": ["2. Mose 32:1-35"],
+      "sources": [
+        { "title": "Exodus (2. Mose) – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001459" },
+        { "title": "Josua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002523" }
+      ]
+    },
+    {
+      "id": "stiftshuette", "title": "Die Stiftshütte wird errichtet", "era": "aegypten", "year": -1512, "dateLabel": "1. Nisan 1512 v. u. Z.", "place": "Am Berg Sinai",
+      "summary": "Nach den genauen Anweisungen Jehovas bauten die Israeliten die Stiftshütte, ein tragbares Heiligtum, mit Material, das das Volk freiwillig spendete. Am ersten Tag des ersten Monats 1512 v. u. Z. wurde sie aufgerichtet, und Jehova bekundete seine Anerkennung: Die Wolke bedeckte das Zelt der Zusammenkunft, und seine Herrlichkeit erfüllte es.",
+      "facts": [
+        { "text": "Die Materialien kamen aus freiwilligen Spenden.", "ref": "2. Mose 36:3-7" },
+        { "text": "Alles wurde genau nach Jehovas Anweisungen gemacht.", "ref": "2. Mose 39:42, 43" },
+        { "text": "Die Wolke bedeckte das Zelt der Zusammenkunft.", "ref": "2. Mose 40:34" },
+        { "text": "Die Stiftshütte war ein Schatten himmlischer Dinge.", "ref": "Hebräer 8:5" }
+      ],
+      "significance": "", "persons": ["moses", "aaron"], "refs": ["2. Mose 35:4–40:38", "Hebräer 9:1-12"],
+      "sources": [{ "title": "Stiftshütte – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004295" }]
+    },
+    {
+      "id": "zwoelf-kundschafter", "title": "Die zwölf Kundschafter", "era": "aegypten", "year": -1512, "dateLabel": "1512 v. u. Z.", "place": "Kadesch; Land Kanaan",
+      "summary": "Moses sandte zwölf Männer aus, um das Land Kanaan 40 Tage lang auszukundschaften. Zehn von ihnen entmutigten das Volk mit der Behauptung, die Bewohner seien zu stark. Nur Josua und Kaleb vertrauten auf Jehova und gaben einen guten Bericht. Wegen des Unglaubens musste Israel 40 Jahre in der Wildnis bleiben, bis jene Generation gestorben war.",
+      "facts": [
+        { "text": "Die Kundschafter erkundeten das Land 40 Tage lang.", "ref": "4. Mose 13:25" },
+        { "text": "Zehn von ihnen brachten einen schlechten Bericht.", "ref": "4. Mose 13:31-33" },
+        { "text": "Josua und Kaleb ermutigten das Volk.", "ref": "4. Mose 14:6-9" },
+        { "text": "Für jeden Tag ein Jahr: 40 Jahre Wanderung.", "ref": "4. Mose 14:33, 34" }
+      ],
+      "significance": "", "persons": ["josua", "kaleb", "moses"], "refs": ["4. Mose 13:1–14:38"],
+      "sources": [
+        { "title": "Josua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002523" },
+        { "title": "Kaleb – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000863" }
+      ]
+    },
+    {
+      "id": "korahs-aufstand", "title": "Korahs Aufstand", "era": "aegypten", "year": -1500, "dateLabel": "Während der Wanderung durch die Wildnis", "place": "Wildnis",
+      "summary": "Der Levit Korah lehnte sich mit Dathan, Abiram, On und 250 angesehenen Vorstehern gegen Moses und Aaron auf. Jehova entschied den Streit: Die Erde tat sich auf und verschlang die Aufrührer mit ihren Hausgemeinschaften, und Feuer verzehrte die 250 Männer, die Räucherwerk darbrachten. Später bestätigte Jehova Aarons Priestertum durch dessen Stab, der Blüten trieb.",
+      "facts": [
+        { "text": "Die Aufrührer behaupteten, die ganze Gemeinde sei heilig.", "ref": "4. Mose 16:3" },
+        { "text": "Die Erde verschlang die Aufrührer und ihre Familien.", "ref": "4. Mose 16:31-33" },
+        { "text": "Feuer von Jehova verzehrte die 250 Männer.", "ref": "4. Mose 16:35" },
+        { "text": "Aarons Stab trieb Blüten und Mandeln.", "ref": "4. Mose 17:8" }
+      ],
+      "significance": "", "persons": ["korah", "moses", "aaron"], "refs": ["4. Mose 16:1–17:13"],
+      "sources": [{ "title": "Korah – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002648" }]
+    },
+    {
+      "id": "kupferschlange", "title": "Die Kupferschlange", "era": "aegypten", "year": -1474, "dateLabel": "Gegen Ende der Wanderung durch die Wildnis", "place": "Nahe der Grenze Edoms",
+      "summary": "In der Nähe der Grenze Edoms zeigte das Volk erneut einen rebellischen Geist und beklagte sich über Gott und Moses. Da kamen giftige Schlangen, und viele starben. Als das Volk bereute, machte Moses auf Gottes Anweisung eine Schlange aus Kupfer und richtete sie an einer Stange auf; wer gebissen war und auf sie schaute, blieb am Leben.",
+      "facts": [
+        { "text": "Das Volk beklagte sich über das Manna.", "ref": "4. Mose 21:5" },
+        { "text": "Giftige Schlangen kamen über das Volk.", "ref": "4. Mose 21:6" },
+        { "text": "Wer auf die Kupferschlange schaute, blieb am Leben.", "ref": "4. Mose 21:8, 9" },
+        { "text": "Jesus verglich sein Erhöhtwerden mit der Kupferschlange.", "ref": "Johannes 3:14, 15" }
+      ],
+      "significance": "", "persons": ["moses"], "refs": ["4. Mose 21:4-9", "Johannes 3:14, 15"],
+      "sources": [{ "title": "Kupferschlange – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001031" }]
+    },
+    {
+      "id": "bileam-und-balak", "title": "Bileam und Balak", "era": "aegypten", "year": -1473, "dateLabel": "um 1473 v. u. Z.", "place": "Ebenen Moabs",
+      "summary": "Der Moabiterkönig Balak fürchtete Israel und bot Bileam reichen Lohn, damit er das Volk verfluche. Unterwegs stellte sich Jehovas Engel Bileam in den Weg, und seine Eselin sprach durch ein Wunder. Statt Israel zu verfluchen, musste Bileam es segnen. Später verleitete man Israel jedoch zum Götzendienst des Baal von Peor; Pinehas beendete die darauf folgende Plage.",
+      "facts": [
+        { "text": "Balak bot Bileam einen „Wahrsagerlohn“.", "ref": "4. Mose 22:7" },
+        { "text": "Bileams Eselin sprach.", "ref": "4. Mose 22:28-30" },
+        { "text": "Bileam musste Israel segnen.", "ref": "4. Mose 24:10" },
+        { "text": "Bei Peor fiel Israel in Götzendienst; Pinehas griff ein.", "ref": "4. Mose 25:1-9" }
+      ],
+      "significance": "", "persons": ["bileam", "pinehas"], "refs": ["4. Mose 22:1–24:25", "4. Mose 25:1-9", "4. Mose 31:16"],
+      "sources": [
+        { "title": "Bileam – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000543" },
+        { "title": "Pinehas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003472" }
+      ]
+    },
+    {
+      "id": "tod-moses", "title": "Moses stirbt", "era": "aegypten", "year": -1473, "dateLabel": "1473 v. u. Z.", "place": "Berg Nebo (Moab)",
+      "summary": "Im Frühjahr 1473 v. u. Z. gab Moses bekannt, dass Josua nach Jehovas Anordnung sein Nachfolger werden sollte. Nachdem er das Volk ermahnt, ein Lied vorgetragen und Israel gesegnet hatte, stieg er auf den Nebo, um das Land der Verheißung zu sehen. Dort starb er mit 120 Jahren, noch im Vollbesitz seiner Kräfte.",
+      "facts": [
+        { "text": "Josua wurde als Nachfolger eingesetzt.", "ref": "5. Mose 31:7, 8" },
+        { "text": "Moses sah das Land vom Nebo aus.", "ref": "5. Mose 34:1-4" },
+        { "text": "Er starb mit 120 Jahren; seine Kraft war nicht geschwunden.", "ref": "5. Mose 34:7" },
+        { "text": "Niemand kennt sein Grab.", "ref": "5. Mose 34:6" }
+      ],
+      "significance": "", "persons": ["moses", "josua"], "refs": ["5. Mose 34:1-12"],
+      "sources": [{ "title": "Moses – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003118" }]
+    },
+    {
+      "id": "jordan-ueberquerung", "title": "Israel überquert den Jordan", "era": "richter", "year": -1473, "dateLabel": "1473 v. u. Z.", "place": "Jordan bei Jericho; Gilgal",
+      "summary": "Nach 40 Jahren in der Wildnis zog Israel unter Josua in das Land der Verheißung. Jehova staute durch ein Wunder den Jordan, sodass das Volk auf trockenem Boden hinüberziehen konnte. Zur Erinnerung stellte Josua zwölf Steine im Flussbett und zwölf bei Gilgal auf, Israels erstem Lagerplatz westlich des Jordan. Dort feierte das Volk das Passah.",
+      "facts": [
+        { "text": "Josua sandte zwei Kundschafter nach Jericho.", "ref": "Josua 2:1" },
+        { "text": "Das Wasser des Jordan staute sich.", "ref": "Josua 3:15-17" },
+        { "text": "Zwölf Gedenksteine wurden aufgestellt.", "ref": "Josua 4:1-9" },
+        { "text": "In Gilgal feierte Israel das Passah.", "ref": "Josua 5:10" }
+      ],
+      "significance": "Mit der Jordanüberquerung begann die Landnahme in Kanaan.", "persons": ["josua", "rahab"], "refs": ["Josua 3:1–4:24"],
+      "sources": [
+        { "title": "Josua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002523" },
+        { "title": "Chronologie – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000970" }
+      ]
+    },
+    {
+      "id": "fall-jerichos", "title": "Der Fall Jerichos", "era": "richter", "year": -1473, "dateLabel": "1473 v. u. Z.", "place": "Jericho",
+      "summary": "Jericho war die erste Stadt, die Israel im Land der Verheißung einnahm. Nach Gottes Anweisung zogen die Krieger sechs Tage lang täglich einmal um die Stadt, mit Priestern, die Hörner bliesen, und mit der Bundeslade. Am siebten Tag zogen sie siebenmal herum; beim letzten Hornsignal erhob das Volk ein Kriegsgeschrei, und die Mauern stürzten ein. Rahab und ihre Familie wurden verschont.",
+      "facts": [
+        { "text": "Ein Engelfürst gab Josua Anweisungen.", "ref": "Josua 5:13-15" },
+        { "text": "Sechs Tage lang einmal, am siebten Tag siebenmal um die Stadt.", "ref": "Josua 6:3, 4" },
+        { "text": "Die Mauern stürzten ein.", "ref": "Josua 6:20" },
+        { "text": "Rahab und ihre Familie wurden gerettet.", "ref": "Josua 6:22-25" },
+        { "text": "Achan nahm verbotene Beute und brachte Unglück über Israel.", "ref": "Josua 7:1" }
+      ],
+      "significance": "", "persons": ["josua", "rahab", "achan"], "refs": ["Josua 6:1-27", "Hebräer 11:30, 31"],
+      "sources": [
+        { "title": "Jericho – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002426" },
+        { "title": "Josua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002523" }
+      ]
+    },
+    {
+      "id": "sonne-steht-still", "title": "Die Sonne steht still", "era": "richter", "year": -1472, "dateLabel": "Während der Eroberung Kanaans", "place": "Gibeon; Tal Ajalon",
+      "summary": "Die Bewohner von Gibeon hatten sich durch eine List einen Bund mit Israel erschlichen, den Israel trotzdem hielt. Als fünf Amoriterkönige Gibeon angriffen, kam Josua der Stadt zu Hilfe. Jehova ließ große Hagelsteine auf die Feinde fallen, und auf Josuas Bitte hin standen Sonne und Mond still, bis Israel den Sieg errungen hatte.",
+      "facts": [
+        { "text": "Die Gibeoniter erschlichen sich durch eine List einen Bund.", "ref": "Josua 9:3-15" },
+        { "text": "Israel hielt den Bund trotzdem.", "ref": "Josua 9:19-21" },
+        { "text": "Jehova ließ Hagelsteine auf die Feinde fallen.", "ref": "Josua 10:11" },
+        { "text": "Sonne und Mond standen still.", "ref": "Josua 10:12-14" }
+      ],
+      "significance": "", "persons": ["josua"], "refs": ["Josua 9:3-27", "Josua 10:1-14"],
+      "sources": [
+        { "title": "Gibeon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200001682" },
+        { "title": "Sonne – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004260" }
+      ]
+    },
+    {
+      "id": "landverteilung", "title": "Das Land wird verteilt", "era": "richter", "year": -1467, "dateLabel": "um 1467 v. u. Z.", "place": "Gilgal; Silo",
+      "summary": "Nachdem Israel große Teile des Landes eingenommen hatte, wurde es durch Lose unter die Stämme verteilt – zuerst von Gilgal aus, später von Silo, wo die Stiftshütte aufgestellt worden war. Kaleb erhielt mit 85 Jahren das Gebiet um Hebron. Josua selbst bekam die Stadt Timnath-Serach im Bergland Ephraim.",
+      "facts": [
+        { "text": "Die Verteilung geschah durch Lose.", "ref": "Josua 14:1, 2" },
+        { "text": "Kaleb erbat sich Hebron.", "ref": "Josua 14:6-14" },
+        { "text": "In Silo wurde die Stiftshütte aufgestellt.", "ref": "Josua 18:1" },
+        { "text": "Josua erhielt Timnath-Serach.", "ref": "Josua 19:49, 50" }
+      ],
+      "significance": "", "persons": ["josua", "kaleb"], "refs": ["Josua 13:1–21:45"],
+      "sources": [
+        { "title": "Josua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002523" },
+        { "title": "Kaleb – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000863" }
+      ]
+    },
+    {
+      "id": "tod-josuas", "title": "Josua stirbt", "era": "richter", "year": -1450, "dateLabel": "Nach der Landverteilung", "place": "Timnath-Serach",
+      "summary": "Vor seinem Tod versammelte Josua das Volk und ermahnte es, Jehova von ganzem Herzen zu dienen – er selbst und seine Hausgemeinschaft würden Jehova dienen. Das Volk erneuerte seinen Bund mit Gott. Josua starb mit 110 Jahren. Solange er und die älteren Männer seiner Generation lebten, diente Israel Jehova.",
+      "facts": [
+        { "text": "Josua stellte das Volk vor die Wahl, wem es dienen wollte.", "ref": "Josua 24:14, 15" },
+        { "text": "Das Volk versprach, Jehova zu gehorchen.", "ref": "Josua 24:16-24" },
+        { "text": "Josua starb mit 110 Jahren.", "ref": "Josua 24:29" },
+        { "text": "Israel diente Jehova alle Tage Josuas.", "ref": "Josua 24:31" }
+      ],
+      "significance": "", "persons": ["josua"], "refs": ["Josua 23:1–24:31"],
+      "sources": [{ "title": "Josua – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002523" }]
+    }
+  ]
+}

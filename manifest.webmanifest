@@ -1,0 +1,16 @@
+{
+  "name": "Bibel-Übersicht",
+  "short_name": "Bibel",
+  "description": "Biblische Personen und Ereignisse mit Zeitleiste und Suche – Zusammenfassungen nach jw.org.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f9f9fb",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

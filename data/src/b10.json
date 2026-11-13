@@ -1,0 +1,467 @@
+{
+  "batch": "b10",
+  "persons": [
+    {
+      "id": "petrus", "name": "Petrus", "altNames": ["Simon Petrus", "Simon", "Simeon", "Kephas"], "sex": "m", "tags": ["apostel", "schreiber"],
+      "role": "Apostel Jesu", "eras": ["jesus", "versammlung"], "dates": [], "year": 29, "nameMeaning": "„Felsstück“",
+      "summary": "Petrus, Sohn des Johannes (Jonas), stammte aus Bethsaida, wohnte später in Kapernaum und war an einem ansehnlichen Fischereiunternehmen beteiligt. Andreas brachte ihn zu Jesus, der ihm den Namen Kephas (Petrus) gab. Er bekannte Jesus als den Christus, verleugnete ihn aber in der Nacht seiner Festnahme dreimal. Zu Pfingsten 33 u. Z. war er der Sprecher der Apostel, und 36 u. Z. predigte er Kornelius – so öffnete er Juden, Samaritern und Nichtjuden den Weg ins Königreich. Er schrieb zwei Briefe.",
+      "facts": [
+        { "text": "Er war verheiratet; seine Schwiegermutter lebte in seinem Haus.", "ref": "Markus 1:29-31" },
+        { "text": "Er bekannte: „Du bist der Christus, der Sohn des lebendigen Gottes.“", "ref": "Matthäus 16:16" },
+        { "text": "Er verleugnete Jesus dreimal und weinte bitterlich.", "ref": "Matthäus 26:69-75" },
+        { "text": "Zu Pfingsten war er der Sprecher der Apostel.", "ref": "Apostelgeschichte 2:14-41" },
+        { "text": "Er predigte Kornelius, dem ersten unbeschnittenen Gläubigen.", "ref": "Apostelgeschichte 10:34-48" }
+      ],
+      "lesson": "",
+      "family": { "father": "Johannes (Jonas)", "mother": "", "spouses": [], "children": [], "siblings": ["andreas"] },
+      "related": ["johannes-apostel", "jakobus-zebedaeus", "kornelius"],
+      "events": ["erste-juenger", "wahl-der-apostel", "jesus-geht-auf-dem-wasser", "umgestaltung", "gethsemane", "pfingsten-33", "kornelius-getauft", "petrus-befreit", "beschneidungsfrage"],
+      "books": ["1. Petrus", "2. Petrus"],
+      "refs": ["Johannes 1:40-42", "Matthäus 16:13-19", "Lukas 22:31, 32", "Apostelgeschichte 2:14-41"],
+      "sources": [{ "title": "Petrus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003451" }]
+    },
+    {
+      "id": "andreas", "name": "Andreas", "altNames": [], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel, Bruder des Petrus", "eras": ["jesus"], "dates": [], "year": 29, "nameMeaning": "„Mannhaft“ (wahrscheinlich)",
+      "summary": "Andreas, der Bruder von Simon Petrus, stammte aus Bethsaida und lebte später mit Simon in Kapernaum, wo beide als Fischer arbeiteten. Er war zuerst ein Jünger Johannes’ des Täufers. Im Herbst 29 u. Z. hörte er, wie Johannes Jesus als „das Lamm Gottes“ vorstellte, folgte Jesus und brachte seinen Bruder zu ihm. Später wurde er einer der zwölf Apostel.",
+      "facts": [
+        { "text": "Er war ein Jünger Johannes’ des Täufers.", "ref": "Johannes 1:35, 40" },
+        { "text": "Er sagte zu Simon: „Wir haben den Messias gefunden.“", "ref": "Johannes 1:41" },
+        { "text": "Jesus berief ihn, ein „Menschenfischer“ zu werden.", "ref": "Markus 1:16, 17" },
+        { "text": "Er wies auf den Jungen mit fünf Broten und zwei Fischen hin.", "ref": "Johannes 6:8, 9" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jona (Johannes)", "mother": "", "spouses": [], "children": [], "siblings": ["petrus"] },
+      "related": ["johannes-der-taeufer"], "events": ["erste-juenger", "wahl-der-apostel", "speisung-der-5000"], "books": [],
+      "refs": ["Johannes 1:35-42", "Matthäus 4:18-20"],
+      "sources": [{ "title": "Andreas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000273" }]
+    },
+    {
+      "id": "jakobus-zebedaeus", "name": "Jakobus", "altNames": ["Jakobus, Sohn des Zebedäus"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel, Sohn des Zebedäus", "eras": ["jesus", "versammlung"], "dates": [{ "label": "Gestorben", "value": "sehr wahrscheinlich 44 u. Z." }], "year": 29,
+      "nameMeaning": "Form von Jakob: „Einer, der die Ferse ergreift“",
+      "summary": "Jakobus, der Sohn des Zebedäus und Bruder des Apostels Johannes, arbeitete im Fischereibetrieb seines Vaters, als Jesus ihn berief. Seine Mutter war vermutlich Salome. Mit Petrus und Johannes gehörte er zu den drei Aposteln, die Jesus bei besonderen Anlässen mitnahm. Sehr wahrscheinlich 44 u. Z. ließ Herodes Agrippa I. ihn mit dem Schwert hinrichten – er war der erste der zwölf Apostel, der als Märtyrer starb.",
+      "facts": [
+        { "text": "Er verließ das Boot seines Vaters, um Jesus zu folgen.", "ref": "Matthäus 4:21, 22" },
+        { "text": "Jesus nannte ihn und Johannes „Söhne des Donners“.", "ref": "Markus 3:17" },
+        { "text": "Er erlebte die Umgestaltung Jesu mit.", "ref": "Matthäus 17:1, 2" },
+        { "text": "Herodes ließ ihn mit dem Schwert töten.", "ref": "Apostelgeschichte 12:1, 2" }
+      ],
+      "lesson": "",
+      "family": { "father": "Zebedäus", "mother": "Salome", "spouses": [], "children": [], "siblings": ["johannes-apostel"] },
+      "related": ["petrus"], "events": ["wahl-der-apostel", "umgestaltung", "petrus-befreit"], "books": [],
+      "refs": ["Matthäus 4:21, 22", "Markus 3:17", "Apostelgeschichte 12:1, 2"],
+      "sources": [{ "title": "Jakobus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002313" }]
+    },
+    {
+      "id": "johannes-apostel", "name": "Johannes", "altNames": ["Johannes, der Apostel", "Johannes, Sohn des Zebedäus"], "sex": "m", "tags": ["apostel", "schreiber"],
+      "role": "Apostel, Sohn des Zebedäus", "eras": ["jesus", "versammlung"], "dates": [{ "label": "Gestorben", "value": "um 100 u. Z." }], "year": 29,
+      "nameMeaning": "„Jehova hat Gunst erwiesen“",
+      "summary": "Johannes, der Sohn des Zebedäus und Bruder des Jakobus, war einer der zwölf Apostel und gehörte mit Petrus und Jakobus zu Jesu engsten Gefährten. Beim letzten Passah saß er neben Jesus, und Jesus vertraute ihm vom Marterpfahl aus seine Mutter an. Um 96 u. Z. schrieb er in der Verbannung auf Patmos die Offenbarung; danach schrieb er von Ephesus aus sein Evangelium und drei Briefe. Er starb um 100 u. Z. als letzter der Apostel.",
+      "facts": [
+        { "text": "Jesus nannte ihn und Jakobus „Söhne des Donners“.", "ref": "Markus 3:17" },
+        { "text": "Beim letzten Passah lag er neben Jesus.", "ref": "Johannes 13:23" },
+        { "text": "Jesus vertraute ihm seine Mutter an.", "ref": "Johannes 19:26, 27" },
+        { "text": "Auf Patmos erhielt er die Offenbarung.", "ref": "Offenbarung 1:9" }
+      ],
+      "lesson": "",
+      "family": { "father": "Zebedäus", "mother": "Salome", "spouses": [], "children": [], "siblings": ["jakobus-zebedaeus"] },
+      "related": ["petrus", "jesus", "maria"],
+      "events": ["erste-juenger", "wahl-der-apostel", "umgestaltung", "abendmahl-des-herrn", "tod-jesu", "pfingsten-33", "offenbarung-auf-patmos", "abschluss-der-bibel"],
+      "books": ["Johannes", "1. Johannes", "2. Johannes", "3. Johannes", "Offenbarung"],
+      "refs": ["Johannes 13:23", "Johannes 19:26, 27", "Johannes 21:20-24", "Offenbarung 1:1, 9"],
+      "sources": [
+        { "title": "Johannes – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002489" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "philippus-apostel", "name": "Philippus", "altNames": ["Philippus, der Apostel"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel aus Bethsaida", "eras": ["jesus"], "dates": [], "year": 29, "nameMeaning": "„Pferdefreund“",
+      "summary": "Philippus stammte wie Petrus und Andreas aus Bethsaida und war einer der ersten Jünger. Als Jesus ihn aufforderte: „Folge mir nach“, tat er es und brachte gleich darauf Nathanael zu Jesus. Ausführlichere Angaben über ihn finden sich nur im Bericht des Johannes.",
+      "facts": [
+        { "text": "Jesus sagte zu ihm: „Folge mir nach.“", "ref": "Johannes 1:43" },
+        { "text": "Er sagte zu Nathanael: „Wir haben den gefunden, von dem Moses schrieb.“", "ref": "Johannes 1:45" },
+        { "text": "Jesus prüfte ihn vor der Speisung der 5000.", "ref": "Johannes 6:5-7" },
+        { "text": "Er bat Jesus: „Zeig uns den Vater.“", "ref": "Johannes 14:8, 9" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["bartholomaeus"], "events": ["erste-juenger", "wahl-der-apostel", "speisung-der-5000"], "books": [],
+      "refs": ["Johannes 1:43-46", "Johannes 6:5-7", "Johannes 14:8-11"],
+      "sources": [{ "title": "Philippus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003466" }]
+    },
+    {
+      "id": "bartholomaeus", "name": "Bartholomäus", "altNames": ["Nathanael"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel (Nathanael)", "eras": ["jesus"], "dates": [], "year": 29, "nameMeaning": "„Sohn des Tolmai“",
+      "summary": "Bartholomäus war einer der zwölf Apostel und wird allgemein mit Nathanael gleichgesetzt: Matthäus und Lukas nennen ihn zusammen mit Philippus, so wie Johannes Nathanael zusammen mit Philippus nennt. Philippus brachte ihn zu Jesus, und Nathanael erkannte Jesus als Sohn Gottes und König Israels.",
+      "facts": [
+        { "text": "Jesus nannte ihn einen Israeliten ohne Trug.", "ref": "Johannes 1:47" },
+        { "text": "„Du bist der Sohn Gottes, du bist König von Israel.“", "ref": "Johannes 1:49" },
+        { "text": "Er steht in den Apostellisten neben Philippus.", "ref": "Matthäus 10:3" }
+      ],
+      "lesson": "",
+      "family": { "father": "Tolmai", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["philippus-apostel"], "events": ["erste-juenger", "wahl-der-apostel"], "books": [],
+      "refs": ["Johannes 1:45-51", "Lukas 6:14"],
+      "sources": [{ "title": "Bartholomäus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000569" }]
+    },
+    {
+      "id": "thomas", "name": "Thomas", "altNames": ["Didymus"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel, „der Zwilling“", "eras": ["jesus"], "dates": [], "year": 29, "nameMeaning": "„Zwilling“ (aus dem Aramäischen)",
+      "summary": "Thomas, auch Didymus („Zwilling“) genannt, war ein Apostel, der seine Empfindungen und Zweifel spontan äußerte. Als Jesus nach Judäa zurückkehren wollte, sagte er mutig: „Lasst auch uns gehen, um mit ihm zu sterben.“ Nach der Auferweckung Jesu zweifelte er zunächst, doch als Jesus ihm erschien, rief er: „Mein Herr und mein Gott!“",
+      "facts": [
+        { "text": "„Lasst auch uns gehen, um mit ihm zu sterben.“", "ref": "Johannes 11:16" },
+        { "text": "Er äußerte Zweifel, als Jesus von dem Weg zum Vater sprach.", "ref": "Johannes 14:5" },
+        { "text": "Er wollte die Nägelmale sehen, bevor er glaubte.", "ref": "Johannes 20:24, 25" },
+        { "text": "Er rief: „Mein Herr und mein Gott!“", "ref": "Johannes 20:28" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["wahl-der-apostel", "auferweckung-jesu"], "books": [],
+      "refs": ["Johannes 11:16", "Johannes 20:24-29"],
+      "sources": [{ "title": "Thomas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004385" }]
+    },
+    {
+      "id": "matthaeus", "name": "Matthäus", "altNames": ["Levi"], "sex": "m", "tags": ["apostel", "schreiber"],
+      "role": "Apostel und Evangelienschreiber", "eras": ["jesus", "versammlung"], "dates": [], "year": 30,
+      "nameMeaning": "„Gabe Jehovas“ (wahrscheinlich)",
+      "summary": "Matthäus, auch Levi genannt, ein Sohn des Alphäus, war Steuereinnehmer in oder bei Kapernaum. Zu Beginn des galiläischen Dienstes Jesu (30 oder Anfang 31 u. Z.) rief Jesus ihn vom Steuerbüro weg; Matthäus ließ alles zurück und folgte ihm. Er wurde einer der zwölf Apostel und schrieb das nach ihm benannte Evangelium, wahrscheinlich als erstes der vier (um 41 u. Z.).",
+      "facts": [
+        { "text": "Er „ließ alles zurück, stand auf und folgte ihm nach“.", "ref": "Lukas 5:27, 28" },
+        { "text": "Er gab ein großes Festmahl für Jesus.", "ref": "Lukas 5:29" },
+        { "text": "Er war Steuereinnehmer.", "ref": "Matthäus 10:3" },
+        { "text": "Sein Evangelium entstand um 41 u. Z.", "ref": "" }
+      ],
+      "lesson": "",
+      "family": { "father": "Alphäus", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["wahl-der-apostel"], "books": ["Matthäus"],
+      "refs": ["Matthäus 9:9-13", "Markus 2:13-17", "Lukas 5:27-32"],
+      "sources": [
+        { "title": "Matthäus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002938" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "jakobus-alphaeus", "name": "Jakobus", "altNames": ["Jakobus, Sohn des Alphäus", "Jakobus der Geringere"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel, Sohn des Alphäus", "eras": ["jesus"], "dates": [], "year": 31,
+      "nameMeaning": "Form von Jakob",
+      "summary": "Jakobus, der Sohn des Alphäus, war ein weiterer Apostel Jesu dieses Namens. Möglicherweise war Alphäus mit Klopas identisch; dann wäre seine Mutter jene Maria, die „die Mutter Jakobus’ des Geringeren“ genannt wird. Vielleicht hieß er „der Geringere“, weil er kleiner oder jünger war als Jakobus, der Sohn des Zebedäus.",
+      "facts": [
+        { "text": "Er steht in allen Apostellisten.", "ref": "Matthäus 10:3" },
+        { "text": "Er war nach Jesu Himmelfahrt mit den anderen Aposteln zusammen.", "ref": "Apostelgeschichte 1:13" },
+        { "text": "Eine Maria wird „Mutter Jakobus’ des Geringeren“ genannt.", "ref": "Markus 15:40" }
+      ],
+      "lesson": "",
+      "family": { "father": "Alphäus", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["wahl-der-apostel"], "books": [],
+      "refs": ["Matthäus 10:3", "Apostelgeschichte 1:13"],
+      "sources": [{ "title": "Jakobus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002313" }]
+    },
+    {
+      "id": "thaddaeus", "name": "Thaddäus", "altNames": ["Judas, Sohn des Jakobus"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel (Judas, Sohn des Jakobus)", "eras": ["jesus"], "dates": [], "year": 31, "nameMeaning": "",
+      "summary": "Thaddäus ist einer der zwölf Apostel. In den Apostellisten bei Lukas und in der Apostelgeschichte steht an seiner Stelle „Judas, der Sohn des Jakobus“; Thaddäus ist also offenbar ein anderer Name für diesen Apostel.",
+      "facts": [
+        { "text": "Matthäus und Markus nennen ihn Thaddäus.", "ref": "Markus 3:18" },
+        { "text": "Lukas nennt ihn „Judas, der Sohn des Jakobus“.", "ref": "Lukas 6:16" },
+        { "text": "Anscheinend ist er der „Judas (nicht Iskariot)“, der Jesus beim letzten Abendmahl eine Frage stellte.", "ref": "Johannes 14:22" }
+      ],
+      "lesson": "",
+      "family": { "father": "Jakobus", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["wahl-der-apostel"], "books": [],
+      "refs": ["Matthäus 10:3", "Lukas 6:16", "Johannes 14:22"],
+      "sources": [
+        { "title": "Thaddäus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004374" },
+        { "title": "Judas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002541" }
+      ]
+    },
+    {
+      "id": "simon-kananaeer", "name": "Simon der Kananäer", "altNames": ["Simon", "Simon der Eiferer", "Simon der Zelot"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel", "eras": ["jesus"], "dates": [], "year": 31, "nameMeaning": "",
+      "summary": "Simon wird durch den Beinamen „der Kananäer“ von Simon Petrus unterschieden. Möglicherweise gehörte er zuvor den Zeloten an, einer römerfeindlichen jüdischen Partei; es kann aber auch sein, dass er wegen seines religiösen Eifers „der Eiferer“ genannt wurde.",
+      "facts": [
+        { "text": "Er heißt „der Kananäer“.", "ref": "Matthäus 10:4" },
+        { "text": "Lukas nennt ihn „der Eiferer“.", "ref": "Lukas 6:15" },
+        { "text": "Er war nach der Himmelfahrt bei den Aposteln.", "ref": "Apostelgeschichte 1:13" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": [], "events": ["wahl-der-apostel"], "books": [],
+      "refs": ["Matthäus 10:4", "Lukas 6:15", "Apostelgeschichte 1:13"],
+      "sources": [{ "title": "Simon – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004131" }]
+    },
+    {
+      "id": "judas-iskariot", "name": "Judas Iskariot", "altNames": ["Judas"], "sex": "m", "tags": ["apostel"],
+      "role": "Apostel, der Jesus verriet", "eras": ["jesus"], "dates": [], "year": 31, "nameMeaning": "",
+      "summary": "Judas Iskariot, der Sohn Simons, war der Apostel, der Jesus verriet. Sein Beiname lässt vermuten, dass er aus der judäischen Stadt Kerijoth-Hezron stammte – dann wäre er der einzige Judäer unter den Aposteln gewesen. Man hatte ihm die Kasse anvertraut, doch er war ein habgieriger Dieb. Für 30 Silberstücke verriet er Jesus an die Oberpriester. Danach erhängte er sich.",
+      "facts": [
+        { "text": "Er wurde 31 u. Z. als Apostel ausgewählt.", "ref": "Lukas 6:16" },
+        { "text": "Er war ein Dieb und stahl aus der Kasse.", "ref": "Johannes 12:4-6" },
+        { "text": "Er verriet Jesus für 30 Silberstücke.", "ref": "Matthäus 26:14-16" },
+        { "text": "Er erhängte sich.", "ref": "Matthäus 27:3-5" }
+      ],
+      "lesson": "",
+      "family": { "father": "Simon Iskariot", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["matthias"], "events": ["wahl-der-apostel", "abendmahl-des-herrn", "gethsemane"], "books": [],
+      "refs": ["Matthäus 26:14-16", "Matthäus 26:47-50", "Johannes 12:4-6", "Apostelgeschichte 1:16-20"],
+      "sources": [{ "title": "Judas – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002541" }]
+    },
+    {
+      "id": "matthias", "name": "Matthias", "altNames": [], "sex": "m", "tags": ["apostel"],
+      "role": "Nachfolger von Judas Iskariot", "eras": ["versammlung"], "dates": [{ "label": "Zeit", "value": "33 u. Z. ausgewählt" }], "year": 33,
+      "nameMeaning": "„Gabe Jehovas“ (wahrscheinlich)",
+      "summary": "Matthias wurde durch das Los dazu bestimmt, Judas Iskariot als Apostel zu ersetzen. Nach Jesu Himmelfahrt schlug Petrus den etwa 120 versammelten Jüngern vor, das Amt neu zu besetzen, wie David es vorhergesagt hatte. Zur Wahl standen Joseph Barsabbas und Matthias; nach einem Gebet fiel das Los auf Matthias – nur wenige Tage vor Pfingsten.",
+      "facts": [
+        { "text": "Petrus verwies auf Psalm 109:8: „Sein Aufsichtsamt übernehme ein anderer.“", "ref": "Apostelgeschichte 1:20" },
+        { "text": "Das Los fiel auf Matthias.", "ref": "Apostelgeschichte 1:26" },
+        { "text": "Es ist der letzte in der Bibel erwähnte Gebrauch von Losen.", "ref": "" }
+      ],
+      "lesson": "",
+      "family": { "father": "", "mother": "", "spouses": [], "children": [], "siblings": [] },
+      "related": ["petrus", "judas-iskariot"], "events": ["pfingsten-33"], "books": [],
+      "refs": ["Apostelgeschichte 1:15-26"],
+      "sources": [{ "title": "Matthias – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002940" }]
+    }
+  ],
+  "events": [
+    {
+      "id": "pfingsten-33", "title": "Pfingsten 33 u. Z.", "era": "versammlung", "year": 33, "dateLabel": "Pfingsten 33 u. Z.", "place": "Jerusalem, Obersaal",
+      "summary": "Am Pfingsttag goss Jesus heiligen Geist auf etwa 120 Jünger aus, die in einem Obersaal in Jerusalem versammelt waren. Sie redeten durch ein Wunder in verschiedenen Sprachen, sodass Juden und Proselyten aus dem ganzen Römischen Reich die gute Botschaft in ihrer Sprache hörten. Petrus hielt eine Rede, und etwa 3000 ließen sich taufen. So entstand die Christenversammlung.",
+      "facts": [
+        { "text": "Etwa 120 Jünger waren versammelt.", "ref": "Apostelgeschichte 1:15" },
+        { "text": "Sie redeten in fremden Sprachen.", "ref": "Apostelgeschichte 2:4-11" },
+        { "text": "Petrus zitierte die Prophezeiung Joels.", "ref": "Apostelgeschichte 2:16-21" },
+        { "text": "Etwa 3000 wurden getauft.", "ref": "Apostelgeschichte 2:41" }
+      ],
+      "significance": "Mit Pfingsten 33 u. Z. begann die Christenversammlung.", "persons": ["petrus", "matthias", "johannes-apostel", "maria"], "refs": ["Apostelgeschichte 2:1-47"],
+      "sources": [
+        { "title": "Pfingsten – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003431" },
+        { "title": "B13 Die Ausbreitung des Christentums – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070234" }
+      ]
+    },
+    {
+      "id": "stephanus-gesteinigt", "title": "Stephanus wird gesteinigt", "era": "versammlung", "year": 34, "dateLabel": "Vor der Bekehrung des Saulus", "place": "Jerusalem",
+      "summary": "Stephanus, einer der sieben Männer, die für die Verteilung von Lebensmitteln eingesetzt worden waren, predigte mutig. Gegner beschuldigten ihn mit falschen Zeugen der Lästerung vor dem Sanhedrin. In seiner Verteidigung schilderte er Gottes Handeln mit Israel und warf den Führern vor, den Gerechten getötet zu haben. Daraufhin wurde er gesteinigt – Saulus war damit einverstanden.",
+      "facts": [
+        { "text": "Falsche Zeugen traten gegen ihn auf.", "ref": "Apostelgeschichte 6:11-13" },
+        { "text": "Er sah Jesus zur Rechten Gottes.", "ref": "Apostelgeschichte 7:55, 56" },
+        { "text": "Er betete: „Jehova, rechne ihnen diese Sünde nicht zu!“", "ref": "Apostelgeschichte 7:60" },
+        { "text": "Danach begann eine große Verfolgung.", "ref": "Apostelgeschichte 8:1" }
+      ],
+      "significance": "", "persons": ["stephanus", "paulus"], "refs": ["Apostelgeschichte 6:8–8:2"],
+      "sources": [{ "title": "Stephanus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200004230" }]
+    },
+    {
+      "id": "philippus-und-der-aethiopier", "title": "Philippus und der äthiopische Eunuch", "era": "versammlung", "year": 34, "dateLabel": "Nach dem Tod des Stephanus", "place": "Samaria; Straße nach Gasa",
+      "summary": "Als die Jünger nach dem Tod des Stephanus zerstreut wurden, predigte Philippus, der Evangeliumsverkündiger, in Samaria; viele ließen sich taufen. Dann führte ihn ein Engel an die Straße nach Gasa. Dort las ein äthiopischer Eunuch, ein Hofbeamter der Königin von Äthiopien, aus Jesaja. Philippus erklärte ihm die Prophezeiung über Jesus, und der Eunuch ließ sich sogleich taufen.",
+      "facts": [
+        { "text": "Philippus verkündete in Samaria den Christus.", "ref": "Apostelgeschichte 8:5-8" },
+        { "text": "Petrus und Johannes kamen nach Samaria.", "ref": "Apostelgeschichte 8:14-17" },
+        { "text": "Der Eunuch las Jesaja 53.", "ref": "Apostelgeschichte 8:32-35" },
+        { "text": "„Was hindert mich, getauft zu werden?“", "ref": "Apostelgeschichte 8:36-38" }
+      ],
+      "significance": "", "persons": ["philippus-evangelist", "petrus", "johannes-apostel"], "refs": ["Apostelgeschichte 8:4-40"],
+      "sources": [{ "title": "Philippus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003466" }]
+    },
+    {
+      "id": "bekehrung-des-saulus", "title": "Saulus wird Christ", "era": "versammlung", "year": 34, "dateLabel": "um 34 u. Z.", "place": "Weg nach Damaskus",
+      "summary": "Saulus von Tarsus verfolgte die Jünger erbittert und war mit einer Vollmacht auf dem Weg nach Damaskus, um Christen festzunehmen. In der Nähe der Stadt offenbarte sich ihm Jesus in einem hellen Licht und beauftragte ihn, sein Zeuge zu sein. Saulus erblindete und wurde nach Damaskus geführt. Drei Tage später heilte ihn der Jünger Ananias, und Saulus ließ sich taufen.",
+      "facts": [
+        { "text": "Er wollte Jünger gefesselt nach Jerusalem bringen.", "ref": "Apostelgeschichte 9:1, 2" },
+        { "text": "„Saul, Saul, warum verfolgst du mich?“", "ref": "Apostelgeschichte 9:4" },
+        { "text": "Ananias legte ihm die Hände auf.", "ref": "Apostelgeschichte 9:17, 18" },
+        { "text": "Er wurde ein „auserwähltes Gefäß“ für die Nationen.", "ref": "Apostelgeschichte 9:15" }
+      ],
+      "significance": "", "persons": ["paulus", "ananias-damaskus"], "refs": ["Apostelgeschichte 9:1-22", "Apostelgeschichte 26:12-18"],
+      "sources": [
+        { "title": "Paulus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003406" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "kornelius-getauft", "title": "Kornelius wird getauft", "era": "versammlung", "year": 36, "dateLabel": "36 u. Z.", "place": "Joppe; Cäsarea",
+      "summary": "Petrus sah in Joppe eine Vision, in der Gott ihm zeigte, dass er nichts unrein nennen soll, was Gott gereinigt hat. Danach reiste er nach Cäsarea zu dem römischen Offizier Kornelius und predigte ihm und seinen Angehörigen. Noch während Petrus sprach, kam heiliger Geist auf sie – die ersten unbeschnittenen Nichtjuden wurden Christen.",
+      "facts": [
+        { "text": "Ein Engel erschien Kornelius.", "ref": "Apostelgeschichte 10:3-6" },
+        { "text": "Petrus sah eine Vision von unreinen Tieren.", "ref": "Apostelgeschichte 10:9-16" },
+        { "text": "„Gott ist nicht parteiisch.“", "ref": "Apostelgeschichte 10:34, 35" },
+        { "text": "Der heilige Geist kam auf die Zuhörer.", "ref": "Apostelgeschichte 10:44-48" }
+      ],
+      "significance": "Mit 36 u. Z. endete die 70. Jahrwoche; ab jetzt wurde die gute Botschaft auch Nichtjuden gepredigt.", "persons": ["kornelius", "petrus"], "refs": ["Apostelgeschichte 10:1-48", "Apostelgeschichte 11:1-18"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Petrus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003451" }
+      ]
+    },
+    {
+      "id": "petrus-befreit", "title": "Jakobus wird hingerichtet, Petrus befreit", "era": "versammlung", "year": 44, "dateLabel": "44 u. Z.", "place": "Jerusalem; Cäsarea",
+      "summary": "König Herodes Agrippa I. ließ den Apostel Jakobus mit dem Schwert hinrichten. Weil das den Juden gefiel, nahm er zur Passahzeit auch Petrus fest. Die Versammlung betete inständig für ihn. In der Nacht vor dem Prozess befreite ein Engel Petrus auf wunderbare Weise aus dem Gefängnis. Kurz darauf starb Herodes in Cäsarea, von Gott geschlagen.",
+      "facts": [
+        { "text": "Jakobus wurde mit dem Schwert getötet.", "ref": "Apostelgeschichte 12:1, 2" },
+        { "text": "Die Versammlung betete für Petrus.", "ref": "Apostelgeschichte 12:5" },
+        { "text": "Ein Engel führte ihn hinaus.", "ref": "Apostelgeschichte 12:7-10" },
+        { "text": "Herodes starb kurz darauf.", "ref": "Apostelgeschichte 12:21-23" }
+      ],
+      "significance": "", "persons": ["jakobus-zebedaeus", "petrus", "herodes-agrippa-i"], "refs": ["Apostelgeschichte 12:1-24"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Jakobus – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002313" }
+      ]
+    },
+    {
+      "id": "erste-missionsreise", "title": "Die erste Missionsreise des Paulus", "era": "versammlung", "year": 47, "dateLabel": "um 47–48 u. Z.", "place": "Zypern; Kleinasien",
+      "summary": "Von Antiochia in Syrien aus wurden Paulus und Barnabas durch den heiligen Geist ausgesandt. Sie predigten auf Zypern und in vielen Städten Kleinasiens wie Antiochia in Pisidien, Ikonion, Lystra und Derbe. Sie stießen auf Widerstand – in Lystra wurde Paulus gesteinigt –, doch viele wurden Jünger. Danach kehrten sie nach Antiochia zurück.",
+      "facts": [
+        { "text": "Der heilige Geist sonderte sie aus.", "ref": "Apostelgeschichte 13:2-4" },
+        { "text": "In Antiochia wandten sie sich den Nationen zu.", "ref": "Apostelgeschichte 13:46-48" },
+        { "text": "Paulus wurde in Lystra gesteinigt.", "ref": "Apostelgeschichte 14:19, 20" },
+        { "text": "Sie ernannten ältere Männer in den Versammlungen.", "ref": "Apostelgeschichte 14:23" }
+      ],
+      "significance": "", "persons": ["paulus", "barnabas", "markus"], "refs": ["Apostelgeschichte 13:1–14:28"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "B13 Die Ausbreitung des Christentums – Studienbibel", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1001070234" }
+      ]
+    },
+    {
+      "id": "beschneidungsfrage", "title": "Die Beschneidungsfrage wird geklärt", "era": "versammlung", "year": 49, "dateLabel": "49 u. Z.", "place": "Jerusalem",
+      "summary": "Manche lehrten, Christen aus den Nationen müssten beschnitten werden und das Gesetz Moses halten. Paulus und Barnabas reisten deshalb nach Jerusalem zu den Aposteln und älteren Männern. Nach Berichten von Petrus, Paulus und Barnabas und einer Schlussfolgerung des Jakobus entschied man durch heiligen Geist: Nichtjüdische Christen müssen sich nicht beschneiden lassen, sollen sich aber von Götzenopfern, Blut, Ersticktem und Hurerei enthalten.",
+      "facts": [
+        { "text": "Die Frage wurde den Aposteln und älteren Männern vorgelegt.", "ref": "Apostelgeschichte 15:1, 2" },
+        { "text": "Jakobus zitierte die Propheten.", "ref": "Apostelgeschichte 15:13-18" },
+        { "text": "„Der heilige Geist und wir selbst haben es für gut befunden …“", "ref": "Apostelgeschichte 15:28, 29" },
+        { "text": "Der Brief brachte den Versammlungen Freude.", "ref": "Apostelgeschichte 15:30, 31" }
+      ],
+      "significance": "", "persons": ["paulus", "barnabas", "petrus", "jakobus-halbbruder-jesu", "silas", "titus"], "refs": ["Apostelgeschichte 15:1-35", "Galater 2:1-10"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Beschneidung – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000977" }
+      ]
+    },
+    {
+      "id": "zweite-missionsreise", "title": "Die zweite Missionsreise", "era": "versammlung", "year": 49, "dateLabel": "um 49–52 u. Z.", "place": "Kleinasien; Mazedonien; Griechenland",
+      "summary": "Spät im Sommer 49 u. Z. brach Paulus mit Silas von Antiochia auf; unterwegs schloss sich Timotheus an. Im Frühjahr 50 folgte Paulus dem Ruf des Mazedoniers und setzte nach Europa über. In Philippi, Thessalonich, Beröa und Athen predigte er und gründete Versammlungen. Im Herbst 50 kam er nach Korinth und blieb dort 18 Monate, bis zum Frühjahr 52 u. Z.",
+      "facts": [
+        { "text": "Er sah in einer Vision einen Mann aus Mazedonien.", "ref": "Apostelgeschichte 16:9, 10" },
+        { "text": "In Philippi wurde Lydia getauft.", "ref": "Apostelgeschichte 16:14, 15" },
+        { "text": "Paulus und Silas sangen im Gefängnis.", "ref": "Apostelgeschichte 16:25" },
+        { "text": "In Korinth blieb er anderthalb Jahre.", "ref": "Apostelgeschichte 18:11" }
+      ],
+      "significance": "", "persons": ["paulus", "silas", "timotheus", "lukas", "lydia", "aquila", "priszilla"], "refs": ["Apostelgeschichte 15:36–18:22"],
+      "sources": [{ "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }]
+    },
+    {
+      "id": "paulus-in-athen", "title": "Paulus auf dem Areopag", "era": "versammlung", "year": 50, "dateLabel": "um 50 u. Z.", "place": "Athen",
+      "summary": "In Athen war Paulus erregt über die vielen Götzen. Er sprach in der Synagoge und auf dem Marktplatz, und Philosophen brachten ihn zum Areopag. Dort knüpfte er an einen Altar „Einem unbekannten Gott“ an und erklärte, dass der Schöpfer nicht in von Händen gemachten Tempeln wohnt und alle Menschen zur Reue aufruft. Einige wurden gläubig, darunter Dionysius und eine Frau namens Damaris.",
+      "facts": [
+        { "text": "Die Stadt war voller Götzen.", "ref": "Apostelgeschichte 17:16" },
+        { "text": "Er erwähnte den Altar „Einem unbekannten Gott“.", "ref": "Apostelgeschichte 17:23" },
+        { "text": "„In ihm haben wir Leben und bewegen uns und existieren.“", "ref": "Apostelgeschichte 17:28" },
+        { "text": "Einige schlossen sich ihm an.", "ref": "Apostelgeschichte 17:34" }
+      ],
+      "significance": "", "persons": ["paulus"], "refs": ["Apostelgeschichte 17:16-34"],
+      "sources": [
+        { "title": "Areopag – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200000355" },
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }
+      ]
+    },
+    {
+      "id": "dritte-missionsreise", "title": "Die dritte Missionsreise", "era": "versammlung", "year": 52, "dateLabel": "um 52–56 u. Z.", "place": "Kleinasien (Ephesus); Mazedonien; Griechenland",
+      "summary": "Paulus reiste wieder nach Kleinasien und erreichte Ephesus im Winter 52/53. Dort lehrte er drei Monate in der Synagoge und dann zwei Jahre im Hörsaal des Tyrannus, sodass alle in der Provinz Asia das Wort hörten. Nach Pfingsten 55 zog er über Mazedonien nach Korinth, kehrte um und kam zu Pfingsten 56 u. Z. nach Jerusalem.",
+      "facts": [
+        { "text": "Er lehrte zwei Jahre im Hörsaal des Tyrannus.", "ref": "Apostelgeschichte 19:9, 10" },
+        { "text": "Der Silberschmied Demetrius zettelte einen Aufruhr an.", "ref": "Apostelgeschichte 19:23-29" },
+        { "text": "Er lehrte „öffentlich und von Haus zu Haus“.", "ref": "Apostelgeschichte 20:20" },
+        { "text": "In Troas fiel Eutychus aus dem Fenster und wurde auferweckt.", "ref": "Apostelgeschichte 20:9-12" }
+      ],
+      "significance": "", "persons": ["paulus", "timotheus", "aquila", "priszilla", "apollos"], "refs": ["Apostelgeschichte 18:23–21:17"],
+      "sources": [{ "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }]
+    },
+    {
+      "id": "paulus-verhaftet", "title": "Paulus wird in Jerusalem verhaftet", "era": "versammlung", "year": 56, "dateLabel": "56 u. Z.", "place": "Jerusalem; Cäsarea",
+      "summary": "Kurz nach seiner Ankunft in Jerusalem wurde Paulus im Tempel von einer aufgebrachten Menge angegriffen und von römischen Soldaten festgenommen. Weil Juden planten, ihn zu töten, brachte man ihn nach Cäsarea. Dort blieb er zwei Jahre in Haft, bis Festus Statthalter Felix ablöste. Vor Festus berief sich Paulus auf Cäsar und legte später auch vor König Agrippa Zeugnis ab.",
+      "facts": [
+        { "text": "Die Menge wollte ihn töten.", "ref": "Apostelgeschichte 21:30-32" },
+        { "text": "Der Herr sagte: „Du musst auch in Rom Zeugnis ablegen.“", "ref": "Apostelgeschichte 23:11" },
+        { "text": "Er war zwei Jahre in Cäsarea in Haft.", "ref": "Apostelgeschichte 24:27" },
+        { "text": "„Ich berufe mich auf Cäsar!“", "ref": "Apostelgeschichte 25:11" }
+      ],
+      "significance": "", "persons": ["paulus", "felix", "festus", "herodes-agrippa-ii"], "refs": ["Apostelgeschichte 21:27–26:32"],
+      "sources": [{ "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }]
+    },
+    {
+      "id": "schiffbruch", "title": "Reise nach Rom und Schiffbruch", "era": "versammlung", "year": 58, "dateLabel": "um 58–59 u. Z.", "place": "Mittelmeer; Malta",
+      "summary": "Vermutlich 58 u. Z. wurde Paulus als Gefangener nach Rom gebracht. Trotz seiner Warnung segelte das Schiff weiter und geriet in einen gewaltigen Sturm. Ein Engel versicherte Paulus, dass niemand umkommen würde. Das Schiff zerschellte vor Malta, doch alle 276 Personen erreichten das Land. Nach dem Winter auf Malta kam Paulus um 59 u. Z. in Rom an.",
+      "facts": [
+        { "text": "Paulus warnte vor der Weiterfahrt.", "ref": "Apostelgeschichte 27:9, 10" },
+        { "text": "Ein Engel ermutigte ihn.", "ref": "Apostelgeschichte 27:23, 24" },
+        { "text": "Alle 276 kamen sicher an Land.", "ref": "Apostelgeschichte 27:37, 44" },
+        { "text": "Eine Giftschlange schadete ihm auf Malta nicht.", "ref": "Apostelgeschichte 28:3-6" }
+      ],
+      "significance": "", "persons": ["paulus", "lukas"], "refs": ["Apostelgeschichte 27:1–28:16"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Malta – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002875" }
+      ]
+    },
+    {
+      "id": "paulus-in-rom", "title": "Paulus als Gefangener in Rom", "era": "versammlung", "year": 59, "dateLabel": "um 59–61 u. Z.", "place": "Rom",
+      "summary": "In Rom durfte Paulus unter Bewachung in einem gemieteten Haus wohnen. Zwei Jahre lang empfing er alle, die zu ihm kamen, predigte das Königreich Gottes und lehrte über Jesus „mit größtem Freimut, ungehindert“. In dieser Zeit schrieb er mehrere Briefe. Damit endet der Bericht der Apostelgeschichte.",
+      "facts": [
+        { "text": "Er wohnte zwei Jahre in einem gemieteten Haus.", "ref": "Apostelgeschichte 28:30" },
+        { "text": "Er predigte ungehindert das Königreich Gottes.", "ref": "Apostelgeschichte 28:31" },
+        { "text": "Er sprach mit den führenden Juden Roms.", "ref": "Apostelgeschichte 28:17-23" }
+      ],
+      "significance": "", "persons": ["paulus", "lukas", "timotheus", "epaphroditus", "onesimus"], "refs": ["Apostelgeschichte 28:16-31"],
+      "sources": [{ "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }]
+    },
+    {
+      "id": "tod-des-paulus", "title": "Paulus stirbt als Märtyrer", "era": "versammlung", "year": 65, "dateLabel": "um 65 u. Z.", "place": "Rom",
+      "summary": "Nach dem Ende der Apostelgeschichte wurde Paulus anscheinend freigelassen und setzte seine Missionstätigkeit fort, unter anderem auf Kreta und in Mazedonien. Nach dem großen Brand Roms im Juli 64 u. Z. begann Nero, Christen zu verfolgen. Paulus wurde erneut verhaftet, saß in Ketten und starb wahrscheinlich kurz danach, um 65 u. Z., als Märtyrer.",
+      "facts": [
+        { "text": "In seinem letzten Brief schrieb er: „Ich habe den vortrefflichen Kampf gekämpft.“", "ref": "2. Timotheus 4:6-8" },
+        { "text": "Er war in Ketten.", "ref": "2. Timotheus 1:16" },
+        { "text": "Lukas war bei ihm.", "ref": "2. Timotheus 4:11" }
+      ],
+      "significance": "", "persons": ["paulus", "lukas", "timotheus"], "refs": ["2. Timotheus 4:6-18"],
+      "sources": [{ "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }]
+    },
+    {
+      "id": "zerstoerung-jerusalems-70", "title": "Rom zerstört Jerusalem", "era": "versammlung", "year": 70, "dateLabel": "70 u. Z.", "place": "Jerusalem",
+      "summary": "Im Jahr 70 u. Z. kehrten die römischen Truppen unter dem Feldherrn Titus zurück und belagerten Jerusalem, das mit Besuchern des Passahfestes überfüllt war. Die Römer schütteten Belagerungswälle auf und schlossen die Stadt mit einem Pfahlwall ein. Die Hungersnot wurde furchtbar; Titus’ Friedensangebote wurden abgelehnt. Schließlich wurden Stadt und Tempel zerstört – wie Jesus vorhergesagt hatte.",
+      "facts": [
+        { "text": "Jesus hatte die Zerstörung der Stadt angekündigt.", "ref": "Lukas 19:43, 44" },
+        { "text": "Er hatte seinen Jüngern gesagt, wann sie fliehen sollten.", "ref": "Lukas 21:20-22" },
+        { "text": "Vom Tempel sollte kein Stein auf dem anderen bleiben.", "ref": "Matthäus 24:1, 2" }
+      ],
+      "significance": "", "persons": [], "refs": ["Lukas 19:41-44", "Lukas 21:20-24", "Matthäus 24:1, 2"],
+      "sources": [{ "title": "Jerusalem – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200002436" }]
+    },
+    {
+      "id": "offenbarung-auf-patmos", "title": "Johannes erhält die Offenbarung", "era": "versammlung", "year": 96, "dateLabel": "um 96 u. Z.", "place": "Insel Patmos",
+      "summary": "Gegen Ende der von Kaiser Domitian eingeleiteten Verfolgung war der betagte Apostel Johannes auf die Insel Patmos verbannt. Dort empfing er durch Jesus Christus eine Reihe von Visionen und schrieb sie nieder – das Buch Offenbarung. Es enthält Botschaften an sieben Versammlungen und zeigt, wie Gottes Königreich alle Feinde besiegt und eine neue Erde schafft.",
+      "facts": [
+        { "text": "Johannes war „um des Wortes Gottes willen“ auf Patmos.", "ref": "Offenbarung 1:9" },
+        { "text": "Die Offenbarung kommt von Gott durch Jesus Christus.", "ref": "Offenbarung 1:1" },
+        { "text": "Gott wird jede Träne abwischen, und der Tod wird nicht mehr sein.", "ref": "Offenbarung 21:3, 4" }
+      ],
+      "significance": "", "persons": ["johannes-apostel"], "refs": ["Offenbarung 1:1-11", "Offenbarung 21:1-5"],
+      "sources": [
+        { "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" },
+        { "title": "Patmos – Einsichten über die Heilige Schrift", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1200003403" }
+      ]
+    },
+    {
+      "id": "abschluss-der-bibel", "title": "Die Bibel wird vollendet", "era": "versammlung", "year": 98, "dateLabel": "um 98 u. Z.", "place": "Ephesus (oder Umgebung)",
+      "summary": "Nach seiner Freilassung schrieb der Apostel Johannes von Ephesus oder dessen Umgebung aus sein Evangelium und drei Briefe. Damit war die Bibel vollständig: 66 Bücher, geschrieben über rund 1600 Jahre. Um das Jahr 100 u. Z. starb Johannes als letzter der Apostel.",
+      "facts": [
+        { "text": "Das Johannesevangelium entstand um 98 u. Z.", "ref": "Johannes 20:30, 31" },
+        { "text": "Johannes schrieb auch drei Briefe.", "ref": "1. Johannes 1:1-4" },
+        { "text": "Er starb um 100 u. Z. als letzter Apostel.", "ref": "" }
+      ],
+      "significance": "", "persons": ["johannes-apostel"], "refs": ["Johannes 21:24, 25", "2. Timotheus 3:16, 17"],
+      "sources": [{ "title": "Studie 3 – Ereignisse in den Strom der Zeit einordnen", "url": "https://wol.jw.org/de/wol/d/r10/lp-x/1101990130" }]
+    }
+  ]
+}
